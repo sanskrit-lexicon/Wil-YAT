@@ -1,0 +1,974 @@
+case 001: aMSuvARa:130,132 =vb aMSubARa:126,126
+data/wil.txt
+000129 old .{#aMSuvARa#}¦ m. ({#-RaH#}) The sun.
+000130 old .E. {#aMSu#} and {#vARa#} an arrow.
+000131 old 
+
+data/yat.txt
+000125 old <HI>{#aMSu.bARa (RaH)#}¦ 1. {%m.%} The sun.
+
+------------------------------------------------------------------------
+
+case 002: agnivallaBa:1204,1206 =vb agniballaBa:471,471
+data/wil.txt
+001203 old .{#agnivallaBa#}¦ m. ({#-BaH#}) Resin, pitch.
+001204 old .E. {#agni#} and {#vallaBa#} a friend, from its exciting or befriending fire.
+001205 old 
+
+data/yat.txt
+000470 old <HI>{#agni.ballaBa (BaH)#}¦ 1. {%m.%} Resin.
+
+------------------------------------------------------------------------
+
+case 003: agnivARa:1207,1208 =vb agnibARa:472,472
+data/wil.txt
+001206 old .{#agnivARa#}¦ m. ({#-RaH#}) A fiery arrow, a rocket.
+001207 old 
+
+data/yat.txt
+000471 old <HI>{#agni.bARa (RaH)#}¦ 1. {%m.%} Fiery dart.
+
+------------------------------------------------------------------------
+
+case 004: agnivAha:1209,1211 =vb agnibAha:473,473
+data/wil.txt
+001208 old .{#agnivAha#}¦ m. ({#-RaH#}) Smoke.
+001209 old .E. {#agni#} and {#vAha#} what bears.
+001210 old 
+
+data/yat.txt
+000472 old <HI>{#agni.bAha (haH)#}¦ 1. {%m.%} Smoke.
+
+------------------------------------------------------------------------
+
+case 005: agnivAhu:1212,1214 =vb agnibAhu:474,474
+data/wil.txt
+001211 old .{#agnivAhu#}¦ m. ({#-huH#}) Smoke.
+001212 old .E. {#agni#} and {#vAhu#} the arm.
+001213 old 
+
+data/yat.txt
+000473 old <HI>{#agni.bAhu (huH)#}¦ 2. {%m.%} Smoke.
+
+------------------------------------------------------------------------
+
+case 006: ajalamvana:2314,2315 =vb ajalambana:861,861
+data/wil.txt
+002313 old .{#ajalamvana#}¦ n. ({#-naM#}) Antimony.
+002314 old 
+
+data/yat.txt
+000860 old <HI>{#aja.lambana (naM)#}¦ 1. {%n.%} Antimony.
+
+------------------------------------------------------------------------
+
+case 007: aDivinnA:4316,4319 =vb aDibinnA:1438,1439
+data/wil.txt
+004315 old .{#aDivinnA#}¦ f. ({#-nnA#}) A wife whose husband has subsequently married
+004316 old others; a superseded wife.
+004317 old .E. {#aDi,#} and {#vinna#} obtained.
+004318 old 
+
+data/yat.txt
+001437 old <HI>{#aDi.binnA (nnA)#}¦ 1. {%f.%} A superseded
+001438 old <>wife.
+
+------------------------------------------------------------------------
+
+case 008: aDivettf:4320,4322 =vb aDibettf:1440,1441
+data/wil.txt
+004319 old .{#aDivettf#}¦ m. ({#-ttA#}) A man marrying other than his first wife.
+004320 old .E. {#aDi#} before {#vida#} to obtain, {#tfc#} aff.
+004321 old 
+
+data/yat.txt
+001439 old <HI>{#aDi.bettf (ttA)#}¦ 4. {%m.%} Who marries
+001440 old <>again while his wife is living.
+
+------------------------------------------------------------------------
+
+case 009: aDolamva:4501,4503 =vb aDolamba:1502,1502
+data/wil.txt
+004500 old .{#aDolamva#}¦ m. ({#-mvaH#}) A perpendicular.
+004501 old .E. {#aDas#} below, {#lamva#} a straight line.
+004502 old 
+
+data/yat.txt
+001501 old <HI>{#aDo\lamba (mbaH)#}¦ 1. {%m.%} A perpendicular. [Page020-a+ 38]
+
+------------------------------------------------------------------------
+
+case 010: aDovAyu:4514,4516 =vb aDobAyu:1506,1507
+data/wil.txt
+004513 old .{#aDovAyu#}¦ m. ({#-yuH#}) The vital air that passes downwards.
+004514 old .E. {#aDas,#} and {#vAyu#} air.
+004515 old 
+
+data/yat.txt
+001505 old <HI>{#aDo\bAyu (yuH)#}¦ 2. {%m.%} Vital air pass-
+001506 old <>ing downward.
+
+------------------------------------------------------------------------
+
+case 011: aDyavasAyin:4558,4560 =vb aDyabasAyin:1523,1524
+data/wil.txt
+004557 old .{#aDyavasAyin#}¦ mfn. ({#-yI-yinI-yi#}) Resolute, determined.
+004558 old .E. {#aDyavasAya,#} and {#ini#} aff.
+004559 old 
+
+data/yat.txt
+001522 old <HI>{#aDya\basAyin (yI-yinI-yi)#}¦ {%a.%} Perse-
+001523 old <>vering, resolute, determined.
+
+------------------------------------------------------------------------
+
+case 012: anavarArdDa:5203,5205 =vb anabarArdDa:1738,1738
+data/wil.txt
+005202 old .{#anavarArdDa#}¦ mfn. ({#-rdDaH-rdDA-rdDaM#}) Chief, principal.
+005203 old .E. {#an#} neg. {#avarArdDa#} inferior.
+005204 old 
+
+data/yat.txt
+001737 old <HI>{#ana\barArdDa (dDaH-dDA-dDaM)#}¦ {%a.%} Chief.
+
+------------------------------------------------------------------------
+
+case 013: anavalamva:5206,5208 =vb anavalamba:1739,1740
+data/wil.txt
+005205 old .{#anavalamva#}¦ mfn. ({#-mvaH-mvA-mvaM#}) Without support or dependance.
+005206 old .E. {#an#} neg. {#avalamva#} support.
+005207 old 
+
+data/yat.txt
+001738 old <HI>{#ana\valamba (mbaH-mbA-mbaM)#}¦ {%a.%} Destitutc
+001739 old <>of prop or support.
+
+------------------------------------------------------------------------
+
+case 014: anavasara:5209,5215 =vb anabasara:1743,1743
+data/wil.txt
+005208 old .{#anavasara#}¦ mfn. ({#-raH-rA-raM#})
+005209 old .²1 Occupied, busy, having no leisure.
+005210 old .²2 Unseasonable, inopportune. m. ({#-raH#})
+005211 old .²1 Want of leisure or opportunity.
+005212 old .²2 Unseasonableness, inopportuneness.
+005213 old .E. {#an#} neg. {#avasara#} leisure.
+005214 old 
+
+data/yat.txt
+001742 old <HI>{#ana\basara (raH-rA-raM)#}¦ {%a.%} Busy.
+
+------------------------------------------------------------------------
+
+case 015: anavasTiti:5238,5242 =vb anabasTiti:1748,1748
+data/wil.txt
+005237 old .{#anavasTiti#}¦ f. ({#-tiH#})
+005238 old .²1 Unsteadiness, instability.
+005239 old .²2 Dissoluteness, profligacy.
+005240 old .E. {#an#} neg. and {#avasTiti#} stability.
+005241 old 
+
+data/yat.txt
+001747 old <HI>{#ana\ba.sTiti (tiH)#}¦ 2. {%f.%} Unsteadiness.
+
+------------------------------------------------------------------------
+
+case 016: anekaviDa:7087,7090 =vb anekabiDa:2252,2252
+data/wil.txt
+007086 old .{#anekaviDa#}¦ mfn. ({#-DaH-DA-DaM#}) Various, of many kinds, in different
+007087 old ways.
+007088 old .E. {#aneka,#} and {#viDa#} sort.
+007089 old 
+
+data/yat.txt
+002251 old <HI>{#aneka.biDa (DaH-DA-DaM)#}¦ {%a.%} Various.
+
+------------------------------------------------------------------------
+
+case 017: apralamva:9701,9703 =vb apralamba:2960,2960
+data/wil.txt
+009700 old .{#apralamva#}¦ mfn. ({#-mvaH-mvA-mvaM#}) Quick, expeditious.
+009701 old .E. {#a#} neg. {#pralamba#} slow.
+009702 old 
+
+data/yat.txt
+002959 old <HI>{#a.pralamba (mbaH-mbA-mbaM)#}¦ {%a.%} Quick.
+
+------------------------------------------------------------------------
+
+case 018: araRyavAsa:12957,12959 =vb araRyabAsa:3915,3915
+data/wil.txt
+012956 old .{#araRyavAsa#}¦ m. ({#-saH#}) A hermitage.
+012957 old .E. {#araRya#} a wood, and {#vAsa#} abode.
+012958 old 
+
+data/yat.txt
+003914 old <HI>{#araRya.bAsa (saH)#}¦ 1. {%m.%} Hermitage.
+
+------------------------------------------------------------------------
+
+case 019: avakIrRin:14912,14916 =vb abakIrRin:4481,4482
+data/wil.txt
+014911 old .{#avakIrRin#}¦ mfn. ({#-rRI-rRinI-rRi#}) Violating a vow or engagement to be
+014912 old chaste, abstemious, &c. m. ({#-rRI#}) The religious student who has committed an
+014913 old act of incontinency.
+014914 old .E. {#ava#} before, {#kF#} to scatter, {#kta#} the part. past, and {#ini#} aff.
+014915 old 
+
+data/yat.txt
+004480 old <HI>{#aba.kIrRin (rRI-rRinI-rRi)#}¦ {%a.%} Vio-
+004481 old <>later of a vow to be chaste.
+
+------------------------------------------------------------------------
+
+case 020: avacUrRita:15214,15216 =vb abacUrRita:4565,4565
+data/wil.txt
+015213 old .{#avacUrRita#}¦ mfn. ({#-taH-tA-taM#}) Coarsely pounded.
+015214 old .E. {#ava, cUrRa#} to pound, in the part. past.
+015215 old 
+
+data/yat.txt
+004564 old <HI>{#aba.cUrRita (taH-tA-taM)#}¦ {%p.%} Pounded.
+
+------------------------------------------------------------------------
+
+case 021: avaqIna:15329,15332 =vb abaqIna:4597,4597
+data/wil.txt
+015328 old .{#avaqIna#}¦ n. ({#-naM#}) The flight of a bird, or a particular act of such
+015329 old flight; flying down.
+015330 old .E. {#ava#} down, &c. and {#qIna#} flying: see {#praqIna, uqqIna,#} &c. [Page78]
+015331 old 
+
+data/yat.txt
+004596 old <HI>{#aba.qIna (naM)#}¦ 1. {%n.%} Flight of a bird.
+
+------------------------------------------------------------------------
+
+case 022: avadaMSa:15401,15403 =vb abadaMSa:4614,4614
+data/wil.txt
+015400 old .{#avadaMSa#}¦ m. ({#-SaH#}) A relish, or what excites thirst.
+015401 old .E. {#ava, daMSa#} to bite, to be pungent, {#ac#} aff.
+015402 old 
+
+data/yat.txt
+004613 old <HI>{#aba.daMSa (SaH)#}¦ 1. {%m.%} A relish.
+
+------------------------------------------------------------------------
+
+case 023: avadAhezwakApaTa:15444,15445 =vb abadAhezwakApaTa:4626,4626
+data/wil.txt
+015443 old .{#avadAhezwakApaTa#}¦ n. ({#-Ta#}) See {#avadAha.#} See also {#izwakApaTa.#}
+015444 old 
+
+data/yat.txt
+004625 old <HI>{#aba.dAhezwa.kApaTa (TaM)#}¦ 1. {%n. Idem.%}
+
+------------------------------------------------------------------------
+
+case 024: avadraNka:15463,15464 =vb abadraNka:4632,4632
+data/wil.txt
+015462 old .{#avadraNka#}¦ m. ({#-NkaH#}) A market or fair.
+015463 old 
+
+data/yat.txt
+004631 old <HI>{#abadraNka (kaH)#}¦ 1. {%m.%} A market.
+
+------------------------------------------------------------------------
+
+case 025: avaDIra:15521,15522 =vb abaDIra:4640,4641
+data/wil.txt
+015520 old .{#avaDIra#}¦ r. 10th cl. ({#avaDIrayati#}) To disregard, to disrespect.
+015521 old 
+
+data/yat.txt
+004639 old <HI>{#abaDIra (t ka) avaDIrayati#}¦ 10. {%a.%} To
+004640 old <>disregard, to despise.
+
+------------------------------------------------------------------------
+
+case 026: avaBinna:15712,15714 =vb abaBinna:4696,4696
+data/wil.txt
+015711 old .{#avaBinna#}¦ mfn. ({#-nnaH-nnA-nnaM#}) Broken, pierced, divided.
+015712 old .E. {#ava#} affix, {#Binna#} cut or broken.
+015713 old 
+
+data/yat.txt
+004695 old <HI>{#aba.Binna (nnaH-nnA-nnaM)#}¦ {%p.%} Broken.
+
+------------------------------------------------------------------------
+
+case 027: avarohin:15924,15928 =vb abarohin:4761,4762
+data/wil.txt
+015923 old .{#avarohin#}¦ mfn. ({#-hI-hinI-hi#})
+015924 old .²1 What descends.
+015925 old .²2 What ascends. m. ({#-hI#}) The {%Indian%} fig tree.
+015926 old .E. {#avaroha#} a branch, &c. and {#ini#} poss. aff.
+015927 old 
+
+data/yat.txt
+004760 old <HI>{#aba.rohin (hI)#}¦ 1. {%m.%} The Indian
+004761 old <>fig-tree. {%a.%} Descending.
+
+------------------------------------------------------------------------
+
+case 028: avalIQa:15986,15990 =vb abalIQa:4777,4777
+data/wil.txt
+015985 old .{#avalIQa#}¦ mfn. ({#-QaH-QA-QaM#})
+015986 old .²1 Licked.
+015987 old .²2 Devoured, destroyed.
+015988 old .E. {#ava,#} and {#lIQa#} licked.
+015989 old 
+
+data/yat.txt
+004776 old <HI>{#aba.lIQa (QaH-QA-QaM)#}¦ {%p.%} Licked up.
+
+------------------------------------------------------------------------
+
+case 029: avalepa:16006,16012 =vb abalepa:4783,4784
+data/wil.txt
+016005 old .{#avalepa#}¦ m. ({#-paH#})
+016006 old .²1 Pride.
+016007 old .²2 Smearing, anointing.
+016008 old .²4 Ornament.
+016009 old .²4 Union, association.
+016010 old .E. {#ava, lipa#} to smear, &c. {#ac#} aff.
+016011 old 
+
+data/yat.txt
+004782 old <HI>{#aba.lepa (paH)#}¦ 1. {%m.%} Smearing; union;
+004783 old <>ornament; pride.
+
+------------------------------------------------------------------------
+
+case 030: avalokita:16034,16036 =vb abalokita:4792,4793
+data/wil.txt
+016033 old .{#avalokita#}¦ mfn. ({#-taH-tA-taM#}) Seen. m. ({#-taH#}) A {%Bauddh'ha.%}
+016034 old .E. {#ava,#} and the part. past, of {#loka#} to see.
+016035 old 
+
+data/yat.txt
+004791 old <HI>{#aba.lokita (taH-tA-taM)#}¦ 1. {%m.%} A Baud-
+004792 old <>dha. {%a.%} Seen, beheld.
+
+------------------------------------------------------------------------
+
+case 031: avaSizwa:16055,16057 =vb abaSizwa:4801,4801
+data/wil.txt
+016054 old .{#avaSizwa#}¦ mfn. ({#-zwaH-zwA-zwaM#}) Left, rest, remainder.
+016055 old .E. {#ava,#} and {#Sizwa#} left.
+016056 old 
+
+data/yat.txt
+004800 old <HI>{#aba.Sizwa (zwaH-zwA-zwaM)#}¦ {%a.%} Left, rest.
+
+------------------------------------------------------------------------
+
+case 032: avasavya:16198,16200 =vb abasavya:4836,4836
+data/wil.txt
+016197 old .{#avasavya#}¦ mfn. ({#-vyaH-vyA-vyaM#}) Right, (not left.)
+016198 old .E. {#ava#} reverse, {#savya#} left; also {#apasavya.#}
+016199 old 
+
+data/yat.txt
+004835 old <HI>{#aba.savya (vyaH-vyA-vyaM)#}¦ {%a.%} Right, not left.
+
+------------------------------------------------------------------------
+
+case 033: aviSeza:17013,17016 =vb abiSeza:5065,5065
+data/wil.txt
+017012 old .{#aviSeza#}¦ mfn. ({#-zaH-zA-zaM#}) Uniform, alike, without any difference. n.
+017013 old ({#-zaM#}) Equality, uniformity.
+017014 old .E. {#a#} neg. {#viSeza#} variation.
+017015 old 
+
+data/yat.txt
+005064 old <HI>{#a.biSeza (zaH-zA-zaM)#}¦ {%a.%} Unvarying.
+
+------------------------------------------------------------------------
+
+case 034: avedavid:17150,17152 =vb avedabid:5097,5098
+data/wil.txt
+017149 old .{#avedavid#}¦ m. ({#-vid#}) A {%Brahman%} who has not studied the {%Ve4das.%}
+017150 old .E. {#a#} neg. {#veda#} and {#vid#} who knows.
+017151 old 
+
+data/yat.txt
+005096 old <HI>{#a.vedabid (d)#}¦ 5. {%m.%} Bra4hman
+005097 old <>not knowing the vedas.
+
+------------------------------------------------------------------------
+
+case 035: avda:17173,17177 =vb abda:5105,5105
+data/wil.txt
+017172 old .{#avda#}¦ m. ({#-vdaH#})
+017173 old .²1 A cloud.
+017174 old .²2 A year.
+017175 old .E. {#ava#} to preserve, {#dan#} Un'a4di affix, see {#abda.#}
+017176 old 
+
+data/yat.txt
+005104 old <HI>{#abda (bdaH)#}¦ 1. {%m.%} A cloud; a year.
+
+------------------------------------------------------------------------
+
+case 036: aSvavaqava:18037,18042 =vb aSvavaqaba:5379,5380
+data/wil.txt
+018036 old .{#aSvavaqava#}¦ n. ({#-vaM#}) A stud of horses and mares. m. {%du.%} or
+018037 old {%plu.%} only. ({#-vO-vAH#})
+018038 old .²1 A horse and a mare.
+018039 old .²2 Horses and mares.
+018040 old .E. {#aSva#} and {#vaqavA#} a mare. [Page91]
+018041 old 
+
+data/yat.txt
+005378 old <HI>{#aSva.vaqaba (vaM)#}¦ 1. {%n.%} A stud of horses
+005379 old <>and mares. {%du.%} Horse and mare.
+
+------------------------------------------------------------------------
+
+case 037: AkASavartman:20461,20463 =vb AkASabartman:6183,6183
+data/wil.txt
+020460 old .{#AkASavartman#}¦ n. ({#-rtma#}) The atmosphere, the firmament, the air.
+020461 old .E. {#AkASa#} and {#vartman#} a road.
+020462 old 
+
+data/yat.txt
+006182 old <HI>{#AkASa.bartman (rtma)#}¦ 5. {%n.%} Firmament.
+
+------------------------------------------------------------------------
+
+case 038: Apastamva:22805,22806 =vb Apastamba:6973,6973
+data/wil.txt
+022804 old .{#Apastamva#}¦ m. ({#-mvaH#}) The name of a sage and legislator.
+022805 old 
+
+data/yat.txt
+006972 old <HI>{#Apa.stamba (mbaH)#}¦ 1. {%m.%} Name of a sage.
+
+------------------------------------------------------------------------
+
+case 039: indrasAvarRi:26382,26384 =vb indrasAbarRi:8173,8173
+data/wil.txt
+026381 old .{#indrasAvarRi#}¦ m. ({#-rRiH#}) The last of the fourteen {%Menus.%}
+026382 old .E. {#indra#} and {#sAvarRi#} the son of the sun.
+026383 old 
+
+data/yat.txt
+008172 old <HI>{#indra.sAbarRi (rRiH)#}¦ 2. {%m.%} Last {%Menu.%}
+
+------------------------------------------------------------------------
+
+case 040: iBayuvati:26532,26534 =vb iBayubati:8225,8225
+data/wil.txt
+026531 old .{#iBayuvati#}¦ f. ({#-tiH#}) An elephant's cub.
+026532 old .E. {#iBa#} and {#yuvati#} young.
+026533 old 
+
+data/yat.txt
+008224 old <HI>{#iBa.yubati (tiH)#}¦ 2. {%f.%} Elephant's cub.
+
+------------------------------------------------------------------------
+
+case 041: ilvakA:26662,26663 =vb ilbakA:8263,8264
+data/wil.txt
+026661 old .{#ilvakA#}¦ f. {%plu.%} ({#-kAH#}) Stars in Orion's head: see {#ilvala.#}
+026662 old 
+
+data/yat.txt
+008262 old <HI>{#ilbakA, ilvalA (kAH)#}¦ 1. {%f. plu.%} Stars
+008263 old <>in the head of Orion.
+
+------------------------------------------------------------------------
+
+case 042: ulva:33039,33045 =vb ulba:10228,10228
+data/wil.txt
+033038 old .{#ulva#}¦ n. ({#-lvaH#})
+033039 old .²1 The womb.
+033040 old .²2 The embryo.
+033041 old .²3 The membrances investing the foetus.
+033042 old .²4 A cavity.
+033043 old .E. {#uca#} to accumulate, {#kan#} Un'a4di affix, and {#ca#} becomes {#la.#}
+033044 old 
+
+data/yat.txt
+010227 old <HI>{#ulba\ (lvaM)#}¦ 1. {%n.%} The womb.
+
+------------------------------------------------------------------------
+
+case 043: uvja:33052,33053 =vb ubja:10230,10230
+data/wil.txt
+033051 old .{#uvja#}¦ r. 6th cl. ({#uvjati#}) To be straight: see {#ubja.#}
+033052 old 
+
+data/yat.txt
+010229 old <HI>{#ubja ubjati#}¦ 1. {%a.%} To be straight.
+
+------------------------------------------------------------------------
+
+case 044: elavAlu:34874,34875 =vb elabAlu:10881,10881
+data/wil.txt
+034873 old .{#elavAlu#}¦ n. ({#-lu#}) The name of a perfume: see the next word.
+034874 old 
+
+data/yat.txt
+010880 old <HI>{#elabAlu (lu)#}¦ 2. {%n.%} A perfume.
+
+------------------------------------------------------------------------
+
+case 045: evamviDa:34913,34916 =vb evambiDa:10897,10898
+data/wil.txt
+034912 old .{#evamviDa#}¦ mfn. ({#-DaH-DA-DaM#}) Such, in such form or manner, of such
+034913 old a kind.
+034914 old .E. {#evam,#} and {#viDa#} sort, way.
+034915 old 
+
+data/yat.txt
+010896 old <HI>{#evambi\Da (DaH-DA-DaM)#}¦ {%a.%} So, such, of
+010897 old <>such kind.
+
+------------------------------------------------------------------------
+
+case 046: ElavAluka:35103,35104 =vb ElabAluka:10972,10972
+data/wil.txt
+035102 old .{#ElavAluka#}¦ n. ({#-kaM#}) A perfume: see {#elavAluka.#}
+035103 old 
+
+data/yat.txt
+010971 old <HI>{#ElabAluka (kaM)#}¦ 1. {%n.%} A perfume.
+
+------------------------------------------------------------------------
+
+case 047: kawurava:36536,36538 =vb kawuraba:11460,11460
+data/wil.txt
+036535 old .{#kawurava#}¦ n. ({#-vaH#}) A frog.
+036536 old .E. {#kawu,#} and {#rava#} sound.
+036537 old 
+
+data/yat.txt
+011459 old <HI>{#kawu.raba (vaH)#}¦ 1. {%m.%} A frog.
+
+------------------------------------------------------------------------
+
+case 048: kawolavIRA:36561,36563 =vb kawolabIRA:11471,11472
+data/wil.txt
+036560 old .{#kawolavIRA#}¦ f. ({#-RA#}) A kind of lute played by the common people.
+036561 old .E. {#kawola#} a {%Chanda4la,%} and {#vIRA#} a lute.
+036562 old 
+
+data/yat.txt
+011470 old <HI>{#kawola.bIRA (RA)#}¦ 1. {%f.%} A kind of
+011471 old <>lute, played by common people.
+
+------------------------------------------------------------------------
+
+case 049: kAravellaka:42652,42653 =vb kArabellaka:13659,13659
+data/wil.txt
+042651 old .{#kAravellaka#}¦ m. ({#-kaH#}) See the preceding.
+042652 old 
+
+data/yat.txt
+013658 old <HI>{#kAra.bellaka (kaH)#}¦ 1. {%m. Idem.%}
+
+------------------------------------------------------------------------
+
+case 050: kimvA:44206,44208 =vb kimbA:14215,14215
+data/wil.txt
+044205 old .{#kimvA#}¦ {%ind.%} Or, else, moreover.
+044206 old .E. {#kim#} what, {#vA#} or.
+044207 old 
+
+data/yat.txt
+014214 old <HI>{#kimbA\#}¦ {%conj.%} Or, else, moreover.
+
+------------------------------------------------------------------------
+
+case 051: kzudravaMSA:52704,52705 =vb kzudrabaMSA:17440,17441
+data/wil.txt
+052703 old .{#kzudravaMSA#}¦ f. ({#-SA#}) A plant, (Dioscorea:) see {#varAhakrAttvA.#}
+052704 old 
+
+data/yat.txt
+017439 old <HI>{#kzudra.baMSA (SA)#}¦ 1. {%f.%} A plant, (Lyco-
+017440 old <>podium imbricatum).
+
+------------------------------------------------------------------------
+
+case 052: garhyavAdin:56561,56564 =vb garhyabAdin:18893,18894
+data/wil.txt
+056560 old .{#garhyavAdin#}¦ mfn. ({#-dI-dinI-di#}) Speaking ill, speaking vilely or
+056561 old inaccurately.
+056562 old .E. {#garhya#} vile, and {#vAdin#} who speaks.
+056563 old 
+
+data/yat.txt
+018892 old <HI>{#garhya.bAdin (dI-dinI-di)#}¦ {%a.%} Speak-
+018893 old <>ing ill, vilely or inaccurately.
+
+------------------------------------------------------------------------
+
+case 053: Gftavara:61526,61529 =vb Gftabara:20630,20630
+data/wil.txt
+061525 old .{#Gftavara#}¦ m. ({#-raH#}) A sweetmeat, or flour, &c. baked with {%ghee%} and
+061526 old sugar.
+061527 old .E. {#Gfta,#} and {#vara#} what excels.
+061528 old 
+
+data/yat.txt
+020629 old <HI>{#Gfta.bara (raH)#}¦ 1. {%m.%} A sweetmeat.
+
+------------------------------------------------------------------------
+
+case 054: cAruvAhu:63986,63988 =vb cArubAhu:21520,21520
+data/wil.txt
+063985 old .{#cAruvAhu#}¦ m. ({#-huH#}) One of KRI12SHNA'S sons.
+063986 old .E. {#cAru,#} and {#vAhu#} an arm.
+063987 old 
+
+data/yat.txt
+021519 old <HI>{#cAru.bAhu (huH)#}¦ 2. {%m.%} Son of {%Krishna.%}
+
+------------------------------------------------------------------------
+
+case 055: jagadvala:66642,66644 =vb jagadbala:22479,22479
+data/wil.txt
+066641 old .{#jagadvala#}¦ m. ({#-laH#}) Air, wind.
+066642 old .E. {#jagat#} the universe, and {#vala#} surrounding.
+066643 old 
+
+data/yat.txt
+022478 old <HI>{#jaga.dbala (laH)#}¦ 1. {%m.%} Air, wind.
+
+------------------------------------------------------------------------
+
+case 056: jivAjiva:69221,69222 =vb jibAjiva:23390,23390
+data/wil.txt
+069220 old .{#jivAjiva#}¦ m. ({#-vaH#}) A pleasant: see {#jIvaMjIva.#}
+069221 old 
+
+data/yat.txt
+023389 old <HI>{#jibAjiva (vaH)#}¦ 1. {%m.%} A pheasant.
+
+------------------------------------------------------------------------
+
+case 057: tAlapralamva:73910,73914 =vb tAlapralamba:25132,25133
+data/wil.txt
+073909 old .{#tAlapralamva#}¦ n. ({#-mvaM#}) The fibres that grow on the cocoanut and other
+073910 old palms, under the outer rind, and from which {%Coir,%} a sort of cordage, is
+073911 old prepared.
+073912 old .E. {#tAla,#} and {#pralamva#} what depends.
+073913 old 
+
+data/yat.txt
+025131 old <HI>{#tAla.pralamba (mbaM)#}¦ 1. {%n.%} Fibres of the
+025132 old <>cocoanut which make coir.
+
+------------------------------------------------------------------------
+
+case 058: dAnavarzin:79752,79756 =vb dAnabarzin:27317,27318
+data/wil.txt
+079751 old .{#dAnavarzin#}¦ m. ({#-rzI#})
+079752 old .²1 An elephant in rut.
+079753 old .²2 A liberal man.
+079754 old .E. {#dAna,#} and {#varzin#} showering.
+079755 old 
+
+data/yat.txt
+027316 old <HI>{#dAna.barzin (rzI)#}¦ 5. {%m.%} An elephant
+027317 old <>in rut; a liberal man.
+
+------------------------------------------------------------------------
+
+case 059: div:80503,80507 =vb dib:27599,27599
+data/wil.txt
+080502 old .{#div#}¦ f. ({#-dyOH-divO-divaH#})
+080503 old .²1 Heaven, paradise.
+080504 old .²2 Air, sky.
+080505 old .E. {#diva#} to play, affix {#kviz,#} where sport immortals; also {#diva.#}
+080506 old 
+
+data/yat.txt
+027598 old <HI>{#dib (dyO;)#}¦ 4. {%f.%} Heaven, sky, air.
+
+------------------------------------------------------------------------
+
+case 060: divodBava:80628,80631 =vb dibodBava:27638,27639
+data/wil.txt
+080627 old .{#divodBava#}¦ mfn. ({#-vaH-vA-vaM#}) Born or produced in heaven. f. ({#-vA#})
+080628 old Cardamoms.
+080629 old .E. {#diva#} heaven, {#udBava#} born.
+080630 old 
+
+data/yat.txt
+027637 old <HI>{#dibodBava (vaH-vA-vaM)#}¦ {%a.%} Born or produ-
+027638 old <>ced in heaven. {%f.%} Cardamoms.
+
+------------------------------------------------------------------------
+
+case 061: devakInandana:82990,82992 =vb debakInandana:28500,28500
+data/wil.txt
+082989 old .{#devakInandana#}¦ m. ({#-naH#}) A name of KRI12SHN'A.
+082990 old .E. {#devakI#} as above, and {#nandana#} a son.
+082991 old 
+
+data/yat.txt
+028499 old <HI>{#debakI.nandana (naH)#}¦ 1. {%m. Krishna.%}
+
+------------------------------------------------------------------------
+
+case 062: pattanavaRij:97959,97961 =vb pattanabaRij:33754,33754
+data/wil.txt
+097958 old .{#pattanavaRij#}¦ m. ({#-Rik#}) A tradesman.
+097959 old .E. {#pattana#} a city, {#vaRij#} a trader.
+097960 old 
+
+data/yat.txt
+033753 old <HI>{#pattana.baRij (k)#}¦ 5. {%m.%} A tradesman.
+
+------------------------------------------------------------------------
+
+case 063: paSupalvala:102433,102434 =vb paSupalbala:35309,35309
+data/wil.txt
+102432 old .{#paSupalvala#}¦ n. ({#-laM#}) A fragrant, grass, (Cyperus rotundus.)
+102433 old 
+
+data/yat.txt
+035308 old <HI>{#paSu.palbala (laM)#}¦ 1. {%n.%} A fragrant grass.
+
+------------------------------------------------------------------------
+
+case 064: puMvfza:106159,106161 =vb puMbfza:36683,36683
+data/wil.txt
+106158 old .{#puMvfza#}¦ m. ({#-zaH#}) The musk rat.
+106159 old .E. {#pum#} male, and {#vfza#} a bull.
+106160 old 
+
+data/yat.txt
+036682 old <HI>{#puM.bfza (zaH)#}¦ 1. {%m.%} The musk rat.
+
+------------------------------------------------------------------------
+
+case 065: pozyavarga:109155,109158 =vb pozyabarga:37804,37805
+data/wil.txt
+109154 old .{#pozyavarga#}¦ m. ({#-rgaH#}) A class of persons or objects to be cherished,
+109155 old as parents, children, guests, and the sacred fire.
+109156 old .E. {#pozya,#} and {#varga#} a class. [Page555]
+109157 old 
+
+data/yat.txt
+037803 old <HI>{#pozya.barga (rgaH)#}¦ 1. {%m.%} A class to be che-
+037804 old <>rished, as children, guests, &c.
+
+------------------------------------------------------------------------
+
+case 066: BawwArakavAra:120353,120355 =vb BawwArakabAra:41657,41657
+data/wil.txt
+120352 old .{#BawwArakavAra#}¦ n. ({#-raM#}) Sunday.
+120353 old .E. {#BawwAraka,#} and {#vAra#} a day.
+120354 old 
+
+data/yat.txt
+041656 old <HI>{#BawwAraka.bAra (raM)#}¦ 1. {%n.%} Sunday.
+
+------------------------------------------------------------------------
+
+case 067: BImavikrama:122236,122238 =vb BImabikrama:42297,42297
+data/wil.txt
+122235 old .{#BImavikrama#}¦ mfn. ({#-maH-mA-maM#}) Tremendous in power or strength.
+122236 old .E. {#BIma,#} and {#vikrama#} prowess.
+122237 old 
+
+data/yat.txt
+042296 old <HI>{#BIma.bikrama (maH-mA-maM)#}¦ {%a.%} Gigantic.
+
+------------------------------------------------------------------------
+
+case 068: BUmivardDana:122962,122965 =vb BUmibardDana:42548,42548
+data/wil.txt
+122961 old .{#BUmivardDana#}¦ mfn. ({#-naH-nI-naM#}) Increasing or adding to the earth.
+122962 old mn. ({#-naH-naM#}) A corpse.
+122963 old .E. {#BUmi#} the earth, and {#vardDana#} increasing.
+122964 old 
+
+data/yat.txt
+042547 old <HI>{#BUmi.bardDana (naH-naM)#}¦ 1. {%m. n.%} A corpse.
+
+------------------------------------------------------------------------
+
+case 069: BrAtfvala:123859,123861 =vb BrAtfbala:42859,42859
+data/wil.txt
+123858 old .{#BrAtfvala#}¦ mfn. ({#-laH-lA-laM#}) Having a brother.
+123859 old .E. {#Bratf,#} and {#valac#} aff.
+123860 old 
+
+data/yat.txt
+042858 old <HI>{#BrAtf.bala (laH-lA-laM)#}¦ {%a.%} Having a brother.
+
+------------------------------------------------------------------------
+
+case 070: medovaha:132360,132362 =vb medobaha:45860,45860
+data/wil.txt
+132359 old .{#medovaha#}¦ n. ({#-haM#}) A vessel carrying fat, a lymphatic.
+132360 old .E. {#medas,#} and {#vaha#} what bears.
+132361 old 
+
+data/yat.txt
+045859 old <HI>{#medo.baha (haM)#}¦ 1. {%n.%} A lymphatic vessel.
+
+------------------------------------------------------------------------
+
+case 071: meva:132508,132509 =vb meba:45906,45906
+data/wil.txt
+132507 old .{#meva(f)mevf#}¦ r. 1st cl. ({#mevate#}) To serve, to gratify by service.
+132508 old 
+
+data/yat.txt
+045905 old <HI>{#meba (Na, f) mevate#}¦ 1. {%d.%} To serve.
+
+------------------------------------------------------------------------
+
+case 072: yojanavallI:135126,135128 =vb yojanaballI:46810,46810
+data/wil.txt
+135125 old .{#yojanavallI#}¦ f. ({#-llI#}) {%Bengal%} madder, (Rubia manjith.)
+135126 old .E. {#yojana#} joining, and {#vallI#} pedicle.
+135127 old 
+
+data/yat.txt
+046809 old <HI>{#yojana.ballI (llI)#}¦ 3. {%f. Idem.%}
+
+------------------------------------------------------------------------
+
+case 073: vAramvAram:147758,147760 =vb vArambAram:51259,51259
+data/wil.txt
+147757 old .{#vAramvAram#}¦ {%ind.%} Repeatedly, again and again.
+147758 old .E. {#vAra#} a day, a time, repeated.
+147759 old 
+
+data/yat.txt
+051258 old <HI>{#vArambAram#}¦ {%adv.%} Repeatedly.
+
+------------------------------------------------------------------------
+
+case 074: viqvarAha:150263,150265 =vb viqbarAha:52168,52168
+data/wil.txt
+150262 old .{#viqvarAha#}¦ m. ({#-haH#}) A village or tame hog.
+150263 old .E. {#viw#} fæces, ordure, and {#varAha#} a hog.
+150264 old 
+
+data/yat.txt
+052167 old <HI>{#viqba\rAha (haH)#}¦ 1. {%m.%} A tame hog.
+
+------------------------------------------------------------------------
+
+case 075: vidyAvratasnAtaka:150852,150855 =vb vidyAbratasnAtaka:52398,52399
+data/wil.txt
+150851 old .{#vidyAvratasnAtaka#}¦ m. ({#-kaH#}) The {%Brahman%} who has finished his
+150852 old studies and period of studentship.
+150853 old .E. {#vidyA,#} and {#vrata#} a religious obligation, {#snAtaka#} a householder.
+150854 old 
+
+data/yat.txt
+052397 old <HI>{#vidyA.brata.snAtaka (kaH)#}¦ 1. {%m.%} A {%bra4h-
+052398 old <>man%} who has finished his studies.
+
+------------------------------------------------------------------------
+
+case 076: vIRAnuvanDa:156276,156279 =vb vIRAnubanDa:54341,54342
+data/wil.txt
+156275 old .{#vIRAnuvanDa#}¦ m. ({#-nDaH#}) The tie of a lute or lower part of the tail
+156276 old piece, where the wires are fixed.
+156277 old .E. {#vIRA#} the lute, and {#anuvanDa#} appendage, tie.
+156278 old 
+
+data/yat.txt
+054340 old <HI>{#vIRA\nubanDa (nDaH)#}¦ 1. {%m.%} The tie of the
+054341 old <>{%vi4na4%} where the wires are fixed.
+
+------------------------------------------------------------------------
+
+case 077: vErAnuvanDin:159004,159008 =vb vErAnubanDin:55447,55448
+data/wil.txt
+159003 old .{#vErAnuvanDin#}¦ m. ({#-nDI#})
+159004 old .²1 VISHN'U.
+159005 old .²2 The solar ray which is charged with heat.
+159006 old .E. {#vEra#} heroism or strength, {#anuvanDin#} connected with.
+159007 old 
+
+data/yat.txt
+055446 old <HI>{#vErA\nubanDin (nDI)#}¦ 5. {%m. Vishnu;%}
+055447 old <>solar ray.
+
+------------------------------------------------------------------------
+
+case 078: vlekza:161175,161178 =vb blekza:56270,56271
+data/wil.txt
+161174 old .{#vlekza#}¦ r. 10th cl. ({#vlekzayati#}) To see.
+161175 old 
+161176 old <H>{#Sa#}
+161177 old 
+
+data/yat.txt
+056269 old <HI>{#blekza (ka) blekzayati#}¦ 1. {%a.%} To see.
+056270 old <H>{#Sa#}
+
+------------------------------------------------------------------------
+
+case 079: saNKyAvat:172464,172469 =vb saNKyAbat:60837,60838
+data/wil.txt
+172463 old .{#saNKyAvat#}¦ mfn. ({#-vAn-vatI-vat#})
+172464 old .²1 Having or being possessed of number, numbered.
+172465 old .²2 Intelligent, discriminating. m. ({#-vAn#}) A learned {%Brahman,%} a
+172466 old {%Pan'd'it,%} a teacher.
+172467 old .E. {#saNKyA#} number, &c., and {#matup#} poss. aff.
+172468 old 
+
+data/yat.txt
+060836 old <HI>{#saNKyAbat (bAn)#}¦ 5. {%m.%} A learned {%bra4h-
+060837 old <>man. a.%} Numbered; intelligent.
+
+------------------------------------------------------------------------
+
+case 080: samanuvrata:174962,174964 =vb samanubrata:61856,61856
+data/wil.txt
+174961 old .{#samanuvrata#}¦ mfn. ({#-taH-tA-taM#}) Entirely devoted to.
+174962 old .E. {#sam,#} and {#anubrata#} devoted to.
+174963 old 
+
+data/yat.txt
+061855 old <HI>{#sama.nu.brata (taH-tA-taM)#}¦ {%a.%} Devoted to.
+
+------------------------------------------------------------------------
+
+case 081: sahaBAvin:178782,178784 =vb sahaBAbin:63340,63341
+data/wil.txt
+178781 old .{#sahaBAvin#}¦ m. ({#-vI#}) A friend, a companion, an adherent or partisan.
+178782 old .E. {#saha#} with, {#BAva#} quality, {#ini#} aff.
+178783 old 
+
+data/yat.txt
+063339 old <HI>{#saha.BAbin (vI)#}¦ 5. {%m.%} A friend, a
+063340 old <>partisan.
+
+------------------------------------------------------------------------
+
+case 082: svalpavala:188816,188818 =vb svalpabala:67461,67461
+data/wil.txt
+188815 old .{#svalpavala#}¦ mfn. ({#-laH-lA-laM#}) Weak, feeble.
+188816 old .E. {#svalpa,#} and {#vala#} strong.
+188817 old 
+
+data/yat.txt
+067460 old <HI>{#svalpa.bala (laH-lA-laM)#}¦ {%a.%} Feeble.
+
+------------------------------------------------------------------------
+
+case 083: hfdayAviD:191674,191676 =vb hfdayAbiD:68625,68625
+data/wil.txt
+191673 old .{#hfdayAviD#}¦ mfn. ({#-t#} or {#d#}) Heart-piercing.
+191674 old .E. {#hfdaya,#} and {#AviD#} what pierces.
+191675 old 
+
+data/yat.txt
+068624 old <HI>{#hfdayA\biD (td)#}¦ {%a.%} Heart-piercing.
+
+------------------------------------------------------------------------
+

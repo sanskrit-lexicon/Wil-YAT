@@ -1,0 +1,15 @@
+case 001: sEnDavaGana:184781,184783 ~= sEnDavaDana:65847,65847
+data/wil.txt (page 944)
+; 03/09/2015 sEnDavaGana -> sEnDavaDana ()
+184781 old .{#sEnDavaGana#}¦ m. ({#-naH#}) A lump of salt.
+184781 new .{#sEnDavaDana#}¦ m. ({#-naH#}) A lump of salt.
+184782 old .E. {#sEnDava,#} and {#Gana#} thick.
+184783 old 
+
+data/yat.txt (page 867-a)
+; 03/09/2015 sEnDavaDana -> sEnDavaGana (print error)
+065847 old <HI>{#sEnDava.Dana (naH)#}¦ 1. {%m.%} Lump of salt.
+065847 new <HI>{#sEnDava.Dana (naH)#}¦ 1. {%m.%} Lump of salt.
+
+------------------------------------------------------------------------
+

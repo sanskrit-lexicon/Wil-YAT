@@ -1,0 +1,902 @@
+case 001: ajYAnina:2473,2475 =a1 ajYAnin:917,917
+data/wil.txt
+002472 old .{#ajYAnina#}¦ mfn. ({#-nI-ninI-ni#}) Ignorant, unwise.
+002473 old .E. {#a#} neg. {#jYAnin#} knowing.
+002474 old 
+
+data/yat.txt
+000916 old <HI>{#ajYAnin (nI-ninI-ni)#}¦ {%a.%} Ignorant.
+
+------------------------------------------------------------------------
+
+case 002: atasa:2844,2848 =a1 atas:1046,1046
+data/wil.txt
+002843 old .{#atasa#}¦ ind.
+002844 old .²1 Hence, therefore, from this cause.
+002845 old .²2 An interjection of command.
+002846 old .E. {#etada#} this, and {#tas#} affix; irregular formation.
+002847 old 
+
+data/yat.txt
+001045 old <HI>{#atas, ataH#}¦ {%conj.%} Therefore, thence. [Page014-a+ 38]
+
+------------------------------------------------------------------------
+
+case 003: adriBida:3857,3860 =a1 adriBid:1303,1304
+data/wil.txt
+003856 old .{#adriBida#}¦ m. ({#-Bit#}) A name of INDRA.
+003857 old .E. {#adri,#} and {#Bida#} who breaks; the splitter of mountains, (with his
+003858 old thunderbolt.)
+003859 old 
+
+data/yat.txt
+001302 old <HI>{#adri.Bid (d)#}¦ 5. {%m.%} A name of In-
+001303 old <>dra, the mountain-splitter.
+
+------------------------------------------------------------------------
+
+case 004: anaquha:4801,4805 =a1 anaquh:1604,1604
+data/wil.txt
+004800 old .{#anaquha#}¦ m. ({#-qvAn#}) A bull or ox. f. ({#-quhI#} or -{#qvAhI#}) A cow.
+004801 old .E. {#anas#} a cart, {#vaha#} to bear, and {#kvip#} affix, with {#qa#} inserted:
+004802 old after {#anas, va#} is changed to {#u#} in the mas., optionally in the fem.
+004803 old [Page26]
+004804 old 
+
+data/yat.txt
+001603 old <HI>{#ana\quh (qvAn)#}¦ 5. {%m.%} A Bull or ox.
+
+------------------------------------------------------------------------
+
+case 005: anantajita:4922,4925 =a1 anantajit:1637,1638
+data/wil.txt
+004921 old .{#anantajita#}¦ m. ({#-jit#}) The fourteenth of the twenty-four Jaina deified
+004922 old Saints: also called {#ananta.#}
+004923 old .E. {#ananta#} endless, and {#jit#} who conquers, who gains eternity.
+004924 old 
+
+data/yat.txt
+001636 old <HI>{#ananta.jit (jit)#}¦ 5. {%m.%} A Jaina
+001637 old <>sage.
+
+------------------------------------------------------------------------
+
+case 006: antarhAsa:7419,7422 =a1 antarhAs:2343,2344
+data/wil.txt
+007418 old .{#antarhAsa#}¦ mfn. ({#-saH-sA-saM#}) Laughing inwardly. m. ({#-saH#})
+007419 old Self-satisfaction, conceit.
+007420 old .E. {#antar#} inner, and {#hAsa#} laughter. [Page39]
+007421 old 
+
+data/yat.txt
+002342 old <HI>{#antarhA\s (saH-sA-saM)#}¦ {%a.%} Self-satisfied.
+002343 old <>1. {%m.%} Inward smile; conceit.
+
+------------------------------------------------------------------------
+
+case 007: apahArina:8955,8958 =a1 apahArin:2785,2786
+data/wil.txt
+008954 old .{#apahArina#}¦ mfn. ({#-rI-riRI-ri#}) One who takes away, who seizes, steals,
+008955 old &c. a plunderer, a thief.
+008956 old .E. {#apahf#} to steal, {#Rini#} aff.
+008957 old 
+
+data/yat.txt
+002784 old <HI>{#apa.hArin (rI-riRI-ri)#}¦ {%a.%} Taking
+002785 old <>away, stealing.
+
+------------------------------------------------------------------------
+
+case 008: arkatviza:13384,13388 =a1 arkatviz:4030,4030
+data/wil.txt
+013383 old .{#arkatviza#}¦ f. ({#-tviw#})
+013384 old .²1 A ray of light.
+013385 old .²2 The light of the sun.
+013386 old .E. {#arka,#} and {#tviz#} radiance.
+013387 old 
+
+data/yat.txt
+004029 old <HI>{#arka.tviz (w)#}¦ 5. {%f.%} Ray of light.
+
+------------------------------------------------------------------------
+
+case 009: arTavida:13758,13760 =a1 arTavid:4144,4144
+data/wil.txt
+013757 old .{#arTavida#}¦ mfn. ({#-vit#} or -{#vid#}) Sagacious, sensible, wise.
+013758 old .E. {#arTa,#} and {#vid#} who knows.
+013759 old 
+
+data/yat.txt
+004143 old <HI>{#arTa.vid (d)#}¦ {%a.%} Sagacious.
+
+------------------------------------------------------------------------
+
+case 010: Agura:20978,20979 =a1 Agur:6329,6329
+data/wil.txt
+020977 old .{#Agura#}¦ f. ({#-gUH#}) An agreement: see {#AgU.#}
+020978 old 
+
+data/yat.txt
+006328 old <HI>{#A.gur (gUH)#}¦ 5. {%f.%} An agreement.
+
+------------------------------------------------------------------------
+
+case 011: iBa:26504,26506 =a1 iB:8213,8214
+data/wil.txt
+026503 old .{#iBa#}¦ r. 10th cl. ({#i#}) {#iBi#} ({#imBayate#}) To collect or
+026504 old accumulate.
+026505 old 
+
+data/yat.txt
+008212 old <HI>{#iB (ka, Na, i) imBayate#}¦ 10. {%d.%} To accu-
+008213 old <>mulate, to collect.
+
+------------------------------------------------------------------------
+
+case 012: udga:29558,29559 =a1 udg:9182,9182
+data/wil.txt
+029557 old .{#udga#}¦ r. 6th cl. ({#udgati#}) To cast off or quit.
+029558 old 
+
+data/yat.txt
+009181 old <HI>{#udg udgati#}¦ 6. {%a.%} To cast off.
+
+------------------------------------------------------------------------
+
+case 013: udBida:30058,30062 =a1 udBid:9329,9329
+data/wil.txt
+030057 old .{#udBida#}¦ mfn. ({#-dBida#} or -{#dBit#}) Sprouting, germinating.
+030058 old .E. {#ud#} up, {#Bida#} to break or burst, affix {#kvip,#} or with {#ka#} affix
+030059 old {#udBida#} ({#-daH-dA-daM.#}) n. ({#-daM#}) Culinary salt.
+030060 old .E. {#ud#} forth, {#Bida#} to break, and {#ka#} affix; breaking from the soil.
+030061 old 
+
+data/yat.txt
+009328 old <HI>{#udBid (d)#}¦ {%a. Idem.%}
+
+------------------------------------------------------------------------
+
+case 014: upahatadfSa:32088,32090 =a1 upahatadfS:9926,9926
+data/wil.txt
+032087 old .{#upahatadfSa#}¦ mfn. ({#-dfk#}) Dazzled, blinded.
+032088 old .E. {#upahata#} struck, {#dfSa#} the eye.
+032089 old 
+
+data/yat.txt
+009925 old <HI>{#upahata.dfS (k)#}¦ {%a.%} Struck blind.
+
+------------------------------------------------------------------------
+
+case 015: ula:32850,32851 =a1 ul:10176,10176
+data/wil.txt
+032849 old .{#ula#}¦ {%Sautra%} root, ({#ulati#}) to burn.
+032850 old 
+
+data/yat.txt
+010175 old <HI>{#ul ulati#}¦ 1. {%a.%} To burn.
+
+------------------------------------------------------------------------
+
+case 016: fkza:33744,33745 =a1 fkz:10467,10467
+data/wil.txt
+033743 old .{#fkza#}¦ r. 5th cl. ({#fkzRoti#}) To kill, to hurt or seek to hurt.
+033744 old 
+
+data/yat.txt
+010466 old <HI>{#fkz (na, ra) fkzRoti#}¦ 1. {%a.%} To kill.
+
+------------------------------------------------------------------------
+
+case 017: ftvija:34031,34034 =a1 ftvij:10556,10556
+data/wil.txt
+034030 old .{#ftvija#}¦ m. ({#-tvik#})
+034031 old .²1 A domestic chaplain, a family priest.
+034032 old .E. {#ftu#} a season, {#yaja#} to worship, affix {#kvin#} deriv. irr.
+034033 old 
+
+data/yat.txt
+010555 old <HI>{#ftvij (k)#}¦ 1. {%m.%} A domestic priest.
+
+------------------------------------------------------------------------
+
+case 018: kaRwakaBuja:36834,36836 =a1 kaRwakaBuj:11573,11573
+data/wil.txt
+036833 old .{#kaRwakaBuja#}¦ m. ({#-Buk#}) A camel.
+036834 old .E. {#kaRwaka,#} and {#Buja#} who eats.
+036835 old 
+
+data/yat.txt
+011572 old <HI>{#kaRwaka.Buj (Buk)#}¦ 1. {%m.%} A camel.
+
+------------------------------------------------------------------------
+
+case 019: kalyARavacana:40738,40740 =a1 kalyARavacan:12977,12977
+data/wil.txt
+040737 old .{#kalyARavacana#}¦ n. ({#-naM#}) Friendly speech, good wishes.
+040738 old .E. {#kalyARa,#} and {#vacana#} speech.
+040739 old 
+
+data/yat.txt
+012976 old <HI>{#kalyARa.vacan (naM)#}¦ 1. {%n.%} Kind speech.
+
+------------------------------------------------------------------------
+
+case 020: kaScana:40945,40947 =a1 kaScan:13057,13057
+data/wil.txt
+040944 old .{#kaScana#}¦ {%ind.%} Some body, a certain person; the first member of the
+040945 old compound is declinable, as {#kaScana, kasyacana,#} &c.
+040946 old 
+
+data/yat.txt
+013056 old <HI>{#kaScan#}¦ {%pro.%} Somebody, some one.
+
+------------------------------------------------------------------------
+
+case 021: kAmaduha:42118,42121 =a1 kAmaduh:13478,13478
+data/wil.txt
+042117 old .{#kAmaduha#}¦ f. ({#-Duk#})
+042118 old .²1 The cow of plenty.
+042119 old .E. {#kAma,#} and {#duha#} to give milk, {#kvis#} aff.
+042120 old 
+
+data/yat.txt
+013477 old <HI>{#kAma.duh (Duk)#}¦ 1. {%f. Idem.%}
+
+------------------------------------------------------------------------
+
+case 022: keSacCida:49258,49260 =a1 keSacCid:16157,16157
+data/wil.txt
+049257 old .{#keSacCida#}¦ m. ({#-cCit#} or -{#cCid#}) A barber, a hair-dresser.
+049258 old .E. {#keSa#} the hair, {#Cid#} to cut, affix {#kvip.#}
+049259 old 
+
+data/yat.txt
+016156 old <HI>{#keSa.cCid (d)#}¦ 5. {%m.%} A barber.
+
+------------------------------------------------------------------------
+
+case 023: kriyAvata:51014,51019 =a1 kriyAvat:16805,16806
+data/wil.txt
+051013 old .{#kriyAvata#}¦ mfn. ({#-vAn-vatI-vat#})
+051014 old .²1 Engaged in business.
+051015 old .²2 Understanding business, fit for it, possessed of worldly knowledge.
+051016 old .²2 Celebrating religious rites.
+051017 old .E. {#kriyA,#} and {#matup#} aff.
+051018 old 
+
+data/yat.txt
+016804 old <HI>{#kriyAvat (vAn-vatI-vat)#}¦ {%a.%} Engaged
+016805 old <>in business or rites.
+
+------------------------------------------------------------------------
+
+case 024: kzeqa:52849,52850 =a1 kzeq:17499,17499
+data/wil.txt
+052848 old .{#kzeqa#}¦ r. 10th cl. ({#kzeqayati#}) To eat.
+052849 old 
+
+data/yat.txt
+017498 old <HI>{#kzeq (ka) kzeqayati#}¦ 10. {%a.%} To eat.
+
+------------------------------------------------------------------------
+
+case 025: gamBIravedina:56116,56118 =a1 gamBIravedin:18726,18727
+data/wil.txt
+056115 old .{#gamBIravedina#}¦ m. ({#-dI#}) A restive elephant.
+056116 old .E. {#gamBIra#} dull, and {#vida#} to know, affix {#Rini.#}
+056117 old 
+
+data/yat.txt
+018725 old <HI>{#gamBIra.vedin (dI)#}¦ 5. {%m.%} A restive
+018726 old <>unmanageable elephant.
+
+------------------------------------------------------------------------
+
+case 026: garalina:56189,56191 =a1 garalin:18748,18748
+data/wil.txt
+056188 old .{#garalina#}¦ mfn. ({#-lI-linI-li#}) Venomous, poisonous.
+056189 old .E. {#garala,#} and {#ini#} aff.
+056190 old 
+
+data/yat.txt
+018747 old <HI>{#garalin (lI-linI-li)#}¦ {%a.%} Poisonous.
+
+------------------------------------------------------------------------
+
+case 027: garGa:56267,56268 =a1 garG:18776,18776
+data/wil.txt
+056266 old .{#garGa#}¦ r. 1st cl. ({#garGati#}) To go or move.
+056267 old 
+
+data/yat.txt
+018775 old <HI>{#garG garGati#}¦ 1. {%a.%} To move. [Page247-b+ 38]
+
+------------------------------------------------------------------------
+
+case 028: garBadruha:56427,56429 =a1 garBadruh:18838,18838
+data/wil.txt
+056426 old .{#garBadruha#}¦ mfn. ({#-druk#} or {#druw#}) Causing abortion.
+056427 old .E. {#garBa,#} and {#druha#} what injures.
+056428 old 
+
+data/yat.txt
+018837 old <HI>{#garBa.druh (k)#}¦ {%a.%} Causing abortion.
+
+------------------------------------------------------------------------
+
+case 029: guruvata:58213,58215 =a1 guruvat:19468,19468
+data/wil.txt
+058212 old .{#guruvata#}¦ {%ind.%} Like a {%Guru,%} as a {%Guru.%}
+058213 old .E. {#guru,#} and {#bati#} aff.
+058214 old 
+
+data/yat.txt
+019467 old <HI>{#guru.vat#}¦ {%ad.%} Like a teacher.
+
+------------------------------------------------------------------------
+
+case 030: Gora:61607,61608 =a1 Gor:20664,20664
+data/wil.txt
+061606 old .{#Gora#}¦ r. 1st cl. ({#Gorati#}) To go as a horse.
+061607 old 
+
+data/yat.txt
+020663 old <HI>{#Gor Gorati#}¦ 1. {%a.%} To go as a horse.
+
+------------------------------------------------------------------------
+
+case 031: cakoradfSa:61783,61785 =a1 cakoradfS:20721,20721
+data/wil.txt
+061782 old .{#cakoradfSa#}¦ mfn. ({#-dfk#}) Fine-eyed.
+061783 old .E. {#cakora#} and {#dfSa#} the eye.
+061784 old 
+
+data/yat.txt
+020720 old <HI>{#cakora.dfS (dfk)#}¦ {%a.%} Fine-eyed.
+
+------------------------------------------------------------------------
+
+case 032: citrakarmmavida:64394,64398 =a1 citrakarmmavid:21685,21686
+data/wil.txt
+064393 old .{#citrakarmmavida#}¦ m. ({#-vida#})
+064394 old .²1 A painter.
+064395 old .²2 A magician.
+064396 old .E. {#citrakarmma,#} and {#vida#} who knows.
+064397 old 
+
+data/yat.txt
+021684 old <HI>{#citrakarmma.vid (d)#}¦ 5. {%m.%} Painter;
+021685 old <>magician. {%a.%} Knowing wonders.
+
+------------------------------------------------------------------------
+
+case 033: cihna:64969,64975 =a1 cihn:21896,21897
+data/wil.txt
+064968 old .{#cihna#}¦ n. ({#-hnaM#})
+064969 old .²1 A mark of any kind, a spot, stain, sign, symbol, &c.
+064970 old .²2 A banner, a standard.
+064971 old .²3 A symptom.
+064972 old .E. {#caha#} to pound, affix {#nak,#} and the radical vowel changed to {#i,#} or
+064973 old {#cihna#} to mark, {#ka#} aff.
+064974 old 
+
+data/yat.txt
+021895 old <HI>{#cihn (hnaM)#}¦ 1. {%n.%} A mark of any kind;
+021896 old <>a banner; a symptom.
+
+------------------------------------------------------------------------
+
+case 034: Catrina:65941,65944 =a1 Catrin:22242,22243
+data/wil.txt
+065940 old .{#Catrina#}¦ mfn. ({#-trI-triRI-tri#}) Bearing a parasol or umbrella. m.
+065941 old ({#-trI#}) A barber.
+065942 old .E. {#Catra,#} and {#ini#} aff.
+065943 old 
+
+data/yat.txt
+022241 old <HI>{#Catrin (trI)#}¦ 5. {%m.%} A barber. {%a.%} Bear-
+022242 old <>ing a parasol.
+
+------------------------------------------------------------------------
+
+case 035: jihvAliha:69315,69317 =a1 jihvAlih:23427,23427
+data/wil.txt
+069314 old .{#jihvAliha#}¦ m. ({#-liw#}) A dog.
+069315 old .E. {#jihvA,#} and {#lih#} who licks or laps, from {#liha#} with {#kvip#} aff.
+069316 old 
+
+data/yat.txt
+023426 old <HI>{#jihvA.lih (w)#}¦ 5. {%m.%} A dog.
+
+------------------------------------------------------------------------
+
+case 036: Jarja:70585,70588 =a1 Jarj:23897,23897
+data/wil.txt
+070584 old .{#Jarja#}¦ r. 6th cl. ({#Jarjati#})
+070585 old .²1 To say, to speak.
+070586 old .²2 To censure, to blame.
+070587 old 
+
+data/yat.txt
+023896 old <HI>{#Jarj (Sa) JarYati#}¦ 6. {%a. Idem.%}
+
+------------------------------------------------------------------------
+
+case 037: QuQa:71203,71205 =a1 QuQ:24143,24143
+data/wil.txt
+071202 old .{#QuQa#}¦ ({#i#}) {#QaQi#} {%Sautra%} root, ({#QuRQati#}) To search, to
+071203 old seek. [Page361]
+071204 old 
+
+data/yat.txt
+024142 old <HI>{#QuQ (i) QuRQati#}¦ 1. {%a.%} To seek.
+
+------------------------------------------------------------------------
+
+case 038: tamonuda:72503,72510 =a1 tamonud:24624,24625
+data/wil.txt
+072502 old .{#tamonuda#}¦ mfn. ({#-nudH#}) Dispersing darkness. m. ({#-nud#} or {#nut#})
+072503 old .²1 Fire.
+072504 old .²2 The sun.
+072505 old .²3 The moon.
+072506 old .²4 A lamp.
+072507 old .E. {#tamas#} darkness, {#nuda#} to send away or disperse, affix {#kvip;#} also
+072508 old with {#ka#} affix {#tamonuda.#}
+072509 old 
+
+data/yat.txt
+024623 old <HI>{#tamo.nud (t)#}¦ 5. {%m.%} Fire; sun, moon;
+024624 old <>lamp. {%a.%} Dispersing night.
+
+------------------------------------------------------------------------
+
+case 039: tucCa:74821,74827 =a1 tucC:25461,25461
+data/wil.txt
+074820 old .{#tucCa#}¦ mfn. ({#-cCaH-cCA-cCaM#})
+074821 old .²1 Void, empty.
+074822 old .²2 Small, little.
+074823 old .²3 Abandoned, deserted.
+074824 old .²4 Low, contemptible. n. ({#-cCaM#}) Chaff.
+074825 old .E. {#tula#} to weigh, Un'a4di affix {#Ca.#}
+074826 old 
+
+data/yat.txt
+025460 old <HI>{#tucC (ka) tucCayati#}¦ {%a.%} To cover.
+
+------------------------------------------------------------------------
+
+case 040: tOka:76241,76242 =a1 tOk:25976,25976
+data/wil.txt
+076240 old .{#tOka#}¦ ({#f#}) {#tOkf#} r. 1st cl. ({#tOkate#}) To go or move.
+076241 old 
+
+data/yat.txt
+025975 old <HI>{#tOk (f) tOkate#}¦ 1. {%d.%} To move.
+
+------------------------------------------------------------------------
+
+case 041: TuDa:77691,77692 =a1 TuD:26539,26540
+data/wil.txt
+077690 old .{#TuDa#}¦ r. 4th cl. ({#TuDyati-te#}) To become pure.
+077691 old 
+
+data/yat.txt
+026538 old <HI>{#TuD (ya, Ya) TuDyati#}¦ 4. {%c.%} To become
+026539 old <>pure or clean.
+
+------------------------------------------------------------------------
+
+case 042: dfQaDura:82657,82660 =a1 dfQaDur:28384,28384
+data/wil.txt
+082656 old .{#dfQaDura#}¦ mfn. ({#-DUH-DUH-Du#}) Strong, able to bear a weight or
+082657 old load.
+082658 old .E. {#dfQa,#} and {#Dur#} a burthen.
+082659 old 
+
+data/yat.txt
+028383 old <HI>{#dfQa.Dur (DuH)#}¦ {%a.%} Strong, able to bear.
+
+------------------------------------------------------------------------
+
+case 043: payoDasa:98791,98796 =a1 payoDas:34048,34049
+data/wil.txt
+098790 old .{#payoDasa#}¦ m. ({#-DAH#})
+098791 old .²1 The ocean.
+098792 old .²2 A piece of water.
+098793 old .²3 A cloud.
+098794 old .E. {#payas#} water, {#DA#} to contain, Un'a4di aff. {#asi.#}
+098795 old 
+
+data/yat.txt
+034047 old <HI>{#payo.Das (DAH)#}¦ 5. {%m.%} The ocean;
+034048 old <>piece of water; cloud.
+
+------------------------------------------------------------------------
+
+case 044: paramAtmana:99160,99163 =a1 paramAtman:34193,34193
+data/wil.txt
+099159 old .{#paramAtmana#}¦ m. ({#-tmA#}) The Supreme Being, considered as the soul of the
+099160 old universe.
+099161 old .E. {#parama#} first, {#Atman#} spirit or soul.
+099162 old 
+
+data/yat.txt
+034192 old <HI>{#paramA\tman (tmA)#}¦ 5. {%m.%} The Supreme.
+
+------------------------------------------------------------------------
+
+case 045: paSurAja:102456,102458 =a1 paSurAj:35318,35318
+data/wil.txt
+102455 old .{#paSurAja#}¦ m. ({#-jaH#}) A lion.
+102456 old .E. {#paSu#} a beast, and {#rAja#} sovereign.
+102457 old 
+
+data/yat.txt
+035317 old <HI>{#paSu.rAj (w)#}¦ 5. {%m.%} A lion.
+
+------------------------------------------------------------------------
+
+case 046: pucCina:106219,106222 =a1 pucCin:36705,36705
+data/wil.txt
+106218 old .{#pucCina#}¦ mfn. ({#-cCI-cCinI-cCi#}) Having a tail. m. ({#-cCI#}) A
+106219 old cock.
+106220 old .E. {#pucCa#} a tail, and {#ini#} aff.
+106221 old 
+
+data/yat.txt
+036704 old <HI>{#pucCin (cCI)#}¦ 5. {%m.%} A cock. {%a.%} Tailed.
+
+------------------------------------------------------------------------
+
+case 047: puzpa:107428,107429 =a1 puzp:37150,37150
+data/wil.txt
+107427 old .{#puzpa#}¦ r. 4th. cl. ({#puzpati#}) To flower, to blossom.
+107428 old 
+
+data/yat.txt
+037149 old <HI>{#puzp (ya) puzpati#}¦ 4. {%a.%} To flower. [Page489-b+ 38]
+
+------------------------------------------------------------------------
+
+case 048: pUra:107994,107999 =a1 pUr:37367,37369
+data/wil.txt
+107993 old .{#pUra#}¦ r. 4th cl. ({#I#}) {#pUrI#} ({#pUryyate#})
+107994 old .²1 To satisfy.
+107995 old .²2 To fill.
+107996 old .²3 To be satisfied.
+107997 old .²4 To be full. r. 10th cl. ({#pUrayati#}) To satisfy.
+107998 old 
+
+data/yat.txt
+037366 old <HI>{#pUr (ya, I, Na) pUryyate#}¦ 4. {%d.%} To satisfy
+037367 old <>or fill or be full. {#(ka) pUrayati#} 10.
+037368 old <>{%a.%} To satisfy.
+
+------------------------------------------------------------------------
+
+case 049: pradiSa:112550,112553 =a1 pradiS:38958,38959
+data/wil.txt
+112549 old .{#pradiSa#}¦ f. ({#-dik#}) Intermediate point of the compass, or half quarter,
+112550 old as north-east, south-west, &c.
+112551 old .E. {#pra#} implying division, and {#diS#} a point or quarter.
+112552 old 
+
+data/yat.txt
+038957 old <HI>{#pra.diS (k)#}¦ 5. {%f.%} Intermediate point,
+038958 old <>or half quarter of the compass.
+
+------------------------------------------------------------------------
+
+case 050: prasArina:114617,114623 =a1 prasArin:39617,39618
+data/wil.txt
+114616 old .{#prasArina#}¦ mfn. ({#-rI-riRI-ri#})
+114617 old .²1 Going along gently, gliding, flowing, creeping.
+114618 old .²2 Spreading, expanding.
+114619 old .²3 Spreading around, or about.
+114620 old .²4 Expanded, unfolded.
+114621 old .E. {#pra#} before {#sf#} to go, {#GinuR#} aff.
+114622 old 
+
+data/yat.txt
+039616 old <HI>{#pra.sArin (rI-riRI-ri)#}¦ {%a.%} Going
+039617 old <>along gently, flowing, creeping.
+
+------------------------------------------------------------------------
+
+case 051: prAcInavarhisa:115312,115317 =a1 prAcInavarhis:39851,39851
+data/wil.txt
+115311 old .{#prAcInavarhisa#}¦ m. ({#-rhiH#})
+115312 old .²1 A name of INDRA.
+115313 old .²2 A king.
+115314 old .E. {#prAcIna#} eastern, and {#varhis#} light; presiding over the eastern
+115315 old quarter.
+115316 old 
+
+data/yat.txt
+039850 old <HI>{#prAcIna.varhis (rhiH)#}¦ 1. {%m. Indra;%} king.
+
+------------------------------------------------------------------------
+
+case 052: prARayata:115491,115493 =a1 prARayat:39909,39909
+data/wil.txt
+115490 old .{#prARayata#}¦ mfn. ({#-yana-yantI-yata#}) Rescuing, restoring to life.
+115491 old .E. {#prARa#} nom. v. caus. form, {#Satf#} aff.
+115492 old 
+
+data/yat.txt
+039908 old <HI>{#prARayat (n-ntI-t)#}¦ {%p.%} Reviving.
+
+------------------------------------------------------------------------
+
+case 053: prADAnyatasa:115727,115729 =a1 prADAnyatas:39994,39994
+data/wil.txt
+115726 old .{#prADAnyatasa#}¦ {%ind.%} Chiefly.
+115727 old .E. {#praDAnya,#} and {#tasi#} aff.
+115728 old 
+
+data/yat.txt
+039993 old <HI>{#prADAnyatas#}¦ {%adv.%} Chiefly.
+
+------------------------------------------------------------------------
+
+case 054: prItivacasa:116321,116323 =a1 prItivacas:40197,40197
+data/wil.txt
+116320 old .{#prItivacasa#}¦ n. ({#-caH#}) Gracious or kindly speech.
+116321 old .E. {#prIti,#} and {#vacas#} speech.
+116322 old 
+
+data/yat.txt
+040196 old <HI>{#prIti.vacas (caH)#}¦ 5. {%n.%} Kind speech.
+
+------------------------------------------------------------------------
+
+case 055: PaRina:117074,117076 =a1 PaRin:40461,40461
+data/wil.txt
+117073 old .{#PaRina#}¦ m. ({#-RI#}) A snake.
+117074 old .E. {#PaRa#} a hood, and {#ini#} aff.
+117075 old 
+
+data/yat.txt
+040460 old <HI>{#PaRin (RI)#}¦ 5. {%m.%} A snake.
+
+------------------------------------------------------------------------
+
+case 056: BUta:122597,122618 =a1 BUt:42419,42419
+data/wil.txt
+122596 old .{#BUta#}¦ mfn. ({#-taH-tA-taM#})
+122597 old .²1 Been, become.
+122598 old .²2 Being, existing.
+122599 old .²3 Gone, past.
+122600 old .²4 (In composition,) Like, resembling.
+122601 old .²5 Obtained, got.
+122602 old .²6 Proper, right.
+122603 old .²7 True.
+122604 old .²8 Known. mn. ({#-taH-taM#})
+122605 old .²1 A goblin, a ghost, a malignant spirit, haunting cemeteries, lurking in
+122606 old trees, animating carcases, and deluding or devouring human beings.
+122607 old .²2 A living being. m. ({#-taH#})
+122608 old .²1 A son, a child.
+122609 old .²2 A demigod of a particular class.
+122610 old .²3 The fourteenth day of the dark half of the lunar month.
+122611 old .²4 A name of S'IVA. n. ({#-taM#})
+122612 old .²1 An element; five {%Bhu4tas%} are enumerated: earth, fire, water, air, and
+122613 old {%A'ka4s'%} or æther.
+122614 old .²2 (In law,) Fact, matter of fact, the real state of the case, or what has
+122615 old actually been.
+122616 old .E. {#BU#} to be, aff. {#kta#} of the participle past.
+122617 old 
+
+data/yat.txt
+042418 old <HI>{#BUt#}¦ {%conj.%} As, like.
+
+------------------------------------------------------------------------
+
+case 057: muTa:130760,130763 =a1 muT:45304,45304
+data/wil.txt
+130759 old .{#muTa(i,)muTi#}¦ r. 1st cl. ({#munTati#})
+130760 old .²1 To hurt or kill.
+130761 old .²2 To suffer pain.
+130762 old 
+
+data/yat.txt
+045303 old <HI>{#muT (i) munTati#}¦ 1. {%a.%} To hurt; to suffer.
+
+------------------------------------------------------------------------
+
+case 058: mraca:132923,132924 =a1 mrac:46049,46049
+data/wil.txt
+132922 old .{#mraca#}¦ r. 1st cl. ({#mracati#}) To go, to move.
+132923 old 
+
+data/yat.txt
+046048 old <HI>{#mrac mracati#}¦ 1. {%a.%} To go.
+
+------------------------------------------------------------------------
+
+case 059: raTArBaka:136475,136477 =a1 raTArBak:47268,47268
+data/wil.txt
+136474 old .{#raTArBaka#}¦ m. ({#-kaH#}) A small car.
+136475 old .E. {#raTa,#} and {#arBaka#} small.
+136476 old 
+
+data/yat.txt
+047267 old <HI>{#raTA\rBak (kaH)#}¦ 1. {%m.%} A small car.
+
+------------------------------------------------------------------------
+
+case 060: reva:139258,139262 =a1 rev:48202,48202
+data/wil.txt
+139257 old .{#reva(f)revf#}¦ ({#revate#})
+139258 old .²1 To go by leaps or jumps, to leap, to jump.
+139259 old .²2 To go, to move.
+139260 old .²3 To flow as a river.
+139261 old 
+
+data/yat.txt
+048201 old <HI>{#rev (F, Na) rebati#}¦ 1. {%d.%} To go.
+
+------------------------------------------------------------------------
+
+case 061: laGUkaraRa:140166,140170 =a1 laGUkaraR:48525,48526
+data/wil.txt
+140165 old .{#laGUkaraRa#}¦ n. ({#-RaM#})
+140166 old .²1 Reducing in weight or consequence.
+140167 old .²2 Thinking little of, contemning.
+140168 old .E. {#laGu,#} and {#karaRa#} making, {#cci#} augment.
+140169 old 
+
+data/yat.txt
+048524 old <HI>{#laGU.karaR (RaM)#}¦ 1. {%n.%} Reducing; con-
+048525 old <>temning, despising.
+
+------------------------------------------------------------------------
+
+case 062: laSuna:140875,140878 =a1 laSun:48765,48765
+data/wil.txt
+140874 old .{#laSuna#}¦ n. ({#-naM#}) Garlick.
+140875 old .E. {#aSa#} to eat, Un'a4di aff. {#unan,#} and {#laSa#} substituted for the
+140876 old root; also with the vowel of the aff. long {#laSUna#} n. ({#-naM#})
+140877 old 
+
+data/yat.txt
+048764 old <HI>{#laSun (naM)#}¦ 1. {%n.%} Garlick.
+
+------------------------------------------------------------------------
+
+case 063: vAca:146645,146651 =a1 vAc:50845,50846
+data/wil.txt
+146644 old .{#vAca#}¦ f. ({#-vAk,#})
+146645 old .²1 Speech.
+146646 old .²2 Speaking.
+146647 old .²3 SARASWATI4, the goddess of speech.
+146648 old .²4 A phrase, a proverb or adage.
+146649 old .E. {#vaca#} to speak, aff. {#kvip,#} and the vowel made long.
+146650 old 
+
+data/yat.txt
+050844 old <HI>{#vAc (vAk)#}¦ 5. {%f.%} Speech or its god-
+050845 old <>dess; a phrase; proverb.
+
+------------------------------------------------------------------------
+
+case 064: viprakfta:152027,152033 =a1 viprakft:52797,52797
+data/wil.txt
+152026 old .{#viprakfta#}¦ mfn. ({#-taH-tA-taM#})
+152027 old .²1 Reviled, abused, treated with contempt or contumely.
+152028 old .²2 Opposed, counteracted.
+152029 old .²3 Injured, offended.
+152030 old .²4 Retaliated, requited.
+152031 old .E. {#vi#} and {#pra#} before {#kfta#} made; made little or nothing of.
+152032 old 
+
+data/yat.txt
+052796 old <HI>{#viprakft (t)#}¦ {%a.%} Reviling.
+
+------------------------------------------------------------------------
+
+case 065: vusa:156626,156627 =a1 vus:54485,54485
+data/wil.txt
+156625 old .{#vusa#}¦ r. 4th cl. ({#vusyati#}) To throw or cast off; also {#vusa.#}
+156626 old 
+
+data/yat.txt
+054484 old <HI>{#vus (ya) vusyati#}¦ 4. {%a.%} To throw off.
+
+------------------------------------------------------------------------
+
+case 066: vUza:156628,156629 =a1 vUz:54486,54486
+data/wil.txt
+156627 old .{#vUza#}¦ r. 10th cl. ({#vUzayati#}) To kill, to hurt or injure.
+156628 old 
+
+data/yat.txt
+054485 old <HI>{#vUz (ka) vUzayati#}¦ 10. {%a.%} To kill.
+
+------------------------------------------------------------------------
+
+case 067: vyusa:160827,160828 =a1 vyus:56120,56120
+data/wil.txt
+160826 old .{#vyusa(ira)vyusira#}¦ r. 4th cl. ({#vyusyati#}) To leave, to abandon.
+160827 old 
+
+data/yat.txt
+056119 old <HI>{#vyus (ira ya) vyusyati#}¦ 4. {%a.%} To abandon.
+
+------------------------------------------------------------------------
+
+case 068: vyomaspfSa:160932,160934 =a1 vyomaspfS:56162,56162
+data/wil.txt
+160931 old .{#vyomaspfSa#}¦ mfn. ({#-spfk#}) Sky-touching, lofty.
+160932 old .E. {#vyoma,#} and {#spfS#} what touches.
+160933 old 
+
+data/yat.txt
+056161 old <HI>{#vyoma.spfS (k)#}¦ {%a.%} Sky-touching, lofty.
+
+------------------------------------------------------------------------
+
+case 069: zaDa:170329,170330 =a1 zaD:59988,59988
+data/wil.txt
+170328 old .{#zaDa#}¦ r. 5th cl. ({#zaDnoti#}) To wish to hurt or kill.
+170329 old 
+
+data/yat.txt
+059987 old <HI>{#zaD (na) zaDnoti#}¦ 5. {%a.%} To wish; to hurt.
+
+------------------------------------------------------------------------
+
+case 070: saMsada:171481,171483 =a1 saMsad:60475,60476
+data/wil.txt
+171480 old .{#saMsada#}¦ f. ({#-saw#} or {#sat#}) An assembly, a meeting.
+171481 old .E. {#sam#} before {#zada#} to go, aff. {#kvip.#}
+171482 old 
+
+data/yat.txt
+060474 old <HI>{#saM.sad (t, d)#}¦ 5. {%f.%} An assembly,
+060475 old <>a meeting.
+
+------------------------------------------------------------------------
+
+case 071: sanutara:173845,173846 =a1 sanutar:61403,61403
+data/wil.txt
+173844 old .{#sanutara#}¦ {%ind.%} Concealment.
+173845 old 
+
+data/yat.txt
+061402 old <HI>{#sanutar#}¦ {%ind.%} Concealment.
+
+------------------------------------------------------------------------
+
+case 072: samAsa:175697,175699 =a1 samAs:62149,62149
+data/wil.txt
+175696 old .{#samAsa#}¦ m. ({#-mAH#}) A year.
+175697 old .E. {#sa#} for {#saha#} with, and {#mAsa#} a month.
+175698 old 
+
+data/yat.txt
+062148 old <HI>{#samA\s (mAH)#}¦ 5. {%m.%} A year.
+
+------------------------------------------------------------------------
+
+case 073: havyavAha:190414,190416 =a1 havyavAh:68100,68100
+data/wil.txt
+190413 old .{#havyavAha#}¦ m. ({#-haH#}) Fire.
+190414 old .E. {#havya#} an oblation, and {#vAha#} who bears.
+190415 old 
+
+data/yat.txt
+068099 old <HI>{#havya.vAh (w)#}¦ 5. {%m.%} Fire.
+
+------------------------------------------------------------------------
+
+case 074: hfdayina:191680,191682 =a1 hfdayin:68627,68627
+data/wil.txt
+191679 old .{#hfdayina#}¦ mfn. ({#-yI-yinI-yi#}) Good-hearted.
+191680 old .E. {#hfdaya#} the heart, and {#ini#} poss. aff.
+191681 old 
+
+data/yat.txt
+068626 old <HI>{#hfdayin (yI-yinI-yi)#}¦ {%a. Idem.%}
+
+------------------------------------------------------------------------
+

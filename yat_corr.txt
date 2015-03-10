@@ -1,0 +1,2392 @@
+; 02/25/2015 nIruj -> nIruja
+32785 old <HI>{#nI.ruj (jaH-jA-jaM)#}¦ {%a.%} Well. {%n.%} Costus.
+32785 new <HI>{#nI.ruja (jaH-jA-jaM)#}¦ {%a.%} Well. {%n.%} Costus.
+; 02/25/2015 klIv -> klIb  (print error)
+016979 old <HI>{#klIv (f, Na) klIvate#}¦ 1. {%d.%} To be im-
+016979 new <HI>{#klIb (f, Na) klIbate#}¦ 1. {%d.%} To be im-
+; 02/25/2015 pall -> palla (print error)
+035228 old <HI>{#pall (llaH)#}¦ 1. {%m.%} A large basket or
+035228 new <HI>{#palla (llaH)#}¦ 1. {%m.%} A large basket or
+; 02/25/2015 biw -> bid
+041226 old <HI>{#biw (i) bindati#}¦ 1. {%a.%} To constitute
+041226 new <HI>{#bid (i) bindati#}¦ 1. {%a.%} To constitute
+; 02/25/2015 muw -> muW  (print error)
+045280 old <HI>{#muw (i, Na) muwate#}¦ 1. {%d.%} To guard, flee.
+045280 new <HI>{#muW (i, Na) muMWate#}¦ 1. {%d.%} To guard, flee.
+; 02/25/2015 yam -> yaB (print error)
+046316 old <HI>{#yam (O) yamati#}¦ {%a.%} To compulate.
+046316 new <HI>{#yaB (O) yaBati#}¦ {%a.%} To copulate.
+; 02/25/2015 rakta -> raktaka  
+46895 old <HI>{#rakta (kaH)#}¦ 1. {%m.%} A plant (Pentapetes
+46895 new <HI>{#raktaka (kaH)#}¦ 1. {%m.%} A plant (Pentapetes
+; 02/25/2015 rak -> raka
+046889 old <HI>{#rak (kaH)#}¦ 1. {%m.%} The sun-gem; crys-
+046889 new <HI>{#raka (kaH)#}¦ 1. {%m.%} The sun-gem; crys-
+; 02/25/2015 ruw -> ruW (print error)
+048032 old <HI>{#ruw roWati#}¦ 1. {%a.%} To strike; to fell.
+048032 new <HI>{#ruW roWati#}¦ 1. {%a.%} To strike; to fell.
+; 02/25/2015 vaSyatA -> vaSyakA (print error)
+050516 old <HI>{#vaSyatA (kA)#}¦ 1. {%f.%} An obedient wife.
+050516 new <HI>{#vaSyakA (kA)#}¦ 1. {%f.%} An obedient wife.
+; In the following batch, the Yates headword spelling is gramattically wrong
+; and can be seen as inconsistent with the abbreviated termination.
+; For instance aGarmmaDAmana shows (mA), which is the 1st person singular masc.
+; of DAman.  Thus, DAmana is considered wrong and changes to Daman.
+; In these cases, the corresponding Wilson word ends in 'an' or 'in'.
+; 02/26/2015 aGarmmaDAmana -> aGarmmaDAman
+000583 old <HI>{#aGarmma.DAmana (mA)#}¦ 5. {%m.%} The moon.
+000583 new <HI>{#aGarmma.DAman (mA)#}¦ 5. {%m.%} The moon.
+; 02/26/2015 aDarmmAtmana -> aDarmmAtman
+001349 old <HI>{#aDarmmA.tmana (tmA-tma)#}¦ {%a.%} Wicked.
+001349 new <HI>{#aDarmmA.tman (tmA-tma)#}¦ {%a.%} Wicked.
+; 02/26/2015 anIcAnuvarttina -> anIcAnuvarttin
+001936 old <HI>{#anIcA\nuvarttina (rttI-rttinI-rtti)#}¦ {%a.%}
+001936 new <HI>{#anIcA\nuvarttin (rttI-rttinI-rtti)#}¦ {%a.%}
+; 02/26/2015 anuzwuBa -> anuzwuB
+002206 old <HI>{#anu.zwuBa (zwup)#}¦ 5. {%f.%} Heroic verse.
+002206 new <HI>{#anu.zwuB (zwup)#}¦ 5. {%f.%} Heroic verse.
+; 02/26/2015 AjYAnuvarttina -> AjYAnuvarttin
+006466 old <HI>{#AjYA\nuvarttina (rttI-rttinI-rtti)#}¦ {%a. Idem.%}
+006466 new <HI>{#AjYA\nuvarttin (rttI-rttinI-rtti)#}¦ {%a. Idem.%}
+; 02/26/2015 upeyusa -> upeyus
+010049 old <HI>{#upeyusa (yUH-yu)#}¦ {%p.%} Arrived at.
+010049 new <HI>{#upeyus (yUH-yu)#}¦ {%p.%} Arrived at.
+; 02/26/2015 uzwrakroSina -> uzwrakroSin
+010267 old <HI>{#uzwra.kroSina (SI-SinI-Si)#}¦ {%a.%} Making
+010267 new <HI>{#uzwra.kroSin (SI-SinI-Si)#}¦ {%a.%} Making
+; 02/26/2015 kapawina -> kapawin
+011913 old <HI>{#kapawina (wI-winI-wi)#}¦ {%a. Idem.%}
+011913 new <HI>{#kapawin (wI-winI-wi)#}¦ {%a. Idem.%}
+; 02/26/2015 karaRqina -> karaRqin
+012169 old <HI>{#karaRqina (RqI)#}¦ 5. {%m.%} A fish in general.
+012169 new <HI>{#karaRqin (RqI)#}¦ 5. {%m.%} A fish in general.
+; 02/26/2015 karina -> karin
+012290 old <HI>{#karina (rI)#}¦ 5. {%m.%} An elephant.
+012290 new <HI>{#karin (rI)#}¦ 5. {%m.%} An elephant.
+; 02/26/2015 kilvizina -> kilvizin
+014281 old <HI>{#kilvizina (zI-ziRI-zi)#}¦ {%a.%} Wicked.
+014281 new <HI>{#kilvizina (zI-ziRI-zi)#}¦ {%a.%} Wicked.
+; 02/26/2015 kunalina -> kunalin
+014737 old <HI>{#ku.nalina (lI)#}¦ 3. {%m.%} A tree (Æschy-
+014737 new <HI>{#ku.nalin (lI)#}¦ 3. {%m.%} A tree (Æschy-
+; 02/26/2015 kzamABuja -> kzamABuj
+017133 old <HI>{#kzamA.Buja (k)#}¦ {%a.%} Patient, {%m.%} A king.
+017133 new <HI>{#kzamA.Buj (k)#}¦ {%a.%} Patient, {%m.%} A king.
+; 02/26/2015 jaganvasa -> jaganvas
+022494 old <HI>{#jaganvasa (vAn-nuzI-vat)#}¦ {%p.%} Going.
+022494 new <HI>{#jaganvas (vAn-nuzI-vat)#}¦ {%p.%} Going.
+; 02/26/2015 didyuta -> didyut
+027549 old <HI>{#didyuta (t)#}¦ {%a.%} Shining, bright.
+027549 new <HI>{#didyut (t)#}¦ {%a.%} Shining, bright.
+; 02/26/2015 dIrGarogina -> dIrGarogin
+027851 old <HI>{#dIrGa.rogina (gI-giRI-gi)#}¦ {%a.%} Long ill.
+027851 new <HI>{#dIrGa.rogin (gI-giRI-gi)#}¦ {%a.%} Long ill.
+; 02/26/2015 dyUtakfta -> dyUtakft
+028972 old <HI>{#dyUta.kfta (t)#}¦ 5. {%m.%} A gambler.
+028972 new <HI>{#dyUta.kft (t)#}¦ 5. {%m.%} A gambler.
+; 02/26/2015 pApAtmana -> pApAtman
+035852 old <HI>{#pApA\tmana (tmA)#}¦ 5. {%m.%} A sinner.
+035852 new <HI>{#pApA\tman (tmA)#}¦ 5. {%m.%} A sinner.
+; 02/26/2015 pInasina -> pInasin
+036655 old <HI>{#pInasina (sI-sinI-si)#}¦ {%a.%} Having a
+036655 new <HI>{#pInasin (sI-sinI-si)#}¦ {%a.%} Having a
+; 02/26/2015 prajYAcakzusa -> prajYAcakzus
+038210 old <HI>{#prajYA.cakzusa (kzuH)#}¦ 2. {%m. Dhritara4shtra.%}
+038210 new <HI>{#prajYA.cakzus (kzuH)#}¦ 2. {%m. Dhritara4shtra.%}
+; 02/26/2015 PAwa -> PAw
+040585 old <HI>{#PAwa#}¦ {%adv.%} An interjection of calling.
+040585 new <HI>{#PAw#}¦ {%adv.%} An interjection of calling.
+; 02/26/2015 mattadantina -> mattadantin
+043227 old <HI>{#matta.dantina (ntI)#}¦ 5. {%m.%} Wild elephant. [Page569-b+ 38]
+043227 new <HI>{#matta.dantin (ntI)#}¦ 5. {%m.%} Wild elephant. [Page569-b+ 38]
+; 02/26/2015 simple typo naMH -> naH
+045571 old <HI>{#mfga.jIvana (naMH)#}¦ 1. {%m.%} A hunter.
+045571 new <HI>{#mfga.jIvana (naH)#}¦ 1. {%m.%} A hunter.
+; 02/26/2015 yajYakfta -> yajYakft
+046150 old <HI>{#yajYa.kfta (t)#}¦ 5. {%m.%} A sacrificer.
+046150 new <HI>{#yajYa.kft (t)#}¦ 5. {%m.%} A sacrificer.
+; 02/26/2015 yaTAyaTama -> yaTAyaTam
+046260 old <HI>{#yaTA\yaTama#}¦ {%adv.%} As, belonging to.
+046260 new <HI>{#yaTA\yaTam#}¦ {%adv.%} As, belonging to.
+; 02/26/2015 yaTAsvama -> yaTAsvam
+046280 old <HI>{#yaTA\svama#}¦ {%adv.%} As, according to, pro-
+046280 new <HI>{#yaTA\svam#}¦ {%adv.%} As, according to, pro-
+; 02/26/2015 rajasa -> rajas
+047118 old <HI>{#rajasa (jaH)#}¦ 5. {%n.%} The quality, passion,
+047118 new <HI>{#rajas (jaH)#}¦ 5. {%n.%} The quality, passion,
+; 02/26/2015 rasaBasmana -> rasaBasman
+047415 old <HI>{#rasa.Basmana (sma)#}¦ 5. {%n.%} Oxide of mercury.
+047415 new <HI>{#rasa.Basman (sma)#}¦ 5. {%n.%} Oxide of mercury.
+; 02/26/2015 vacasa -> vacas
+049554 old <HI>{#vacasa (caH)#}¦ 5. {%n.%} Speech, voice.
+049554 new <HI>{#vacas (caH)#}¦ 5. {%n.%} Speech, voice.
+; 02/26/2015 vanacArina -> vanacArin
+049777 old <HI>{#vana.cArina (rI-riRI-ri)#}¦ {%a.%} Living
+049777 new <HI>{#vana.cArin (rI-riRI-ri)#}¦ {%a.%} Living
+; 02/26/2015 viMSina -> viMSin
+051612 old <HI>{#viMSina (SI)#}¦ 5. {%m.%} Twenty, a score.
+051612 new <HI>{#viMSin (SI)#}¦ 5. {%m.%} Twenty, a score.
+; 02/26/2015 viSvaYca -> viSvaYc
+053713 old <HI>{#viSvaYca (SvaN-SucI-Svak)#}¦ {%a.%} All-per-
+053713 new <HI>{#viSvaYc (SvaN-SucI-Svak)#}¦ {%a.%} All-per-
+; 02/26/2015 viSvadryaYca -> viSvadryaYc
+053720 old <HI>{#viSva.dryaYca (dryaN-drIcI-dryak)#}¦ {%a.%} Moving
+053720 new <HI>{#viSva.dryaYc (dryaN-drIcI-dryak)#}¦ {%a.%} Moving
+; 02/26/2015 saNGaSasa -> saNGaSas
+060911 old <HI>{#saNGaSasa#}¦ {%adv.%} Collectively.
+060911 new <HI>{#saNGaSas#}¦ {%adv.%} Collectively.
+; 02/26/2015 saDryaYca -> saDryaYc
+061363 old <HI>{#saDryaYca (DryaN-DrIcI-Dryak)#}¦ {%a.%} Accompa-
+061363 new <HI>{#saDryaYc (DryaN-DrIcI-Dryak)#}¦ {%a.%} Accompa-
+; 02/26/2015 samBAvitAtmana -> samBAvitAtman
+062647 old <HI>{#samBAvitA.tmana (tmA-tma)#}¦ {%a.%} Noble-
+062647 new <HI>{#samBAvitA.tman (tmA-tma)#}¦ {%a.%} Noble-
+; 02/26/2015 suSirasa -> suSiras
+065339 old <HI>{#su.Sirasa (rAH-rAH-raH)#}¦ {%a.%} Having a
+065339 new <HI>{#su.Siras (rAH-rAH-raH)#}¦ {%a.%} Having a
+; 02/26/2015 svara -> svar
+067329 old <HI>{#svara#}¦ {%ind.%} Heaven, sky; splendour;
+067329 new <HI>{#svar#}¦ {%ind.%} Heaven, sky; splendour;
+; 02/26/2015 svita -> svit
+067617 old <HI>{#svita#}¦ {%adv.%} A particle of questioning
+067617 new <HI>{#svit#}¦ {%adv.%} A particle of questioning
+; 02/26/2015 hiqimbaBida -> hiqimbaBid
+068340 old <HI>{#hiqimba.Bida (d-t)#}¦ 5. {%m. Idem.%}
+068340 new <HI>{#hiqimba.Bid (d-t)#}¦ 5. {%m. Idem.%}
+; 02/26/2015 antarhAsa -> antarhAs
+002343 old <HI>{#antarhA\s (saH-sA-saM)#}¦ {%a.%} Self-satisfied.
+002343 new <HI>{#antarhA\sa (saH-sA-saM)#}¦ {%a.%} Self-satisfied.
+; 02/26/2015 kalyARavacan -> kalyARavacana
+012977 old <HI>{#kalyARa.vacan (naM)#}¦ 1. {%n.%} Kind speech.
+012977 new <HI>{#kalyARa.vacana (naM)#}¦ 1. {%n.%} Kind speech.
+; 02/26/2015 kaScan -> kaScana
+013057 old <HI>{#kaScan#}¦ {%pro.%} Somebody, some one.
+013057 new <HI>{#kaScana#}¦ {%pro.%} Somebody, some one.
+; 02/26/2015 cihn -> cihna
+021896 old <HI>{#cihn (hnaM)#}¦ 1. {%n.%} A mark of any kind;
+021896 new <HI>{#cihna (hnaM)#}¦ 1. {%n.%} A mark of any kind;
+; 02/26/2015 raTArBak -> raTArBaka
+047268 old <HI>{#raTA\rBak (kaH)#}¦ 1. {%m.%} A small car.
+047268 new <HI>{#raTA\rBaka (kaH)#}¦ 1. {%m.%} A small car.
+; 02/26/2015 rev -> reb
+048202 old <HI>{#rev (F, Na) rebati#}¦ 1. {%d.%} To go.
+048202 new <HI>{#reb (F, Na) rebati#}¦ 1. {%d.%} To go.
+; 02/26/2015 laGUkaraR -> laGUkaraRa
+048525 old <HI>{#laGU.karaR (RaM)#}¦ 1. {%n.%} Reducing; con-
+048525 new <HI>{#laGU.karaRa (RaM)#}¦ 1. {%n.%} Reducing; con-
+; 02/26/2015 laSun -> laSuna
+048765 old <HI>{#laSun (naM)#}¦ 1. {%n.%} Garlick.
+048765 new <HI>{#laSuna (naM)#}¦ 1. {%n.%} Garlick.
+; 02/26/2015 o -> oM  (print error)
+010995 old <HI>{#o#}¦ or {#om#} {%ind.%} The mystical sylla-
+010995 new <HI>{#oM#}¦ or {#om#} {%ind.%} The mystical sylla-
+;-------
+; 02/27/2015 aBokta -> aBoktf  (print error)
+003365 old <HI>{#a.Bokta (ktA-ktI-ktiM)#}¦ {%a.%} Abstemious.
+003365 new <HI>{#a.Boktf (ktA-ktrI-ktf)#}¦ {%a.%} Abstemious.
+; 02/27/2015 udgAf -> udgAtf (typo)
+009190 old <HI>{#udgA\f (tA)#}¦ 4. {%m.%} A reciter of the
+009190 new <HI>{#udgAtf (tA)#}¦ 4. {%m.%} A reciter of the
+; 02/27/2015 dvi -> dvihfdayA  (print error) (, -> .)
+029451 old <HI>{#dvi, hfdayA (yA)#}¦ 1. {%f.%} Pregnant woman.
+029451 new <HI>{#dvi.hfdayA (yA)#}¦ 1. {%f.%} Pregnant woman.
+; 02/27/2015 napta -> naptf  (print error)
+030732 old <HI>{#napta (ptA)#}¦ 4. {%m.%} A grandson. {%f.%} ({#tro#})
+030732 new <HI>{#naptf (ptA)#}¦ 4. {%m.%} A grandson. {%f.%} ({#trI#})
+; 02/27/2015 BaNkta -> BaNktf
+041612 old <HI>{#BaNkta (ktA-ktrI-ktf)#}¦ {%a.%} Breaking.
+041612 new <HI>{#BaNktf (ktA-ktrI-ktf)#}¦ {%a.%} Breaking.
+; 02/27/2015 BUtaBarttF -> BUtaBarttf  (print error)
+042447 old <HI>{#BUta.BarttF (rttA-rtrI-rttf)#}¦ {%a.%} Cherishing.
+042447 new <HI>{#BUta.Barttf (rttA-rttrI-rttf)#}¦ {%a.%} Cherishing.
+; 02/27/2015 BftyaBarttF -> BftyaBarttf  (print error)
+042665 old <HI>{#Bftya.BarttF (rttA)#}¦ 4. {%m.%} A kind master.
+042665 new <HI>{#Bftya.Barttf (rttA)#}¦ 4. {%m.%} A kind master.
+; 02/27/2015 manta -> mantf
+043683 old <HI>{#manta (ntA)#}¦ 4. {%m.%} A sage; a counsellor. [Page575-b+ 38]
+043683 new <HI>{#mantf (ntA)#}¦ 4. {%m.%} A sage; a counsellor. [Page575-b+ 38]
+; 02/27/2015 suvarRakartta -> suvarRakarttf
+065251 old <HI>{#suvarRa.kartta (rttA)#}¦ 4. {%m.%} A goldsmith.
+065251 new <HI>{#suvarRa.karttf (rttA)#}¦ 4. {%m.%} A goldsmith.
+; 02/27/2015 spazwf -> sprazwf (print error)
+066839 old <HI>{#spazwf (zwA-zwrI-zwf)#}¦ {%m.%} Morbid heat;
+066839 new <HI>{#sprazwf (zwA-zwrI-zwf)#}¦ {%m.%} Morbid heat;
+; 02/27/2015 agnikrIqa -> agnikrIqA
+000413 old <HI>{#agni.krIqa (qA)#}¦ 1. {%f.%} Fireworks.
+000413 new <HI>{#agni.krIqA (qA)#}¦ 1. {%f.%} Fireworks.
+; 02/27/2015 alpavidyA -> alpavidya (print error)
+004453 old <HI>{#alpa.vidyA (dyaH-dyA-dyaM)#}¦ {%a.%} Ill taught.
+004453 new <HI>{#alpa.vidya (dyaH-dyA-dyaM)#}¦ {%a.%} Ill taught.
+; 02/27/2015 kAH -> kA (print error)
+013727 old <HI>{#kArpAsikA (kAH)#}¦ 1. {%f.%} The cotton plant.
+013727 new <HI>{#kArpAsikA (kA)#}¦ 1. {%f.%} The cotton plant.
+; 02/27/2015 kzudrapatra -> kzudrapatrA
+017431 old <HI>{#kzudra.patra (trA)#}¦ 1. {%f.%} Wood-sorrel.
+017431 new <HI>{#kzudra.patrA (trA)#}¦ 1. {%f.%} Wood-sorrel.
+; 02/27/2015 KaRqakaTa -> KaRqakaTA
+017758 old <HI>{#KaRqa.kaTa (TA)#}¦ 1. {%f.%} A tale or story
+017758 new <HI>{#KaRqa.kaTA (TA)#}¦ 1. {%f.%} A tale or story
+; 02/27/2015 GanajvAla -> GanajvAlA
+020432 old <HI>{#Gana.jvAla (lA)#}¦ 1. {%f.%} Lightning.
+020432 new <HI>{#Gana.jvAlA (lA)#}¦ 1. {%f.%} Lightning.
+; 02/27/2015 dAkzikanTa -> dAkzikanTA
+027256 old <HI>{#dAkzi.kanTa (nTA)#}¦ 1. {%f.%} A place in the
+027256 new <HI>{#dAkzi.kanTA (nTA)#}¦ 1. {%f.%} A place in the
+; 02/27/2015 dArvvipatrika -> dArvvipatrikA
+027429 old <HI>{#dArvvi-patrika (kA)#}¦ 1. {%f.%} Sort of potherb.
+027429 new <HI>{#dArvvi-patrikA (kA)#}¦ 1. {%f.%} Sort of potherb.
+; 02/27/2015 dIrGamUlA -> dIrGamUla
+027840 old <HI>{#dIrGa.mUlA (laH-lA-laM)#}¦ {%a.%} Having a
+027840 new <HI>{#dIrGa.mUla (laH-lA-laM)#}¦ {%a.%} Having a
+; 02/27/2015 DUlika -> DUlikA
+030248 old <HI>{#DUlika (kA)#}¦ 1. {%f.%} Fog or mist.
+030248 new <HI>{#DUlikA (kA)#}¦ 1. {%f.%} Fog or mist.
+; 02/27/2015 navaDa -> navaDA (print error)
+030957 old <HI>{#navaDa#}¦ {%adv.%} Nine-fold. [Page408-a+ 38]
+030957 new <HI>{#navaDA#}¦ {%adv.%} Nine-fold. [Page408-a+ 38]
+; 02/27/2015 BarvA -> Barv  (print error)
+041835 old <HI>{#BarvA Barvati#}¦ 1. {%a.%} To hurt.
+041835 new <HI>{#Barv Barvati#}¦ 1. {%a.%} To hurt.
+; 02/27/2015 malizWA -> malizWa
+044022 old <HI>{#malizWA (zWaH-zWA-zWaM)#}¦ {%a.%} Very foul or vile.
+044022 new <HI>{#malizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Very foul or vile.
+; 02/27/2015 miTyApratijYA->miTyApratijYa
+045029 old <HI>{#miTyA.prati.jYA (jYaH-jYA-jYaM)#}¦ {%a.%} Promising falsely.
+045029 new <HI>{#miTyA.prati.jYa (jYaH-jYA-jYaM)#}¦ {%a.%} Promising falsely.
+; 02/27/2015 raktajihvA->raktajihva (print error)
+046911 old <HI>{#rakta.jihvA (hvA)#}¦ 1. {%m.%} A lion. [Page618-a+ 38]
+046911 new <HI>{#rakta.jihva (hva)#}¦ 1. {%m.%} A lion. [Page618-a+ 38]
+; 02/27/2015 hfzwapuzwA->hfzwapuzwa
+068670 old <HI>{#hfzwa.puzwA (zwaH-zwA-zwaM)#}¦ {%a.%} Well fed and
+068670 new <HI>{#hfzwa.puzwa (zwaH-zwA-zwaM)#}¦ {%a.%} Well fed and
+; 
+; miscellaneous
+;
+; 02/27/2015 akakkaSa -> akarkkaSa (print error)
+000162 old <HI>{#a.kakkaSa (SaH-SA-SaM)#}¦ {%a.%} Soft.
+000162 new <HI>{#a.karkkaSa (SaH-SA-SaM)#}¦ {%a.%} Soft.
+; 02/27/2015 akzaracaMRa -> akzaracaRa (print smudge)
+000267 old <HI>{#akzara.caMRa (RaH)#}¦ 1. {%m.%} A scribe.
+000267 new <HI>{#akzara.caRa (RaH)#}¦ 1. {%m.%} A scribe.
+; 02/27/2015 agaDa -> agADa (typo)
+000375 old <HI>{#a.gaDa (DaM)#}¦ 1. {%n.%} A hole; {%a.%} Bottom-
+000375 new <HI>{#a.gADa (DaM)#}¦ 1. {%n.%} A hole; {%a.%} Bottom-
+; 02/27/2015 
+; Note: Yates scan actually has two headwords, agriya and agrIya.
+; Since it is difficult to insert a line in Yates (without messing up all
+; the line numbers missingByLine_slp1.txt, we have chosen to 
+; (a) use agriya and (b) alter the definition as shown.
+000559 old <HI>{#agrIya (yaH-yA-yaM)#}¦ {%a.%} Chief; elder.
+000559 new <HI>{#agriya (yaH-yA-yaM)#}¦ {%a.%} Chief; elder. also {#agrIya#}
+; 02/27/2015 aNga -> aNka  (first one, print error)
+000597 old <HI>{#aNga (ka t) aNkayati#}¦ 10. {%a.%} To mark,
+000597 new <HI>{#aNka (ka t) aNkayati#}¦ 10. {%a.%} To mark,
+; 02/27/2015 aNkUwa -> aNkuwa (print error)
+000613 old <HI>{#aNkUwa (waH)#}¦ 1. {%m.%} A key.
+000613 new <HI>{#aNkuwa (waH)#}¦ 1. {%m.%} A key.
+; 02/27/2015 dUrdDara -> durdDara (print error)
+000621 old <HI>{#aNkuSa\dUrdDara (raH)#}¦ 1. {%m.%} A restive or
+000621 new <HI>{#aNkuSa\durdDara (raH)#}¦ 1. {%m.%} A restive or
+; 02/27/2015 aNgalodya -> aNgaloqya  (print error)
+000673 old <HI>{#aNga.lodya (dyaH)#}¦ 1. {%m.%} Ginger.
+000673 new <HI>{#aNga.loqya (qyaH)#}¦ 1. {%m.%} Ginger.
+; 02/27/2015 mETilI -> mETila (print error)
+045936 old <HI>{#mETilI (laH-lI-laM)#}¦ {%a.%} Of {%Mithila.%}
+045936 new <HI>{#mETila (laH-lI-laM)#}¦ {%a.%} Of {%Mithila.%}
+; 02/27/2015 atikfcCa -> atikfcCra (print error)
+001053 old <HI>{#ati.kfcCa (cCaM)#}¦ 1. {%n.%} Great suffer-
+001053 new <HI>{#ati.kfcCra (cCraM)#}¦ 1. {%n.%} Great suffer-
+; 02/27/2015 atiSayana -> atiSayanaM (print error)
+001132 old <HI>{#ati.Sayana (naM)#}¦ {%adv. Idem.%}
+001132 new <HI>{#ati.SayanaM (naM)#}¦ {%adv. Idem.%}
+; 02/27/2015 atiSoBina -> atiSoBana (print error)
+001136 old <HI>{#ati.SoBina (naH-nA-naM)#}¦ {%a.%} Excellent,
+001136 new <HI>{#ati.SoBana (naH-nA-naM)#}¦ {%a.%} Excellent,
+; 02/27/2015 atri -> atridfgja  (print error) ('.' missing)
+001218 old <HI>{#atri dfgja. (jaH)#}¦ 1. {%m. Idem.%}
+001218 new <HI>{#atri.dfgja. (jaH)#}¦ 1. {%m. Idem.%}
+; 02/27/2015 adam -> adas (print error)
+001249 old <HI>{#adam (asO-asO-adaH)#}¦ {%pro.%} This.
+001249 new <HI>{#adas (asO-asO-adaH)#}¦ {%pro.%} This.
+; 02/27/2015 aDaSvara -> aDaScara (print error)
+001352 old <HI>{#aDa.Svara (raH)#}¦ 1. {%m.%} A thief.
+001352 new <HI>{#aDa.Scara (raH)#}¦ 1. {%m.%} A thief.
+; 02/27/2015 aDikrArin -> aDikArin (print error)
+001376 old <HI>{#aDi.krArin (rI)#}¦ 1. {%m.%} A sage, a mas-
+001376 new <HI>{#aDi.kArin (rI)#}¦ 1. {%m.%} A sage, a mas-
+; 02/27/2015 aDipaTa -> aDiraTa (print error)
+001420 old <HI>{#aDi.paTa (TaH)#}¦ 1. {%m.%} A charioteer.
+001420 new <HI>{#aDi.raTa (TaH)#}¦ 1. {%m.%} A charioteer.
+; 02/27/2015 aDyAruQa -> aDyArUQa (print error)
+; This viewed as print error, since YAT has ArUQa.
+; Note BUR has similar error (aDyAruQa). Don't think ARuQa is grammatically
+; possible
+001536 old <HI>{#aDyA\ruQa (QaH-QA-QaM)#}¦ {%a.%} Mounted
+001536 new <HI>{#aDyA\rUQa (QaH-QA-QaM)#}¦ {%a.%} Mounted
+; 02/27/2015 aDyAhata -> aDyAhfta (print error)
+001554 old <HI>{#aDyA.hata (taH-tA-taM)#}¦ {%par.%} Supplied
+001554 new <HI>{#aDyA.hfta (taH-tA-taM)#}¦ {%par.%} Supplied
+; 02/27/2015 anam -> anas  (s/m confusion)
+001751 old <HI>{#anam (naH)#}¦ 5. {%n.%} A cart; life.
+001751 new <HI>{#anas (naH)#}¦ 5. {%n.%} A cart; life.
+; 02/27/2015 anAryyatika -> anAryyatikta (print error)
+001818 old <HI>{#anA\ryya\tika (kaH)#}¦ 1. {%m.%} A medicinal
+001818 new <HI>{#anA\ryya\tikta (ktaH)#}¦ 1. {%m.%} A medicinal
+; 02/27/2015 anuraYjanaM -> anuraYjana (print error, 'M')
+002143 old <HI>{#anuraYjanaM (naM)#}¦ 1. {%n.%} Attachment.
+002143 new <HI>{#anuraYjana (naM)#}¦ 1. {%n.%} Attachment.
+; 02/27/2015 anuviDAcin -> anuviDAyin (typo)
+002185 old <HI>{#anu.viDAcin (yI-yinI-yi)#}¦ {%n.%} Con-
+002185 new <HI>{#anu.viDAyin (yI-yinI-yi)#}¦ {%n.%} Con-
+; 02/27/2015 anuSAyin -> anuSayin (print error)
+002194 old <HI>{#anu.SAyin (yI-yinI-yi)#}¦ {%a.%} Peni-
+002194 new <HI>{#anu.Sayin (yI-yinI-yi)#}¦ {%a.%} Peni-
+; 02/27/2015 anO -> ano (typo)
+002262 old <HI>{#anO#}¦ {%ind.%} No, not. [Page030-a+ 38]
+002262 new <HI>{#ano#}¦ {%ind.%} No, not. [Page030-a+ 38]
+; 02/27/2015 antarveMdI -> antarvedI (typo:  're' diacritic hard to read)
+002341 old <HI>{#anta.rveM\dI (dI)#}¦ 3. {%f.%} The Doab.
+002341 new <HI>{#anta.rve\dI (dI)#}¦ 3. {%f.%} The Doab.
+; 02/27/2015 antarveMSman -> antarveSman (typo:  're' diacritic hard to read)
+002342 old <HI>{#anta.rveMSman (Sma)#}¦ 5. {%n.%} Inner room.
+002342 new <HI>{#anta.rveSman (Sma)#}¦ 5. {%n.%} Inner room.
+; 02/27/2015 antarvat -> antavat (print error)
+002346 old <HI>{#antarvat (vAn-vatI-vat)#}¦ {%a.%} Final.
+002346 new <HI>{#antavat (vAn-vatI-vat)#}¦ {%a.%} Final.
+; 02/27/2015 antarvAsin -> antavAsin (print error)
+002347 old <HI>{#anta.rvAsin (sI)#}¦ 5. {%m.%} A pupil; an
+002347 new <HI>{#anta.vAsin (sI)#}¦ 5. {%m.%} A pupil; an
+; 02/27/2015 andukra -> anduka  (print error)
+002375 old <HI>{#andukra (kaH)#}¦ 1. {%m.%} A ring or chain
+002375 new <HI>{#anduka (kaH)#}¦ 1. {%m.%} A ring or chain
+; 02/27/2015 anDatamiSra -> anDatAmiSra (print error)
+002393 old <HI>{#anDa.tamiSra#}¦ 1. {%n.%} Second of the
+002393 new <HI>{#anDa.tAmiSra#}¦ 1. {%n.%} Second of the
+; 02/27/2015 anTavAdin -> anyavAdin (typo)
+002468 old <HI>{#anTa.vAdin (dI-dinI-di)#}¦ {%a.%} Speak-
+002468 new <HI>{#anya.vAdin (dI-dinI-di)#}¦ {%a.%} Speak-
+; 02/27/2015 anvazita -> anvazita (typo - poor print)
+002528 old <HI>{#anva\zita (taH-tA-taM)#}¦ {%a.%} Sought. [Page033-b+ 38]
+002528 new <HI>{#anve\zita (taH-tA-taM)#}¦ {%a.%} Sought. [Page033-b+ 38]
+; 02/27/2015 azakAraka -> apakAraka (print error)
+002541 old <HI>{#aza.kAraka (kaH-kA-kaM)#}¦ {%a.%} Injuring.
+002541 new <HI>{#apa.kAraka (kaH-kA-kaM)#}¦ {%a.%} Injuring.
+; 02/27/2015 apaTaM -> apaTa (print error)
+002585 old <HI>{#a.paTaM (TaM)#}¦ 1. {%n.%} The absence of
+002585 new <HI>{#a.paTa (TaM)#}¦ 1. {%n.%} The absence of
+; 02/28/2015 aYcani -> aYcati (print error)
+000924 old <HI>{#aYcani (niH)#}¦ 2. {%m.%} Air.
+000924 new <HI>{#aYcati (tiH)#}¦ 2. {%m.%} Air.
+; 02/28/2015 aDikANgaM -> aDikANga (print error)
+001370 old <HI>{#aDikA\NgaM (NgaM)#}¦ 1. {%n.%} The girdle over
+001370 new <HI>{#aDikA\Nga (NgaM)#}¦ 1. {%n.%} The girdle over
+; 02/28/2015 abadvaka -> abadDaka (typo - print hard to read)
+002993 old <HI>{#a.badvaka (kaH-kA-kaM)#}¦ {%a. Idem.%}
+002993 new <HI>{#a.badDaka (kaH-kA-kaM)#}¦ {%a. Idem.%}
+; 02/28/2015 abadDasuKa -> abadDamuKa  (m/s confusion)
+002994 old <HI>{#abadDa.suKa (KaH-KA-KaM)#}¦ {%a.%} Scurrilous.
+002994 new <HI>{#abadDa.muKa (KaH-KA-KaM)#}¦ {%a.%} Scurrilous.
+; 02/28/2015 abjayoga -> abjaBoga (print error)
+003016 old <HI>{#abja.yoga (gaH)#}¦ 1. {%m.%} The root of
+003016 new <HI>{#abja.Boga (gaH)#}¦ 1. {%m.%} The root of
+; 02/28/2015 marzana -> marzaRa (print error)
+003196 old <HI>{#aBi.marzana (naM)#}¦ 1. {%n.%} Sprinkling on;
+003196 new <HI>{#aBi.marzaRa (RaM)#}¦ 1. {%n.%} Sprinkling on;
+; 02/28/2015 aBraNgaza -> aBraNkaza (print error)
+003482 old <HI>{#aBraNga.za (zaH)#}¦ 1. {%m.%} Air, wind. {%a.%}
+003482 new <HI>{#aBraNka.za (zaH)#}¦ 1. {%m.%} Air, wind. {%a.%}
+; 02/28/2015 aBrasuvallaBa -> aBramuvallaBa (m/s confusion)
+003497 old <HI>{#aBrasu.vallaBa (BaH)#}¦ 1. {%m. Idem.%}
+003497 new <HI>{#aBramu.vallaBa (BaH)#}¦ 1. {%m. Idem.%}
+; 02/28/2015 amartyaBavana -> amartyaBuvana (print error)
+003577 old <HI>{#amartya.Bavana (naM)#}¦ 1. {%n.%} Heaven.
+003577 new <HI>{#amartya.Buvana (naM)#}¦ 1. {%n.%} Heaven.
+; 02/28/2015 amfRala -> amfRAla (print error)
+003652 old <HI>{#amfRala (laM)#}¦ 1. {%n.%} Root of the fra-
+003652 new <HI>{#amfRAla (laM)#}¦ 1. {%n.%} Root of the fra-
+; 02/28/2015 amftodrava -> amftodBava (print error)
+003678 old <HI>{#amfto\drava (vaH)#}¦ 1. {%m.%} A collyrium.
+003678 new <HI>{#amfto\dBava (vaH)#}¦ 1. {%m.%} A collyrium.
+; 02/28/2015 amBasmU -> amBassU  (m/s confusion)
+003766 old <HI>{#amBasmU (smUH)#}¦ 3. {%m.%} Smoke.
+003766 new <HI>{#amBassU (smUH)#}¦ 3. {%m.%} Smoke.
+; 02/28/2015 araDawwa -> araGawwa  (D/G confusion)
+003896 old <HI>{#ara.Dawwa (wwaH)#}¦ 1. {%m.%} A machine for
+003896 new <HI>{#ara.Gawwa (wwaH)#}¦ 1. {%m.%} A machine for
+; 02/28/2015 aripa -> ariza (print error)
+003960 old <HI>{#ari.pa (paH)#}¦ 1. {%m.%} Disease; rain.
+003960 new <HI>{#ari.za (zaH)#}¦ 1. {%m.%} Disease; rain.
+; 02/28/2015 arare -> arere  (print error) (meaning, alph. order)
+004012 old <HI>{#arare#}¦ {%interj. Idem.%}
+004012 new <HI>{#arere#}¦ {%interj. Idem.%}
+; 02/28/2015 arkasAdara -> arkasodara (print error)
+004045 old <HI>{#arka.sAdara (raH)#}¦ 1. {%m.%} Indra's elephant.
+004045 new <HI>{#arka.sodara (raH)#}¦ 1. {%m.%} Indra's elephant.
+; 02/28/2015 arkoMpala -> arkopala (typo)
+004052 old <HI>{#arkoM\pala (laH)#}¦ 1. {%m.%} The sun-stone,
+004052 new <HI>{#arko\pala (laH)#}¦ 1. {%m.%} The sun-stone,
+; 02/28/2015 arTatatva -> arTatattva (print error)
+004123 old <HI>{#arTa.tatva (tvaM)#}¦ 1. {%n.%} Real truth. [Page054-b+ 38]
+004123 new <HI>{#arTa.tattva (tvaM)#}¦ 1. {%n.%} Real truth. [Page054-b+ 38]
+; 02/28/2015 ardDanAreSa -> ardDanArISa (print error)
+004200 old <HI>{#ardDa.nAreSa (SaH)#}¦ {%m.%} A name of Shiva.
+004200 new <HI>{#ardDa.nArISa (SaH)#}¦ {%m.%} A name of Shiva.
+; 02/28/2015 ardDeMndu -> ardDendu  (typo,  smudge)
+004231 old <HI>{#ardDeMndu (nduH)#}¦ 2. {%m.%} A crescent.
+004231 new <HI>{#ardDendu (nduH)#}¦ 2. {%m.%} A crescent.
+; 02/28/2015 ardDoMkta -> ardDokta (typo,  smudge)
+004232 old <HI>{#ardDoM\kta (ktaH-ktA-ktaM)#}¦ {%a.%} Half said.
+004232 new <HI>{#ardDo\kta (ktaH-ktA-ktaM)#}¦ {%a.%} Half said.
+; 02/28/2015 arSamAna -> arSasAna  (s/m confusion)
+004264 old <HI>{#arSa.mAna (naH)#}¦ 1. {%m.%} Fire.
+004264 new <HI>{#arSa.sAna (naH)#}¦ 1. {%m.%} Fire.
+; 02/28/2015 arSoMGna -> arSoGna
+004266 old <HI>{#arSoM.Gna (GnaH)#}¦ 1. {%m.%} An esculent root.
+004266 new <HI>{#arSo.Gna (GnaH)#}¦ 1. {%m.%} An esculent root.
+; 02/28/2015  arSoMroga -> arSoroga  (typo)
+004268 old <HI>{#arSoM.roga (gaH)#}¦ 1. {%m.%} Piles.
+004268 new <HI>{#arSo.roga (gaH)#}¦ 1. {%m.%} Piles.
+; 02/28/2015 arSoMrogin -> arSorogin (typo)
+004271 old <HI>{#arSoMrogin (gI-ginI-gi)#}¦ {%a. Idem.%}
+004271 new <HI>{#arSorogin (gI-ginI-gi)#}¦ {%a. Idem.%}
+; 02/28/2015 arSehita -> arSohita (print error)
+004272 old <HI>{#arSehita (taH)#}¦ {%m.%} Marking-nut plant.
+004272 new <HI>{#arSehita (taH)#}¦ {%m.%} Marking-nut plant.
+; 02/28/2015 alaGupatijYa -> alaGupratijYa (print error)
+004314 old <HI>{#alaGu.pati.jYa (jYaH-jYA-jYaM)#}¦ {%a.%} Solemnly
+004314 new <HI>{#alaGu.prati.jYa (jYaH-jYA-jYaM)#}¦ {%a.%} Solemnly
+; 02/28/2015 alAbu (2nd one) -> alAbU (print error)
+004365 old <HI>{#alAbu (buH)#}¦ 3. {%f. Idem.%}
+004365 new <HI>{#alAbU (bUH)#}¦ 3. {%f. Idem.%}
+; 02/28/2015 alAbukawa -> alAbUkawa (print error)
+004366 old <HI>{#alAbu.kawa (waM)#}¦ 1. {%n.%} Its down.
+004366 new <HI>{#alAbU.kawa (waM)#}¦ 1. {%n.%} Its down.
+; 02/28/2015 alpadakzaRa -> alpadakziRa (print error)
+004428 old <HI>{#alpa.dakzaRa (RaH-RA-RaM)#}¦ Badly paid.
+004428 new <HI>{#alpa.dakziRa (RaH-RA-RaM)#}¦ Badly paid.
+; 02/28/2015 apakraya -> avakraya (print error)
+004495 old <HI>{#apa.kraya (yaH)#}¦ 1. {%m.%} Price; binding.
+004495 new <HI>{#ava.kraya (yaH)#}¦ 1. {%m.%} Price; binding.
+; 02/28/2015 avajatita -> avajanita (print error)
+004582 old <HI>{#ava.jatita (taH-tA-taM)#}¦ 1. {%p.%} Born.
+004582 new <HI>{#ava.janita (taH-tA-taM)#}¦ 1. {%p.%} Born.
+; 02/28/2015 avanAWa -> avanAwa (print error, or smudge)
+004656 old <HI>{#ava.nAWa (waH-wA-waM)#}¦ {%a.%} Flat-nosed.
+004656 new <HI>{#ava.nAwa (waH-wA-waM)#}¦ {%a.%} Flat-nosed.
+; 02/28/2015 avarADin -> avaroDin (print error)
+004753 old <HI>{#ava.rADin (DI-DinI-Di)#}¦ {%a.%} Ob-
+004753 new <HI>{#ava.roDin (DI-DinI-Di)#}¦ {%a.%} Ob-
+; 02/28/2015 avamakTikA -> avasakTikA (m/s confusion)
+004824 old <HI>{#ava.makTikA (kA)#}¦ 1. {%f. Idem.%}
+004824 new <HI>{#ava.sakTikA (kA)#}¦ 1. {%f. Idem.%}
+; 02/28/2015 avicCanna -> avicCinna  (print error)
+004976 old <HI>{#a.vicCanna (nnaH-nnA-nnaM)#}¦ {%a.%} Undivided.
+004976 new <HI>{#a.vicCinna (nnaH-nnA-nnaM)#}¦ {%a.%} Undivided.
+; 02/28/2015 avyAyama -> avyAyAma (print error)
+005183 old <HI>{#a.vyAyama (maH)#}¦ 1. {%m.%} Untiredness.
+005183 new <HI>{#a.vyAyAma (maH)#}¦ 1. {%m.%} Untiredness.
+; 02/28/2015 aSanayita -> aSanAyita (print error)
+005203 old <HI>{#aSanayita (taH-tA-taM)#}¦ {%a.%} Hungry.
+005203 new <HI>{#aSanAyita (taH-tA-taM)#}¦ {%a.%} Hungry.
+; 02/28/2015 SrotrIya -> Srotriya (print error)
+005320 old <HI>{#a.SrotrIya (yaH)#}¦ 1. {%m.%} A Bra4hman who
+005320 new <HI>{#a.Srotriya (yaH)#}¦ 1. {%m.%} A Bra4hman who
+; 02/28/2015 azaqakzaRa -> azaqakzIRa (print error)
+005422 old <HI>{#a.zaqa\kzaRa (RaH)#}¦ 1. {%m.%} A secret.
+005422 new <HI>{#a.zaqa\kzIRa (RaH)#}¦ 1. {%m.%} A secret.
+; 02/28/2015 azwalonaka -> azwalohaka (print error)
+005456 old <HI>{#azwalonaka (kaH)#}¦ 1. {%n.%} The eight
+005456 new <HI>{#azwalohaka (kaH)#}¦ 1. {%n.%} The eight
+; 02/28/2015 azwAstraya -> azwAsraya (print error)
+005480 old <HI>{#azwAstraya (yaH-yA-yaM)#}¦ {%a.%} Octangular.
+005480 new <HI>{#azwAsraya (yaH-yA-yaM)#}¦ {%a.%} Octangular.
+; 02/28/2015 asannadba -> asannadDa (typo, difficult print)
+005599 old <HI>{#a.sannadba (dbaH-dbA-dbaM)#}¦ {%a.%} Born; con-
+005599 new <HI>{#a.sannadDa (dDaH-dDA-dDaM)#}¦ {%a.%} Born; con-
+; 02/28/2015 asamyatti -> asampatti (difficult print)
+005642 old <HI>{#a.samyatti (ttiH)#}¦ 2. {%f.%} Misfortune.
+005642 new <HI>{#a.sampatti (ttiH)#}¦ 2. {%f.%} Misfortune.
+; 02/28/2015 asammaQa -> asammUQa (print obscure)
+005661 old <HI>{#a.sammaQa (QaH-QA-QaM)#}¦ {%a.%} Of clear per-
+005661 new <HI>{#a.sammUQa (QaH-QA-QaM)#}¦ {%a.%} Of clear per-
+; 02/28/2015 asAhAryya -> asAhAyya (print error)
+005715 old <HI>{#a.sAhAryya (ryyaM)#}¦ 1. {%n.%} Want of co-
+005715 new <HI>{#a.sAhAryya (ryyaM)#}¦ 1. {%n.%} Want of co-
+; 02/28/2015 asfkvara -> asfkkara (print error or difficult ligature)
+005802 old <HI>{#asfkva\ra (raH)#}¦ 1. {%m.%} Juice of the
+005802 new <HI>{#asfkka\ra (raH)#}¦ 1. {%m.%} Juice of the
+; 02/28/2015 astAvalambina -> astAvalambana (print error)
+005851 old <HI>{#astA\valambina (naM)#}¦ 1. {%n.%} Setting.
+005851 new <HI>{#astA\valambana (naM)#}¦ 1. {%n.%} Setting.
+; 02/28/2015 asvADAya -> asvADyAya (print error)
+005995 old <HI>{#a.svADAya (yaH)#}¦ 1. {%m.%} A bra4hman in-
+005995 new <HI>{#a.svADyAya (yaH)#}¦ 1. {%m.%} A bra4hman in-
+; 02/28/2015 ahaSeza -> ahaSeza (print error)
+006019 old <HI>{#aha.Seza (zaH)#}¦ 1. {%n.%} Evening.
+006019 new <HI>{#ahaH.Seza (zaH)#}¦ 1. {%n.%} Evening.
+; 02/28/2015 ahasmati -> ahammati (print error)
+006032 old <HI>{#aha.smati (tiH)#}¦ 3. {%f.%} Spiritual igno-
+006032 new <HI>{#aha.mmati (tiH)#}¦ 3. {%f.%} Spiritual igno-
+; 02/28/2015 ahraka -> ahrIka (print error)
+006108 old <HI>{#ahraka (kaH)#}¦ 1. {%m.%} A Bauddha men-
+006108 new <HI>{#ahrIka (kaH)#}¦ 1. {%m.%} A Bauddha men-
+; 02/28/2015 AkAra (first) -> Akara (print error)
+006122 old <HI>{#AkAra (raH)#}¦ 1. {%m.%} A mine.
+006122 new <HI>{#Akara (raH)#}¦ 1. {%m.%} A mine.
+; 02/28/2015 Akuzwa (1st)-> AkuzWa  (print error)
+006205 old <HI>{#A.kuzwa (zwaH-zwA-zwaM)#}¦ {%a.%} Extracted.
+006205 new <HI>{#A.kuzWa (zWaH-zWA-zWaM)#}¦ {%a.%} Extracted.
+; 02/28/2015 Akuzwa (2nd) -> Akruzwa (typo - difficult print)
+006230 old <HI>{#A.kuzwa (zwaH-zwA-zwaM)#}¦ {%p.%} Accursed.
+006230 new <HI>{#A.kruzwa (zwaH-zwA-zwaM)#}¦ {%p.%} Accursed.
+; 02/28/2015 AKukarRIM -> AKukarRI  (print error, or smudge)
+006275 old <HI>{#AKu.karRIM (rRI)#}¦ 3. {%f.%} A plant, (Sal-
+006275 new <HI>{#AKu.karRIM (rRI)#}¦ 3. {%f.%} A plant, (Sal-
+; 02/28/2015 AcAryyApASana -> AcAryyopAsana (two errors) (print error)
+006409 old <HI>{#A.cAryyApA\Sana (naM)#}¦ 1. {%n.%} Waiting on
+006409 new <HI>{#A.cAryyopA\sana (naM)#}¦ 1. {%n.%} Waiting on
+; 02/28/2015 ajYAcakra -> AjYAcakra (print error)
+006462 old <HI>{#ajYA.cakra (kraH)#}¦ 1. {%m.%} Mystical circle.
+006462 new <HI>{#AjYA.cakra (kraH)#}¦ 1. {%m.%} Mystical circle.
+; 02/28/2015 AYjana -> AYcana 
+006481 old <HI>{#A.Yjana (naM)#}¦ 1. {%n.%} Partial extraction
+006481 new <HI>{#A.Ycana (naM)#}¦ 1. {%n.%} Partial extraction
+; 02/28/2015 AtaNga -> AtaNka (print error)
+006521 old <HI>{#AtaNga (NgaH)#}¦ {%m.%} Fear; disease;
+006521 new <HI>{#AtaNka (NkaH)#}¦ {%m.%} Fear; disease;
+; 02/28/2015 AtaYjana -> AtaYcana
+006523 old <HI>{#A.taYjana (naM)#}¦ 1. {%n.%} Calcining; mix-
+006523 new <HI>{#A.taYcana (naM)#}¦ 1. {%n.%} Calcining; mix-
+; 02/28/2015 AtUra -> Atura (print error)
+006553 old <HI>{#A.tUra (raH-rA-raM)#}¦ {%a.%} Diseased.
+006553 new <HI>{#A.tura (raH-rA-raM)#}¦ {%a.%} Diseased.
+; 02/28/2015 AdftyaH -> Adftya (print error)
+006737 old <HI>{#AdftyaH (tyaH-tyA-tyaM)#}¦ {%a.%} Venerable.
+006737 new <HI>{#Adftya (tyaH-tyA-tyaM)#}¦ {%a.%} Venerable.
+; 02/28/2015 ADidEvaka -> ADidEvika (print error)
+006793 old <HI>{#ADi.dEvaka (kaH-kI-kaM)#}¦ {%a.%} Relating
+006793 new <HI>{#ADi.dEvika (kaH-kI-kaM)#}¦ {%a.%} Relating
+; 02/28/2015 AntarveMSmika -> AntarveSmika (typo)
+006911 old <HI>{#Anta.rveMSmika (kaH-kI-kaM)#}¦ {%a.%} Homely.
+006911 new <HI>{#Anta.rveSmika (kaH-kI-kaM)#}¦ {%a.%} Homely.
+; 02/28/2015 AnDa -> AnDra (print error)
+006922 old <HI>{#AnDa (nDaH)#}¦ 1. {%m.%} A Telinga man.
+006922 new <HI>{#AnDra (nDaH)#}¦ 1. {%m.%} A Telinga man.
+; 02/28/2015 Amarze -> Amarza
+007109 old <HI>{#A.marze (rzaH)#}¦ 1. {%m.%} Wrath or rage.
+007109 new <HI>{#A.marza (rzaH)#}¦ 1. {%m.%} Wrath or rage.
+; 02/28/2015 Amroqita -> Amreqita (typo)
+007172 old <HI>{#Amroqita (taH-tA-taM)#}¦ {%p.%} Repeated.
+007172 new <HI>{#Amreqita (taH-tA-taM)#}¦ {%p.%} Repeated.
+; 02/28/2015 AyuSeza -> AyuHSeza (typo)
+007226 old <HI>{#Ayu.Seza (zaH)#}¦ 1. {%m.%} Death.
+007226 new <HI>{#AyuH.Seza (zaH)#}¦ 1. {%m.%} Death.
+; 02/28/2015 AyurveMdin -> Ayurvedin (typo)
+007239 old <HI>{#Ayu.rveMdin (dI)#}¦ 1. {%m.%} A practiser of
+007239 new <HI>{#Ayu.rvedin (dI)#}¦ 1. {%m.%} A practiser of
+; 02/28/2015 Arttijya -> Arttvijya (print error)
+007362 old <HI>{#Arttijya (jyaM)#}¦ 1. {%n.%} The office of a
+007362 new <HI>{#Arttvijya (jyaM)#}¦ 1. {%n.%} The office of a
+; 02/28/2015 ArzeMya -> Arzeya (typo)
+007417 old <HI>{#ArzeMya (yaH-yI-yaM)#}¦ {%a.%} Respectable.
+007417 new <HI>{#Arzeya (yaH-yI-yaM)#}¦ {%a.%} Respectable.
+; 02/28/2015 ArzoMQA -> ArzoQA (typo)
+007418 old <HI>{#ArzoMQA (QA)#}¦ 1. {%f.%} A wife married.
+007418 new <HI>{#ArzoQA (QA)#}¦ 1. {%f.%} A wife married.
+; 02/28/2015 iwWara -> iwcara (print error)
+008029 old <HI>{#iwWara (raH)#}¦ 1. {%m.%} A bull set at liberty,
+008029 new <HI>{#iwcara (raH)#}¦ 1. {%m.%} A bull set at liberty,
+; 02/28/2015 indramahakAsuka -> indramahakAmuka  (m/s confusion)
+008158 old <HI>{#indra.maha.kAsuka (kaH)#}¦ 1. {%m.%} A dog.
+008158 new <HI>{#indra.maha.kAmuka (kaH)#}¦ 1. {%m.%} A dog.
+; 03/01/2015 uccaDana -> uccaGana  (G/D confusion)
+008509 old <HI>{#ucca.Dana (naM)#}¦ 1. {%n.%} Inward laughter.
+008509 new <HI>{#ucca.Gana (naM)#}¦ 1. {%n.%} Inward laughter.
+; 03/01/2015 ucCrAdana -> ucCAdana (print error)
+008566 old <HI>{#ucCrA\dana (naM)#}¦ 1. {%n.%} Cleaning with
+008566 new <HI>{#ucCA\dana (naM)#}¦ 1. {%n.%} Cleaning with
+; 03/01/2015 ucCizwaBAjana -> ucCizwaBojana (print error)
+008577 old <HI>{#ucCizwa.BAjana(naH)#}¦ 1. {%m.%} The attend-
+008577 new <HI>{#ucCizwa.Bojana(naH)#}¦ 1. {%m.%} The attend-
+; 03/01/2015 ucCizWAnna -> ucCizwAnna (print error)
+008583 old <HI>{#ucCizWA.nna (nnaM)#}¦ 1. {%n.%} Orts.
+008583 new <HI>{#ucCizwA.nna (nnaM)#}¦ 1. {%n.%} Orts.
+; 03/01/2015 ucCuqA -> ucCUqA (print error)
+008587 old <HI>{#ucCuqA (qA)#}¦ 1. {%f.%} Head of a flag.
+008587 new <HI>{#ucCUqA (qA)#}¦ 1. {%f.%} Head of a flag.
+; 03/01/2015 ucCfNGala -> ucCfNKala  (print error)
+008589 old <HI>{#ucCfNGala (laH-lA-laM)#}¦ {%a.%} Unrestrain-
+008589 new <HI>{#ucCfNKala (laH-lA-laM)#}¦ {%a.%} Unrestrain-
+; 03/01/2015 uqqAsara -> uqqAmara (m/s confusion)
+008651 old <HI>{#uqqA\sara (raH-rA-raM)#}¦ {%a.%} Excellent.
+008651 new <HI>{#uqqA\mara (raH-rA-raM)#}¦ {%a.%} Excellent.
+; 03/01/2015 utkanDara -> utkanDaraM (print missing M in headword)
+008682 old <HI>{#utka\nDara (raM)#}¦ {%adv.%} Bending back.
+008682 new <HI>{#utka\nDaraM (raM)#}¦ {%adv.%} Bending back.
+; 03/01/2015 utkfzwavadana -> utkfzwavedana (print error)
+008717 old <HI>{#utkfzwa.vadana (naM)#}¦ 1. {%n.%} The most re-
+008717 new <HI>{#utkfzwa.vedana (naM)#}¦ 1. {%n.%} The most re-
+; 03/01/2015 uttarAhikArin -> uttarADikArin (typo)
+008830 old <HI>{#uttarA\hikArin (rI-riRI-ri)#}¦ {%a.%} Heir. [Page116-b+ 38]
+008830 new <HI>{#uttarA\DikArin (rI-riRI-ri)#}¦ {%a.%} Heir. [Page116-b+ 38]
+; 03/01/2015 uttIras -> uttIram (m/s confusion)
+008876 old <HI>{#uttI\ras#}¦ {%adv.%} On the shore.
+008876 new <HI>{#uttI\ram#}¦ {%adv.%} On the shore.
+; 03/01/2015 utteMjana -> uttejana (poor print)
+008883 old <HI>{#utteM\jana (naM-nA)#}¦ 1. {%f. n.%} Executing,
+008883 new <HI>{#utte\jana (naM-nA)#}¦ 1. {%f. n.%} Executing,
+; 03/01/2015 utrAsa -> uttrAsa (print error)
+008894 old <HI>{#utrAsa (saH)#}¦ 1. {%m.%} Fear.
+008894 new <HI>{#uttrAsa (saH)#}¦ 1. {%m.%} Fear.
+; 03/01/2015 utpaTas -> utpaTam (m/s confusion)
+008919 old <HI>{#utpaTas#}¦ {%adv.%} Astray.
+008919 new <HI>{#utpaTam#}¦ {%adv.%} Astray.
+; 03/01/2015 utpAWita -> utpAwita (print error)
+008939 old <HI>{#utpA\Wita (taH-tA-taM)#}¦ {%a.%} Eradicated.
+008939 new <HI>{#utpA\wita (taH-tA-taM)#}¦ {%a.%} Eradicated.
+; 03/01/2015 utsAhamampanna -> utsAhasampanna (m/s confusion)
+009005 old <HI>{#utsAha.mampanna (nnaH-nnA-nnaM)#}¦ {%a.%} Active.
+009005 new <HI>{#utsAha.sampanna (nnaH-nnA-nnaM)#}¦ {%a.%} Active.
+; 03/01/2015 utsakatA -> utsukatA (typo - poor print)
+009014 old <HI>{#utsa\ka.tA (tA)#}¦ 1. {%f.%} Regret.
+009014 new <HI>{#utsa\ka.tA (tA)#}¦ 1. {%f.%} Regret.
+; 03/01/2015 udameDa -> udameGa (D/G confusion)
+009092 old <HI>{#uda.meDa (DaH)#}¦ 1. {%m.%} A watery cloud.
+009092 new <HI>{#uda.meGa (GaH)#}¦ 1. {%m.%} A watery cloud.
+; 03/01/2015 udvAvartta -> udAvartta (print error)
+009144 old <HI>{#udvA\vartta (rttaH)#}¦ 1. {%m.%} Colic; difficult
+009144 new <HI>{#udA\vartta (rttaH)#}¦ 1. {%m.%} Colic; difficult
+; 03/01/2015 udadyota -> udadyota (typo)
+009264 old <HI>{#uda.dyota (taH)#}¦ 1. {%m.%} Light.
+009264 new <HI>{#ud.dyota (taH)#}¦ 1. {%m.%} Light.
+; 03/01/2015 udBata -> udBUta (poor print)
+009334 old <HI>{#udBata (taH-tA-taM)#}¦ {%a.%} Born; lofty.
+009334 new <HI>{#udBUta (taH-tA-taM)#}¦ {%a.%} Born; lofty.
+; 03/01/2015 udvajaka -> udvejaka (print error)
+009407 old <HI>{#udva\jaka (kaH-kA-kaM)#}¦ {%a.%} Distressing.
+009407 new <HI>{#udve\jaka (kaH-kA-kaM)#}¦ {%a.%} Distressing.
+; 03/01/2015 uprakAraka -> upakAraka (print error)
+009500 old <HI>{#upra.kAraka (kaH-kA-kaM)#}¦ {%a.%} Helping.
+009500 new <HI>{#upa.kAraka (kaH-kA-kaM)#}¦ {%a.%} Helping.
+; 03/01/2015 urakArakatva -> upakArakatva (print error)
+009501 old <HI>{#urakAraka.tva (tvaM)#}¦ 1. {%n.%} Help.
+009501 new <HI>{#upakAraka.tva (tvaM)#}¦ 1. {%n.%} Help.
+; 03/01/2015 upajozas -> upajozam (m/s confusion)
+009600 old <HI>{#upa.jozas#}¦ {%adv.%} An expression of joy.
+009600 new <HI>{#upa.jozam#}¦ {%adv.%} An expression of joy.
+; 03/01/2015 upapurARa -> upapuraRa (print error)
+009700 old <HI>{#upa.puraRa (RaM)#}¦ 1. {%n.%} Minor Pura4na.
+009700 new <HI>{#upa.purARa (RaM)#}¦ 1. {%n.%} Minor Pura4na.
+; 03/01/2015 uparizWAt -> uparizwAt (print error)
+009768 old <HI>{#uparizWAt#}¦ {%adv.%} Up, above.
+009768 new <HI>{#uparizwAt#}¦ {%adv.%} Up, above.
+; 03/01/2015 upahUta-> upahfta (print error)
+009941 old <HI>{#upa.hUta (taH-tA-taM)#}¦ {%p.%} Taken, of-
+009941 new <HI>{#upa.hfta (taH-tA-taM)#}¦ {%p.%} Taken, of-
+; 03/01/2015 uraSaCada -> uraSCada (difficult ligature)
+010122 old <HI>{#uraSaCa\da (daH)#}¦ 1. {%m.%} Armour. [Page133-b+ 38]
+010122 new <HI>{#uraSCa\da (daH)#}¦ 1. {%m.%} Armour. [Page133-b+ 38]
+; 03/01/2015 ulaza -> ulapa (print error)
+010177 old <HI>{#ulaza (zaH)#}¦ 1. {%m.%} A creeping plant;
+010177 new <HI>{#ulaza (zaH)#}¦ 1. {%m.%} A creeping plant;
+; 03/01/2015 ulleca -> ulloca (print error)
+010226 old <HI>{#ulle\ca (caH)#}¦ 1. {%m.%} An awning.
+010226 new <HI>{#ullo\ca (caH)#}¦ 1. {%m.%} An awning.
+; 03/01/2015 uzitaNguvIna -> uzitaNgavIna (typo - print smudge)
+010258 old <HI>{#uzitaNguvIna (naH-nA-naM)#}¦ {%a.%} Formerly
+010258 new <HI>{#uzitaNgavIna (naH-nA-naM)#}¦ {%a.%} Formerly
+; 03/01/2015 uzwragrova -> uzwragrIva (typo - difficult print)
+010270 old <HI>{#uzwra.grova (vaH)#}¦ 1. {%m.%} Hemorrhoids.
+010270 new <HI>{#uzwra.grIva (vaH)#}¦ 1. {%m.%} Hemorrhoids.
+; 03/01/2015 usraDanyan -> usraDanvan (print error)
+010307 old <HI>{#usraDanyan (nvA)#}¦ 1. {%m.%} Indra.
+010307 new <HI>{#usraDanvan (nvA)#}¦ 1. {%m.%} Indra.
+; 03/01/2015 fYjamAna -> fYjasAna (m/s confusion)
+010501 old <HI>{#fYjamAna (naH)#}¦ 1. {%m.%} A cloud.
+010501 new <HI>{#fYjasAna (naH)#}¦ 1. {%m.%} A cloud.
+; 03/01/2015 ftumAtmya -> ftusAtmya (m/s confusion)
+010548 old <HI>{#ftu.mAtmya (tmyaM)#}¦ 1. {%n.%} Diet of.
+010548 new <HI>{#ftu.sAtmya (tmyaM)#}¦ 1. {%n.%} Diet of.
+; 03/01/2015 fzivaha -> fzIvaha (print error)
+010589 old <HI>{#fzi.vaha (haH-hA-haM)#}¦ {%a.%} Bearing or
+010589 new <HI>{#fzI.vaha (haH-hA-haM)#}¦ {%a.%} Bearing or
+; 03/01/2015 fzpamUka -> fzyamUka (zy difficult ligature)
+010601 old <HI>{#fzpa.mUka (kaH)#}¦ 1. {%m.%} A southern moun-
+010601 new <HI>{#fzya.mUka (kaH)#}¦ 1. {%m.%} A southern moun-
+; 03/01/2015 ekAntatam -> ekAntatas (m/s confusion)
+010792 old <HI>{#ekAnta.tam#}¦ {%adv.%} Alone; much.
+010792 new <HI>{#ekAnta.tas#}¦ {%adv.%} Alone; much.
+; 03/01/2015 etaSam -> etaSas (m/s confusion)
+010854 old <HI>{#etaSam (SAH)#}¦ 1. {%m. Idem.%}
+010854 new <HI>{#etaSas (SAH)#}¦ 1. {%m. Idem.%}
+; 03/01/2015 etTa -> etya (tT/ty confusion)
+010859 old <HI>{#etTa#}¦ {%ind. par.%} Having gone.
+010859 new <HI>{#etya#}¦ {%ind. par.%} Having gone.
+; 03/01/2015 EkzumArika -> EkzuBArika (print error)
+010929 old <HI>{#Ekzu\mArika (kaH-kI-kaM)#}¦ {%a. Idem.%}
+010929 new <HI>{#Ekzu\BArika (kaH-kI-kaM)#}¦ {%a. Idem.%}
+; 03/01/2015 EndrAgra -> EndrAgna  (print error)
+010957 old <HI>{#EndrA\gra (graH)#}¦ 1. {%m.%} A ceremony to In-
+010957 new <HI>{#EndrA\gna (graH)#}¦ 1. {%m.%} A ceremony to In-
+; 03/01/2015 ESanI -> ESAnI (typo)
+010977 old <HI>{#ESanI (nI)#}¦ 3. {%f.%} The north-east
+010977 new <HI>{#ESAnI (nI)#}¦ 3. {%f.%} The north-east
+; 03/01/2015 EzwikapErttika -> EzwikapOrttika (print error)
+010987 old <HI>{#Ezwika.pErttika (kaH-kI-kaM)#}¦ {%a.%} Ceremo-
+010987 new <HI>{#Ezwika.pOrttika (kaH-kI-kaM)#}¦ {%a.%} Ceremo-
+; 03/01/2015 ozaDo -> ozaDI (typo)
+011041 old <HI>{#ozaDo (DI)#}¦ 3. {%f. Idem.%}
+011041 new <HI>{#ozaDI (DI)#}¦ 3. {%f. Idem.%}
+; 03/01/2015 OdvAhika -> OdDAhika (dv/dD difficult ligature)
+011095 old <HI>{#OdvAhika (kaM)#}¦ 1. {%n.%} A gift made to
+011095 new <HI>{#OdDAhika (kaM)#}¦ 1. {%n.%} A gift made to
+; 03/01/2015 OparizWa -> Oparizwa (print error)
+011114 old <HI>{#OparizWa (zWaH-zWI-zWaM)#}¦ {%a.%} Above.
+011114 new <HI>{#Oparizwa (zWaH-zWI-zWaM)#}¦ {%a.%} Above.
+; 03/01/2015 kaNkali -> kaNkeli (print error)
+011273 old <HI>{#kaNkali (liH)#}¦ 2. {%m.%} Jonesia Aso4ka.
+011273 new <HI>{#kaNkeli (liH)#}¦ 2. {%m.%} Jonesia Aso4ka.
+; 03/01/2015 kawukkARa -> kawukvARa (print error)
+011443 old <HI>{#kawu.kkARa (RaH)#}¦ 1. {%m.%} A bird, jacana.
+011443 new <HI>{#kawu.kvARa (RaH)#}¦ 1. {%m.%} A bird, jacana.
+; 03/01/2015 kaRAwInaM -> kaRAwIna (print error)
+011548 old <HI>{#kaRA\wInaM (naH)#}¦ 1. {%m.%} A wagtail.
+011548 new <HI>{#kaRA\wIna (naH)#}¦ 1. {%m.%} A wagtail.
+; 03/01/2015 kaRWakadruma -> kaRwakadruma (print error)
+011570 old <HI>{#kaRWaka.druma (maH)#}¦ 1. {%m.%} Silk-cotton tree.
+011570 new <HI>{#kaRwaka.druma (maH)#}¦ 1. {%m.%} Silk-cotton tree.
+; 03/01/2015 kaRWakArI -> kaRwakArI (print error)
+011581 old <HI>{#kaRWakA\rI (rI)#}¦ 3. {%f. Idem;%} silk-cot-
+011581 new <HI>{#kaRwakA\rI (rI)#}¦ 3. {%f. Idem;%} silk-cot-
+; 03/01/2015 kaRWakASana -> kaRwakASana (print error)
+011585 old <HI>{#kaRWakA\Sana (naH)#}¦ 1. {%m.%} A camel.
+011585 new <HI>{#kaRwakA\Sana (naH)#}¦ 1. {%m.%} A camel.
+; 03/01/2015 kaRwakodvaraRa -> kaRwakodDaraRa  (dv/dD confusion)
+011597 old <HI>{#kaRwako\dvaraRa (RaM)#}¦ 1. {%n.%} Weeding;
+011597 new <HI>{#kaRwako\dDaraRa (RaM)#}¦ 1. {%n.%} Weeding;
+; 03/01/2015 kaRWakuRikA -> kaRWakURikA (print error)
+011608 old <HI>{#kaRWa.kuRikA (kA)#}¦ 1. {%f.%} Indian lute.
+011608 new <HI>{#kaRWa.kURikA (kA)#}¦ 1. {%f.%} Indian lute.
+; 03/01/2015 kaRqekAla -> kaRWekAla (print error)
+011639 old <HI>{#kaRqe.kAla (laH)#}¦ 1. {%m.%} A name of Shiva.
+011639 new <HI>{#kaRWe.kAla (laH)#}¦ 1. {%m.%} A name of Shiva.
+; 03/01/2015 kaTopaKyAna -> kaTopAKyAna (print error)
+011724 old <HI>{#kaTo\paKyAna (naM)#}¦ 1. {%n.%} Narration.
+011724 new <HI>{#kaTo\pAKyAna (naM)#}¦ 1. {%n.%} Narration.
+; 03/01/2015 kadayya -> kadaryya (print error)
+011749 old <HI>{#kada\yya (ryyaH-ryyA-ryyaM)#}¦ {%a.%} Avaricious,
+011749 new <HI>{#kada\ryya (ryyaH-ryyA-ryyaM)#}¦ {%a.%} Avaricious,
+; 03/01/2015 kadayyatva -> kadaryyatva (print error)
+011751 old <HI>{#kadayyatva (tvaM)#}¦ 1. {%n.%} Meanness.
+011751 new <HI>{#kadaryyatva (tvaM)#}¦ 1. {%n.%} Meanness.
+; 03/01/2015 kanakakzara -> kanakakzAra (typo)
+011778 old <HI>{#kanaka.kzara (raH)#}¦ 1. {%m.%} Borax.
+011778 new <HI>{#kanaka.kzAra (raH)#}¦ 1. {%m.%} Borax.
+; 03/01/2015 kanakaBaNka -> kanakaBaNga (print error)
+011784 old <HI>{#kanaka.BaNka (NkaH)#}¦ 1. {%m.%} Piece of gold.
+011784 new <HI>{#kanaka.BaNga (NgaH)#}¦ 1. {%m.%} Piece of gold.
+; 03/01/2015 kapAlamAlikA -> kapAlanAlikA (print error)
+011925 old <HI>{#kapAla.mAlikA (kA)#}¦ 1. {%f.%} A spindle
+011925 new <HI>{#kapAla.nAlikA (kA)#}¦ 1. {%f.%} A spindle
+; 03/01/2015 kapitya -> kapitTa (tT/ty confusion)
+011945 old <HI>{#kapitya (tTaH)#}¦ 1. {%m.%} The wood-apple.
+011945 new <HI>{#kapitTa (tTaH)#}¦ 1. {%m.%} The wood-apple.
+; 03/01/2015 kamalAkAra -> kamalAkara (print error)
+012064 old <HI>{#kamalA\kAra (raH)#}¦ 1. {%m.%} A lotus lake.
+012064 new <HI>{#kamalA\kara (raH)#}¦ 1. {%m.%} A lotus lake.
+; 03/01/2015 uH -> u (print error)
+012109 old <HI>{#kamBu (mBuH)#}¦ 2. {%n.%} Fragrant grass.
+012109 new <HI>{#kamBu (mBu)#}¦ 2. {%n.%} Fragrant grass.
+; 03/01/2015 karaBawwa -> karamawwa (print error)
+012213 old <HI>{#kara.Bawwa (wwaH)#}¦ 1. {%m.%} The betel-nut tree.
+012213 new <HI>{#kara.mawwa (wwaH)#}¦ 1. {%m.%} The betel-nut tree.
+; 03/01/2015 karAmbaka -> karAmlaka (print error)
+012257 old <HI>{#karA\mbaka (kaH)#}¦ 1. {%m.%} Carissa carondas.
+012257 new <HI>{#karA\mlaka (kaH)#}¦ 1. {%m.%} Carissa carondas.
+; 03/01/2015 kariyAdam -> kariyAdas (m/s confusion)
+012301 old <HI>{#kari.yAdam (daH)#}¦ 5. {%n.%} Hippopotamus.
+012301 new <HI>{#kari.yAdas (daH)#}¦ 5. {%n.%} Hippopotamus.
+; 03/01/2015 karIzaNkasA -> karIzaNkazA (print error/typo)
+012318 old <HI>{#karIzaNkasA (zA)#}¦ 1. {%f.%} A gale. [Page162-b+ 38]
+012318 new <HI>{#karIzaNkazA (sA)#}¦ 1. {%f.%} A gale. [Page162-b+ 38]
+; 03/01/2015 karkaciBiwI -> karkacirBiwI (print error)
+012353 old <HI>{#karka.ciBiwI (wI)#}¦ 3. {%f.%} Cucumber.
+012353 new <HI>{#karka.cirBiwI (wI)#}¦ 3. {%f.%} Cucumber.
+; 03/01/2015 karkAwi -> karkawi (typo)
+012366 old <HI>{#karkAwi (wiH)#}¦ 2. {%f.%} A sort of cucumber.
+012366 new <HI>{#karkawi (wiH)#}¦ 2. {%f.%} A sort of cucumber.
+; 03/01/2015 kakaSacCada -> karkaSacCada (print error)
+012388 old <HI>{#kakaSa.cCada (daH)#}¦ 1. {%m.%} A plant (Tro-
+012388 new <HI>{#karkaSa.cCada (daH)#}¦ 1. {%m.%} A plant (Tro-
+; 03/01/2015 karkoMwa => karkowa (print?/typo?)
+012400 old <HI>{#karkoMwa (waH)#}¦ 1. {%m.%} One of the prin-
+012400 new <HI>{#karkowa (waH)#}¦ 1. {%m.%} One of the prin-
+; 03/01/2015 karRakaRqa -> karRakaRqu (poor print)
+012416 old <HI>{#karRa.kaRqa (RquH)#}¦ 2. {%m.%} Itching ear.
+012416 new <HI>{#karRa.kaRqu (RquH)#}¦ 2. {%m.%} Itching ear.
+; 03/01/2015 karRavajita -> karRavarjita (print error)
+012463 old <HI>{#karRa.vajita (taH)#}¦ 1. {%m.%} A snake. {%a.%}
+012463 new <HI>{#karRa.varjita (taH)#}¦ 1. {%m.%} A snake. {%a.%}
+; 03/01/2015 karRIjapa -> karRejapa (typo)
+012513 old <HI>{#karRI.japa (paH)#}¦ 1. {%m.%} A tale-bearer.
+012513 new <HI>{#karRe.japa (paH)#}¦ 1. {%m.%} A tale-bearer.
+; 03/01/2015 karRIndu -> karRendu (typo)
+012514 old <HI>{#karRI.ndu (nduH)#}¦ 2. {%f.%} A semicircular or-
+012514 new <HI>{#karRe.ndu (nduH)#}¦ 2. {%f.%} A semicircular or-
+; 03/01/2015 karttrI -> karttarI (typo)
+012521 old <HI>{#karttrI (rI)#}¦ 3. {%f.%} Pair of scissors.
+012521 new <HI>{#karttarI (rI)#}¦ 3. {%f.%} Pair of scissors.
+; 03/01/2015 karbadAra -> karbudAra (print error)
+012574 old <HI>{#karbadAra (raH)#}¦ 1. {%m.%} Mountain ebony.
+012574 new <HI>{#karbudAra (raH)#}¦ 1. {%m.%} Mountain ebony.
+; 03/01/2015 karburaM -> karbura (print smudge)
+012575 old <HI>{#karburaM (raH-rA-rI-raM)#}¦ {%a.%} Variegated.
+012575 new <HI>{#karbura (raH-rA-rI-raM)#}¦ {%a.%} Variegated.
+; 03/01/2015 karmmakArmmaka -> karmmakArmmuka (print error)
+012592 old <HI>{#karmma.kArmmaka (kaH)#}¦ 1. {%m.%} Strong bow.
+012592 new <HI>{#karmma.kArmmuka (kaH)#}¦ 1. {%m.%} Strong bow.
+; 03/01/2015 karmmakftvat -> karmmakftavat (typo)
+012595 old <HI>{#karmma.kftvat (vAn)#}¦ 5. {%m.%} A director of
+012595 new <HI>{#karmma.kftavat (vAn)#}¦ 5. {%m.%} A director of
+; 03/01/2015 karmmaRivAcaya -> karmmaRivAcya (typo)
+012607 old <HI>{#karmmaRi.vAcaya (cyaH)#}¦ 1. {%m.%} Passive voice.
+012607 new <HI>{#karmmaRi.vAcya (cyaH)#}¦ 1. {%m.%} Passive voice.
+; 03/01/2015 karmmasanyAsika -> karmmasannyAsika
+012657 old <HI>{#karmma.sanyAsika (kaH)#}¦ 1. {%m.%} An ascetic.
+012657 new <HI>{#karmma.sannyAsika (kaH)#}¦ 1. {%m.%} An ascetic.
+; 03/01/2015 (misc error) sandrasamBava -> candrasamBava (print error)
+21071 old <HI>{#sandra.samBava (vaH)#}¦ 1. {%m.%} Planet Mercury.
+21071 new <HI>{#candra.samBava (vaH)#}¦ 1. {%m.%} Planet Mercury.
+; 03/01/2015 karmmoMdAra -> karmmodAra  (typo)
+012705 old <HI>{#karmmoM\dAra (raM)#}¦ 1. {%n.%} Honorable act.
+012705 new <HI>{#karmmo\dAra (raM)#}¦ 1. {%n.%} Honorable act.
+; 03/01/2015 kaliNkaka -> kaliNgaka (print error)
+012883 old <HI>{#kaliNkaka (kaH)#}¦ 1. {%m. Coraiya%} seed.
+012883 new <HI>{#kaliNgaka (kaH)#}¦ 1. {%m. Coraiya%} seed.
+; 03/01/2015 kalkini -> kalkin (typo)
+012915 old <HI>{#kalkini (lkI)#}¦ 5. {%m. Idem. a.%} Foul,
+012915 new <HI>{#kalkin (lkI)#}¦ 5. {%m. Idem. a.%} Foul,
+; 03/01/2015 kalyavatta -> kalyavartta (print error)
+012966 old <HI>{#kalya-vatta (ttaH)#}¦ 1. {%m.%} Breakfast.
+012966 new <HI>{#kalya-vartta (ttaH)#}¦ 1. {%m.%} Breakfast.
+; 03/01/2015 kalyARacAra -> kalyARAcAra (typo)
+012979 old <HI>{#kalyARa\cAra (raH-rA-raM)#}¦ {%a.%} Virtuous.
+012979 new <HI>{#kalyARA\cAra (raH-rA-raM)#}¦ {%a.%} Virtuous.
+; 03/01/2015 kalyaza -> kalyuza  (print poor)
+012983 old <HI>{#kalya.za (zaM)#}¦ 1. {%n.%} The wrist.
+012983 new <HI>{#kalyu.za (zaM)#}¦ 1. {%n.%} The wrist.
+; 03/02/2015 kAsyanIla -> kAMsyanIla (typo)
+013133 old <HI>{#kA.sya.nIla (laH)#}¦ 1. {%m.%} Blue vitriol,
+013133 new <HI>{#kaMsya.nIla (laH)#}¦ 1. {%m.%} Blue vitriol,
+; 03/02/2015 kAkakaMNgu -> kAkakaNgu (print error)
+013138 old <HI>{#kAka.kaMNgu (guH)#}¦ 2. {%f.%} Millet.
+013138 new <HI>{#kAka.kaNgu (guH)#}¦ 2. {%f.%} Millet.
+; 03/02/2015 kARqaspfzWa -> kARqaspfzwa (print error)
+013328 old <HI>{#kARqa.spfzWa (zWaH)#}¦ 1. {%m.%} A soldier.
+013328 new <HI>{#kARqa.spfzwa (zwaH)#}¦ 1. {%m.%} A soldier.
+; 03/02/2015 kAmAyasAya -> kAmAvasAya (typo)
+013551 old <HI>{#kAmA\yasAya (yaH)#}¦ 1. {%m.%} Suppression
+013551 new <HI>{#kAmA\vasAya (yaH)#}¦ 1. {%m.%} Suppression
+; 03/02/2015 kAminu -> kAmin (typo)
+013564 old <HI>{#kAminu (mI-minI-mi)#}¦ 5. {%m.%} The moon,
+013564 new <HI>{#kAmin (mI-minI-mi)#}¦ 5. {%m.%} The moon,
+; 03/02/2015 kAyakteSa -> kAyakleSa (typo)
+013608 old <HI>{#kAya.kteSa (SaH)#}¦ 1. {%m.%} Bodily pain.
+013608 new <HI>{#kAya.kleSa (SaH)#}¦ 1. {%m.%} Bodily pain.
+; 03/02/2015 kAraRaSarIraM -> kAraRaSarIra (typo)
+013643 old <HI>{#kAraRa.SarIraM (raM)#}¦ 1. {%n.%} Seat of the soul.
+013643 new <HI>{#kAraRa.SarIra (raM)#}¦ 1. {%n.%} Seat of the soul.
+; 03/02/2015 kArttikIya -> kArttikeya (print error)
+013710 old <HI>{#kArttikIya (yaH)#}¦ 1. {%m. Ka4rtike4ya%} the
+013710 new <HI>{#kArttikeya (yaH)#}¦ 1. {%m. Ka4rtike4ya%} the
+; 03/02/2015 kApAsanAsikA -> kArpAsanAsikA (print error)
+013725 old <HI>{#kApAsa.nAsikA (kA)#}¦ 1. {%f.%} A spindle.
+013725 new <HI>{#kArpAsa.nAsikA (kA)#}¦ 1. {%f.%} A spindle.
+; 03/02/2015 kAyyavat -> kAryyavat (print error)
+013760 old <HI>{#kAyyavat (vAn-vatI-vat)#}¦ {%a.%} Engag-
+013760 new <HI>{#kAryyavat (vAn-vatI-vat)#}¦ {%a.%} Engag-
+; 03/02/2015 kAryyeMkzaRa -> kAryyekzaRa (typo)
+013789 old <HI>{#kAryyeMkzaRa (RaM)#}¦ 1. {%n.%} Supervision.
+013789 new <HI>{#kAryyekzaRa (RaM)#}¦ 1. {%n.%} Supervision.
+; 03/02/2015 kArSyarI -> kArSmarI (print error?) (yarI in no dictionary)
+013796 old <HI>{#kArSyarI (rI)#}¦ 3. {%f.%} A plant.
+013796 new <HI>{#kArSmarI (rI)#}¦ 3. {%f.%} A plant.
+; 03/02/2015 kArzapaRa -> kArzApaRa (print error)
+013798 old <HI>{#kArzapaRa (RaH-RaM)#}¦ 1. {%m. n.%} A weight of
+013798 new <HI>{#kArzApaRa (RaH-RaM)#}¦ 1. {%m. n.%} A weight of
+; 03/02/2015 kAlAkarRikA -> kAlakarRikA (print error)
+013829 old <HI>{#kAlA.karRikA (kA)#}¦ 1. {%f.%} Misfortune.
+013829 new <HI>{#kAla.karRikA (kA)#}¦ 1. {%f.%} Misfortune.
+; 03/02/2015 kAlakasturI -> kAlakastUrI (print error)
+013833 old <HI>{#kAla.kasturI (rI)#}¦ 3. {%f.%} A plant (Hi-
+013833 new <HI>{#kAla.kastUrI (rI)#}¦ 3. {%f.%} A plant (Hi-
+; 03/02/2015 kAlaprABAta -> kAlapraBAta (print error)
+013882 old <HI>{#kAla.prABAta (taM)#}¦ 1. {%n.%} The sultry sea-
+013882 new <HI>{#kAla.praBAta (taM)#}¦ 1. {%n.%} The sultry sea-
+; 03/02/2015 kAlasezikA -> kAlamezikA (print error)
+013890 old <HI>{#kAla.sezikA (kA)#}¦ 1. {%f. Idem.%}
+013890 new <HI>{#kAla.mezikA (kA)#}¦ 1. {%f. Idem.%}
+; 03/02/2015 kAlaSaya -> kAlaSeya (print error)
+013912 old <HI>{#kAla.Saya (yaM)#}¦ 1. {%n.%} Butter-milk.
+013912 new <HI>{#kAla.Seya (yaM)#}¦ 1. {%n.%} Butter-milk.
+; 03/02/2015 kalyaka -> kAlyaka (print error)
+014003 old <HI>{#kalyaka (kaH)#}¦ 1. {%m.%} Zedoary.
+014003 new <HI>{#kAlyaka (kaH)#}¦ 1. {%m.%} Zedoary.
+; 03/02/2015 kAzwatakz -> kAzWatakz (typo)
+014075 old <HI>{#kAzwa.takz (w)#}¦ 5. {%m.%} A carpenter.
+014075 new <HI>{#kAzWa.takz (w)#}¦ 5. {%m.%} A carpenter.
+; 03/02/2015 kukkawavrata -> kukkuwavrata (print error)
+014409 old <HI>{#kukkawa.vrata (taM)#}¦ 1. {%n.%} A religious ob-
+014409 new <HI>{#kukkawa.vrata (taM)#}¦ 1. {%n.%} A religious ob-
+; 03/02/2015 kuNkama -> kuNkuma (print error)
+014427 old <HI>{#kuNkama (maH)#}¦ 1. {%m.%} Saffron.
+014427 new <HI>{#kuNkuma (maH)#}¦ 1. {%m.%} Saffron.
+; 03/02/2015 kudmala -> kuwmala (typo, difficult ligature)
+014583 old <HI>{#kudmala (laH-laM)#}¦ 1. {%m. n.%} An opening
+014583 new <HI>{#kuwmala (laH-laM)#}¦ 1. {%m. n.%} An opening
+; 03/02/2015 kuqyalita -> kuqmalita (print error)
+014618 old <HI>{#kuqyalita (taH-tA-taM)#}¦ {%a.%} Blossomed.
+014618 new <HI>{#kuqmalita (taH-tA-taM)#}¦ {%a.%} Blossomed.
+; 03/02/2015 kunapasaptaka -> kutapasaptaka (print error)
+014682 old <HI>{#kunapa.saptaka (kaM)#}¦ 1. {%n.%} A particular
+014682 new <HI>{#kutapa.saptaka (kaM)#}¦ 1. {%n.%} A particular
+; 03/02/2015 kukUhalin -> kutUhalin (print error)
+014696 old <HI>{#kukU.halin (lI-linI-li)#}¦ {%a.%} Eager.
+014696 new <HI>{#kutU.halin (lI-linI-li)#}¦ {%a.%} Eager.
+; 03/02/2015 kubjakaRWaka -> kubjakaRwaka (print error)
+014802 old <HI>{#kubja.kaRWaka (kaH)#}¦ 1. {%m.%} White mimosa.
+014802 new <HI>{#kubja.kaRwaka (kaH)#}¦ 1. {%m.%} White mimosa.
+; 03/02/2015 kuraRWaka -> kuraRwaka (print error)
+014927 old <HI>{#kuraRWaka (kaH)#}¦ 1. {%m.%} Yellow amaranth.
+014927 new <HI>{#kuraRwaka (kaH)#}¦ 1. {%m.%} Yellow amaranth.
+; 03/02/2015 kulakva -> kulakka (print error)
+014997 old <HI>{#kulakva (kvaH)#}¦ 1. {%m.%} Beating time.
+014997 new <HI>{#kulakka (kvaH)#}¦ 1. {%m.%} Beating time.
+; 03/02/2015 kuSAkAra -> kuSAkara (print error)
+015213 old <HI>{#kuSA\kAra (raH)#}¦ 1. {%m.%} Fire.
+015213 new <HI>{#kuSA\kara (raH)#}¦ 1. {%m.%} Fire.
+; 03/02/2015 kuvAgra -> kuSAgra (print error)
+015215 old <HI>{#kuvA\gra (graH-grA-graM)#}¦ {%a.%} Sharp. {%m.%} The
+015215 new <HI>{#kuSA\gra (graH-grA-graM)#}¦ {%a.%} Sharp. {%m.%} The
+; 03/02/2015 kuSoSaya -> kuSeSaya (typo)
+015253 old <HI>{#kuSo.Saya (yaM)#}¦ 1. {%n.%} A lotus. {%m.%} A
+015253 new <HI>{#kuSe.Saya (yaM)#}¦ 1. {%n.%} A lotus. {%m.%} A
+; 03/02/2015 kusitAyI -> kusItAyI
+015298 old <HI>{#kusitAyI (yI)#}¦ 3. {%f.%} The wife of a
+015298 new <HI>{#kusItAyI (yI)#}¦ 3. {%f.%} The wife of a
+; 03/02/2015 kUwaSAlBali -> kUwaSAlmali (print error)
+015425 old <HI>{#kUwa.SAlBali (liH)#}¦ 2. {%m.%} A species
+015425 new <HI>{#kUwa.SAlmali (liH)#}¦ 2. {%m.%} A species
+; 03/02/2015 kUwATaBAzitA -> kUwArTaBAzitA (print error)
+015435 old <HI>{#kUwA\Ta.BAzitA (tA)#}¦ 1. {%f.%} A tale.
+015435 new <HI>{#kUwA\rTa.BAzitA (tA)#}¦ 1. {%f.%} A tale.
+; 03/02/2015 vUpAra -> kUpAra (print error)
+015463 old <HI>{#vUpAra (raH)#}¦ 1. {%m.%} The ocean.
+015463 new <HI>{#kUpAra (raH)#}¦ 1. {%m.%} The ocean.
+; 03/02/2015 kfMtaDvasta -> kftaDvasta  (print error)
+015630 old <HI>{#kfMta.Dvasta (staH-stA-staM)#}¦ {%a.%} Lost after
+015630 new <HI>{#kfta.Dvasta (staH-stA-staM)#}¦ {%a.%} Lost after
+; 03/02/2015 kftapurvvin -> kftapUrvvin (print error)
+015641 old <HI>{#kfta.purvvin (rvvI-rvviRI-rvvi)#}¦ {%a.%} Having
+015641 new <HI>{#kfta.pUrvvin (rvvI-rvviRI-rvvi)#}¦ {%a.%} Having
+; 03/02/2015 kfpopati -> kfpIpati (typo)
+015834 old <HI>{#kfpo.pati (tiH)#}¦ 2. {%m. Drona4cha4rya.%}
+015834 new <HI>{#kfpI.pati (tiH)#}¦ 2. {%m. Drona4cha4rya.%}
+; 03/02/2015 kfzRadalana -> kfzRadaSana (print error)
+015943 old <HI>{#kfzRa.dalana (naH-nA-naM)#}¦ {%a.%} Having
+015943 new <HI>{#kfzRa.daSana (naH-nA-naM)#}¦ {%a.%} Having
+; 03/02/2015 kfzRaBft-> kfzRamft (print error)
+015973 old <HI>{#kfzRa.Bft (t)#}¦ 5. {%f.%} A country with
+015973 new <HI>{#kfzRa.mft (t)#}¦ 5. {%f.%} A country with
+; 03/02/2015 kfzRAvfntikA -> kfzRavfntikA (typo)
+015995 old <HI>{#kfzRAvfntikA (kA)#}¦ 1. {%f.%} A tree (Gme-
+015995 new <HI>{#kfzRa.vfntikA (kA)#}¦ 1. {%f.%} A tree (Gme-
+; 03/02/2015 kfzRakzu -> kfzRekzu (typo - poor print)
+016032 old <HI>{#kfzRakzu (kzuH)#}¦ 2. {%m.%} A sugar-cane.
+016032 new <HI>{#kfzRekzu (kzuH)#}¦ 2. {%m.%} A sugar-cane.
+; 03/02/2015 kokilakza -> kokilAkza (typo)
+016287 old <HI>{#kokilakza (kzaH)#}¦ 1. {%m. Idem.%}
+016287 new <HI>{#kokilAkza (kzaH)#}¦ 1. {%m. Idem.%}
+; 03/02/2015 kOryya -> kOrpya (print error)
+016553 old <HI>{#kOryya (ryyaH)#}¦ 1. {%m.%} The sign {%Scorpio.%}
+016553 new <HI>{#kOrpya (ryyaH)#}¦ 1. {%m.%} The sign {%Scorpio.%}
+; 03/02/2015 kOzaya -> kOzeya (print error)
+016613 old <HI>{#kOzaya (yaH-yI-yaM)#}¦ {%a.%} Silken.
+016613 new <HI>{#kOzeya (yaH-yI-yaM)#}¦ {%a.%} Silken.
+; 03/02/2015 krAnta (2nd) -> krAntu (print error)
+016768 old <HI>{#krAnta (ntaH)#}¦ 2. {%m.%} A bird in general.
+016768 new <HI>{#krAntu (ntuH)#}¦ 2. {%m.%} A bird in general.
+; 03/02/2015 krimikaRWaka -> krimikaRwaka (print error)
+016771 old <HI>{#krimi.kaRWaka (kaH)#}¦ 1. {%m.%} A medici-
+016771 new <HI>{#krimi.kaRwaka (kaH)#}¦ 1. {%m.%} A medici-
+; 03/02/2015 kriyAdDezin -> kriyAdvezin (print error)
+016785 old <HI>{#kriyA.dDezin (zI)#}¦ 5. {%m.%} One of the
+016785 new <HI>{#kriyA.dvezin (zI)#}¦ 5. {%m.%} One of the
+; 03/02/2015 kroqa -> krIqa (print error)
+016822 old <HI>{#kroqa (f) krIqati#}¦ 1. {%a.%} To play. With
+016822 new <HI>{#krIqa (f) krIqati#}¦ 1. {%a.%} To play. With
+; 03/02/2015 krIqAsaram -> krIqAsaras (m/s confusion)
+016835 old <HI>{#krIqA.saram (raH)#}¦ 5. {%n.%} A reservoir.
+016835 new <HI>{#krIqA.saras (raH)#}¦ 5. {%n.%} A reservoir.
+; 03/02/2015 klOman -> kloman (print error)
+017004 old <HI>{#klOman (ma)#}¦ 1. {%n.%} The bladder.
+017004 new <HI>{#kloman (ma)#}¦ 1. {%n.%} The bladder.
+; 03/02/2015 kzatatejam -> kzatatejas (m/s confusion)
+017069 old <HI>{#kzata.tejam (jAH-jaH)#}¦ {%a.%} Obscured.
+017069 new <HI>{#kzata.tejas (jAH-jaH)#}¦ {%a.%} Obscured.
+; 03/02/2015 kzataviDvasin -> kzataviDvaMsin (typo)
+017071 old <HI>{#kzata.viDvasin (sI)#}¦ 5. {%m.%} A potherb
+017071 new <HI>{#kzata.viDvaMsin (sI)#}¦ 5. {%m.%} A potherb
+; 03/02/2015 kzAnta (2nd) -> kzAntu (print error)
+017184 old <HI>{#kzAnta (ntaH-ntaH-nta)#}¦ {%a.%} Patient.
+017184 new <HI>{#kzAntu (ntuH-ntuH-ntu)#}¦ {%a.%} Patient.
+; 03/02/2015 kzArazaNka -> kzArazawka (print error)
+017207 old <HI>{#kzAra.zaNka (NkaM)#}¦ 1. {%n.%} Six trees of dif-
+017207 new <HI>{#kzAra.zawka (NkaM)#}¦ 1. {%n.%} Six trees of dif-
+; 03/02/2015 kzitijanta -> kzitijantu  (print error)
+017240 old <HI>{#kziti.janta (ntaH)#}¦ 2. {%m.%} An earthworm.
+017240 new <HI>{#kziti.jantu (ntuH)#}¦ 2. {%m.%} An earthworm.
+; 03/02/2015 kzIrAnnada -> kzIrAnnAda
+017380 old <HI>{#kzIrA\nna.da (daH)#}¦ 1. {%m.%} An infant both
+017380 new <HI>{#kzIrA\nnA\da (daH)#}¦ 1. {%m.%} An infant both
+; 03/02/2015 kzIreda -> kzIroda (print error)
+017392 old <HI>{#kzIreda (daH)#}¦ 1. {%m.%} The sea of milk.
+017392 new <HI>{#kzIroda (daH)#}¦ 1. {%m.%} The sea of milk.
+; 03/02/2015 kzudrARqamatmyasaNGAta -> kzudrARqamatsyasaNGAta (m/s confusion)
+017449 old <HI>{#kzudrA\Rqa.matmya.saNGAta (taH)#}¦ 1. {%m.%} Small
+017449 new <HI>{#kzudrA\Rqa.matsya.saNGAta (taH)#}¦ 1. {%m.%} Small
+; 03/02/2015 kzuraRI -> kzuriRI (print error)
+017491 old <HI>{#kzuraRI (RI)#}¦ 3. {%f.%} A kind of yam.
+017491 new <HI>{#kzuriRI (RI)#}¦ 3. {%f.%} A kind of yam.
+; 03/02/2015 kzeSrajYa -> kzetrajYa (print error)
+017508 old <HI>{#kzeSrajYa (jYaH)#}¦ 1. {%m.%} The soul; a hus-
+017508 new <HI>{#kzetrajYa (jYaH)#}¦ 1. {%m.%} The soul; a hus-
+; 03/02/2015 kzamaka -> kzemaka (print error)
+017541 old <HI>{#kzamaka (kaH)#}¦ 1. {%m.%} A perfume.
+017541 new <HI>{#kzemaka (kaH)#}¦ 1. {%m.%} A perfume.
+; 03/02/2015 kzodata -> kzodita (print error)
+017563 old <HI>{#kzodata (taH-tA-taM)#}¦ {%a. Idem.%} 1. {%n.%} Pow-
+017563 new <HI>{#kzodita (taH-tA-taM)#}¦ {%a. Idem.%} 1. {%n.%} Pow-
+; 03/02/2015 kzmABUj -> kzmABuj (print error)
+017592 old <HI>{#kzmA\BUj (k)#}¦ 5. {%m.%} A king.
+017592 new <HI>{#kzmA\Buj (k)#}¦ 5. {%m.%} A king.
+; 03/02/2015 kzviRa -> kzviRRa (print error)
+017598 old <HI>{#kzviRa (RaH-RA-RaM)#}¦ {%p.%} Sounded; soft.
+017598 new <HI>{#kzviRRa (RaH-RA-RaM)#}¦ {%p.%} Sounded; soft.
+; 03/02/2015 KaNgawa -> Kaqgawa (typo)
+017724 old <HI>{#KaNgawa (waH)#}¦ 1. {%m.%} A kind of high grass.
+017724 new <HI>{#Kaqgawa (waH)#}¦ 1. {%m.%} A kind of high grass.
+; 03/02/2015 KaNgapiDAna -> KaqgapiDAna (typo)
+017734 old <HI>{#KaNga.piDAna (naM)#}¦ 1. {%m.%} A scabbard.
+017734 new <HI>{#Kaqga.piDAna (naM)#}¦ 1. {%m.%} A scabbard.
+; 03/02/2015 KarASu -> KarAMSu  (print error)
+017896 old <HI>{#KarA\Su (SuH)#}¦ 2. {%m.%} The sun.
+017896 new <HI>{#KarA\MSu (SuH)#}¦ 2. {%m.%} The sun.
+; 03/02/2015 KaSarora -> KaSarIra (typo/print)
+017996 old <HI>{#Ka.Sarora (raM)#}¦ 1. {%n.%} A celestial body.
+017996 new <HI>{#Ka.SarIra (raM)#}¦ 1. {%n.%} A celestial body.
+; 03/02/2015 Kawa -> KAwa (typo)
+018017 old <HI>{#Kawa (waH-wA)#}¦ 1. {%m. f.%} A bier. [Page237-b+ 38]
+018017 new <HI>{#KAwa (waH-wA)#}¦ 1. {%m. f.%} A bier. [Page237-b+ 38]
+; 03/02/2015 gaRaya -> gaReya (print error)
+018393 old <HI>{#gaRaya (yaH-yA-yaM)#}¦ {%a.%} Numerable.
+018393 new <HI>{#gaReya (yaH-yA-yaM)#}¦ {%a.%} Numerable.
+; 03/02/2015 gaRqakAro -> gaRqakArI (typo)
+018416 old <HI>{#gaRqa.kAro (rI)#}¦ 3. {%f.%} A sensitive plant.
+018416 new <HI>{#gaRqa.kArI (rI)#}¦ 3. {%f.%} A sensitive plant.
+; 03/02/2015 gantroraTa -> gantrIraTa (I/O confusion)
+018536 old <HI>{#gantro.raTa (TaH)#}¦ 1. {%m.%} A cart.
+018536 new <HI>{#gantrI.raTa (TaH)#}¦ 1. {%m.%} A cart.
+; 03/02/2015 ganDAdya -> ganDAQya (typo)
+018658 old <HI>{#ganDA\dya (dyaH)#}¦ 1. {%m.%} The orange tree.
+018658 new <HI>{#ganDA\Qya (dyaH)#}¦ 1. {%m.%} The orange tree.
+; 03/02/2015 ganDAzwfka -> ganDAzwaka (typo)
+018666 old <HI>{#ganDA\zwfka (kaM)#}¦ 1. {%n.%} Eight fragrant
+018666 new <HI>{#ganDA\zwaka (kaM)#}¦ 1. {%n.%} Eight fragrant
+; 03/02/2015 garddaBAhlaya -> garddaBAhvaya (print error)
+018806 old <HI>{#garddaBA.hlaya (yaH)#}¦ 1. {%m.%} The white lotus.
+018806 new <HI>{#garddaBA.hvaya (yaH)#}¦ 1. {%m.%} The white lotus.
+; 03/02/2015 garBaparistrava -> garBaparisrava (typo)
+018841 old <HI>{#garBa.paristrava (vaH)#}¦ 1. {%m.%} Secundines.
+018841 new <HI>{#garBa.parisrava (vaH)#}¦ 1. {%m.%} Secundines.
+; 03/02/2015 garBastrAvin -> garBasrAvin (print error)
+018861 old <HI>{#garBa.strAvin (vI-vinI-vi)#}¦ {%a.%} Produ-
+018861 new <HI>{#garBa.srAvin (vI-vinI-vi)#}¦ {%a.%} Produ-
+; 03/02/2015 gaNgaweya -> gANgaweya (print error)
+018997 old <HI>{#gaNgaweya (yaH)#}¦ 1. {%m. Idem.%}
+018997 new <HI>{#gANgaweya (yaH)#}¦ 1. {%m. Idem.%}
+; 03/02/2015 guggula (2nd) -> guggulu (print error)
+019210 old <HI>{#guggula (luH)#}¦ 2. {%m. Idem.%}
+019210 new <HI>{#guggulu (luH)#}¦ 2. {%m. Idem.%}
+; 03/02/2015 guqatvak -> guqatvac (print error)
+019252 old <HI>{#guqa.tvak (k)#}¦ 5. {%n.%} The aromatic bark
+019252 new <HI>{#guqa.tvac (k)#}¦ 5. {%n.%} The aromatic bark
+; 03/02/2015 guRahona -> guRahIna (I/o confusion)
+019347 old <HI>{#guRa.hona (naH-nA-naM)#}¦ {%a.%} Void of merit.
+019347 new <HI>{#guRa.hIna (naH-nA-naM)#}¦ {%a.%} Void of merit.
+; 03/02/2015 guRidDEDa -> guRidvEDa (print error)
+019364 old <HI>{#guRi.dDEDa (DaH)#}¦ 1. {%m.%} Equality of
+019364 new <HI>{#guRi.dDEDa (DaH)#}¦ 1. {%m.%} Equality of
+; 03/02/2015 gurvvaRI -> gurvviRI (print error)
+019488 old <HI>{#gurvvaRI (RI)#}¦ 3. {%f.%} Pregnant.
+019488 new <HI>{#gurvviRI (RI)#}¦ 3. {%f.%} Pregnant.
+; 03/02/2015 gfhAdvAra -> gfhadvAra (print error)
+019619 old <HI>{#gfhAdvAra (raH)#}¦ 1. {%m.%} House door.
+019619 new <HI>{#gfhadvAra (raH)#}¦ 1. {%m.%} House door.
+; 03/02/2015 goDamasamBava -> goDUmasamBava (print error)
+019823 old <HI>{#goDama.samBava (vaM)#}¦ 1. {%n.%} Sour paste.
+019823 new <HI>{#goDUma.samBava (vaM)#}¦ 1. {%n.%} Sour paste.
+; 03/02/2015 gAmayaCatra -> gomayaCatra (print error)
+019915 old <HI>{#gAmaya.Catra (traM)#}¦ 1. {%n.%} A mushroom.
+019915 new <HI>{#gomaya.Catra (traM)#}¦ 1. {%n.%} A mushroom.
+; 03/02/2015 golAka -> goloka (print error)
+019981 old <HI>{#go.lAka (kaM)#}¦ 1. {%n. Krishnu's%} heaven.
+019981 new <HI>{#go.loka (kaM)#}¦ 1. {%n. Krishnu's%} heaven.
+; 03/02/2015 gozWazwamI -> gozWAzwamI (typo)
+020013 old <HI>{#gozWa.zwamI (mI)#}¦ 3. {%f.%} A holiday sa-
+020013 new <HI>{#gozWA\zwamI (mI)#}¦ 3. {%f.%} A holiday sa-
+; 03/02/2015 gosamBAva -> gosamBava (typo - difficult ligature)
+020027 old <HI>{#go.samBAva (vaH-vA-vaM)#}¦ {%a.%} Of the cow.
+020027 new <HI>{#go.samBava (vaH-vA-vaM)#}¦ {%a.%} Of the cow.
+; 03/02/2015 granTivistara -> granTavistara (print error)
+020111 old <HI>{#granTi.vistara (raH)#}¦ 1. {%m.%} A voluminous
+020111 new <HI>{#granTa.vistara (raH)#}¦ 1. {%m.%} A voluminous
+; 03/02/2015 GanavartmanU -> Ganavartman (typo)
+020451 old <HI>{#Gana.vartmanU (rtma)#}¦ 5. {%n.%} The sky.
+020451 new <HI>{#Gana.vartman (rtma)#}¦ 5. {%n.%} The sky.
+; 03/02/2015 Gura (2nd) -> GOra (typo)
+020690 old <HI>{#Gura (raM)#}¦ 1. {%n.%} Horror.
+020690 new <HI>{#GOra (raM)#}¦ 1. {%n.%} Horror.
+; 03/03/2015 cakzuroga -> cakzUroga (typo)
+020827 old <HI>{#cakzu.roga (gaH)#}¦ 1. {%m.%} Ophthalmia.
+020827 new <HI>{#cakzU.roga (gaH)#}¦ 1. {%m.%} Ophthalmia.
+; 03/03/2015 caturTASa -> caturTAMSa (typo)
+020942 old <HI>{#caturTA.Sa (SaH)#}¦ 1. {%m.%} A quarter.
+020942 new <HI>{#caturTA.MSa (SaH)#}¦ 1. {%m.%} A quarter.
+; 03/03/2015 catuSaSAlA -> catuSSAlA (typo)
+020969 old <HI>{#catu.SaSAlA (lA)#}¦ 1. {%f.%} A square of
+020969 new <HI>{#catu.SSAlA (lA)#}¦ 1. {%f.%} A square of
+; 03/03/2015 candramam -> candramas (m/s confusion)
+021048 old <HI>{#candra.mam (mAH)#}¦ 5. {%m.%} The moon.
+021048 new <HI>{#candra.mas (mAH)#}¦ 5. {%m.%} The moon.
+; 03/03/2015 campADiza -> campADipa (typo)
+021145 old <HI>{#campA.Diza (zaH)#}¦ 1. {%m.%} A name of {%Karna.%}
+021145 new <HI>{#campA.Dipa (paH)#}¦ 1. {%m.%} A name of {%Karna.%}
+; 03/03/2015 carDa -> carGa (typo)
+021237 old <HI>{#carDa (carDati)#}¦ 1. {%a.%} To move.
+021237 new <HI>{#carGa (carGati)#}¦ 1. {%a.%} To move.
+; 03/03/2015 carmmasvatI -> carmmaRvatI (print error)
+021276 old <HI>{#carmma.svatI (tI)#}¦ 3. {%f.%} The {%Chambal%}
+021276 new <HI>{#carmma.RvatI (tI)#}¦ 3. {%f.%} The {%Chambal%}
+; 03/03/2015 carmmemaya -> carmmamaya (typo)
+021291 old <HI>{#carmme.maya (yaH-yI-yaM)#}¦ {%a.%} Leathern.
+021291 new <HI>{#carmma.maya (yaH-yI-yaM)#}¦ {%a.%} Leathern.
+; 03/03/2015 carmmeru -> carmmaru (typo)
+021295 old <HI>{#carmmeru (ruH)#}¦ 2. {%m.%} A shoe-maker.
+021295 new <HI>{#carmmaru (ruH)#}¦ 2. {%m.%} A shoe-maker.
+; 03/03/2015 carmmAmBam -> carmmAmBas (m/s confusion)
+021307 old <HI>{#carmmA\mBam (mBaH)#}¦ 1. {%m.%} Lymph.
+021307 new <HI>{#carmmA\mBas (mBaH)#}¦ 1. {%m.%} Lymph.
+; 03/03/2015 cArvvaNgo -> cArvvaNgI (I/o confusion)
+021545 old <HI>{#cArvvaNgo (NgI)#}¦ 3. {%f.%} A beauty.
+021545 new <HI>{#cArvvaNgI (NgI)#}¦ 3. {%f.%} A beauty.
+; 03/03/2015 cikkaSatA -> cikkaRatA (print error)
+021594 old <HI>{#cikkaSatA (tA)#}¦ 1. {%f.%} Oiliness, smooth-
+021594 new <HI>{#cikkaRatA (tA)#}¦ 1. {%f.%} Oiliness, smooth-
+; 03/03/2015 cittanivftti -> cittanirvftti (print error)
+021633 old <HI>{#citta.nivftti (ttiH)#}¦ 2. {%f.%} Contentment.
+021633 new <HI>{#citta.nirvftti (ttiH)#}¦ 2. {%f.%} Contentment.
+; 03/03/2015 cirasTayin -> cirasTAyin (typo)
+021853 old <HI>{#cira.sTayin (yI-yinI-yi)#}¦ {%a. Idem.%}
+021853 new <HI>{#cira.sTAyin (yI-yinI-yi)#}¦ {%a. Idem.%}
+; 03/03/2015 cilamolikA -> cilamIlikA (I/o confusion)
+021880 old <HI>{#cila.molikA (kA)#}¦ 1. {%f.%} A necklace;
+021880 new <HI>{#cila.mIlikA (kA)#}¦ 1. {%f.%} A necklace;
+; 03/03/2015 cIravAsam -> cIravAsas (m/s confusion)
+021923 old <HI>{#cIra.vAsam (sAH-saH)#}¦ {%a.%} In rags.
+021923 new <HI>{#cIra.vAsas (sAH-saH)#}¦ {%a.%} In rags.
+; 03/03/2015 cekiya -> cekriya (print error)
+022067 old <HI>{#cekiya (yaH-yA-yaM)#}¦ {%a.%} Doing much.
+022067 new <HI>{#cekriya (yaH-yA-yaM)#}¦ {%a.%} Doing much.
+; 03/03/2015 cEtrAvAlI -> cEtrAvalI (print error)
+022125 old <HI>{#cEtrA\vAlI (lI)#}¦ 3. {%f.%} The day of full
+022125 new <HI>{#cEtrA\valI (lI)#}¦ 3. {%f.%} The day of full
+; 03/03/2015 CaWABA -> CawABA (print error)
+022225 old <HI>{#CaWA\BA (BA)#}¦ 1. {%f.%} Lightning.
+022225 new <HI>{#CawA\BA (BA)#}¦ 1. {%f.%} Lightning.
+; 03/03/2015 CikvaRa -> CikkaRa (print error)
+022335 old <HI>{#CikvaRa (RaM)#}¦ 1. {%n.%} Sneezing. {%f.%} A plant.
+022335 new <HI>{#CikkaRa (RaM)#}¦ 1. {%n.%} Sneezing. {%f.%} A plant.
+; 03/03/2015 Cikvaka -> Cikkaka (print error)
+022336 old <HI>{#Cikvaka (kaH-kA-kaM)#}¦ {%a.%} Sternutatory.
+022336 new <HI>{#Cikkaka (kaH-kA-kaM)#}¦ {%a.%} Sternutatory.
+; 03/03/2015 jAgadAtman -> jagadAtman (print unclear)
+022468 old <HI>{#jAgadA\tman (tmA)#}¦ 5. {%m.%} Supreme Spirit.
+022468 new <HI>{#jagadA\tman (tmA)#}¦ 5. {%m.%} Supreme Spirit.
+; 03/03/2015 jaWAwaNka -> jawAwaNka (print error)
+022546 old <HI>{#jaWA.waNka (NkaH)#}¦ 1. {%m. Shiva.%}
+022546 new <HI>{#jawA.waNka (NkaH)#}¦ 1. {%m. Shiva.%}
+; 03/03/2015 jambulamAlikA -> jambUlamAlikA (print error)
+022749 old <HI>{#jambula.mAlikA (kA)#}¦ 1. {%f.%} Comple-
+022749 new <HI>{#jambUla.mAlikA (kA)#}¦ 1. {%f.%} Comple-
+; 03/03/2015 jalamAjAra -> jalamArjAra (print error)
+022968 old <HI>{#jala.mAjAra (raH)#}¦ 1. {%m.%} An otter.
+022968 new <HI>{#jala.mArjAra (raH)#}¦ 1. {%m.%} An otter.
+; 03/03/2015 jalavizava -> jalavizuva (print error)
+023002 old <HI>{#jala.vizava (vaM)#}¦ 1. {%n.%} The autumnal
+023002 new <HI>{#jala.vizuva (vaM)#}¦ 1. {%n.%} The autumnal
+; 03/03/2015 jijIviza -> jijIvizu (print error)
+023337 old <HI>{#jijIviza (zaH-zaH-za)#}¦ {%a.%} Desirous of
+023337 new <HI>{#jijIvizu (zuH-zuH-zu)#}¦ {%a.%} Desirous of
+; 03/03/2015 Jallika -> Jallaka (print error)
+023916 old <HI>{#Jallika (kaM)#}¦ 1. {%n.%} Cymbals.
+023916 new <HI>{#Jallaka (kaM)#}¦ 1. {%n.%} Cymbals.
+; 03/03/2015 JallakA -> JallikA (print error)
+023920 old <HI>{#JallakA (kA)#}¦ 1. {%f.%} Light, splendour;
+023920 new <HI>{#JallikA (kA)#}¦ 1. {%f.%} Light, splendour;
+; 03/03/2015 WaWas -> WaWam (m/s confusion)
+024054 old <HI>{#WaWas#}¦ {%adv.%} Imitative sound.
+024054 new <HI>{#WaWam#}¦ {%adv.%} Imitative sound.
+; 03/03/2015 tanuvata -> tanuvAta (print error)
+024426 old <HI>{#tanu.vata (taH)#}¦ 1. {%m.%} A division of hell.
+024426 new <HI>{#tanu.vAta (taH)#}¦ 1. {%m.%} A division of hell.
+; 03/03/2015 tantraHvApa -> tantravApa (print error)
+024480 old <HI>{#tantraHvApa (paH)#}¦ 1. {%m.%} A weaver.
+024480 new <HI>{#tantravApa (paH)#}¦ 1. {%m.%} A weaver.
+; 03/03/2015 tapanazwa -> tapanezwa (print error)
+024530 old <HI>{#tapana\zwa (zwaM)#}¦ 1. {%n.%} Copper.
+024530 new <HI>{#tapane\zwa (zwaM)#}¦ 1. {%n.%} Copper.
+; 03/03/2015 tamAlapAtra -> tamAlapatra (print error)
+024605 old <HI>{#tamAla.pAtra (traM)#}¦ 1. {%n.%} The {%Tama4la%}
+024605 new <HI>{#tamAla.patra (traM)#}¦ 1. {%n.%} The {%Tama4la%}
+; 03/03/2015 tamistrapakza -> tamisrapakza (print error)
+024616 old <HI>{#tamistra.pakza (kzaH)#}¦ 1. {%m.%} Moon's wane.
+024616 new <HI>{#tamisra.pakza (kzaH)#}¦ 1. {%m.%} Moon's wane.
+; 03/03/2015 tarAnDa -> tarAnDu (print error)
+024696 old <HI>{#tarA.nDa (nDuH)#}¦ 2. {%m.%} A flat-bottomed
+024696 new <HI>{#tarA.nDu (nDuH)#}¦ 2. {%m.%} A flat-bottomed
+; 03/03/2015 tarviza -> taviza (typo)
+024862 old <HI>{#tarviza (zaH)#}¦ 1. {%m.%} Heaven; the ocean;
+024862 new <HI>{#taviza (zaH)#}¦ 1. {%m.%} Heaven; the ocean;
+; 03/03/2015 tArapaTa -> tArApaTa (print error)
+025078 old <HI>{#tAra.paTa (TaH)#}¦ 1. {%m.%} The atmosphere.
+025078 new <HI>{#tArA.paTa (TaH)#}¦ 1. {%m.%} The atmosphere.
+; 03/03/2015 tAlamft -> tAlaBft (print error)
+025134 old <HI>{#tAla.mft (t)#}¦ 5. {%m. Balara4ma.%}
+025134 new <HI>{#tAla.Bft (t)#}¦ 5. {%m. Balara4ma.%}
+; 03/03/2015 nAviza -> tAviza (print error)
+025176 old <HI>{#nAviza (zaH)#}¦ 1. {%m.%} Paradise; the ocean.
+025176 new <HI>{#tAviza (zaH)#}¦ 1. {%m.%} Paradise; the ocean.
+; 03/03/2015 nintiqikA -> tintiqikA (print error)
+025246 old <HI>{#nintiqikA (kA)#}¦ 1. {%f. Idem.%}
+025246 new <HI>{#tintiqikA (kA)#}¦ 1. {%f. Idem.%}
+; 03/03/2015 timikAza -> timikoza (print error)
+025262 old <HI>{#timi.kAza (zaH)#}¦ 1. {%m.%} The ocean.
+025262 new <HI>{#timi.koza (zaH)#}¦ 1. {%m.%} The ocean.
+; 03/03/2015 tilopatyA -> tilApatyA (print error)
+025344 old <HI>{#tilo\patyA (tyA)#}¦ 1. {%f. Idem.%}
+025344 new <HI>{#tilA\patyA (tyA)#}¦ 1. {%f. Idem.%}
+; 03/03/2015 tumburo -> tumburI (I/o confusion)
+025540 old <HI>{#tumburo (rI)#}¦ 3. {%f.%} Coriander; a bitch.
+025540 new <HI>{#tumburI (rI)#}¦ 3. {%f.%} Coriander; a bitch.
+; 03/03/2015 triMSatapatra -> triMSatpatra (print error)
+026093 old <HI>{#triMSata.patra (traM)#}¦ 1. {%n.%} The white es-
+026093 new <HI>{#triMSat.patra (traM)#}¦ 1. {%n.%} The white es-
+; 03/03/2015 tvaritAdita -> tvaritodita (print error)
+026509 old <HI>{#tvaritA\dita (taH-tA-taM)#}¦ {%a.%} Spoken fast.
+026509 new <HI>{#tvarito\dita (taH-tA-taM)#}¦ {%a.%} Spoken fast.
+; 03/03/2015 daRWapARi -> daRqapARi (print error)
+026681 old <HI>{#daRWa.pARi (RiH)#}¦ 2. {%m. Yama;%} a staff-
+026681 new <HI>{#daRqa.pARi (RiH)#}¦ 2. {%m. Yama;%} a staff-
+; 03/03/2015 daRqaBAnava -> daRqamAnava (print error)
+026696 old <HI>{#daRqa.BAnava (vaH)#}¦ 1. {%m.%} An ascetic.
+026696 new <HI>{#daRqa.mAnava (vaH)#}¦ 1. {%m.%} An ascetic.
+; 03/03/2015 dayitADona -> dayitADIna (I/o confusion)
+026961 old <HI>{#dayitADona (naH-nA-naM)#}¦ {%a.%} Hen-pecked,
+026961 new <HI>{#dayitADIna (naH-nA-naM)#}¦ {%a.%} Hen-pecked,
+; 03/03/2015 darpApaSAnti -> darpopaSAnti (print error)
+027011 old <HI>{#darpA\paSAnti (ntiH)#}¦ 2. {%f.%} Conciliating,
+027011 new <HI>{#darpo\paSAnti (ntiH)#}¦ 2. {%f.%} Conciliating,
+; 03/03/2015 darBaMwa -> darBawa (print error)
+027025 old <HI>{#darBaMwa (waH)#}¦ 1. {%m.%} A private apart-
+027025 new <HI>{#darBawa (waH)#}¦ 1. {%m.%} A private apart-
+; 03/03/2015 kalBa -> dalBa (print error)
+027091 old <HI>{#kalBa (lBaH)#}¦ 1. {%m.%} Fraud; sin; a wheel;
+027091 new <HI>{#dalBa (lBaH)#}¦ 1. {%m.%} Fraud; sin; a wheel;
+; 03/03/2015 daSakarza -> daSAkarza (print error)
+027172 old <HI>{#daSa.karza (rzaH)#}¦ 1. {%m.%} A lamp.
+027172 new <HI>{#daSA\karza (rzaH)#}¦ 1. {%m.%} A lamp.
+; 03/03/2015 daSakarzin -> daSAkarzin (print error)
+027173 old <HI>{#daSa.karzin (rzI)#}¦ 5. {%m. Idem.%}
+027173 new <HI>{#daSA\karzin (rzI)#}¦ 5. {%m. Idem.%}
+; 03/03/2015 dAkzAyinIpati -> dAkzAyiRIpati (print error)
+027253 old <HI>{#dAkzAyinI.pati (tiH)#}¦ 2. {%m.%} The moon.
+027253 new <HI>{#dAkzAyiRI.pati (tiH)#}¦ 2. {%m.%} The moon.
+; 03/03/2015 dAqimamakzaRa -> dAqimaBakzaRa (typo)
+027277 old <HI>{#dAqima.makzaRa (RaH)#}¦ 1. {%m. Idem.%}
+027277 new <HI>{#dAqima.BakzaRa (RaH)#}¦ 1. {%m. Idem.%}
+; 03/03/2015 dARqimATika -> dARqamATika (print error)
+027284 old <HI>{#dARqimATika (kaH-kI-kaM)#}¦ {%a.%} Churning.
+027284 new <HI>{#dARqamATika (kaH-kI-kaM)#}¦ {%a.%} Churning.
+; 03/03/2015 dArvvADAwa -> dArvvAGAwa (G/D confusion)
+027425 old <HI>{#dArvvADAwa (waH)#}¦ 1. {%m.%} A wood-pecker. [Page361-b+ 38]
+027425 new <HI>{#dArvvAGAwa (waH)#}¦ 1. {%m.%} A wood-pecker. [Page361-b+ 38]
+; 03/03/2015 dAsapura -> dAsapUra (print error)
+027474 old <HI>{#dAsa.pura (raM)#}¦ 1. {%m.%} A fragrant grass.
+027474 new <HI>{#dAsa.pUra (raM)#}¦ 1. {%m.%} A fragrant grass.
+; 03/03/2015 ninAvasAna -> dinAvasAna (print error)
+027582 old <HI>{#ninA\vasAna (naM)#}¦ 1. {%n.%} Evening.
+027582 new <HI>{#dinA\vasAna (naM)#}¦ 1. {%n.%} Evening.
+; 03/03/2015 dizWi -> dizwi (print error)
+027697 old <HI>{#dizWi (zWiH)#}¦ 2. {%f.%} Pleasure, happi-
+027697 new <HI>{#dizwi (zwiH)#}¦ 2. {%f.%} Pleasure, happi-
+; 03/03/2015 dIpakiwWa -> dIpakiwwa (print error)
+027741 old <HI>{#dIpa.kiwWa (wwaM)#}¦ 1. {%n.%} Lampblack.
+027741 new <HI>{#dIpa.kiwwa (wwaM)#}¦ 1. {%n.%} Lampblack.
+; 03/03/2015 dIpANga -> dIptANga (print error)
+027777 old <HI>{#dIpANga (NgaH)#}¦ 1. {%m.%} A peacock.
+027777 new <HI>{#dIptANga (NgaH)#}¦ 1. {%m.%} A peacock.
+; 03/03/2015 dIrGaM -> dIrGa (typo)
+027788 old <HI>{#dIrGaM (rGaH-rGI-rGaM)#}¦ {%a.%} Long. {%m. Sa4l%} tree.
+027788 new <HI>{#dIrGa (rGaH-rGI-rGaM)#}¦ {%a.%} Long. {%m. Sa4l%} tree.
+; 03/03/2015 dIMrGikA -> dIrGikA (print error)
+027888 old <HI>{#dIMrGikA (kA)#}¦ 1. {%f.%} A large pond.
+027888 new <HI>{#dIrGikA (kA)#}¦ 1. {%f.%} A large pond.
+; 03/03/2015 duruwvaha -> durudvaha (dv/wv confusion)
+028049 old <HI>{#duru\wvaha (haH-hA-haM)#}¦ {%a.%} Unbearable.
+028049 new <HI>{#duru\dvaha (haH-hA-haM)#}¦ {%a.%} Unbearable.
+; 03/03/2015 durjYeMya -> durjYeya (print error)
+028101 old <HI>{#du.rjYeMya (yaH-yA-yaM)#}¦ {%a.%} Hard to be
+028101 new <HI>{#du.rjYeya (yaH-yA-yaM)#}¦ {%a.%} Hard to be
+; 03/03/2015 durhad -> durhfd (print error)
+028196 old <HI>{#du.rhad (d-t)#}¦ 5. {%m.%} An enemy. {%a.%}
+028196 new <HI>{#du.rhfd (d-t)#}¦ 5. {%m.%} An enemy. {%a.%}
+; 03/03/2015 duzaKa -> duzKa (print error)
+028234 old <HI>{#du.zaKa (zKaM)#}¦ 1. {%n.%} Pain in general.
+028234 new <HI>{#du.zKa (zKaM)#}¦ 1. {%n.%} Pain in general.
+; 03/03/2015 duzprameya -> duzpramaya (print error)
+028258 old <HI>{#du.zprameya (yaH-yA-yaM)#}¦ {%a.%} Immeasurable.
+028258 new <HI>{#du.zpramaya (yaH-yA-yaM)#}¦ {%a.%} Immeasurable.
+; 03/03/2015 dUravoDin -> dUraveDin (print error)
+028318 old <HI>{#dUra.voDin (DI-DinI-Di)#}¦ {%a.%} Missile.
+028318 new <HI>{#dUra.veDin (DI-DinI-Di)#}¦ {%a.%} Missile.
+; 03/03/2015 dUraplAva -> dUrAplAva (print error)
+028322 old <HI>{#dUra.plAva (vaH-vA-vaM)#}¦ {%a.%} Jumping far.
+028322 new <HI>{#dUrA\plAva (vaH-vA-vaM)#}¦ {%a.%} Jumping far.
+; 03/03/2015 devabrAhman -> devabrahman (print error)
+028587 old <HI>{#deva.brAhman (hmA)#}¦ 5. {%m. Na4rada.%}
+028587 new <HI>{#deva.brahman (hmA)#}¦ 5. {%m. Na4rada.%}
+; 03/03/2015 dAzaka -> dozaka (print error)
+028860 old <HI>{#dAzaka (kaH)#}¦ 1. {%m.%} A calf.
+028860 new <HI>{#dozaka (kaH)#}¦ 1. {%m.%} A calf.
+; 03/03/2015 dOhfda -> dOrhfda (print error)
+028922 old <HI>{#dOhfda (daM)#}¦ 1. {%n.%} Wish, longing for.
+028922 new <HI>{#dOrhfda (daM)#}¦ 1. {%n.%} Wish, longing for.
+; 03/03/2015 dravyaSudvi -> dravyaSudDi (print error)
+029040 old <HI>{#dravya.Sudvi (dDiH)#}¦ 2. {%f.%} Purification.
+029040 new <HI>{#dravya.SudDi (dDiH)#}¦ 2. {%f.%} Purification.
+; 03/03/2015 drumavyaDi -> drumavyADi (print error)
+029118 old <HI>{#druma.vyaDi (DiH)#}¦ 2. {%m.%} Lac.
+029118 new <HI>{#druma.vyADi (DiH)#}¦ 2. {%m.%} Lac.
+; 03/03/2015 droRIsuKa -> droRImuKa (m/s confusion)
+029180 old <HI>{#droRI.suKa (KaH)#}¦ 1. {%m.%} The chief of
+029180 new <HI>{#droRI.muKa (KaH)#}¦ 1. {%m.%} The chief of
+; 03/03/2015 dvipattva -> dvipAttva (print error)
+029376 old <HI>{#dvipattva (ttvaM)#}¦ 1. {%n.%} The having two
+029376 new <HI>{#dvipAttva (ttvaM)#}¦ 1. {%n.%} The having two
+; 03/03/2015 dvyaSa -> dvyaMSa (typo)
+029503 old <HI>{#dvya\Sa (SaH)#}¦ 1. {%m.%} Two shares.
+029503 new <HI>{#dvya\MSa (SaH)#}¦ 1. {%m.%} Two shares.
+; 03/03/2015 DanuHrlatA -> DanurlatA (print error)
+029622 old <HI>{#DanuHrlatA (tA)#}¦ 1. {%f.%} The moon-plant.
+029622 new <HI>{#DanurlatA (tA)#}¦ 1. {%f.%} The moon-plant.
+; 03/03/2015 DAtreyo -> DAtreyI (print error)
+029931 old <HI>{#DAtreyo (yo)#}¦ 3. {%f.%} A sort of confidante,
+029931 new <HI>{#DAtreyI (yI)#}¦ 3. {%f.%} A sort of confidante,
+; 03/03/2015 DAnyaSIzaka -> DAnyaSIrzaka (print error)
+029964 old <HI>{#DAnya.SIzaka (kaM)#}¦ 1. {%n.%} Spike of corn.
+029964 new <HI>{#DAnya.SIrzaka (kaM)#}¦ 1. {%n.%} Spike of corn.
+; 03/03/2015 Dizwya (2nd) -> DizWya (print error)
+030084 old <HI>{#Dizwya (zwyaM)#}¦ 1. {%n. Idem.%} [Page396-b+ 38]
+030084 new <HI>{#DizWya (zWyaM)#}¦ 1. {%n. Idem.%} [Page396-b+ 38]
+; 03/03/2015 DupikA -> DUpikA (print error)
+030187 old <HI>{#DupikA (kA)#}¦ 1. {%f.%} Mist, fog.
+030187 new <HI>{#DUpikA (kA)#}¦ 1. {%f.%} Mist, fog.
+; 03/03/2015 Durttakft -> DUrttakft (print error)
+030233 old <HI>{#Durtta.kft (t)#}¦ 5. {%m.%} A rogue, a cheat,
+030233 new <HI>{#DUrtta.kft (t)#}¦ 5. {%m.%} A rogue, a cheat,
+; 03/04/2015 Drenu -> Denu (print error)
+030314 old <HI>{#Drenu (nuH)#}¦ 2. {%f.%} ({#nA#}) A milch cow.
+030314 new <HI>{#Denu (nuH)#}¦ 2. {%f.%} ({#nA#}) A milch cow.
+; 03/04/2015 DvaniHgraha -> Dvanigraha (typo)
+030449 old <HI>{#DvaniHgraha (haH)#}¦ 1. {%m.%} The ear.
+030449 new <HI>{#Dvanigraha (haH)#}¦ 1. {%m.%} The ear.
+; 03/04/2015 nagASraya -> nagASraTa (y/T confusion)
+030570 old <HI>{#nagA\Sraya (yaH-yA-yaM)#}¦ {%a.%} Living in the
+030570 new <HI>{#nagA\Sraya (yaH-yA-yaM)#}¦ {%a.%} Living in the
+; 03/04/2015 naBasTa -> naBaHsTa (print error)
+030742 old <HI>{#naBa.sTa (sTaH-sTA-sTaM)#}¦ {%a.%} Celestial.
+030742 new <HI>{#naBaH.sTa (sTaH-sTA-sTaM)#}¦ {%a.%} Celestial.
+; 03/04/2015 naBaHScamasa -> naBaScamasa (print error)
+030746 old <HI>{#naBaHScamasa (saH)#}¦ 1. {%m.%} The moon; va-
+030746 new <HI>{#naBaScamasa (saH)#}¦ 1. {%m.%} The moon; va-
+; 03/04/2015 narmmasPurjja -> narmmasPUrjja (print error)
+030903 old <HI>{#narmma.sPurjja (rjjaH)#}¦ 1. {%m.%} Pleasure or
+030903 new <HI>{#narmma.sPUrjja (rjjaH)#}¦ 1. {%m.%} Pleasure or
+; 03/04/2015 nalinaSaya -> nalineSaya (print error)
+030931 old <HI>{#nalina.Saya (yaH)#}¦ 1. {%m. Vishnu.%}
+030931 new <HI>{#naline.Saya (yaH)#}¦ 1. {%m. Vishnu.%}
+; 03/04/2015 navokaraRa -> navIkaraRa (I/o confusion)
+030995 old <HI>{#navo.karaRa (RaM)#}¦ 1. {%n.%} Renewing. [Page408-b+ 38]
+030995 new <HI>{#navI.karaRa (RaM)#}¦ 1. {%n.%} Renewing. [Page408-b+ 38]
+; 03/04/2015 bahuza -> nahuza (typo)
+031038 old <HI>{#bahuza (zaH)#}¦ 1. {%m.%} The name of a
+031038 new <HI>{#nahuza (zaH)#}¦ 1. {%m.%} The name of a
+; 03/04/2015 nAgAsana -> nAgASana (print error)
+031137 old <HI>{#nAgA\sana (naH)#}¦ 1. {%m. Idem.%}
+031137 new <HI>{#nAgA\Sana (naH)#}¦ 1. {%m. Idem.%}
+; 03/04/2015 nArAyaRakzatra -> nArAyaRakzetra (print error)
+031300 old <HI>{#nArAyaRa.kzatra (traM)#}¦ 1. {%n.%} Four cubits
+031300 new <HI>{#nArAyaRa.kzetra (traM)#}¦ 1. {%n.%} Four cubits
+; 03/04/2015 nArAyaRastra -> nArAyaRAstra (typo)
+031306 old <HI>{#nArAyaRa.stra (straM)#}¦ 1. {%n. Krishna's%} mys-
+031306 new <HI>{#nArAyaRA\stra (straM)#}¦ 1. {%n. Krishna's%} mys-
+; 03/04/2015 nAlIkenI -> nAlIkinI (typo)
+031341 old <HI>{#nAlIkenI (nI)#}¦ 3. {%f.%} A multitude
+031341 new <HI>{#nAlIkinI (nI)#}¦ 3. {%f.%} A multitude
+; 03/04/2015 nAlovraRa -> nAlIvraRa (I/o confusion)
+031343 old <HI>{#nAlo.vraRa (RaH)#}¦ 1. {%m.%} A fistulous or
+031343 new <HI>{#nAlI.vraRa (RaH)#}¦ 1. {%m.%} A fistulous or
+; 03/04/2015 tipAta -> nipAta (print error)
+031740 old <HI>{#ti.pAta (taH)#}¦ 1. {%m.%} Death; falling;
+031740 new <HI>{#ni.pAta (taH)#}¦ 1. {%m.%} Death; falling;
+; 03/04/2015 nisittaka -> nimittaka (print error)
+031789 old <HI>{#nisittaka (kaM)#}¦ 1. {%n.%} A cause, &c.
+031789 new <HI>{#nimittaka (kaM)#}¦ 1. {%n.%} A cause, &c.
+; 03/04/2015 nimittavftti -> nimittAvftti (typo)
+031799 old <HI>{#nimitta.vftti (ttiH)#}¦ 2. {%f.%} Dependence
+031799 new <HI>{#nimittA\vftti (ttiH)#}¦ 2. {%f.%} Dependence
+; 03/04/2015 nirudrAva -> niruddrAva (print error)
+032012 old <HI>{#niru\drAva (vaH-vA-vaM)#}¦ {%a.%} Indissoluble.
+032012 new <HI>{#nir.uddrAva (vaH-vA-vaM)#}¦ {%a.%} Indissoluble.
+; 03/04/2015 niroBa -> nireBa (typo)
+032040 old <HI>{#ni.roBa (BaH-BA-BaM)#}¦ {%a.%} Noiseless.
+032040 new <HI>{#ni.reBa (BaH-BA-BaM)#}¦ {%a.%} Noiseless.
+; 03/04/2015 nirgrantaka -> nirgranTaka (print error)
+032065 old <HI>{#nirgrantaka (kaH)#}¦ 1. {%m.%} A religious men-
+032065 new <HI>{#nirgranTaka (kaH)#}¦ 1. {%m.%} A religious men-
+; 03/04/2015 nirRayaka -> nirRAyaka (typo)
+032101 old <HI>{#ni.rRayaka (kaH-kA-kaM)#}¦ {%a.%} Certifying.
+032101 new <HI>{#ni.rRAyaka (kaH-kA-kaM)#}¦ {%a.%} Certifying.
+; 03/04/2015 nirmmita -> nirmmiti (typo)
+032197 old <HI>{#ni.rmmita (tiH)#}¦ 2. {%f.%} Making.
+032197 new <HI>{#ni.rmmiti (tiH)#}¦ 2. {%f.%} Making.
+; 03/04/2015 nirhAda -> nirhrAda (print error)
+032341 old <HI>{#ni.rhAda (daH)#}¦ 1. {%m.%} Sound in general.
+032341 new <HI>{#ni.rhrAda (daH)#}¦ 1. {%m.%} Sound in general.
+; 03/04/2015 nizyAdita -> nizpAdita (print error)
+032627 old <HI>{#ni.zyAdita (taH-tA-taM)#}¦ {%p.%} Effected.
+032627 new <HI>{#ni.zpAdita (taH-tA-taM)#}¦ {%p.%} Effected.
+; 03/04/2015 nItiDoza -> nItiGoza (print error)
+032748 old <HI>{#nI.ti.Doza (zaH)#}¦ 1. {%m. Vrihashpati's%} car.
+032748 new <HI>{#nI.ti.Goza (zaH)#}¦ 1. {%m. Vrihashpati's%} car.
+; 03/04/2015 nfkeSArin -> nfkeSarin (print error)
+032908 old <HI>{#nf.keSA\rin (rI)#}¦ 5. {%m.%} The man-lion.
+032908 new <HI>{#nf.keSarin (rI)#}¦ 5. {%m.%} The man-lion.
+; 03/04/2015 nErattaryya -> nErantaryya (print error)
+033052 old <HI>{#nErattaryya (ryyaM)#}¦ 1. {%n.%} Compactness;
+033052 new <HI>{#nErantaryya (ryyaM)#}¦ 1. {%n.%} Compactness;
+; 03/04/2015 noDAs -> noDas (print error)
+033089 old <HI>{#noDAs (DAH)#}¦ 5. {%m.%} The name of a sage.
+033089 new <HI>{#noDas (DAH)#}¦ 5. {%m.%} The name of a sage.
+; 03/04/2015 nyubjaKaNga -> nyubjaKaqga (typo)
+033155 old <HI>{#nyubja.KaNga (NgaH)#}¦ 1. {%m.%} A sabre.
+033155 new <HI>{#nyubja.Kaqga (qgaH)#}¦ 1. {%m.%} A sabre.
+; 03/04/2015 grasTimAlin -> nrasTimAlin (typo)
+033168 old <HI>{#grasTimAlin (lI)#}¦ 5. {%m. Shiva.%} So
+033168 new <HI>{#nrasTimAlin (lI)#}¦ 5. {%m. Shiva.%} So
+033169 old <>{#nnasTi.BUzaRaH,#} &c.
+033169 new <>{#nrasTi.BUzaRaH,#} &c.
+; 03/04/2015 pakkakeSa -> pakvakeSa (print error)
+033190 old <HI>{#pakka.keSa (SaH-SI-SaM)#}¦ {%a.%} Grey-haired.
+033190 new <HI>{#pakva.keSa (SaH-SI-SaM)#}¦ {%a.%} Grey-haired.
+; 03/04/2015 pakvezwikA -> pakvezwakA (print error)
+033196 old <HI>{#pakvezwikA (kA)#}¦ 1. {%f.%} Burnt brick.
+033196 new <HI>{#pakvezwakA (kA)#}¦ 1. {%f.%} Burnt brick.
+; 03/04/2015 zakzAnta -> pakzAnta (print error)
+033235 old <HI>{#zakzA\nta (ntaH)#}¦ 1. {%m.%} The 15th and last
+033235 new <HI>{#pakzA\nta (ntaH)#}¦ 1. {%m.%} The 15th and last
+; 03/04/2015 zakzman -> pakzman (print error)
+033257 old <HI>{#zakzman (kzma)#}¦ 5. {%n.%} An eye-lash; filament
+033257 new <HI>{#pakzman (kzma)#}¦ 5. {%n.%} An eye-lash; filament
+; 03/04/2015 zaYcagava -> paYcagava (print error)
+033347 old <HI>{#zaYca.gava (vaM)#}¦ 1. {%n.%} Five cows.
+033347 new <HI>{#paYca.gava (vaM)#}¦ 1. {%n.%} Five cows.
+; 03/04/2015 paYcaDrA -> paYcaDA (print error)
+033388 old <HI>{#paYca.DrA (rDA)#}¦ {%adv.%} In five ways. [Page440-a+ 38]
+033388 new <HI>{#paYca.DA (DA)#}¦ {%adv.%} In five ways. [Page440-a+ 38]
+; 03/04/2015 praYcamUla -> paYcamUla (print error)
+033447 old <HI>{#praYca.mUla (laM-lI)#}¦ 1. {%n.%} 3. {%f.%} The as-
+033447 new <HI>{#paYca.mUla (laM-lI)#}¦ 1. {%n.%} 3. {%f.%} The as-
+; 03/04/2015 paccaratna -> paYcaratna (print error)
+033450 old <HI>{#pacca.ratna (tnaM)#}¦ 1. {%n.%} Five precious gems or
+033450 new <HI>{#paYca.ratna (tnaM)#}¦ 1. {%n.%} Five precious gems or
+; 03/04/2015 paYcAmrAya -> paYcAmnAya (mr/mn confusion)
+033497 old <HI>{#paYcA\mrAya (yAH)#}¦ 1. {%m. plu.%} The {%Tantras.%}
+033497 new <HI>{#paYcA\mnAya (yAH)#}¦ 1. {%m. plu.%} The {%Tantras.%}
+; 03/04/2015 paWola -> pawola (typo)
+033582 old <HI>{#paWola (laM-lI)#}¦ 1. {%m.%} 3. {%f.%} A kind of
+033582 new <HI>{#pawola (laM-lI)#}¦ 1. {%m.%} 3. {%f.%} A kind of
+; 03/04/2015 maRqitammanya -> paRqitammanya (print error)
+033656 old <HI>{#maRqita.mmanya (nyaH)#}¦ 1. {%m.%} A pedant.
+033656 new <HI>{#paRqita.mmanya (nyaH)#}¦ 1. {%m.%} A pedant.
+; 03/04/2015 payosuc -> payomuc (print error)
+034053 old <HI>{#payo.suc (k)#}¦ 5. {%m.%} A cloud.
+034053 new <HI>{#payo.muc (k)#}¦ 5. {%m.%} A cloud.
+; 03/04/2015 paras -> param (m/s confusion)
+034165 old <HI>{#paras#}¦ {%adv.%} Hereafter.
+034165 new <HI>{#param#}¦ {%adv.%} Hereafter.
+; 03/04/2015 parasvApajIvika -> parasvopajIvika (print error)
+034270 old <HI>{#parasvA\pajIvika (kaH-kA-kaM)#}¦ {%a.%} De-
+034270 new <HI>{#parasvo\pajIvika (kaH-kA-kaM)#}¦ {%a.%} De-
+; 03/04/2015 purAyatta -> parAyatta (typo)
+034341 old <HI>{#purA\yatta (ttaH-ttA-ttaM)#}¦ {%a.%} Dependent.
+034341 new <HI>{#purA\yatta (ttaH-ttA-ttaM)#}¦ {%a.%} Dependent.
+; 03/04/2015 prarArdDa -> parArdDa (print error)
+034350 old <HI>{#prarA\rdDa (rdDaM)#}¦ 1. {%n.%} Half the term of
+034350 new <HI>{#parA\rdDa (rdDaM)#}¦ 1. {%n.%} Half the term of
+; 03/04/2015 pariqonaka -> pariqInaka (I/o confusion)
+034506 old <HI>{#pari.qonaka (kaM)#}¦ 1. {%n.%} The flight or
+034506 new <HI>{#pari.qInaka (kaM)#}¦ 1. {%n.%} The flight or
+; 03/04/2015 paripakkatA -> paripakvatA (print error)
+034579 old <HI>{#pari.pakkatA (tA)#}¦ 1. {%f.%} Ripeness; ma-
+034579 new <HI>{#pari.pakvatA (tA)#}¦ 1. {%f.%} Ripeness; ma-
+; 03/04/2015 paripAdin -> paripadin (print error)
+034583 old <HI>{#pari.pAdin (dI)#}¦ 5. {%m.%} An enemy.
+034583 new <HI>{#pari.padin (dI)#}¦ 5. {%m.%} An enemy.
+; 03/04/2015 pariripsamona -> pariripsamAna (print error, or smudge)
+034698 old <HI>{#pari-ripsamona (naH-nA-naM)#}¦ {%a.%} Wishing
+034698 new <HI>{#pari-ripsamAna (naH-nA-naM)#}¦ {%a.%} Wishing
+; 03/04/2015 pariSeza -> pariSoza (typo)
+034817 old <HI>{#pari.Seza (zaH)#}¦ 1. {%m.%} Evaporation.
+034817 new <HI>{#pari.Soza (zaH)#}¦ 1. {%m.%} Evaporation.
+; 03/04/2015 parUzavacana -> paruzavacana (print error)
+034963 old <HI>{#parUza.vacana (naM)#}¦ 1. {%n.%} Abuse.
+034963 new <HI>{#paruza.vacana (naM)#}¦ 1. {%n.%} Abuse.
+; 03/04/2015 parUzavAc -> paruzavAc (print error)
+034964 old <HI>{#parUza.vAc (k)#}¦ 5. {%f. Idem. a.%} Abusive.
+034964 new <HI>{#paruza.vAc (k)#}¦ 5. {%f. Idem. a.%} Abusive.
+; 03/04/2015 paruza -> parUza (print error)
+034969 old <HI>{#paruza (zaH)#}¦ 1. {%m.%} The {%Parush%} tree.
+034969 new <HI>{#parUza (zaH)#}¦ 1. {%m.%} The {%Parush%} tree.
+; 03/04/2015 pareDita -> parEDita (print error)
+034981 old <HI>{#pare.Dita (taH-tA-taM)#}¦ {%a.%} Nourished by
+034981 new <HI>{#parE.Dita (taH-tA-taM)#}¦ {%a.%} Nourished by
+; 03/04/2015 parRapallI -> parRavallI (print error)
+035029 old <HI>{#parRa.pallI (llI)#}¦ 3. {%f.%} Butea frondosa.
+035029 new <HI>{#parRa.vallI (llI)#}¦ 3. {%f.%} Butea frondosa.
+; 03/04/2015 parparoka -> parparIka (I/o confusion)
+035054 old <HI>{#parparoka (kaH)#}¦ 1. {%m.%} The sun; fire.
+035054 new <HI>{#parparIka (kaH)#}¦ 1. {%m.%} The sun; fire.
+; 03/04/2015 pavanezWa -> pavanezwa (print error)
+035270 old <HI>{#pavanezWa (zwaH)#}¦ 1. {%m.%} A {%Nimb%} tree.
+035270 new <HI>{#pavanezwa (zwaH)#}¦ 1. {%m.%} A {%Nimb%} tree.
+; 03/04/2015 pavitrika -> pavitraka (print error)
+035283 old <HI>{#pavitrika (kaM)#}¦ 1. {%n.%} Packthread, or a
+035283 new <HI>{#pavitraka (kaM)#}¦ 1. {%n.%} Packthread, or a
+; 03/04/2015 pAMSuputra -> pAMSupatra (print error)
+035365 old <HI>{#pAMSu.putra (traM)#}¦ 1. {%n.%} A potherb.
+035365 new <HI>{#pAMSu.patra (traM)#}¦ 1. {%n.%} A potherb.
+; 03/04/2015 pAwaccara -> pAwaYcara (print error)
+035459 old <HI>{#pAwaccara (raH)#}¦ 1. {%m.%} A thief.
+035459 new <HI>{#pAwaYcara (raH)#}¦ 1. {%m.%} A thief.
+; 03/04/2015 pARquvfzWa -> pARqupfzWa (typo)
+035567 old <HI>{#pARqu.vfzWa (zWaH-zWA-zWaM)#}¦ {%a.%} Having no
+035567 new <HI>{#pARqu.pfzWa (zWaH-zWA-zWaM)#}¦ {%a.%} Having no
+; 03/04/2015 pAtalOkas -> pAtAlOkas (print error)
+035611 old <HI>{#pAtalO.kas (kAH)#}¦ 5. {%m.%} A demon.
+035611 new <HI>{#pAtAlO.kas (kAH)#}¦ 5. {%m.%} A demon.
+; 03/04/2015 pAtrIsamita -> pAtresamita (typo)
+035654 old <HI>{#pAtrI.samita (taH)#}¦ 1. {%m.%} A parasite; an
+035654 new <HI>{#pAtre.samita (taH)#}¦ 1. {%m.%} A parasite; an
+; 03/04/2015 pAToDrara -> pAToDara (print error)
+035664 old <HI>{#pATo.Drara (raH)#}¦ 1. {%m. Idem.%}
+035664 new <HI>{#pATo.Dara (raH)#}¦ 1. {%m. Idem.%}
+; 03/04/2015 pAdavirajam -> pAdavirajas (m/s confusion)
+035718 old <HI>{#pAda.virajam (jAH)#}¦ 5. {%f.%} A shoe.
+035718 new <HI>{#pAda.virajam (jAH)#}¦ 5. {%f.%} A shoe.
+; 03/04/2015 pAnIyapfzwaja -> pAnIyapfzWaja (typo)
+035796 old <HI>{#pAnIya.pfzwa.ja (jaH)#}¦ 1. {%m.%} An aqua-
+035796 new <HI>{#pAnIya.pfzWa.ja (jaH)#}¦ 1. {%m.%} An aqua-
+; 03/04/2015 pApAnuvesita -> pApAnuvasita (print error)
+035853 old <HI>{#pApA\nuvesita (taH-tA-taM)#}¦ {%a.%} Addict-
+035853 new <HI>{#pApA\nuvasita (taH-tA-taM)#}¦ {%a.%} Addict-
+; 03/04/2015 pAravatANGrI -> pArAvatANGrI (print error)
+035965 old <HI>{#pAravatA\NGrI (NGrI)#}¦ 3. {%f.%} Heart-pea.
+035965 new <HI>{#pArAvatA\NGrI (NGrI)#}¦ 3. {%f.%} Heart-pea.
+; 03/04/2015 pAriplavya -> pAriplAvya (print error)
+036000 old <HI>{#pAri.plavya (vyaH)#}¦ 1. {%m.%} A goose. {%n.%}
+036000 new <HI>{#pAri.plAvya (vyaH)#}¦ 1. {%m.%} A goose. {%n.%}
+; 03/04/2015 pArizadaH -> pArizada (print error)
+036014 old <HI>{#pArizadaH (daH-dA-daM)#}¦ {%a.%} Belonging to
+036014 new <HI>{#pArizada (daH-dA-daM)#}¦ {%a.%} Belonging to
+; 03/04/2015 pAruzpa -> pAruzya (print error)
+036026 old <HI>{#pAruzpa (zpaM)#}¦ 1. {%n.%} Abuse, reproach;
+036026 new <HI>{#pAruzya (zyaM)#}¦ 1. {%n.%} Abuse, reproach;
+; 03/04/2015 pArSvAdarapriya -> pArSvodarapriya (typo)
+036079 old <HI>{#pArSvA.dara.priya (yaH)#}¦ 1. {%m.%} A crab.
+036079 new <HI>{#pArSvo.dara.priya (yaH)#}¦ 1. {%m.%} A crab.
+; 03/04/2015 pASamft -> pASaBft (print error)
+036152 old <HI>{#pASa.mft (t)#}¦ 5. {%m. Varuna;%} a soldier.
+036152 new <HI>{#pASa.Bft (t)#}¦ 5. {%m. Varuna;%} a soldier.
+; 03/04/2015 puScalI -> puMScalI (typo)
+036684 old <HI>{#pu.ScalI (lI)#}¦ 3. {%f.%} A harlot.
+036684 new <HI>{#puM.ScalI (lI)#}¦ 3. {%f.%} A harlot.
+; 03/04/2015 puYjazWa -> puYjizWa (typo)
+036707 old <HI>{#puYjazWa (zWaH-zWA-zWaM)#}¦ {%a.%} Heaped up.
+036707 new <HI>{#puYjizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Heaped up.
+; 03/04/2015 puRyajanaSvara -> puRyajaneSvara (print error)
+036775 old <HI>{#puRyajanaSvara (raH)#}¦ 1. {%m. Kuve4ra.%}
+036775 new <HI>{#puRyajaneSvara (raH)#}¦ 1. {%m. Kuve4ra.%}
+; 03/04/2015 pumasu -> pumas (print error)
+036901 old <HI>{#pumasu (pumAn)#}¦ 5. {%m.%} A man or male.
+036901 new <HI>{#pumas (pumAn)#}¦ 5. {%m.%} A man or male.
+; 03/04/2015 puraskaraRoya -> puraskaraRIya (I/o confusion)
+036938 old <HI>{#puraska\raRoya (yaH-yA-yaM)#}¦ {%a.%} That should
+036938 new <HI>{#puraska\raRIya (yaH-yA-yaM)#}¦ {%a.%} That should
+; 03/04/2015 pfcCraka -> pfcCaka (print error)
+037521 old <HI>{#pfcCraka (kaH)#}¦ 1. {%m.%} An inquirer.
+037521 new <HI>{#pfcCaka (kaH)#}¦ 1. {%m.%} An inquirer.
+; 03/04/2015 pfcCraRa -> pfcCaRa (print error)
+037522 old <HI>{#pfcCraRa (RaM)#}¦ 1. {%n.%} Inquiring.
+037522 new <HI>{#pfcCaRa (RaM)#}¦ 1. {%n.%} Inquiring.
+; 03/04/2015 pfcCrA -> pfcCA (print error)
+037523 old <HI>{#pfcCrA (cCrA)#}¦ 1. {%f.%} Asking; questioning.
+037523 new <HI>{#pfcCA (cCA)#}¦ 1. {%f.%} Asking; questioning.
+; 03/04/2015 peSakft -> peSaskft (typo)
+037683 old <HI>{#peSakft (t)#}¦ 5. {%m.%} Kind of wasp.
+037683 new <HI>{#peSaskft (t)#}¦ 5. {%m.%} Kind of wasp.
+; 03/04/2015 pEYjaza -> pEYjUza (print error)
+037706 old <HI>{#pEYjaza (zaH)#}¦ 1. {%m.%} The ear.
+037706 new <HI>{#pEYjUza (zaH)#}¦ 1. {%m.%} The ear.
+; 03/04/2015 pOnaHpunyaM -> pOnaHpunya (print error)
+037829 old <HI>{#pOnaH.punyaM (nyaM)#}¦ 1. {%n.%} Reiteration.
+037829 new <HI>{#pOnaH.punya (nyaM)#}¦ 1. {%n.%} Reiteration.
+; 03/04/2015 pOrastrIM -> pOrastrI (print error)
+037840 old <HI>{#pOra.strIM (strI)#}¦ 1. 3. {%f.%} A town woman.
+037840 new <HI>{#pOra.strI (strI)#}¦ 1. 3. {%f.%} A town woman.
+; 03/04/2015 pArvvika -> pOrvvika (print error)
+037873 old <HI>{#pArvvika (kaH-kI-kaM)#}¦ {%a.%} Former.
+037873 new <HI>{#pOrvvika (kaH-kI-kaM)#}¦ {%a.%} Former.
+; 03/04/2015 prakzeqana -> prakzveqana (print error)
+038022 old <HI>{#pra.kzeqana (naM-nA)#}¦ 1. {%m. f.%} An iron arrow;
+038022 new <HI>{#pra.kzveqana (naM-nA)#}¦ 1. {%m. f.%} An iron arrow;
+; 03/04/2015 pragota -> pragIta (I/o confusion)
+038057 old <HI>{#pra.gota (taH-tA-taM)#}¦ {%p.%} Sung; vocal.
+038057 new <HI>{#pra.gIta (taH-tA-taM)#}¦ {%p.%} Sung; vocal.
+; 03/04/2015 pratidvani -> pratiDvani (typo)
+038420 old <HI>{#prati.dvani (niH)#}¦ 2. {%f.%} Echo.
+038420 new <HI>{#prati.Dvani (niH)#}¦ 2. {%f.%} Echo.
+; 03/04/2015 prapipad -> pratipad (print error)
+038450 old <HI>{#prapipad (d-t)#}¦ 5. {%f.%} The first day
+038450 new <HI>{#pratipad (d-t)#}¦ 5. {%f.%} The first day
+; 03/04/2015 prativaSa -> prativeSa (print error)
+038610 old <HI>{#prati.vaSa (SaH)#}¦ 1. {%m.%} Residence of a
+038610 new <HI>{#prati.veSa (SaH)#}¦ 1. {%m.%} Residence of a
+; 03/04/2015 pratisidDasevin -> pratizidDasevin (print error)
+038637 old <HI>{#pratisidDa.sevin (vI-vinI-vi)#}¦ {%a. Idem.%}
+038637 new <HI>{#pratizidDa.sevin (vI-vinI-vi)#}¦ {%a. Idem.%}
+; 03/04/2015 pratispardvA -> pratispardDA (print error)
+038694 old <HI>{#prati.spardvA (rdDA)#}¦ 1. {%f.%} Emulation.
+038694 new <HI>{#prati.spardDA (rdDA)#}¦ 1. {%f.%} Emulation.
+; 03/04/2015 pratikAra -> pratIkAra (typo)
+038718 old <HI>{#prati.kAra (raH)#}¦ 1. {%m.%} Revenge, reta-
+038718 new <HI>{#pratI.kAra (raH)#}¦ 1. {%m.%} Revenge, reta-
+; 03/04/2015 pratyarTan -> pratyarTin (typo)
+038826 old <HI>{#pratya\rTan (rTI)#}¦ 5. {%m.%} Enemy; a de-
+038826 new <HI>{#pratya\rTin (rTI)#}¦ 5. {%m.%} Enemy; a de-
+; 03/04/2015 praRyavamarSa -> pratyavamarSa (print error)
+038830 old <HI>{#praRya\va.marSa (rSaH)#}¦ 1. {%m.%} Counsel.
+038830 new <HI>{#pratya\va.marSa (rSaH)#}¦ 1. {%m.%} Counsel.
+; 03/04/2015 pratyasman -> pratyaSman (print unclear)
+038840 old <HI>{#pratya\sman (Sya)#}¦ 5. {%n.%} Red chalk.
+038840 new <HI>{#pratya\Sman (Sya)#}¦ 5. {%n.%} Red chalk.
+; 03/04/2015 praDuh -> praDruh (typo)
+039014 old <HI>{#praDuh (k)#}¦ {%a.%} Injuring.
+039014 new <HI>{#praDruh (k)#}¦ {%a.%} Injuring.
+; 03/04/2015 pravAhukam -> pravAhakam (print error)
+039416 old <HI>{#pravAhukam#}¦ {%adv.%} At the same time.
+039416 new <HI>{#pravAhakam#}¦ {%adv.%} At the same time.
+; 03/04/2015 praSruta -> praSrita (print error)
+039531 old <HI>{#pra.Sruta (taH-tA-taM)#}¦ {%a.%} Flowing.
+039531 new <HI>{#pra.Srita (taH-tA-taM)#}¦ {%a.%} Flowing.
+; 03/04/2015 prAmBAra -> prAgBAra (print error)
+039820 old <HI>{#prAmBA\ra (raH)#}¦ 1. {%m.%} A peak; height;
+039820 new <HI>{#prAgBA\ra (raH)#}¦ 1. {%m.%} A peak; height;
+; 03/04/2015 prAcInAnIta -> prAcInAvIta (print error)
+039854 old <HI>{#prAcInA\nIta (taM)#}¦ 1. {%n.%} The sacrificial
+039854 new <HI>{#prAcInA\vIta (taM)#}¦ 1. {%n.%} The sacrificial
+; 03/04/2015 prARaBAsvan -> prARaBAsvat (print error)
+039904 old <HI>{#prARa.BAsvan (svAn)#}¦ 5. {%m.%} The ocean.
+039904 new <HI>{#prARa.BAsvat (svAn)#}¦ 5. {%m.%} The ocean.
+; 03/04/2015 prARidyuta -> prARidyUta (print error)
+039933 old <HI>{#prARi.dyuta (taM)#}¦ 1. {%n.%} Cock-fighting.
+039933 new <HI>{#prARi.dyUta (taM)#}¦ 1. {%n.%} Cock-fighting.
+; 03/04/2015 prAvfzaRya -> prAvfzeRya (print error)
+040093 old <HI>{#prAvfzaRya (RyaM)#}¦ 1. {%m.%} The {%Kadamba%} tree.
+040093 new <HI>{#prAvfzeRya (RyaM)#}¦ 1. {%m.%} The {%Kadamba%} tree.
+; 03/04/2015 projJata -> projJita (typo)
+040297 old <HI>{#pro\jJata (taH-tA-taM)#}¦ {%a.%} Abandoned.
+040297 new <HI>{#pro\jJita (taH-tA-taM)#}¦ {%a.%} Abandoned.
+; 03/05/2015 prOQipAda -> prOQapAda (print error)
+040351 old <HI>{#prOQi.pAda (daH)#}¦ 1. {%m.%} Who sits with
+040351 new <HI>{#prOQa.pAda (daH)#}¦ 1. {%m.%} Who sits with
+; 03/05/2015 bAqabAgni -> bAqavAgni (typo)
+041078 old <HI>{#bAqabA.gni (gniH)#}¦ 2. {%m.%} Hell.
+041078 new <HI>{#bAqavA.gni (gniH)#}¦ 2. {%m.%} Hell.
+; 03/05/2015 bAhumula -> bAhumUla (typo)
+041214 old <HI>{#bAhu.mula (laH)#}¦ 1. {%m.%} The armpit.
+041214 new <HI>{#bAhu.mUla (laH)#}¦ 1. {%m.%} The armpit.
+; 03/05/2015 brahmazada -> brahmapada (print error)
+041379 old <HI>{#brahma.zada (daM)#}¦ 1. {%n.%} Nature of deity.
+041379 new <HI>{#brahma.pada (daM)#}¦ 1. {%n.%} Nature of deity.
+; 03/05/2015 brahmasUrdDaBft -> brahmamUrdDaBft (typo)
+041393 old <HI>{#brahma.sUrdDa.Bft (t)#}¦ 5. {%m. Shiva.%}
+041393 new <HI>{#brahma.mUrdDa.Bft (t)#}¦ 5. {%m. Shiva.%}
+; 03/05/2015 brahmodana -> brahmOdana (print error)
+041483 old <HI>{#brahmo\dana (naM)#}¦ 1. {%n.%} Boiled rice given
+041483 new <HI>{#brahmO\dana (naM)#}¦ 1. {%n.%} Boiled rice given
+; 03/05/2015 BagoraTa -> BagIraTa (I/o confusion)
+041596 old <HI>{#BagoraTa (TaH)#}¦ 1. {%m.%} Name of a king.
+041596 new <HI>{#BagIraTa (TaH)#}¦ 1. {%m.%} Name of a king.
+; 03/05/2015 madrASva -> BadrASva (print error)
+041735 old <HI>{#madrA\Sva (SvaM)#}¦ 1. {%n.%} One of the four
+041735 new <HI>{#BadrA\Sva (SvaM)#}¦ 1. {%n.%} One of the four
+; 03/05/2015 Bayasahfzwaroman -> BayasaMhfzwaroman (print error)
+041761 old <HI>{#Baya.sahfzwa.roman (mA-mA-ma)#}¦ {%a.%} Horri-
+041761 new <HI>{#Baya.saMhfzwa.roman (mA-mA-ma)#}¦ {%a.%} Horri-
+; 03/05/2015 BarmmaMn -> Barmman (typo)
+041834 old <HI>{#BarmmaMn (rmma)#}¦ 5. {%n.%} See {#Barmma#}.
+041834 new <HI>{#Barmman (rmma)#}¦ 5. {%n.%} See {#Barmma#}.
+; 03/05/2015 BavadfS -> BavAdfS (typo)
+041879 old <HI>{#Bava.dfS (k)#}¦ {%a.%} Like you.
+041879 new <HI>{#BavA.dfS (k)#}¦ {%a.%} Like you.
+; 03/05/2015 BAvasaMSudvi -> BAvasaMSudDi (dv/dD confusion)
+042127 old <HI>{#BAva.saMSudvi (dDiH)#}¦ 2. {%f.%} Purification
+042127 new <HI>{#BAva.saMSudDi (dDiH)#}¦ 2. {%f.%} Purification
+; 03/05/2015 BAvAmAsa -> BAvABAsa (typo)
+042137 old <HI>{#BAvA\mAsa (saH)#}¦ 1. {%m.%} Assumed emotion.
+042137 new <HI>{#BAvA\BAsa (saH)#}¦ 1. {%m.%} Assumed emotion.
+; 03/05/2015 BikzIta -> Bikzita (typo)
+042210 old <HI>{#BikzIta (taH-tA-taM)#}¦ {%p.%} Begged.
+042210 new <HI>{#Bikzita (taH-tA-taM)#}¦ {%p.%} Begged.
+; 03/05/2015 BismawA -> BissawA (sm/ss confusion)
+042276 old <HI>{#BismawA (wA)#}¦ 1. {%f.%} Parched rice.
+042276 new <HI>{#BissawA (wA)#}¦ 1. {%f.%} Parched rice.
+; 03/05/2015 BujAgIqa -> BujApIqa (print error)
+042359 old <HI>{#BujA\gIqa (qaH)#}¦ 1. {%m.%} Clasping in the arms.
+042359 new <HI>{#BujA\pIqa (qaH)#}¦ 1. {%m.%} Clasping in the arms.
+; 03/05/2015 Bujya -> Bujyu (print error)
+042365 old <HI>{#Bujya (jyaH)#}¦ 2. {%m.%} Eating.
+042365 new <HI>{#Bujyu (jyaH)#}¦ 2. {%m.%} Eating.
+; 03/05/2015 BUtasaYcara -> BUtasaYcAra (print error)
+042464 old <HI>{#BUta.saYcara (raH)#}¦ 1. {%m.%} Possession by
+042464 new <HI>{#BUta.saYcAra (raH)#}¦ 1. {%m.%} Possession by
+; 03/05/2015 BUtasaMmpfkta -> BUtasampfkta (print error)
+042466 old <HI>{#BUta.saMmpfkta (ktaH-ktA-ktaM)#}¦ {%a.%} United or
+042466 new <HI>{#BUta.sampfkta (ktaH-ktA-ktaM)#}¦ {%a.%} United or
+; 03/05/2015 Baka -> Beka (print error)
+042684 old <HI>{#Baka (kaH)#}¦ 1. {%m.%} A frog; a cloud.
+042684 new <HI>{#Beka (kaH)#}¦ 1. {%m.%} A frog; a cloud.
+; 03/05/2015 BraRahatyA -> BrURahatyA (print error)
+042899 old <HI>{#BraRa.hatyA (tyA)#}¦ 1. {%f.%} Procuring abortion.
+042899 new <HI>{#BrURa.hatyA (tyA)#}¦ 1. {%f.%} Procuring abortion.
+; 03/05/2015 maYcitta -> maccitta (print error)
+043019 old <HI>{#maYcitta (ttaH-ttA-ttaM)#}¦ {%a.%} Devoted to me.
+043019 new <HI>{#maccitta (ttaH-ttA-ttaM)#}¦ {%a.%} Devoted to me.
+; 03/05/2015 maYjamaRqapa -> maYcamaRqapa (typo)
+043036 old <HI>{#maYja.maRqapa (paH)#}¦ 1. {%m.%} A sort of tem-
+043036 new <HI>{#maYca.maRqapa (paH)#}¦ 1. {%m.%} A sort of tem-
+; 03/05/2015 maqqa -> maqqu (print error)
+043095 old <HI>{#maqqa (qqaH)#}¦ 2. {%m.%} A sort of drum.
+043095 new <HI>{#maqqu (qqaH)#}¦ 2. {%m.%} A sort of drum.
+; 03/05/2015 matsyasaMyAta -> matsyasaMGAta (print error)
+043273 old <HI>{#matsya.saMyAta (taH)#}¦ 1. {%m.%} A shoal of
+043273 new <HI>{#matsya.saMGAta (taH)#}¦ 1. {%m.%} A shoal of
+; 03/05/2015 madAmmada -> madArmmada (print error)
+043367 old <HI>{#madAmmada (kaH)#}¦ 1. {%m.%} A sort of fish.
+043367 new <HI>{#madArmmada (daH)#}¦ 1. {%m.%} A sort of fish.
+; 03/05/2015 maDukaSawa -> maDukeSawa (print error)
+043431 old <HI>{#maDuka.Sawa (waH)#}¦ 1. {%m. Idem.%}
+043431 new <HI>{#maDuke.Sawa (waH)#}¦ 1. {%m. Idem.%}
+; 03/05/2015 marAbAlI -> marAkAlI (print error)
+043853 old <HI>{#marA\bAlI (lI)#}¦ 3. {%f.%} A plant.
+043853 new <HI>{#marA\kAlI (lI)#}¦ 3. {%f.%} A plant.
+; 03/05/2015 marudrama -> marudruma (typo)
+043897 old <HI>{#maru.drama (maH)#}¦ 1. {%m.%} A fetid mimosa.
+043897 new <HI>{#maru.druma (maH)#}¦ 1. {%m.%} A fetid mimosa.
+; 03/05/2015 markaWapriya -> markawapriya (print error)
+043927 old <HI>{#markaWa.priya (yaH)#}¦ 1. {%m.%} A mimosa tree.
+043927 new <HI>{#markawa.priya (yaH)#}¦ 1. {%m.%} A mimosa tree.
+; 03/05/2015 markaWAsya -> markawAsya (print error)
+043929 old <HI>{#markaWA\sya (syaM)#}¦ 1. {%n.%} Copper.
+043929 new <HI>{#markawA\sya (syaM)#}¦ 1. {%n.%} Copper.
+; 03/05/2015 majjU -> marjjU (print error)
+043934 old <HI>{#majjU (jjUH)#}¦ 3. {%f.%} Cleaning, purification.
+043934 new <HI>{#marjjU (jjUH)#}¦ 3. {%f.%} Cleaning, purification.
+; 03/05/2015 marttryamuKa -> marttyamuKa (print error)
+043941 old <HI>{#marttrya.muKa (KaH)#}¦ 1. {%m.%} A demigod at-
+043941 new <HI>{#marttya.muKa (KaH)#}¦ 1. {%m.%} A demigod at-
+; 03/05/2015 dt -> d t (not hw)
+043963 old <HI>{#marmmA\viD (dt)#}¦ {%a.%} Piercing or af-
+043963 new <HI>{#marmmA\viD (d t)#}¦ {%a.%} Piercing or af-
+; 03/05/2015 mahADoza -> mahAGoza (print error)
+044184 old <HI>{#mahA.Doza (zaH)#}¦ 1. {%m.%} A great noise.
+044184 new <HI>{#mahA.Goza (zaH)#}¦ 1. {%m.%} A great noise.
+; 03/05/2015 mahAmAnamI -> mahAmAnasI (print error)
+044314 old <HI>{#mahA.mAnamI (mI)#}¦ 3. {%f.%} A goddess pe-
+044314 new <HI>{#mahA.mAnasI (mI)#}¦ 3. {%f.%} A goddess pe-
+; 03/05/2015 mahAmayA -> mahAmAyA (print error)
+044316 old <HI>{#mahA.mayA (yA)#}¦ 1. {%f. Durga4;%} illusion.
+044316 new <HI>{#mahA.mayA (yA)#}¦ 1. {%f. Durga4;%} illusion.
+; 03/05/2015 mahArAjakUta -> mahArAjacUta (print error)
+044349 old <HI>{#mahArAja.kUta (taH)#}¦ 1. {%m.%} A kind of
+044349 new <HI>{#mahArAja.cUta (taH)#}¦ 1. {%m.%} A kind of
+; 03/05/2015 mahAvIhatI -> mahAvfhatI (print error)
+044400 old <HI>{#mahA.vIhatI (tI)#}¦ 3. {%f.%} The egg-plant.
+044400 new <HI>{#mahA.vfhatI (tI)#}¦ 3. {%f.%} The egg-plant.
+; 03/05/2015 mahASuktA -> mahASuklA (print error)
+044420 old <HI>{#mahA.SuktA (ktA)#}¦ 1. {%f. Saraswati4.%}
+044420 new <HI>{#mahA.SuklA (ktA)#}¦ 1. {%f. Saraswati4.%}
+; 03/05/2015 mahAsTalIM -> mahAsTalI (typo)
+044451 old <HI>{#mahA.sTalIM (lI)#}¦ 3. {%f.%} The earth.
+044451 new <HI>{#mahA.sTalI (lI)#}¦ 3. {%f.%} The earth.
+; 03/05/2015 mAdya -> mAWya (typo)
+044601 old <HI>{#mAdya (dyaH)#}¦ 1. {%m. Idem.%}
+044601 new <HI>{#mAWya (WyaH)#}¦ 1. {%m. Idem.%}
+; 03/05/2015 mADuvezwA -> mADavezwA (print error)
+044702 old <HI>{#mADu.vezwA (zwA)#}¦ 1. {%f. Durga4.%}
+044702 new <HI>{#mADa.vezwA (zwA)#}¦ 1. {%f. Durga4.%}
+; 03/05/2015 mADuka -> mADUka (print error)
+044710 old <HI>{#mADuka (kaH-kI-kaM)#}¦ {%a.%} Sweet (toned, &c.)
+044710 new <HI>{#mADUka (kaH-kI-kaM)#}¦ {%a.%} Sweet (toned, &c.)
+; 03/05/2015 mAyara -> mAyUra (print error)
+044795 old <HI>{#mAyara (raM)#}¦ 1. {%m.%} A flock of peacocks.
+044795 new <HI>{#mAyUra (raM)#}¦ 1. {%m.%} A flock of peacocks.
+; 03/05/2015 mArkawapippIlikA -> mArkawapipIlikA (print error)
+044832 old <HI>{#mArkawa.pippIlikA (kA)#}¦ 1. {%f.%} Black ant.
+044832 new <HI>{#mArkawa.pipIlikA (kA)#}¦ 1. {%f.%} Black ant.
+; 03/05/2015 mArjjArakaRwa -> mArjjArakaRWa (print error)
+044865 old <HI>{#mArjjAra.kaRwa (RwaH)#}¦ 1. {%m. Idem.%}
+044865 new <HI>{#mArjjAra.kaRwa (RwaH)#}¦ 1. {%m. Idem.%}
+; 03/05/2015 mAlatotIraja -> mAlatItIraja (I/o confusion)
+044896 old <HI>{#mAlato.tIraja (jaH)#}¦ 1. {%m.%} Borax.
+044896 new <HI>{#mAlatI.tIraja (jaH)#}¦ 1. {%m.%} Borax.
+; 03/05/2015 mASabDika -> mASabdika (print error)
+044927 old <HI>{#mA.SabDika (kaH-kA-kaM)#}¦ {%a.%} Prohibitive.
+044927 new <HI>{#mA.Sabdika (kaH-kA-kaM)#}¦ {%a.%} Prohibitive.
+; 03/05/2015 mIwa -> mIQa (print error)
+045100 old <HI>{#mIwa (waH-wA-waM)#}¦ {%a.%} Passed as urine.
+045100 new <HI>{#mIQa (QaH-QA-QaM)#}¦ {%a.%} Passed as urine.
+; 03/05/2015 muKapuraRa -> muKapUraRa (print error)
+045202 old <HI>{#muKa.puraRa (RaM)#}¦ 1. {%n.%} A mouthful of wa-
+045202 new <HI>{#muKa.pUraRa (RaM)#}¦ 1. {%n.%} A mouthful of wa-
+; 03/05/2015 muRqIrIkA -> muRqIrikA (print error)
+045301 old <HI>{#muRqIrIkA (kA)#}¦ 1. {%f.%} A plant.
+045301 new <HI>{#muRqIrikA (kA)#}¦ 1. {%f.%} A plant.
+; 03/05/2015 mudgaBaj -> mudgaBuj (print error)
+045317 old <HI>{#mudga.Baj (k)#}¦ 5. {%m.%} A horse. [Page597-a+ 38]
+045317 new <HI>{#mudga.Buj (k)#}¦ 5. {%m.%} A horse. [Page597-a+ 38]
+; 03/05/2015 muzwidyuta -> muzwidyUta (print error)
+045401 old <HI>{#muzwi.dyuta (taM)#}¦ 1. {%n.%} A kind of game,
+045401 new <HI>{#muzwi.dyUta (taM)#}¦ 1. {%n.%} A kind of game,
+; 03/05/2015 muzwimaMgrAhapIqita -> muzwisaMgrAhapIqita (print error)
+045407 old <HI>{#muzwi.maMgrAha.pIqita (taH-tA-taM)#}¦ {%a.%}
+045407 new <HI>{#muzwi.saMgrAha.pIqita (taH-tA-taM)#}¦ {%a.%}
+; 03/05/2015 muzwimuzwi -> muzwImuzwi (typo)
+045409 old <HI>{#muzwimuzwi#}¦ {%adv.%} Fist to fist (fighting).
+045409 new <HI>{#muzwImuzwi#}¦ {%adv.%} Fist to fist (fighting).
+; 03/05/2015 mUrdDAmizikta -> mUrdDABizikta (typo)
+045490 old <HI>{#mUrdDA\mizikta (ktaH)#}¦ 1. {%m.%} A man of the se-
+045490 new <HI>{#mUrdDA\Bizikta (ktaH)#}¦ 1. {%m.%} A man of the se-
+; 03/05/2015 meQraSfNgaI -> meQraSfNgI (typo)
+045833 old <HI>{#meQra.SfNgaI (NgI)#}¦ 3. {%f.%} A milky plant.
+045833 new <HI>{#meQra.SfNgI (NgI)#}¦ 3. {%f.%} A milky plant.
+; 03/05/2015 mEtraya -> mEtreya (print error)
+045930 old <HI>{#mEtraya (yaH-yI-yaM)#}¦ {%a.%} Of a friend. {%m.%}
+045930 new <HI>{#mEtreya (yaH-yI-yaM)#}¦ {%a.%} Of a friend. {%m.%}
+; 03/05/2015 mradvizWa -> mradizWa (print error)
+046053 old <HI>{#mradvizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Very soft.
+046053 new <HI>{#mradizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Very soft.
+; 03/05/2015 mlecCaBAjana -> mlecCaBojana (print error)
+046081 old <HI>{#mlecCa.BAjana (naH)#}¦ 1. {%m.%} Wheat. {%n.%} Half ripe barley.
+046081 new <HI>{#mlecCa.Bojana (naH)#}¦ 1. {%m.%} Wheat. {%n.%} Half ripe barley.
+; 03/05/2015 yakzamalaka -> yakzAmalaka (print error)
+046121 old <HI>{#yakza.malaka (kaH)#}¦ 1. {%m.%} A tree; a date.
+046121 new <HI>{#yakzA\malaka (kaH)#}¦ 1. {%m.%} A tree; a date.
+; 03/05/2015 yakzmyamARa -> yakzyamARa (print error or difficult ligature)
+046132 old <HI>{#yakzmyamARa (RaH-RA-RaM)#}¦ {%p.%} Wishing to worship.
+046132 new <HI>{#yakzyamARa (RaH-RA-RaM)#}¦ {%p.%} Wishing to worship.
+; 03/05/2015 yaNaluganta -> yaNluganta (print error)
+046135 old <HI>{#yaNaluganta (ntaH)#}¦ 1. {%m.%} The frequentative active.
+046135 new <HI>{#yaNluganta (ntaH)#}¦ 1. {%m.%} The frequentative active.
+; 03/05/2015 yaTAvasera -> yaTAvasara (print error)
+046270 old <HI>{#yaTA\vasera (raM)#}¦ {%adv.%} According to op-
+046270 new <HI>{#yaTA\vasara (raM)#}¦ {%adv.%} According to op-
+; 03/05/2015 yamamaginI -> yamaBaginI (typo)
+046348 old <HI>{#yama.maginI (nI)#}¦ 3. {%f.%} The {%Jumna%} river.
+046348 new <HI>{#yama.BaginI (nI)#}¦ 3. {%f.%} The {%Jumna%} river.
+; 03/05/2015 yavIyam -> yavIyas (m/s confusion)
+046419 old <HI>{#yavIyam (yAn-yasI-yaH)#}¦ {%a.%} Younger.
+046419 new <HI>{#yavIyas (yAn-yasI-yaH)#}¦ {%a.%} Younger.
+; 03/05/2015 lkyaM -> lkyaH (print error)
+046484 old <HI>{#yAjYavalkya (lkyaM)#}¦ 1. {%m.%} A celebrated
+046484 new <HI>{#yAjYavalkya (lkyaH)#}¦ 1. {%m.%} A celebrated
+; 03/05/2015 yAdasAmpatid -> yAdasAmpati (typo)
+046527 old <HI>{#yAdasA\mpatid (tiH)#}¦ 2. {%m. Idem.%}
+046527 new <HI>{#yAdasA\mpati (tiH)#}¦ 2. {%m. Idem.%}
+; 03/05/2015 yugAMnta -> yugAnta (typo)
+046640 old <HI>{#yugAM\nta (kaH)#}¦ 1. {%m.%} End of an age;
+046640 new <HI>{#yugA\nta (kaH)#}¦ 1. {%m.%} End of an age;
+; 03/05/2015 rdDaM -> dDaM (typo) not hw
+046681 old <HI>{#yudDa (rdDaM)#}¦ 1. {%n.%} War, fighting.
+046681 new <HI>{#yudGa (dDaM)#}¦ 1. {%n.%} War, fighting.
+; 03/05/2015 yuvajani -> yuvajAni (typo)
+046710 old <HI>{#yuva.jani (niH)#}¦ 2 {%m.%} Husband of youth.
+046710 new <HI>{#yuva.jAni (niH)#}¦ 2 {%m.%} Husband of youth.
+; 03/05/2015 yogavAho -> yogavAhI (I/o confusion)
+046777 old <HI>{#yoga.vAho (hI)#}¦ 3. {%f.%} Alkali; quick-
+046777 new <HI>{#yoga.vAhI (hI)#}¦ 3. {%f.%} Alkali; quick-
+; 03/05/2015 yonidivatA -> yonidevatA (typo)
+046833 old <HI>{#yoni.divatA (tA)#}¦ 1. {%f.%} The 11th {%Na-
+046833 new <HI>{#yoni.devatA (tA)#}¦ 1. {%f.%} The 11th {%Na-
+; 03/05/2015 yOvanapIqakA -> yOvanapiqakA (print error)
+046871 old <HI>{#yOvana.pIqakA (kA)#}¦ 1. {%f.%} Blotches in
+046871 new <HI>{#yOvana.piqakA (kA)#}¦ 1. {%f.%} Blotches in
+; 03/05/2015 raMktatva -> raktatva (print error)
+046913 old <HI>{#raMktatva (tvaM)#}¦ 1. {%n.%} Redness; passion.
+046913 new <HI>{#raktatva (tvaM)#}¦ 1. {%n.%} Redness; passion.
+; 03/05/2015 rakzaspAsa -> rakzaspASa (print error)
+047024 old <HI>{#rakzaspAsa (saH)#}¦ 1. {%m.%} A contemptible
+047024 new <HI>{#rakzaspASa (saH)#}¦ 1. {%m.%} A contemptible
+; 03/05/2015 raGukara -> raGukAra (print error)
+047053 old <HI>{#raGu.kara (raH)#}¦ 1. {%m.%} The poet {%Ka4lida4sa.%}
+047053 new <HI>{#raGu.kAra (raH)#}¦ 1. {%m.%} The poet {%Ka4lida4sa.%}
+; 03/05/2015 rasaBAva -> rasaBava (print error)
+047414 old <HI>{#rasa.BAva (vaM)#}¦ 1. {%n.%} The blood.
+047414 new <HI>{#rasa.Bava (vaM)#}¦ 1. {%n.%} The blood.
+; 03/05/2015 rasaKana -> rasAKana (typo)
+047428 old <HI>{#rasa.Kana (naH)#}¦ 1. {%m.%} A cock.
+047428 new <HI>{#rasA.Kana (naH)#}¦ 1. {%m.%} A cock.
+; 03/05/2015 rAJaSana -> rAjaSana (typo)
+047647 old <HI>{#rAJa.Sana (naH)#}¦ 1. {%m.%} A plant from
+047647 new <HI>{#rAja.Sana (naH)#}¦ 1. {%m.%} A plant from
+; 03/05/2015 rAjAlUka -> rAjAluka (print error)
+047697 old <HI>{#rAjA\lUka (kaM)#}¦ 1. {%m.%} Yam.
+047697 new <HI>{#rAjA\luka (kaM)#}¦ 1. {%m.%} Yam.
+; 03/05/2015 rAtrivodin -> rAtrivedin (typo)
+047762 old <HI>{#rAtri.vodin (dI)#}¦ 5. {%m. Idem.%}
+047762 new <HI>{#rAtri.vedin (dI)#}¦ 5. {%m. Idem.%}
+; 03/05/2015 kala -> kalaGoza (print error)
+012755 old <HI>{#kala, Goza (zaH)#}¦ 1. {%m.%} The cuckoo.
+012755 new <HI>{#kala.Goza (zaH)#}¦ 1. {%m.%} The cuckoo.
+; 03/05/2015 kala -> kalatUlikA (print error)
+012771 old <HI>{#kala, tUlikA (kA)#}¦ 1. {%f.%} A courtezan.
+012771 new <HI>{#kala.tUlikA (kA)#}¦ 1. {%f.%} A courtezan.
+; 03/05/2015 rAmakarlI -> rAmakalI (typo)
+047804 old <HI>{#rAma.karlI (lI)#}¦ 3. {%f.%} A {%Ra4gini4.%}
+047804 new <HI>{#rAma.kalI (lI)#}¦ 3. {%f.%} A {%Ra4gini4.%}
+; 03/05/2015 rASImUta -> rASIBUta (typo)
+047850 old <HI>{#rASI.mUta (taH-tA-taM)#}¦ {%a. Idem.%}
+047850 new <HI>{#rASI.BUta (taH-tA-taM)#}¦ {%a. Idem.%}
+; 03/05/2015 rukapratikriyA -> rukpratikriyA (print error)
+047978 old <HI>{#ruka-pratikriyA (yA)#}¦ 1. {%f.%} The prac-
+047978 new <HI>{#ruk.pratikriyA (yA)#}¦ 1. {%f.%} The prac-
+; 03/05/2015 rukya -> rukma (print error)
+047980 old <HI>{#rukya (kyaM)#}¦ 1. {%n.%} Gold; iron.
+047980 new <HI>{#rukma (kmaM)#}¦ 1. {%n.%} Gold; iron.
+; 03/05/2015 rogaSantaka -> rogaSAntaka (typo)
+048251 old <HI>{#roga.Santaka (kaH)#}¦ 1. {%m.%} A physician.
+048251 new <HI>{#roga.SAntaka (kaH)#}¦ 1. {%m.%} A physician.
+; 03/05/2015 rAhiza -> rohiza (print error)
+048390 old <HI>{#rAhiza (zaM)#}¦ 1. {%n.%} A sort of grass.
+048390 new <HI>{#rohiza (zaM)#}¦ 1. {%n.%} A sort of grass.
+; 03/05/2015 rAcanika -> rOcanika (print error)
+048393 old <HI>{#rAcanika (kaH-kI-kaM)#}¦ {%a.%} Of a yellow [Page637-b+ 37]
+048393 new <HI>{#rOcanika (kaH-kI-kaM)#}¦ {%a.%} Of a yellow [Page637-b+ 37]
+; 03/05/2015 rOliRa -> rOhiRa (print error)
+048413 old <HI>{#rOliRa (RaH)#}¦ 1. {%m.%} Sandal-wood.
+048413 new <HI>{#rOhiRa (RaH)#}¦ 1. {%m.%} Sandal-wood.
+; 03/05/2015 laGizwa -> laGizWa (print error)
+048498 old <HI>{#laGizwa (zwaH-zwA-zwaM)#}¦ {%a.%} Lightest, very small.
+048498 new <HI>{#laGizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Lightest, very small.
+; 03/05/2015 laGoyas -> laGIyas (I/o confusion)
+048499 old <HI>{#laGoyas (yAn-yasI-yaH)#}¦ {%a. Idem.%}
+048499 new <HI>{#laGIyas (yAn-yasI-yaH)#}¦ {%a. Idem.%}
+; 03/05/2015 laGucatas -> laGucetas (print error)
+048507 old <HI>{#laGu.catas (tAH-tAH-taH)#}¦ {%a.%} Low-minded.
+048507 new <HI>{#laGu.cetas (tAH-tAH-taH)#}¦ {%a.%} Low-minded.
+; 03/05/2015 laGudundaBi -> laGudunduBi (print error)
+048510 old <HI>{#laGu.dundaBi (BiH)#}¦ 2. {%m.%} A drum.
+048510 new <HI>{#laGu.dunduBi (BiH)#}¦ 2. {%m.%} A drum.
+; 03/05/2015 laNgApati -> laNkApati (print error)
+048534 old <HI>{#laNgA.pati (tiH)#}¦ 2. {%m. Ra4vana.%}
+048534 new <HI>{#laNkA.pati (tiH)#}¦ 2. {%m. Ra4vana.%}
+; 03/05/2015 laNgAsTAyin -> laNkAsTAyin (print error)
+048537 old <HI>{#laNgA.sTAyin (yI-yinI-yi)#}¦ {%a.%} Living
+048537 new <HI>{#laNkA.sTAyin (yI-yinI-yi)#}¦ {%a.%} Living
+; 03/05/2015 laNkApikA -> laNkopikA (typo)
+048540 old <HI>{#laNkA\pikA (kA)#}¦ 1. {%f.%} Trigonella.
+048540 new <HI>{#laNko\pikA (kA)#}¦ 1. {%f.%} Trigonella.
+; 03/05/2015 latAmfta -> latAmfga (typo)
+048612 old <HI>{#latA.mfta (gaH)#}¦ 1. {%m.%} A monkey.
+048612 new <HI>{#latA.mfga (gaH)#}¦ 1. {%m.%} A monkey.
+; 03/05/2015 laBaya -> laBya (typo)
+048661 old <HI>{#laBaya (ByaH-ByA-ByaM)#}¦ {%a.%} Attainable; fit, proper.
+048661 new <HI>{#laBya (ByaH-ByA-ByaM)#}¦ {%a.%} Attainable; fit, proper.
+; 03/05/2015 kalAwikA -> lalAwikA (print error)
+048725 old <HI>{#kalA\wikA (kA)#}¦ 1. {%f.%} An ornament
+048725 new <HI>{#lalA\wikA (kA)#}¦ 1. {%f.%} An ornament
+; 03/05/2015 lABalipsa -> lABalipsu (typo)
+048839 old <HI>{#lABa.lipsa (psuH-psuH-psu)#}¦ {%a.%} Wishing to gain.
+048839 new <HI>{#lABa.lipsu (psuH-psuH-psu)#}¦ {%a.%} Wishing to gain.
+; 03/05/2015 liviNgara -> liviNkara (typo)
+048962 old <HI>{#liviNgara (raH)#}¦ 1. {%m. Idem.%} [Page645-a+ 38]
+048962 new <HI>{#liviNkara (raH)#}¦ 1. {%m. Idem.%} [Page645-a+ 38]
+; 03/05/2015 lolA -> lIlA (typo, I/o confusion)
+048983 old <HI>{#lolA (lA)#}¦ 1. {%f.%} A branch of fe-
+048983 new <HI>{#lIlA (lA)#}¦ 1. {%f.%} A branch of fe-
+; 03/05/2015 lIlAyata -> lIlAyita (print error)
+048987 old <HI>{#lIlAyata (taH-tA-taM)#}¦ {%p.%} Done in sport.
+048987 new <HI>{#lIlAyita (taH-tA-taM)#}¦ {%p.%} Done in sport.
+; 03/05/2015 lokavikuzwa -> lokavikruzwa (print error)
+049166 old <HI>{#loka.vikuzwa (zwaH-zwA-zwaM)#}¦ 1. {%m. f. n.%}
+049166 new <HI>{#loka.vikruzwa (zwaH-zwA-zwaM)#}¦ 1. {%m. f. n.%}
+; 03/05/2015 lopta -> loptra (print error)
+049222 old <HI>{#lopta (ptaM-ptI)#}¦ 1. {%n.%} 3. {%f.%} Plunder, booty.
+049222 new <HI>{#loptra (ptaM-ptI)#}¦ 1. {%n.%} 3. {%f.%} Plunder, booty.
+; 03/05/2015 lAha -> loha (print error)
+049284 old <HI>{#lAha (haH-haM)#}¦ 1. {%m. n.%} Iron; any metal,
+049284 new <HI>{#loha (haH-haM)#}¦ 1. {%m. n.%} Iron; any metal,
+; 03/05/2015 loDadrAvin -> lohadrAvin (typo)
+049296 old <HI>{#loDa.drAvin (vI)#}¦ 5. {%m.%} Borax.
+049296 new <HI>{#loha.drAvin (vI)#}¦ 5. {%m.%} Borax.
+; 03/05/2015 loharAhaka -> loharAjaka (typo)
+049304 old <HI>{#loha.rAhaka (kaM)#}¦ 1. {%n.%} Silver. [Page649-b+ 38]
+049304 new <HI>{#loha.rAjaka (kaM)#}¦ 1. {%n.%} Silver. [Page649-b+ 38]
+; 03/05/2015 lohaSaNka -> lohaSaNku (print error, smudge)
+049309 old <HI>{#loha.SaNka (NkuH)#}¦ 2. {%m.%} A hell; iron pike.
+049309 new <HI>{#loha.SaNku (NkuH)#}¦ 2. {%m.%} A hell; iron pike.
+; 03/05/2015 vaMhizwa -> vaMhizWa (print error)
+049414 old <HI>{#vaMhizwa (zwaH-zwA-zwaM)#}¦ {%a.%} Very much.
+049414 new <HI>{#vaMhizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Very much.
+; 03/05/2015 vakraKaNga -> vakraKaqga (print error)
+; Note this also a typo in PW and VCP
+049462 old <HI>{#vakra.KaNga (NgaH)#}¦ 1. {%m.%} A sabre, scimitar.
+049462 new <HI>{#vakra.Kaqga (qgaH)#}¦ 1. {%m.%} A sabre, scimitar.
+; 03/05/2015 vakzayamARa -> vakzyamARa (typo)
+049504 old <HI>{#vakzayamARa (RaH-RA-RaM)#}¦ {%p.%} Said, described.
+049504 new <HI>{#vakzyamARa (RaH-RA-RaM)#}¦ {%p.%} Said, described.
+; 03/05/2015 vanasUta -> vanamUta (typo)
+049808 old <HI>{#vana.sUta (taH)#}¦ 1. {%m.%} A cloud.
+049808 new <HI>{#vana.mUta (taH)#}¦ 1. {%m.%} A cloud.
+; 03/05/2015 varutraM -> varutra (print error)
+050100 old <HI>{#varutraM (traM)#}¦ 1. {%n.%} An upper and outer
+050100 new <HI>{#varutra (traM)#}¦ 1. {%n.%} An upper and outer
+; 03/06/2015 varRasaMNGAta -> varRasaNGAta (print error)
+050196 old <HI>{#varRa.saMNGAta (taH)#}¦ 1. {%m. Idem.%}
+050196 new <HI>{#varRa.saNGAta (taH)#}¦ 1. {%m. Idem.%}
+; 03/06/2015 varRApeta -> varRopeta (typo)
+050220 old <HI>{#varRA\peta (taH-tA-taM)#}¦ {%a.%} Having caste.
+050220 new <HI>{#varRo\peta (taH-tA-taM)#}¦ {%a.%} Having caste.
+; 03/06/2015 varzizwa -> varzizWa (print error)
+050345 old <HI>{#varzizwa (zwaH-zwA-zwaM)#}¦ {%a.%} Oldest, very old.
+050345 new <HI>{#varzizWa (zWaH-zWA-zWaM)#}¦ {%a.%} Oldest, very old.
+; 03/06/2015 varhaHpuzpa -> varhiHpuzpa (typo)
+050364 old <HI>{#varhaHpuzpa (zpaM)#}¦ 1. {%n. Ganthia4la,%} a ve-
+050364 new <HI>{#varhiHpuzpa (zpaM)#}¦ 1. {%n. Ganthia4la,%} a ve-
+; 03/06/2015 valaMkza -> valakza (print error)
+050390 old <HI>{#valaMkza (kzaH-kzA-kzaM)#}¦ {%a.%} White. {%m.%} White colour.
+050390 new <HI>{#valakza (kzaH-kzA-kzaM)#}¦ {%a.%} White. {%m.%} White colour.
+; 03/06/2015 vastri -> vasti (typo)
+050619 old <HI>{#vastri (striH)#}¦ 2. {%m. f.%} The abdomen;
+050619 new <HI>{#vasti (striH)#}¦ 2. {%m. f.%} The abdomen;
+; 03/06/2015 vastiSoGana -> vastiSoDana (typo, G/D confusion)
+050628 old <HI>{#vasti.SoGana (naM)#}¦ 1. {%n.%} A diuretic.
+050628 new <HI>{#vasti.SoDana (naM)#}¦ 1. {%n.%} A diuretic.
+; 03/06/2015 vastrayumma -> vastrayugma (typo)
+050650 old <HI>{#vastra.yumma (gmaM)#}¦ 1. {%n.%} Pair of clothes.
+050650 new <HI>{#vastra.yugma (gmaM)#}¦ 1. {%n.%} Pair of clothes.
+; 03/06/2015 vastrAYjala -> vastrAYcala (print error)
+050653 old <HI>{#vastrA\Yjala (laM)#}¦ 1. {%n.%} Hem of a garment.
+050653 new <HI>{#vastrA\Ycala (laM)#}¦ 1. {%n.%} Hem of a garment.
+; 03/06/2015 vihirgamana -> vahirgamana (typo)
+050701 old <HI>{#vihi.rgamana (naM)#}¦ 1. {%n.%} Going out.
+050701 new <HI>{#vahi.rgamana (naM)#}¦ 1. {%n.%} Going out.
+; 03/06/2015 vAkapAruzya -> vAkpAruzya (print error)
+050774 old <HI>{#vAka.pAruzya (zyaM)#}¦ 1. {%n.%} Abuse, scurrility.
+050774 new <HI>{#vAk.pAruzya (zyaM)#}¦ 1. {%n.%} Abuse, scurrility.
+; 03/06/2015 vArakIn -> vArakin (typo)
+051237 old <HI>{#vArakIn (kI)#}¦ 5. {%m.%} The occean; a
+051237 new <HI>{#vArakin (kI)#}¦ 5. {%m.%} The occean; a
+; 03/06/2015 vAraRa -> vAreRa (print error)
+051355 old <HI>{#vAraRa#}¦ {%adv.%} Frequently. [Page676-b+ 38]
+051355 new <HI>{#vAreRa#}¦ {%adv.%} Frequently. [Page676-b+ 38]
+; 03/06/2015 vAttika -> vArttika (print error)
+051377 old <HI>{#vAttika (kaH-kI-kaM)#}¦ {%a.%} Giving infor-
+051377 new <HI>{#vArttika (kaH-kI-kaM)#}¦ {%a.%} Giving infor-
+; 03/06/2015 vArdDu -> vArdDa (print error?)
+051396 old <HI>{#vArdDu (rdDaM-rdDI)#}¦ 1. {%n.%} 3. {%f.%} A thong.
+051396 new <HI>{#vArdDa (rdDaM-rdDI)#}¦ 1. {%n.%} 3. {%f.%} A thong.
+; 03/06/2015 vArASi -> vArrASi (typo) 
+051409 old <HI>{#vArASi (SiH)#}¦ 2. {%m.%} The ocean.
+051409 new <HI>{#vArrASi (SiH)#}¦ 2. {%m.%} The ocean.
+; 03/06/2015 vigahamAna -> vigAhamAna (typo)
+051847 old <HI>{#vi.gahamAna (naH-nA-naM)#}¦ {%a.%} Beholding,
+051847 new <HI>{#vi.gAhamAna (naH-nA-naM)#}¦ {%a.%} Beholding,
+; 03/06/2015 viwakArikA -> viwkArikA (typo)
+052124 old <HI>{#viwa.kArikA (kA)#}¦ 1. {%f.%} Kind of thrush.
+052124 new <HI>{#viw.kArikA (kA)#}¦ 1. {%f.%} Kind of thrush.
+; 03/06/2015 viqalavaRa -> viqlavaRa (print error?)
+052167 old <HI>{#viqa.lavaRa (RaM)#}¦ 1. {%n.%} Black salt.
+052167 new <HI>{#viq.lavaRa (RaM)#}¦ 1. {%n.%} Black salt.
+; 03/06/2015 vidikacaNga -> vidikcaNga (typo)
+052309 old <HI>{#vidika.caNga (NgaH)#}¦ 1. {%m.%} A sort of bird.
+052309 new <HI>{#vidik.caNga (NgaH)#}¦ 1. {%m.%} A sort of bird.
+; 03/06/2015 vibudDa -> vibuDa (typo)
+052885 old <HI>{#vi.budDa (dDaH)#}¦ 1. {%m.%} A god; a pandit,
+052885 new <HI>{#vi.buDa (DaH)#}¦ 1. {%m.%} A god; a pandit,
+; 03/06/2015 viBUta -> viBfta (typo)
+052970 old <HI>{#vi.BUta (taH-tA-taM)#}¦ {%a.%} Held, supported.
+052970 new <HI>{#vi.Bfta (taH-tA-taM)#}¦ {%a.%} Held, supported.
+; 03/06/2015 viracita -> virecita (print error)
+053219 old <HI>{#vi.racita (taH-tA-taM)#}¦ {%p.%} Purged.
+053219 new <HI>{#vi.recita (taH-tA-taM)#}¦ {%p.%} Purged.
+; 03/06/2015 viSvaBAjana -> viSvaBojana (print error)
+053734 old <HI>{#viSva.BAjana (naM)#}¦ 1. {%n.%} Eating any
+053734 new <HI>{#viSva.Bojana (naM)#}¦ 1. {%n.%} Eating any
+; 03/06/2015 vizasekzaRa -> vizamekzaRa (print error)
+053911 old <HI>{#vizase.kzaRa (RaH)#}¦ 1. {%m. Shiva.%}
+053911 new <HI>{#vizame.kzaRa (RaH)#}¦ 1. {%m. Shiva.%}
+; 03/06/2015 vizWarasTa -> vizwarasTa (print error)
+054030 old <HI>{#vizWara.sTa (sTaH-sTA-sTaM)#}¦ {%a.%} Sitting on
+054030 new <HI>{#vizwara.sTa (sTaH-sTA-sTaM)#}¦ {%a.%} Sitting on
+; 03/06/2015 vfttojas -> vfttOjas (print error)
+054647 old <HI>{#vftto\jas (jAH-jAH-jaH)#}¦ {%a.%} Mighty.
+054647 new <HI>{#vfttO\jas (jAH-jAH-jaH)#}¦ {%a.%} Mighty.
+; 03/06/2015 vfttyapAya -> vfttyupAya (print error)
+054653 old <HI>{#vfttya\pAya (yaH)#}¦ 1. {%m.%} Means of subsistence.
+054653 new <HI>{#vfttyu\pAya (yaH)#}¦ 1. {%m.%} Means of subsistence.
+; 03/06/2015 vfhacCralka -> vfhacCalka (typo)
+054845 old <HI>{#vfha.cCralka (lkaH)#}¦ 1. {%m.%} A prawn.
+054845 new <HI>{#vfha.cCalka (lkaH)#}¦ 1. {%m.%} A prawn.
+; 03/06/2015 vedavidDas -> vedavidvas (dD/dv confusion)
+055029 old <HI>{#veda.vidDas (dDAn)#}¦ 1. {%m.%} One knowing
+055029 new <HI>{#veda.vidvas (dvAn)#}¦ 1. {%m.%} One knowing
+; 03/06/2015 vyaSruvAna -> vyaSnuvAna (print error)
+055854 old <HI>{#vyaSruvAna (naH-nA-naM)#}¦ {%a.%} Occupying.
+055854 new <HI>{#vyaSnuvAna (naH-nA-naM)#}¦ {%a.%} Occupying.
+; 03/06/2015 Sacipati -> SacIpati (print error)
+056515 old <HI>{#Saci.pati (tiH)#}¦ 2. {%m. Indra.%}
+056515 new <HI>{#SacI.pati (tiH)#}¦ 2. {%m. Indra.%}
+; 03/06/2015 SaroraSuSrUzA -> SarIraSuSrUzA (typo, I/o confusion)
+057008 old <HI>{#Sarora.SuSrUzA (zA)#}¦ 1. {%f.%} Bodily ser-
+057008 new <HI>{#SarUra.SuSrUzA (zA)#}¦ 1. {%f.%} Bodily ser-
+; 03/06/2015 SastrotyApana -> SastrotTApana (typo)
+057254 old <HI>{#Sastro\tyApana (naM)#}¦ 1. {%n.%} Raising a wea-
+057254 new <HI>{#Sastro\tTApana (naM)#}¦ 1. {%n.%} Raising a wea-
+; 03/06/2015 SAlina -> SAlIna (print error, by alph. order)
+057614 old <HI>{#SAlina (naH-nA-naM)#}¦ {%a.%} Ashamed,
+057614 new <HI>{#SAlIna (naH-nA-naM)#}¦ {%a.%} Ashamed,
+; 03/06/2015 SilAYCa -> SiloYCa (typo)
+058038 old <HI>{#SilA\YCa (YCaH)#}¦ 1. {%m.%} Following more
+058038 new <HI>{#Silo\YCa (YCaH)#}¦ 1. {%m.%} Following more
+; 03/06/2015 SuklakaRwaka -> SuklakaRWaka (print error)
+058427 old <HI>{#Sukla.kaRwaka (kaH)#}¦ 1. {%m.%} A gallinule
+058427 new <HI>{#Sukla.kaRWaka (kaH)#}¦ 1. {%m.%} A gallinule
+; 03/06/2015 Sudvakowi -> SudDakowi (print error, dD/dv confusion)
+058509 old <HI>{#Sudva.kowi (wiH)#}¦ 2. {%f.%} Side of a right-
+058509 new <HI>{#SudDa.kowi (wiH)#}¦ 2. {%f.%} Side of a right-
+; 03/06/2015 SuSruzu -> SuSrUzu (print error)
+058648 old <HI>{#SuSruzu (zuH-zuH-zu)#}¦ {%a.%} Serving; obedient.
+058648 new <HI>{#SuSrUzu (zuH-zuH-zu)#}¦ {%a.%} Serving; obedient.
+; 03/06/2015 SUraRAdBuja -> SUraRodBuja (print error)
+058764 old <HI>{#SUraRA\dBuja (jaH)#}¦ 1. {%m.%} A kind of
+058764 new <HI>{#SUraRo\dBuja (jaH)#}¦ 1. {%m.%} A kind of
+; 03/06/2015 SokApanAda -> SokApanoda (print error)
+059032 old <HI>{#SokA\panAda (daH)#}¦ 1. {%m.%} A philosopher.
+059032 new <HI>{#SokA\panoda (daH)#}¦ 1. {%m.%} A philosopher.
+; 03/06/2015 SOrpya -> SOrppa (print error)
+059171 old <HI>{#SOrpya (rpyaH-rpyI-rpyaM)#}¦ {%a.%} Measured by a
+059171 new <HI>{#SOrppa (rppaH-rppI-rppaM)#}¦ {%a.%} Measured by a
+; 03/06/2015 SmaSruyamARa -> SmaSrUyamARa (print error)
+059206 old <HI>{#SmaSruyamARa (RaH-RA-RaM)#}¦ {%p.%} Hanging like
+059206 new <HI>{#SmaSrUyamARa (RaH-RA-RaM)#}¦ {%p.%} Hanging like
+; 03/06/2015 SrIDana -> SrIGana (print error)
+059445 old <HI>{#SrI.Dana (naH)#}¦ 1. {%m.%} A {%Bauddha%} saint.
+059445 new <HI>{#SrI.Gana (naH)#}¦ 1. {%m.%} A {%Bauddha%} saint.
+; 03/06/2015 SrIpizWa -> SrIpizwa (print error)
+059465 old <HI>{#SrI.pizWa (zWaH)#}¦ 1. {%m.%} Turpentine.
+059465 new <HI>{#SrI.pizwa (zwaH)#}¦ 1. {%m.%} Turpentine.
+; 03/06/2015 SrAhva -> SryAhva (typo)
+059642 old <HI>{#SrAhva (hvaM)#}¦ 1. {%n.%} The lotus.
+059642 new <HI>{#SryAhva (hvaM)#}¦ 1. {%n.%} The lotus.
+; 03/06/2015 Slazmaka -> Slezmaka (print error)
+059676 old <HI>{#Slazmaka (kaH)#}¦ 1. {%m.%} Phlegm.
+059676 new <HI>{#Slezmaka (kaH)#}¦ 1. {%m.%} Phlegm.
+; 03/06/2015 Syezmaja -> Slezmaja (print error)
+059680 old <HI>{#Syezma.ja (jaH-jA-jaM)#}¦ {%a.%} Arising from phlegm.
+059680 new <HI>{#Slezma.ja (jaH-jA-jaM)#}¦ {%a.%} Arising from phlegm.
+; 03/06/2015 Svezman -> Slezman (print error)
+059683 old <HI>{#Svezman (zmA)#}¦ {%m.%} 5. Phlegmatic humour.
+059683 new <HI>{#Slezman (zmA)#}¦ {%m.%} 5. Phlegmatic humour.
+; 03/06/2015 Slazmaha -> Slezmaha (print error)
+059686 old <HI>{#Slazma.ha (haH)#}¦ 1. {%m.%} A medicinal plant.
+059686 new <HI>{#Slezma.ha (haH)#}¦ 1. {%m.%} A medicinal plant.
+; 03/06/2015 SlAka -> Sloka (print error)
+059694 old <HI>{#SlAka (kaH)#}¦ 1. {%m.%} A verse, stanza; fame.
+059694 new <HI>{#Sloka (kaH)#}¦ 1. {%m.%} A verse, stanza; fame.
+; 03/06/2015 SvetawaNgaRa -> SvetawaNkaRa (print error)
+059822 old <HI>{#Sveta.waNgaRa (RaM)#}¦ 1. {%n.%} White or refined borax.
+059822 new <HI>{#Sveta.waNkaRa (RaM)#}¦ 1. {%n.%} White or refined borax.
+; 03/06/2015 saMvigra -> saMvigna (print error)
+060383 old <HI>{#saM.vigra (gnaH-gnA-gnaM)#}¦ {%p.%} Alarmed.
+060383 new <HI>{#saM.vigna (gnaH-gnA-gnaM)#}¦ {%p.%} Alarmed.
+; 03/06/2015 sakleda -> saNkleda (print error)
+060811 old <HI>{#sakleda (daH)#}¦ 1. {%m.%} The fluid secretion
+060811 new <HI>{#saNkleda (daH)#}¦ 1. {%m.%} The fluid secretion
+; 03/06/2015 saYcAdita -> saYcodita (print error)
+061011 old <HI>{#sa.YcAdita (taH-tA-taM)#}¦ {%p.%} Ordered.
+061011 new <HI>{#sa.Ycodita (taH-tA-taM)#}¦ {%p.%} Ordered.
+; 03/06/2015 saYjuDakzA -> saYjuDukzA (print error)
+61033 old <HI>{#sa.YjuDa.kzA (kzA)#}¦ 1. {%f.%} Attempt to
+61033 new <HI>{#sa.YjuGu.kzA (kzA)#}¦ 1. {%f.%} Attempt to
+; 03/06/2015 saYjuDukzu -> saYjuGukzu (print error)
+061035 old <HI>{#saYjuDukzu (kzuH-kzuH-kzu)#}¦ {%a.%} Wishing to
+061035 new <HI>{#saYjuGukzu (kzuH-kzuH-kzu)#}¦ {%a.%} Wishing to
+; 03/06/2015 satyaNgArakfta -> satyaNkArakfta (print error)
+061175 old <HI>{#satyaNgAra.kfta (taH-tA-taM)#}¦ {%a.%} Deposited
+061175 new <HI>{#satyaNkAra.kfta (taH-tA-taM)#}¦ {%a.%} Deposited
+; 03/06/2015 sadyakfta -> sadyaHkfta (print error)
+061336 old <HI>{#sadya.kfta (taM)#}¦ 1. {%n.%} A name, appella-
+061336 new <HI>{#sadyaH.kfta (taM)#}¦ 1. {%n.%} A name, appella-
+; 03/06/2015 sadyaSoTA -> sadyaHSoTA (typo)
+061338 old <HI>{#sadya.SoTA (TA)#}¦ 1. {%f.%} Cowach.
+061338 new <HI>{#sadyaH.SoTA (TA)#}¦ 1. {%f.%} Cowach.
+; 03/06/2015 samaBisaraRaM -> samaBisaraRa (typo)
+061877 old <HI>{#samaBi.saraRaM (RaM)#}¦ 1. {%n.%} Approaching;
+061877 new <HI>{#samaBi.saraRaM (Ra)#}¦ 1. {%n.%} Approaching;
+; 03/06/2015 saButTita -> samutTita (print error)
+062286 old <HI>{#saButTita (taH-tA-taM)#}¦ {%p.%} Raised up;
+062286 new <HI>{#samutTita (taH-tA-taM)#}¦ {%p.%} Raised up;
+; 03/06/2015 samudranavanota -> samudranavanIta (print error)
+062368 old <HI>{#samudra.navanota (taM)#}¦ 1. {%n.%} The bever-
+062368 new <HI>{#samudra.navanIta (taM)#}¦ 1. {%n.%} The bever-
+; 03/06/2015 samprahAra -> samprahAsa (typor)
+062565 old <HI>{#sampra.hAra (saM)#}¦ 1. {%n.%} Laughter, joy.
+062565 new <HI>{#sampra.hAra (saM)#}¦ 1. {%n.%} Laughter, joy.
+; 03/06/2015 saHmmugDa -> sammugDa (print error)
+062718 old <HI>{#saHmmugDa (gDaH-gDA-gDaM)#}¦ {%p.%} Fascinated,
+062718 new <HI>{#sa.mmugDa (gDaH-gDA-gDaM)#}¦ {%p.%} Fascinated,
+; 03/06/2015 sarawiH -> sarawi (print error)
+062773 old <HI>{#sarawiH (wiH)#}¦ 2. {%m.%} Air; a cloud.
+062773 new <HI>{#sarawi (wiH)#}¦ 2. {%m.%} Air; a cloud.
+; 03/06/2015 sahajatara -> sahajetara (print error)
+063321 old <HI>{#sahajatara (raH-rA-raM)#}¦ {%a.%} Incidental.
+063321 new <HI>{#sahajetara (raH-rA-raM)#}¦ {%a.%} Incidental.
+; 03/06/2015 sAByaBUya -> sAByasUya (print error)
+063764 old <HI>{#sAByaBUya (yaH-yA-yaM)#}¦ {%a.%} Envious.
+063764 new <HI>{#sAByasUya (yaH-yA-yaM)#}¦ {%a.%} Envious.
+; 03/06/2015 sArdvam -> sArdDam (print error)
+063948 old <HI>{#sArdvam#}¦ {%adv.%} With, together with.
+063948 new <HI>{#sArdDam#}¦ {%adv.%} With, together with.
+; 03/06/2015 sAlasfNga -> sAlaSfNga (print error)
+064001 old <HI>{#sAla.sfNga (NgaM)#}¦ 1. {%m.%} The upper part
+064001 new <HI>{#sAla.SfNga (NgaM)#}¦ 1. {%m.%} The upper part
+; 03/06/2015 sAhnaya -> sAhvaya (print error)
+064089 old <HI>{#sAhnaya (yaH)#}¦ 1. {%m.%} Fighting animals.
+064089 new <HI>{#sAhvaya (yaH)#}¦ 1. {%m.%} Fighting animals.
+; 03/06/2015 sidvilI -> sidDilI (print error)
+064262 old <HI>{#sidvilI (lI)#}¦ 3. {%f.%} A small ant.
+064262 new <HI>{#sidDilI (lI)#}¦ 3. {%f.%} A small ant.
+; 03/06/2015 sinDUrikA -> sindUrikA (typo)
+064287 old <HI>{#sinDUrikA (kA)#}¦ 1. {%f.%} Red lead.
+064287 new <HI>{#sindUrikA (kA)#}¦ 1. {%f.%} Red lead.
+; 03/06/2015 sinDapuzpa -> sinDupuzpa (print error)
+064306 old <HI>{#sinDa.puzpa (zpaH)#}¦ 1. {%m.%} A conch.
+064306 new <HI>{#sinDu.puzpa (zpaH)#}¦ 1. {%m.%} A conch.
+; 03/06/2015 sinDumanyaja -> sinDumanTaja (nT/ny confusion)
+064307 old <HI>{#sinDu.manya.ja (jaM)#}¦ 1. {%n.%} Rock salt.
+064307 new <HI>{#sinDu.manTa.ja (jaM)#}¦ 1. {%n.%} Rock salt.
+; 03/06/2015 sIkAra -> sIkara (print error)
+064357 old <HI>{#sIkAra (raH)#}¦ 1. {%m.%} Drizzling rain.
+064357 new <HI>{#sIkara (raH)#}¦ 1. {%m.%} Drizzling rain.
+; 03/06/2015 sukAlI -> sukolI (print error)
+064447 old <HI>{#sukAlI (lI)#}¦ 3. {%f.%} A medical root.
+064447 new <HI>{#sukolI (lI)#}¦ 3. {%f.%} A medical root.
+; 03/06/2015 suGAza -> suGoza (print error)
+064591 old <HI>{#su.GAza (zaH)#}¦ 1. {%m.%} Pleasant sound.
+064591 new <HI>{#su.Goza (zaH)#}¦ 1. {%m.%} Pleasant sound.
+; 03/06/2015 sudurddaSa -> sudurddarSa (print error)
+064706 old <HI>{#su.durddaSa (rSaH-rSA-rSaM)#}¦ {%a.%} Hard to be
+064706 new <HI>{#su.durddarSa (rSaH-rSA-rSaM)#}¦ {%a.%} Hard to be
+; 03/06/2015 suDASu -> suDAMSu (typo)
+064741 old <HI>{#su.DA.Su (SuH)#}¦ 2. {%m.%} The moon.
+064741 new <HI>{#su.DAMSu (SuH)#}¦ 2. {%m.%} The moon.
+; 03/06/2015 surAttara -> surottara (print error or smudge)
+065214 old <HI>{#surA\ttara (raH)#}¦ 1. {%m. Sandal%} wood.
+065214 new <HI>{#suro\ttara (raH)#}¦ 1. {%m. Sandal%} wood.
+; 03/06/2015 suhaRAnana -> suhasAnana (print error)
+065422 old <HI>{#suhaRAnana (naH-nA-naM)#}¦ {%a.%} Looking
+065422 new <HI>{#suhasAnana (naH-nA-naM)#}¦ {%a.%} Looking
+; 03/06/2015 sUtragARqikA -> sUtragaRqikA (print error)
+065568 old <HI>{#sUtra.gARqikA (kA)#}¦ 1. {%f.%} A stick used
+065568 new <HI>{#sUtra.gaRqikA (kA)#}¦ 1. {%f.%} A stick used
+; 03/06/2015 sUryyeMndusaNgama -> sUryyendusaNgama (typo)
+065696 old <HI>{#sUryyeMndu.saNgama (maH)#}¦ 1. {%m.%} Day of new moon.
+065696 new <HI>{#sUryyendu.saNgama (maH)#}¦ 1. {%m.%} Day of new moon.
+; 03/06/2015 sUryyoMdaya -> sUryyodaya (print error?)
+065698 old <HI>{#sUryyoM\daya (yaH)#}¦ 1. {%m.%} Sunrise.
+065698 new <HI>{#sUryyo\daya (yaH)#}¦ 1. {%m.%} Sunrise.
+; 03/06/2015 sorAzwika -> sorAzwrika (print error)
+065965 old <HI>{#sorAzwika (kaH)#}¦ 1. {%m.%} A poison.
+065965 new <HI>{#sorAzwrika (kaH)#}¦ 1. {%m.%} A poison.
+; 03/06/2015 stanakuzmala -> stanakudmala (typo)
+066212 old <HI>{#stana.kuzmala (laM)#}¦ 1. {%n.%} Breast, nipple.
+066212 new <HI>{#stana.kudmala (laM)#}¦ 1. {%n.%} Breast, nipple.
+; 03/06/2015 sTirAhripa -> sTirAMhripa (typo)
+066600 old <HI>{#sTirA.hripa (paH)#}¦ 1. {%m.%} The marshy date tree.
+066600 new <HI>{#sTirAMhripa (paH)#}¦ 1. {%m.%} The marshy date tree.
+; 03/06/2015 sTUlocaya -> sTUloccaya (print error)
+066676 old <HI>{#sTUlo\caya (yaH)#}¦ 1. {%m.%} Incompleteness,
+066676 new <HI>{#sTUlo\ccaya (yaH)#}¦ 1. {%m.%} Incompleteness,
+; 03/06/2015 sTORaya -> sTOReya (print error)
+066690 old <HI>{#sTORaya (yaM)#}¦ 1. {%n.%} A sort of perfume.
+066690 new <HI>{#sTOReya (yaM)#}¦ 1. {%n.%} A sort of perfume.
+; 03/06/2015 smaramAha -> smaramoha (print error)
+066985 old <HI>{#smara.mAha (haH)#}¦ 1. {%m.%} Passion of love.
+066985 new <HI>{#smara.moha (haH)#}¦ 1. {%m.%} Passion of love.
+; 03/06/2015 smaramAhita -> smaramohita (print error)
+066986 old <HI>{#smara.mAhita (taH-tA-taM)#}¦ {%a.%} Infatuated
+066986 new <HI>{#smara.mohita (taH-tA-taM)#}¦ {%a.%} Infatuated
+; 03/06/2015 stramBa -> sramBa (print error)
+067104 old <HI>{#stramBa (u, Na) sramBate#}¦ 1. {%d.%} To trust.
+067104 new <HI>{#sramBa (u, Na) sramBate#}¦ 1. {%d.%} To trust.
+; 03/06/2015 svatvahatu -> svatvahetu (print error)
+067219 old <HI>{#svatva.hatu (tuH)#}¦ 2. {%m.%} Ground of title.
+067219 new <HI>{#svatva.hetu (tuH)#}¦ 2. {%m.%} Ground of title.
+; 03/06/2015 svarum -> svarus (print error, m/s confusion)
+067360 old <HI>{#svarum (ruH)#}¦ 2. {%m. Indra's%} thunderbolt.
+067360 new <HI>{#svarus (ruH)#}¦ 2. {%m. Indra's%} thunderbolt.
+; 03/06/2015 svargivaDa -> svargivaDU (print error)
+067402 old <HI>{#svargi.vaDa (DUH)#}¦ 3. {%f.%} A nymph of pa-
+067402 new <HI>{#svargi.vaDU (DUH)#}¦ 3. {%f.%} A nymph of pa-
+; 03/06/2015 svargIkas -> svargOkas (typo)
+067405 old <HI>{#svargI\kas (kAH)#}¦ 5. {%m.%} A god, a deity.
+067405 new <HI>{#svargO\kas (kAH)#}¦ 5. {%m.%} A god, a deity.
+; 03/06/2015 svarRadra -> svarRadru (print error)
+067421 old <HI>{#svarRa.dra (druH)#}¦ 2. {%m.%} A tree with yel-
+067421 new <HI>{#svarRa.dru (druH)#}¦ 2. {%m.%} A tree with yel-
+; 03/06/2015 hiMstrapaSu -> hiMsrapaSu (print error)
+068308 old <HI>{#hiMstra.paSu (SuH)#}¦ 2. {%m. Idem.%}
+068308 new <HI>{#hiMsra.paSu (SuH)#}¦ 2. {%m. Idem.%}

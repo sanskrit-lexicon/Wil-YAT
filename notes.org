@@ -1,0 +1,57 @@
+
+* data inputs:
+ digitization and headwords for Wilson: wil.txt, wilhw2.txt
+ digitization and headwords for Yates:  yat.txt, yathw2.txt
+ correspondence of Wilson-MW roots:     wil_mw.txt
+
+
+* hwcmp_wil_yat.txt
+python hwcmp.py data/wilhw2.txt data/yathw2.txt force.txt hwcmp.txt
+The two headword lists are aligned as well as possible, using fuzzy matching
+and 280 or so 'forced' matches.
+This is a tricky program, adapted from the program comparison of the Cologne and
+Tirupati editions of Vacaspatyam.
+
+* hwcmp_near.txt
+  python hwnear_init.py hwcmp.txt hwcmp_near.txt
+  Read hwcmp.txt and dump records whose 'relation' is ~=, meaning the spellings
+  differ by an edit distance of 1.
+
+47011 lines read from hwcmp_wil_yat.txt
+3056 lines written to hwcmp_near.txt
+
+* dump_cases 
+dump_cases.py is a utility used to facilitate examination of the 'near' cases.
+Initially, there were 1100 of these near matches
+Given a file formatted like hwcmp_wil_yat.txt, the relevant records
+from wil.txt and yat.txt are dumped
+python dump_cases.py <input> <output> data/wil.txt data/yat.txt
+
+* analyze hwcmp_near
+python analyze_near.py hwcmp_near.txt hwcmp_near_analyze.txt data/wil_mw.txt
+
+
+* hwcmp_adj
+Adjust hwcmp based upon hwcmp_near_analyze
+python hwcmp_adj.py hwcmp.txt hwcmp_near_analyze.txt hwcmp_adj.txt
+Here are the classes of record comparators:
+== 40668
+NONE 5214
+=V 743
+~= 126
+=vb 110
+=rxx 82
+=aA 40
+=tt 33
+=nasal 30
+=cC 23
+=? 11
+=mM$ 7
+=sH$ 7
+=a 4
+
+* redo.sh (redo.bat)
+python hwcmp.py data/wilhw2.txt data/yathw2.txt force.txt hwcmp.txt
+python hwnear_init.py hwcmp.txt hwcmp_near.txt
+python analyze_near.py hwcmp_near.txt hwcmp_near_analyze.txt data/wil_mw.txt
+python hwcmp_adj.py hwcmp.txt hwcmp_near_analyze.txt hwcmp_adj.txt

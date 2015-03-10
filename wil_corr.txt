@@ -1,0 +1,1305 @@
+; 02/25/2015  nIruja -> nIruj
+95302 old .{#nIruja#}¦ mfn. ({#-ruk#}) Convalescent, well in health.
+95302 new .{#nIruj#}¦ mfn. ({#-ruk#}) Convalescent, well in health.
+; 02/25/2015 aSrute -> aSnute
+017427 old .{#aSa#}¦ r. 5th cl. ({#U.#}) {#aSU#} ({#aSrute#})
+017427 new .{#aSa#}¦ r. 5th cl. ({#U.#}) {#aSU#} ({#aSnute#})
+; 02/25/2015 uYCiti -> uYCati
+027552 old .{#ucCa#}¦ r. 1st and 6th cls. ({#i.#}) {#ucCi#} ({#uYCiti#})
+027552 new .{#ucCa#}¦ r. 1st and 6th cls. ({#i.#}) {#ucCi#} ({#uYCati#})
+; 02/25/2015 Urja -> Urj
+033407 old .{#Urja#}¦ f. ({#-Urk#}) Strength, vigour.
+033407 new .{#Urj#}¦ f. ({#-Urk#}) Strength, vigour.
+; 02/25/2015 kruYca -> kruYc
+51111 old .{#kruYca#}¦ mf. ({#kruNkruYcA#}) A curlew.
+51111 new .{#kruYc#}¦ mf. ({#kruN kruYcA#}) A curlew.
+; 02/25/2015 jaBa -> jam (print error)
+67337 old .{#jaBa#}¦ {%ind.%} A wife. It is used in composition: see {#jampatI.#}
+67337 new .{#jam#}¦ {%ind.%} A wife. It is used in composition: see {#jampatI.#}
+; 02/25/2015 muw -> mud
+130767 old .{#muw#}¦ f. ({#suw mut#})
+130767 new .{#mud#}¦ f. ({#mud mut#})
+; 02/25/2015 ruw -> rud
+138776 old .{#ruw#}¦ f. ({#rut#})
+138776 new .{#rud#}¦ f. ({#rut#})
+; 02/25/2015 luca -> luc (print error)
+141526 old .{#luca#}¦ f. ({#-luk#}) Cutting off, dropping, rejecting.
+141526 new .{#luc#}¦ f. ({#-luk#}) Cutting off, dropping, rejecting.
+; 02/26/2015 ajEkapAd -> ajEkapAda (typo)
+002437 old .{#ajEkapAd#}¦ m. ({#-daH#}) One of the eleven Rudras or deities so named,
+002437 new .{#ajEkapAda#}¦ m. ({#-daH#}) One of the eleven Rudras or deities so named,
+; 02/26/2015 amburuh -> amburuha
+012395 old .{#amburuh#}¦ m. ({#-ruhaH#})
+012395 new .{#amburuha#}¦ m. ({#-ruhaH#})
+; 02/26/2015 uccalit -> uccalita
+027466 old .{#uccalit#}¦ mfn. ({#-taH-tA-taM#})
+027466 new .{#uccalita#}¦ mfn. ({#-taH-tA-taM#})
+; 02/26/2015 trik -> trika
+076561 old .{#trik#}¦ n. ({#-kaM#})
+076561 new .{#trika#}¦ n. ({#-kaM#})
+; 02/26/2015 nayaviSArad -> nayaviSArada
+089509 old .{#nayaviSArad#}¦ m. ({#-daH#}) A politician, a statesman.
+089509 new .{#nayaviSArada#}¦ m. ({#-daH#}) A politician, a statesman.
+; 02/26/2015 pUrvvacodit -> pUrvvacodita
+108161 old .{#pUrvvacodit#}¦ mfn. ({#-taH-tA-taM#}) Formerly stated, before-mentioned,
+108161 new .{#pUrvvacodita#}¦ mfn. ({#-taH-tA-taM#}) Formerly stated, before-mentioned,
+; 02/26/2015 PalApet -> PalApeta
+117303 old .{#PalApet#}¦ mfn. ({#taH-tA-taM#}) Unproductive, unfertile.
+117303 new .{#PalApeta#}¦ mfn. ({#taH-tA-taM#}) Unproductive, unfertile.
+; 02/26/2015 BikzamAR -> BikzamARa
+121960 old .{#BikzamAR#}¦ mfn. ({#-RaH-RA-RaM#}) Asking, begging.
+121960 new .{#BikzamARa#}¦ mfn. ({#-RaH-RA-RaM#}) Asking, begging.
+; 02/26/2015 maDyAhn -> maDyAhna
+125896 old .{#maDyAhn#}¦ m. ({#-hnaH#}) Midday, noon.
+125896 new .{#maDyAhna#}¦ m. ({#-hnaH#}) Midday, noon.
+; 02/26/2015 mahOjas -> mahOjasa
+128588 old .{#mahOjas#}¦ n. ({#-saM#}) The discus of VISHN'U.
+128588 new .{#mahOjasa#}¦ n. ({#-saM#}) The discus of VISHN'U.
+; 02/26/2015 mfgajIvan -> mfgajIvana
+131533 old .{#mfgajIvan#}¦ m. ({#-naH#}) A hunter.
+131533 new .{#mfgajIvana#}¦ m. ({#-naH#}) A hunter.
+; 02/26/2015 vinirRay -> vinirRaya
+151512 old .{#vinirRay#}¦ m. ({#-yaH#}) Certainty, ascertainment.
+151512 new .{#vinirRaya#}¦ m. ({#-yaH#}) Certainty, ascertainment.
+; 02/26/2015 vfnd -> vfnda
+157249 old .{#vfnd#}¦ mfn. ({#-ndaH-ndA-ndaM#}) All, many. n. ({#-ndaM#}) A heap, a
+157249 new .{#vfnda#}¦ mfn. ({#-ndaH-ndA-ndaM#}) All, many. n. ({#-ndaM#}) A heap, a
+; 02/26/2015 SalAkApuruz -> SalAkApuruza
+163206 old .{#SalAkApuruz#}¦ m. {%plu.%} ({#-zAH#}) Sixty-three persons considered by the
+163206 new .{#SalAkApuruza#}¦ m. {%plu.%} ({#-zAH#}) Sixty-three persons considered by the
+; 02/26/2015 suvarccak -> suvarccaka
+183278 old .{#suvarccak#}¦ mf. ({#-rccakA-rccikA#}) Natron, alkali.
+183278 new .{#suvarccaka#}¦ mf. ({#-rccakA-rccikA#}) Natron, alkali.
+; 02/26/2015 ajYAnina -> ajYAnin
+002473 old .{#ajYAnina#}¦ mfn. ({#-nI-ninI-ni#}) Ignorant, unwise.
+002473 new .{#ajYAnin#}¦ mfn. ({#-nI-ninI-ni#}) Ignorant, unwise.
+; 02/26/2015 atasa -> atas
+002844 old .{#atasa#}¦ ind.
+002844 new .{#atas#}¦ ind.
+; 02/26/2015 adriBida -> adriBid
+003857 old .{#adriBida#}¦ m. ({#-Bit#}) A name of INDRA.
+003857 new .{#adriBid#}¦ m. ({#-Bit#}) A name of INDRA.
+; 02/26/2015 anaquha -> anaquh
+004801 old .{#anaquha#}¦ m. ({#-qvAn#}) A bull or ox. f. ({#-quhI#} or -{#qvAhI#}) A cow.
+004801 new .{#anaquh#}¦ m. ({#-qvAn#}) A bull or ox. f. ({#-quhI#} or -{#qvAhI#}) A cow.
+; 02/26/2015 anantajita -> anantajit
+004922 old .{#anantajita#}¦ m. ({#-jit#}) The fourteenth of the twenty-four Jaina deified
+004922 new .{#anantajit#}¦ m. ({#-jit#}) The fourteenth of the twenty-four Jaina deified
+; 02/26/2015 apahArina -> apahArin
+008955 old .{#apahArina#}¦ mfn. ({#-rI-riRI-ri#}) One who takes away, who seizes, steals,
+008955 new .{#apahArin#}¦ mfn. ({#-rI-riRI-ri#}) One who takes away, who seizes, steals,
+; 02/26/2015 arkatviza -> arkatviz
+013384 old .{#arkatviza#}¦ f. ({#-tviw#})
+013384 new .{#arkatviz#}¦ f. ({#-tviw#})
+; 02/26/2015 arTavida -> arTavid
+013758 old .{#arTavida#}¦ mfn. ({#-vit#} or -{#vid#}) Sagacious, sensible, wise.
+013758 new .{#arTavid#}¦ mfn. ({#-vit#} or -{#vid#}) Sagacious, sensible, wise.
+; 02/26/2015 Agura -> Agur
+020978 old .{#Agura#}¦ f. ({#-gUH#}) An agreement: see {#AgU.#}
+020978 new .{#Agur#}¦ f. ({#-gUH#}) An agreement: see {#AgU.#}
+; 02/26/2015 udBida -> udBid
+030058 old .{#udBida#}¦ mfn. ({#-dBida#} or -{#dBit#}) Sprouting, germinating.
+030058 new .{#udBid#}¦ mfn. ({#-dBid#} or -{#dBit#}) Sprouting, germinating.
+; 02/26/2015 upahatadfSa -> upahatadfS
+032088 old .{#upahatadfSa#}¦ mfn. ({#-dfk#}) Dazzled, blinded.
+032088 new .{#upahatadfS#}¦ mfn. ({#-dfk#}) Dazzled, blinded.
+; 02/26/2015 ftvija -> ftvij
+034031 old .{#ftvija#}¦ m. ({#-tvik#})
+034031 new .{#ftvij#}¦ m. ({#-tvik#})
+; 02/26/2015 kaRwakaBuja -> kaRwakaBuj
+036834 old .{#kaRwakaBuja#}¦ m. ({#-Buk#}) A camel.
+036834 new .{#kaRwakaBuj#}¦ m. ({#-Buk#}) A camel.
+; 02/26/2015 kAmaduha -> kAmaduh
+042118 old .{#kAmaduha#}¦ f. ({#-Duk#})
+042118 new .{#kAmaduh#}¦ f. ({#-Duk#})
+; 02/26/2015 keSacCida -> keSacCid
+049258 old .{#keSacCida#}¦ m. ({#-cCit#} or -{#cCid#}) A barber, a hair-dresser.
+049258 new .{#keSacCid#}¦ m. ({#-cCit#} or -{#cCid#}) A barber, a hair-dresser.
+; 02/26/2015 kriyAvata -> kriyAvat
+051014 old .{#kriyAvata#}¦ mfn. ({#-vAn-vatI-vat#})
+051014 new .{#kriyAvat#}¦ mfn. ({#-vAn-vatI-vat#})
+; 02/26/2015 gamBIravedina -> gamBIravedina
+056116 old .{#gamBIravedina#}¦ m. ({#-dI#}) A restive elephant.
+056116 new .{#gamBIravedin#}¦ m. ({#-dI#}) A restive elephant.
+; 02/26/2015 garalina -> garalin
+056189 old .{#garalina#}¦ mfn. ({#-lI-linI-li#}) Venomous, poisonous.
+056189 new .{#garalin#}¦ mfn. ({#-lI-linI-li#}) Venomous, poisonous.
+; 02/26/2015 garBadruha -> garBadruh
+056427 old .{#garBadruha#}¦ mfn. ({#-druk#} or {#druw#}) Causing abortion.
+056427 new .{#garBadruh#}¦ mfn. ({#-druk#} or {#druw#}) Causing abortion.
+; 02/26/2015 guruvata -> guruvat
+058213 old .{#guruvata#}¦ {%ind.%} Like a {%Guru,%} as a {%Guru.%}
+058213 new .{#guruvat#}¦ {%ind.%} Like a {%Guru,%} as a {%Guru.%}
+; 02/26/2015 cakoradfSa -> cakoradfSa
+061783 old .{#cakoradfSa#}¦ mfn. ({#-dfk#}) Fine-eyed.
+061783 new .{#cakoradfS#}¦ mfn. ({#-dfk#}) Fine-eyed.
+; 02/26/2015 
+064394 old .{#citrakarmmavida#}¦ m. ({#-vida#})
+064394 new .{#citrakarmmavid#}¦ m. ({#-vid#})
+064397 old .E. {#citrakarmma,#} and {#vida#} who knows.
+064397 new .E. {#citrakarmma,#} and {#vid#} who knows.
+; 02/26/2015 Catrina -> Catrin
+065941 old .{#Catrina#}¦ mfn. ({#-trI-triRI-tri#}) Bearing a parasol or umbrella. m.
+065941 new .{#Catrin#}¦ mfn. ({#-trI-triRI-tri#}) Bearing a parasol or umbrella. m.
+; 02/26/2015 jihvAliha -> jihvAlih
+069315 old .{#jihvAliha#}¦ m. ({#-liw#}) A dog.
+069315 new .{#jihvAlih#}¦ m. ({#-liw#}) A dog.
+; 02/26/2015 tamonuda -> tamonud  (1st tamonuda
+072503 old .{#tamonuda#}¦ mfn. ({#-nudH#}) Dispersing darkness. m. ({#-nud#} or {#nut#})
+072503 new .{#tamonud#}¦ mfn. ({#-nud#}) Dispersing darkness. m. ({#-nud#} or {#nut#})
+; 02/26/2015 dfQaDura -> dfQaDur
+082657 old .{#dfQaDura#}¦ mfn. ({#-DUH-DUH-Du#}) Strong, able to bear a weight or
+082657 new .{#dfQaDur#}¦ mfn. ({#-DUH-DUH-Du#}) Strong, able to bear a weight or
+; 02/26/2015 payoDasa -> payoDas
+098791 old .{#payoDasa#}¦ m. ({#-DAH#})
+098791 new .{#payoDas#}¦ m. ({#-DAH#})
+; 02/26/2015 paramAtmana -> paramAtman
+099160 old .{#paramAtmana#}¦ m. ({#-tmA#}) The Supreme Being, considered as the soul of the
+099160 new .{#paramAtman#}¦ m. ({#-tmA#}) The Supreme Being, considered as the soul of the
+; 02/26/2015 pucCina -> pucCin
+106219 old .{#pucCina#}¦ mfn. ({#-cCI-cCinI-cCi#}) Having a tail. m. ({#-cCI#}) A
+106219 new .{#pucCin#}¦ mfn. ({#-cCI-cCinI-cCi#}) Having a tail. m. ({#-cCI#}) A
+; 02/26/2015 pradiSa -> pradiS
+112550 old .{#pradiSa#}¦ f. ({#-dik#}) Intermediate point of the compass, or half quarter,
+112550 new .{#pradiS#}¦ f. ({#-dik#}) Intermediate point of the compass, or half quarter,
+; 02/26/2015 prasArina -> prasArin
+114617 old .{#prasArina#}¦ mfn. ({#-rI-riRI-ri#})
+114617 new .{#prasArin#}¦ mfn. ({#-rI-riRI-ri#})
+; 02/26/2015 prAcInavarhisa -> prAcInavarhis
+115312 old .{#prAcInavarhisa#}¦ m. ({#-rhiH#})
+115312 new .{#prAcInavarhis#}¦ m. ({#-rhiH#})
+; 02/26/2015 prARayata -> prARayat
+115491 old .{#prARayata#}¦ mfn. ({#-yana-yantI-yata#}) Rescuing, restoring to life.
+115491 new .{#prARayat#}¦ mfn. ({#-yan-yantI-yat#}) Rescuing, restoring to life.
+; 02/26/2015 prADAnyatasa -> prADAnyatas
+115727 old .{#prADAnyatasa#}¦ {%ind.%} Chiefly.
+115727 new .{#prADAnyatas#}¦ {%ind.%} Chiefly.
+; 02/26/2015 prItivacasa -> prItivacas
+116321 old .{#prItivacasa#}¦ n. ({#-caH#}) Gracious or kindly speech.
+116321 new .{#prItivacas#}¦ n. ({#-caH#}) Gracious or kindly speech.
+; 02/26/2015 PaRina -> PaRin
+117074 old .{#PaRina#}¦ m. ({#-RI#}) A snake.
+117074 new .{#PaRin#}¦ m. ({#-RI#}) A snake.
+; 02/26/2015 vAca -> vAc
+146645 old .{#vAca#}¦ f. ({#-vAk,#})
+146645 new .{#vAc#}¦ f. ({#-vAk,#})
+; 02/26/2015 vyomaspfSa -> vyomaspfS
+160932 old .{#vyomaspfSa#}¦ mfn. ({#-spfk#}) Sky-touching, lofty.
+160932 new .{#vyomaspfS#}¦ mfn. ({#-spfk#}) Sky-touching, lofty.
+; 02/26/2015 saMsada -> saMsad
+171481 old .{#saMsada#}¦ f. ({#-saw#} or {#sat#}) An assembly, a meeting.
+171481 new .{#saMsad#}¦ f. ({#-saw#} or {#sat#}) An assembly, a meeting.
+; 02/26/2015 sanutara -> sanutar
+173845 old .{#sanutara#}¦ {%ind.%} Concealment.
+173845 new .{#sanutar#}¦ {%ind.%} Concealment.
+; 02/26/2015 samAsa -> samAs
+175697 old .{#samAsa#}¦ m. ({#-mAH#}) A year.
+175697 new .{#samAs#}¦ m. ({#-mAH#}) A year.
+; 02/26/2015 hfdayina -> hfdayin
+191680 old .{#hfdayina#}¦ mfn. ({#-yI-yinI-yi#}) Good-hearted.
+191680 new .{#hfdayin#}¦ mfn. ({#-yI-yinI-yi#}) Good-hearted.
+; 02/27/2015 akanizWama -> akanizWaga
+000209 old .{#akanizWama#}¦ m. ({#-gaH#}) A deified saint according to the Bauddhas.
+000209 new .{#akanizWaga#}¦ m. ({#-gaH#}) A deified saint according to the Bauddhas.
+; 02/27/2015 parivetf -> parivettf (print error?)
+100899 old .{#parivetf#}¦ m. ({#-zwA#}) A younger brother married or become a householder
+100899 new .{#parivettf#}¦ m. ({#-ttA#}) A younger brother married or become a householder
+; 02/27/2015 hlIkf -> hlIku (typo)
+192390 old .{#hlIkf#}¦ mfn. ({#-kuH-kuH-ku#}) Ashamed, modest. m. ({#-kuH#})
+192390 new .{#hlIku#}¦ mfn. ({#-kuH-kuH-ku#}) Ashamed, modest. m. ({#-kuH#})
+; 02/27/2015 rbvA -> rvvA
+004999 old prior possession of another. f. ({#-rbvA#}) A virgin, a girl not previously
+004999 new prior possession of another. f. ({#-rvvA#}) A virgin, a girl not previously
+; 02/27/2015 Avarttaka -> AvarttakA
+024363 old .{#Avarttaka#}¦ f. ({#-kA#})
+024363 new .{#AvarttakA#}¦ f. ({#-kA#})
+; 02/27/2015 kuqyacCedyA -> kuqyacCedya
+045292 old .{#kuqyacCedyA#}¦ n. ({#-dyaM#}) An opening, a hole in a wall, a breach.
+045292 new .{#kuqyacCedya#}¦ n. ({#-dyaM#}) An opening, a hole in a wall, a breach.
+; 02/27/2015 kuliSANkuSa -> kuliSANkuSA
+046589 old .{#kuliSANkuSa#}¦ f. ({#-SA#}) A kind of female deity.
+046589 new .{#kuliSANkuSA#}¦ f. ({#-SA#}) A kind of female deity.
+; 02/27/2015 klItakika -> klItakikA
+051467 old .{#klItakika#}¦ f. ({#-kA#}) The indigo plant, (Indigofera Indica.)
+051467 new .{#klItakikA#}¦ f. ({#-kA#}) The indigo plant, (Indigofera Indica.)
+; 02/27/2015 DanatfzRa -> DanatfzRA
+085880 old .{#DanatfzRa#}¦ f. ({#-zRA#}) Covetousness.
+085880 new .{#DanatfzRA#}¦ f. ({#-zRA#}) Covetousness.
+; 02/27/2015 DayA -> Daya
+086233 old .{#DayA#}¦ mfn. ({#-yaH-yA-yI-yaM#}) Who or what drinks. f. ({#-yA#}) A little
+086233 new .{#Daya#}¦ mfn. ({#-yaH-yA-yI-yaM#}) Who or what drinks. f. ({#-yA#}) A little
+; 02/27/2015 navagrahA -> navagraha
+089836 old .{#navagrahA#}¦ m. {%plu.%} ({#-hAH#}) The nine planets, or sun, moon, five
+089836 new .{#navagraha#}¦ m. {%plu.%} ({#-hAH#}) The nine planets, or sun, moon, five
+; 02/27/2015 pAkamatsyA -> pAkamatsya
+102667 old .{#pAkamatsyA#}¦ m. ({#-tsyAH#}) Fish sauce.
+102667 new .{#pAkamatsya#}¦ m. ({#-tsyaH#}) Fish sauce.
+; 02/27/2015 matsyaganDa -> matsyaganDA
+124983 old .{#matsyaganDa#}¦ f. ({#-nDA#})
+124983 new .{#matsyaganDA#}¦ f. ({#-nDA#})
+; 02/27/2015 madodagrA -> madodagra
+125322 old .{#madodagrA#}¦ mfn. ({#-graH-grA-graM#}) Haughty, arrogant. f. ({#-grA#}) A
+125322 new .{#madodagra#}¦ mfn. ({#-graH-grA-graM#}) Haughty, arrogant. f. ({#-grA#}) A
+; 02/27/2015 menakAtmaja->menakAtmajA
+132414 old .{#menakAtmaja#}¦ f. ({#-jA#}) DURGA4 or PA4RVATI4.
+132414 new .{#menakAtmajA#}¦ f. ({#-jA#}) DURGA4 or PA4RVATI4.
+; 
+; miscellaneous
+;
+; 02/27/2015 agnikukkawa -> agnikukkuwa  (print error)
+001034 old .{#agnikukkawa#}¦ m. ({#-waH#}) A firebrand, a lighted wisp of straw.
+001034 new .{#agnikukkuwa#}¦ m. ({#-waH#}) A firebrand, a lighted wisp of straw.
+001035 old .E. {#agni#} fire, and {#kukkawa#} a wisp of lighted straw.
+001035 new .E. {#agni#} fire, and {#kukkuwa#} a wisp of lighted straw.
+; 02/27/2015 agnijjAlA -> agnijvAlA (typo)
+001075 old .{#agnijjAlA#}¦ f. ({#-lA#})
+001075 new .{#agnijvAlA#}¦ f. ({#-lA#})
+001079 old .E. {#agni#} and {#jjAlA#} flame, from the fiery colour of its blossoms.
+001079 new .E. {#agni#} and {#jvAlA#} flame, from the fiery colour of its blossoms.
+; 02/27/2015 japya -> jayya (typo)
+002303 old .E. {#a#} neg. {#japya#} conquerable.
+002303 new .E. {#a#} neg. {#jayya#} conquerable.
+; 02/27/2015 atuhinarasmi -> atuhinaraSmi  (print error)
+003387 old .{#atuhinarasmi#}¦ m. ({#-smiH#}) The sun, whose rays are not cold, i. e. hot:
+003387 new .{#atuhinaraSmi#}¦ m. ({#-SmiH#}) The sun, whose rays are not cold, i. e. hot:
+; 02/27/2015 aDEryyaM -> aDEryya  (print error, stray mark)
+004434 old .{#aDEryyaM#}¦ mfn. ({#-ryyaH-ryyA-ryyaM#}) Unsteady, feeble, irresolute. n.
+004434 new .{#aDEryya#}¦ mfn. ({#-ryyaH-ryyA-ryyaM#}) Unsteady, feeble, irresolute. n.
+; 02/27/2015 aDobanDanaM -> aDobanDana (print error)
+004473 old .{#aDobanDanaM#}¦ n. ({#naM#}) An under girth or strap.
+004473 new .{#aDobanDana#}¦ n. ({#naM#}) An under girth or strap.
+; 02/27/2015 aDyAropana -> aDyAropaRa (print error)
+004613 old .{#aDyAropana#}¦ n. ({#-naM#})
+004613 new .{#aDyAropaRa#}¦ n. ({#-RaM#})
+; 02/27/2015 naM -> naH  (compare other asun affix words (apnas, etc)
+005253 old .{#anas#}¦ n. ({#-naM#})
+005253 new .{#anas#}¦ n. ({#-naH#})
+005259 old .E. {#an#} to live, and {#amun#} aff.
+005259 new .E. {#an#} to live, and {#asun#} aff.
+; 02/27/2015 anityakiyA -> anityakriyA (typo)
+005579 old .{#anityakiyA#}¦ f. ({#-yA#}) An occasional act of worship, sacrifice for a
+005579 new .{#anityakriyA#}¦ f. ({#-yA#}) An occasional act of worship, sacrifice for a
+; 02/27/2015 anudyuta -> anudyata (print error)
+; Wilson has 'udyata' as 'active', as do other dictionaries.
+006208 old .{#anudyuta#}¦ mfn. ({#-taH-tA-taM#}) Inactive, idle, destitute of perseverance.
+006208 new .{#anudyata#}¦ mfn. ({#-taH-tA-taM#}) Inactive, idle, destitute of perseverance.
+006209 old .E. {#an#} neg. {#udyuta#} active.
+006209 new .E. {#an#} neg. {#udyata#} active.
+; 02/27/2015 anuvAra -> anuvAram (print error 'm' missing)
+006764 old .{#anuvAra#}¦ {%ind.%} Repeatedly.
+006764 new .{#anuvAram#}¦ {%ind.%} Repeatedly.
+; 02/27/2015 Knowck -> Knock (typo)
+172977 old .{#saMjYa#}¦ mfn. ({#-jYaH-jYA-jYaM#}) Knowck-kneed. n. ({#-jYaM#}) A
+172977 new .{#saMjYa#}¦ mfn. ({#-jYaH-jYA-jYaM#}) Knock-kneed. n. ({#-jYaM#}) A
+; 02/27/2015 antaHsajYA -> antaHsaMjYA (print error)
+; sajYa, sajYA not a word, but saMjya/A is 
+007163 old .{#antaHsajYA#}¦ f. ({#-jYA#}) Internal consciousness.
+007163 new .{#antaHsaMjYA#}¦ f. ({#-jYA#}) Internal consciousness.
+007164 old .E. {#antar,#} and {#sajYA#} sense.
+007164 new .E. {#antar,#} and {#saMjYA#} sense.
+; 02/27/2015 anyamanam -> anyamanas (typo)
+007820 old .{#anyamanam#}¦ mfn. ({#-nAH-nAH-naH#})
+007820 new .{#anyamanas#}¦ mfn. ({#-nAH-nAH-naH#})
+; 02/28/2015 aBinavodBiw -> aBinavodBid  (w/d confusion)
+010458 old .{#aBinavodBiw#}¦ m. ({#-da#} or -{#t#}) A germin, a new bud.
+010458 new .{#aBinavodBid#}¦ m. ({#-d#} or -{#t#}) A germin, a new bud.
+; 02/28/2015 ameGas -> ameDas  (G/D confusion)
+012178 old .{#ameGas#}¦ m. ({#-DAH#}) A fool, an idiot.
+012178 new .{#ameDas#}¦ m. ({#-DAH#}) A fool, an idiot.
+012179 old .E. {#a#} neg. {#meGa#} to understand, and {#amun#} aff.
+012179 new .E. {#a#} neg. {#meDa#} to understand, and {#amun#} aff.
+; 02/28/2015 kaRWaka -> kaRwaka (print error)
+012313 old .{#ambukaRWaka#}¦ m. ({#-kaH#}) The short-nosed alligator.
+012313 new .{#ambukaRWaka#}¦ m. ({#-kaH#}) The short-nosed alligator.
+012314 old .E. {#ambu#} water, and {#kaRWaka#} a thorn.
+012314 new .E. {#ambu#} water, and {#kaRWaka#} a thorn.
+; 02/28/2015 ambucAran -> ambucArin  (typo)
+012332 old .{#ambucAran#}¦ mfn. ({#-rI-riRI-ri#}) Aquatical, as a fish, &c.
+012332 new .{#ambucArin#}¦ mfn. ({#-rI-riRI-ri#}) Aquatical, as a fish, &c.
+; 02/28/2015 ambujanma -> ambujanman (print error)
+012341 old .{#ambujanma#}¦ n. ({#-nma#}) A lotus.
+012341 new .{#ambujanman#}¦ n. ({#-nma#}) A lotus.
+; 02/28/2015 arGISi -> arGISa (typo)
+013498 old .{#arGISi#}¦ m. ({#-SaH#}) A name of SIVA.
+013498 new .{#arGISa#}¦ m. ({#-SaH#}) A name of SIVA.
+; 02/28/2015 ardBa -> ardDa
+013961 old .E. {#ardBa, nArI#} a woman, and {#ISa#} master; one of the forms of SIVA, to
+013961 new .E. {#ardDa, nArI#} a woman, and {#ISa#} master; one of the forms of SIVA, to
+; 02/28/2015 avIcigaya -> avIcimaya  (print error)
+017095 old .{#avIcigaya#}¦ m. ({#-yaH#}) A hell, the place of punishment for liars.
+017095 new .{#avIcimaya#}¦ m. ({#-yaH#}) A hell, the place of punishment for liars.
+; 02/28/2015 asTEryyaM -> asTEryya
+019665 old .{#asTEryyaM#}¦ n. ({#-ryyaM#}) Instability, unsteadiness.
+019665 new .{#asTEryya#}¦ n. ({#-ryyaM#}) Instability, unsteadiness.
+; 02/28/2015 asvasTya -> asvasTa (print error) svasTya -> svasTa)
+019808 old .{#asvasTya#}¦ mfn. ({#-sTyaH-sTyA-sTyaM#})
+019808 new .{#asvasTa#}¦ mfn. ({#-sTaH-sTA-sTaM#})
+019811 old .E. {#a#} neg. {#svasTya#} being well or happy.
+019811 new .E. {#a#} neg. {#svasTa#} being well or happy.
+; 02/28/2015 aharbAnDaba -> aharbAnDava (print error)
+019977 old .{#aharbAnDaba#}¦ m. ({#-baH#}) The sun.
+019977 new .{#aharbAnDava#}¦ m. ({#-vaH#}) The sun.
+; 02/28/2015 ahibraDnadebatA -> ahibraDnadevatA (print error)
+020127 old .{#ahibraDnadebatA#}¦ f. ({#-tA#}) The twenty-sixth constellation.
+020127 new .{#ahibraDnadevatA#}¦ f. ({#-tA#}) The twenty-sixth constellation.
+; 02/28/2015 AcAryyopASana -> AcAryyopAsana  (print error)
+021238 old .{#AcAryyopASana#}¦ n. ({#-naM#}) Waiting upon or serving the spiritual
+021238 new .{#AcAryyopAsana#}¦ n. ({#-naM#}) Waiting upon or serving the spiritual
+; 02/28/2015 AsaNka -> AsaNga (print error)
+025130 old .{#AsaNka#}¦ m. ({#-NgaH#})
+025130 new .{#AsaNga#}¦ m. ({#-NgaH#})
+; 02/28/2015 AsaNganI -> AsaNginI (print error)
+025140 old .{#AsaNganI#}¦ f. ({#-nI#}) A whirlwind.
+025140 new .{#AsaNginI#}¦ f. ({#-nI#}) A whirlwind.
+; 03/01/2015 ucCfNgala -> ucCfNKala (typo - difficult ligature)
+027643 old .{#ucCfNgala#}¦ mfn. ({#-laH-lA-laM#})
+027643 new .{#ucCfNKala#}¦ mfn. ({#-laH-lA-laM#})
+; 03/01/2015 ucCeSaRa -> ucCezaRa (print error)
+027655 old .{#ucCeSaRa#}¦ n. ({#-RaM#})
+027655 new .{#ucCezaRa#}¦ n. ({#-RaM#})
+; 03/01/2015 utkanDaran -> utkanDaram (typo)
+027924 old .{#utkanDaran#}¦ {%ind.%} Bending back the neck.
+027924 new .{#utkanDaraM#}¦ {%ind.%} Bending back the neck.
+; 03/01/2015 pUrbvaka -> pUrvvaka
+029078 old .E. {#udaka#} and {#pUrbvaka#} prior.
+029078 new .E. {#udaka#} and {#pUrvvaka#} prior.
+; 03/01/2015 udakapUrvvaka -> udakapUrvvakam (typo)
+029076 old .{#udakapUrvvaka#}¦ {%ind.%} Pouring water on the hand as preparatory to or
+029076 new .{#udakapUrvvakam#}¦ {%ind.%} Pouring water on the hand as preparatory to or
+; 03/01/2015 udakaSaka -> udakaSAka (typo)
+029086 old .{#udakaSaka#}¦ n. ({#-kaM#}) Any aquatic herb.
+029086 new .{#udakaSAka#}¦ n. ({#-kaM#}) Any aquatic herb.
+; 03/01/2015 udaDipala -> udaDimala (print unclear)
+029186 old .{#udaDipala#}¦ m. ({#-laH#}) Cuttle fish bone.
+029186 new .{#udaDimala#}¦ m. ({#-laH#}) Cuttle fish bone.
+; 03/01/2015 upayAna -> upayAma (print error)
+031479 old .{#upayAna#}¦ m. ({#-maH#}) Marriage.
+031479 new .{#upayAma#}¦ m. ({#-maH#}) Marriage.
+; 03/01/2015 upodvAta -> upodGAta (typo)
+032483 old .{#upodvAta#}¦ m. ({#-taH#})
+032483 new .{#upodGAta#}¦ m. ({#-taH#})
+; 03/01/2015 mavIna -> gavIna
+033135 old .E. {#uzita#} inhabited, {#mavIna#} appertaining to cattle, from {#go#} with
+033135 new .E. {#uzita#} inhabited, {#gavIna#} appertaining to cattle, from {#go#} with
+; 03/01/2015 vAzya -> vAzpa (print error)
+033220 old .E. {#uzRa#} and {#vAzya#} vapour.
+033220 new .E. {#uzRa#} and {#vAzpa#} vapour.
+; 03/01/2015 fRApAkaraRaM -> fRApAkaraRa (print error)
+033913 old .{#fRApAkaraRaM#}¦ n. ({#-RaM#}) Paying off a debt.
+033913 new .{#fRApAkaraRa#}¦ n. ({#-RaM#}) Paying off a debt.
+; 03/01/2015 EtahAsika -> EtihAsika (typo)
+035022 old .{#EtahAsika#}¦ mfn. ({#-kaH-kI-kaM#}) Historical. m. ({#-kaH#}) A historian.
+035022 new .{#EtihAsika#}¦ mfn. ({#-kaH-kI-kaM#}) Historical. m. ({#-kaH#}) A historian.
+; 03/01/2015 kaMSa (2nd) -> kaMsa (typo)
+035676 old .{#kaMSa#}¦ m. ({#-saH#}) A proper name; KAN'SA king of {%Mathura%} the uncle
+035676 new .{#kaMsa#}¦ m. ({#-saH#}) A proper name; KAN'SA king of {%Mathura%} the uncle
+; 03/01/2015 kaNkalodya -> kaNkaloqya (d/q confusion)
+035947 old .{#kaNkalodya#}¦ n. ({#-dyaM#}) A kind of drug.
+035947 new .{#kaNkalodya#}¦ n. ({#-qyaM#}) A kind of drug.
+; 03/01/2015 kadvaNga -> kawvaNga (d/w confusion)
+036574 old .{#kadvaNga#}¦ m. ({#-NgaH#})
+036574 new .{#kawvaNga#}¦ m. ({#-NgaH#})
+; 03/01/2015 kadvara -> kawvara (d/w confusion)
+036579 old .{#kadvara#}¦ n. ({#-raM#})
+036579 new .{#kawvara#}¦ n. ({#-raM#})
+; 03/01/2015 kaWinAntakaraRa -> kaWinAntaHkaraRa (typo)
+036650 old .{#kaWinAntakaraRa#}¦ mfn. ({#-RaH-RA-RaM#}) Harsh, cruel, severe.
+036650 new .{#kaWinAntaHkaraRa#}¦ mfn. ({#-RaH-RA-RaM#}) Harsh, cruel, severe.
+; 03/01/2015 kaRqolavoRA -> kaRqolavIRA (typo)
+037078 old .{#kaRqolavoRA#}¦ f. ({#-RA#}) A vulgar lute.
+037078 new .{#kaRqolavIRA#}¦ f. ({#-RA#}) A vulgar lute.
+; 03/01/2015 kaTodvAta -> kaTodGAta (typo)
+037245 old .{#kaTodvAta#}¦ m. ({#-taH#}) The opening of a drama, by the character that
+037245 new .{#kaTodGAta#}¦ m. ({#-taH#}) The opening of a drama, by the character that
+037247 old .E. {#kaTA,#} and {#udvAta#} beginning.
+037247 new .E. {#kaTA,#} and {#udGAta#} beginning.
+; 03/01/2015 kanakaparAma -> kanakaparAga (print error)
+037437 old .{#kanakaparAma#}¦ m. ({#-gaH#}) Gold dust.
+037437 new .{#kanakaparAga#}¦ m. ({#-gaH#}) Gold dust.
+; 03/01/2015 kamBU -> kamBu
+038308 old .{#kamBU#}¦ n. ({#-mBu#}) The root of the Andropogon muricatum.
+038308 new .{#kamBu#}¦ n. ({#-mBu#}) The root of the Andropogon muricatum.
+; 03/01/2015 kararudva -> kararudDa  (dv/dD confusion)
+038658 old .{#kararudva#}¦ mfn. ({#-dvaH-dvA-dvaM#}) Stopped by the hand, held tight or
+038658 new .{#kararudDa#}¦ mfn. ({#-dDaH-dDA-dDaM#}) Stopped by the hand, held tight or
+; 03/01/2015 karpawaGArin -> karpawaDArin (D/G confusion)
+039464 old .{#karpawaGArin#}¦ m. ({#rI#}) A religious mendicant, a {%Fakir,%} a beggar in
+039464 new .{#karpawaDArin#}¦ m. ({#rI#}) A religious mendicant, a {%Fakir,%} a beggar in
+; 03/01/2015 kArmmaka -> kArmmuka (print smudge)
+039585 old .E. {#karmma#} used to action, {#kArmmaka#} a bow.
+039585 new .E. {#karmma#} used to action, {#kArmmuka#} a bow.
+; 03/01/2015 karmmaBUla -> karmmamUla (typo)
+039721 old .{#karmmaBUla#}¦ n. ({#-laM#}) {%Kus'a%} or sacrificial grass; see {#kuSa.#}
+039721 new .{#karmmamUla#}¦ n. ({#-laM#}) {%Kus'a%} or sacrificial grass; see {#kuSa.#}
+; 03/02/2015 kAryyaMkAraRa -> kAryyakAraRa (print smudge)
+042890 old .{#kAryyaMkAraRa#}¦ n. ({#-RaM#}) Cause of a special or incidental kind,
+042890 new .{#kAryyakAraRa#}¦ n. ({#-RaM#}) Cause of a special or incidental kind,
+; 03/02/2015 kAlpaRika -> kAlpanika (print error)
+043619 old .{#kAlpaRika#}¦ mfn. ({#-kaH-kI-kaM#})
+043619 new .{#kAlpanika#}¦ mfn. ({#-kaH-kI-kaM#})
+; 03/02/2015 kAlyaRineya -> kAlyARineya (print error)
+043632 old .{#kAlyaRineya#}¦ mfn. ({#-yaH-yI-yaM#}) Sprung from a virtuous or fortunate
+043632 new .{#kAlyARineya#}¦ mfn. ({#-yaH-yI-yaM#}) Sprung from a virtuous or fortunate
+; 03/02/2015 kAzWilA -> kAzWIlA (typo)
+043865 old .{#kAzWilA#}¦ m. ({#-lA#}) A large kind of Colotropis. f. ({#-lA#}) A plantain:
+043865 new .{#kAzWIlA#}¦ m. ({#-lA#}) A large kind of Colotropis. f. ({#-lA#}) A plantain:
+; 03/02/2015 kiYya -> kiYja (typo)
+044032 old .{#kiYya#}¦ n. ({#-YjaM#}) The filament of a lotus: see {#kiYjalka.#}
+044032 new .{#kiYja#}¦ n. ({#-YjaM#}) The filament of a lotus: see {#kiYjalka.#}
+; 03/02/2015 kutaSvan -> kutaScan (typo)
+045447 old .{#kutaSvan#}¦ {%ind%} Anywhere, somewhere.
+045447 new .{#kutaScan#}¦ {%ind%} Anywhere, somewhere.
+; 03/02/2015 kutaSvit -> kutaScit (typo)
+045450 old .{#kutaSvit#}¦ {%ind.%} Somewhere or other.
+045450 new .{#kutaScit#}¦ {%ind.%} Somewhere or other.
+; 03/02/2015 kulotvarza -> kulotkarza (print error)
+046637 old .{#kulotvarza#}¦ m. ({#-rzaH#}) Family respectability.
+046637 new .{#kulotkarza#}¦ m. ({#-rzaH#}) Family respectability.
+; 03/02/2015 kftakarmmaMn -> kftakarmman (typo)
+047786 old .{#kftakarmmaMn#}¦ mfn. ({#-rmmA-rmmA-rmma#}) Skilful, clever, able.
+047786 new .{#kftakarmman#}¦ mfn. ({#-rmmA-rmmA-rmma#}) Skilful, clever, able.
+; 03/02/2015 kftakAryyaM -> kftakAryya (typo)
+047789 old .{#kftakAryyaM#}¦ mfn. ({#-ryyaH-ryyA-ryyaM#}) See {#kftakftya.#}
+047789 new .{#kftakAryya#}¦ mfn. ({#-ryyaH-ryyA-ryyaM#}) See {#kftakftya.#}
+; 03/02/2015 kfmikaRWaka -> kfmikaRwaka (print unclear)
+048461 old .{#kfmikaRWaka#}¦ n. ({#-kaM#})
+048461 new .{#kfmikaRwaka#}¦ n. ({#-kaM#})
+048465 old .E. {#kfmi#} a worm, and {#kaRWakva#} a thorn, a foe; also {#krimikaRWaka.#}
+048465 new .E. {#kfmi#} a worm, and {#kaRwaka#} a thorn, a foe; also {#krimikaRWaka.#}
+; 03/02/2015 kfmignanTi -> kfmigranTi (print unclear)
+048473 old .{#kfmignanTi#}¦ m. ({#-nTiH#}) Insects generated at the roots of the
+048473 new .{#kfmigranTi#}¦ m. ({#-nTiH#}) Insects generated at the roots of the
+; 03/02/2015 kfmiSfkti -> kfmiSukti (typo)
+048506 old .{#kfmiSfkti#}¦ f. ({#-ktiH#}) An oyster.
+048506 new .{#kfmiSukti#}¦ f. ({#-ktiH#}) An oyster.
+048507 old .E. {#kfmi#} an insect, and {#Sfkti#} oystershell.
+048507 new .E. {#kfmi#} an insect, and {#Sukti#} oystershell.
+; 03/02/2015 kxptaDUya -> kxptaDUpa (typo)
+048968 old .{#kxptaDUya#}¦ m. ({#-paH#}) Frankincense, olibanum.
+048968 new .{#kxptaDUpa#}¦ m. ({#-paH#}) Frankincense, olibanum.
+048969 old .E. {#kxpta#} made, {#GUpa#} incense.
+048969 new .E. {#kxpta#} made, {#DUpa#} incense.
+; 03/02/2015 keliSfzi -> keliSuzi (typo)
+049179 old .{#keliSfzi#}¦ f. ({#-ziH#}) The earth.
+049179 new .{#keliSuzi#}¦ f. ({#-ziH#}) The earth.
+; 03/02/2015 komasikA -> komAsikA (typo)
+049828 old .{#komasikA#}¦ f. ({#-kA#}) A budding fruit.
+049828 new .{#komAsikA#}¦ f. ({#-kA#}) A budding fruit.
+; 03/02/2015 kozazvfdDi -> kozavfdDi (typo)
+050043 old .{#kozazvfdDi#}¦ f. ({#-dDiH#}) Swelled testicle, enlargement of the scrotum,
+050043 new .{#kozavfdDi#}¦ f. ({#-dDiH#}) Swelled testicle, enlargement of the scrotum,
+; 03/02/2015 kozaSfdDi -> kozaSudDi (typo)
+050050 old .{#kozaSfdDi#}¦ f. ({#-dDiH#}) Purification by ordeal.
+050050 new .{#kozaSudDi#}¦ f. ({#-dDiH#}) Purification by ordeal.
+; 03/02/2015 maH -> ma
+051546 old .{#kloman#}¦ n. ({#-maH#}) The bladder.
+051546 new .{#kloman#}¦ n. ({#-ma#}) The bladder.
+; 03/02/2015 kvaYcit -> kvacit (print error)
+051554 old .{#kvaYcit#}¦ {%ind.%} Somewhere.
+051554 new .{#kvacit#}¦ {%ind.%} Somewhere.
+; 03/02/2015 kzattraGarmma -> kzattraDarmma (D/G confusion)
+051761 old .{#kzattraGarmma#}¦ m. ({#-rmmaH#}) The duty of a {%Kshetriya,%} bravery,
+051761 new .{#kzattraDarmma#}¦ m. ({#-rmmaH#}) The duty of a {%Kshetriya,%} bravery,
+; 03/02/2015 kzida -> kzvida (print error)
+053143 old .E. {#kzida#} to sound, &c. {#kta#} aff.
+053143 new .E. {#kzvida#} to sound, &c. {#kta#} aff.
+; 03/02/2015 piGAna -> piDAna (D/G confusion)
+053501 old .E. {#Kaqga#} a sword, and {#piGAna#} a sheathe; also with {#kan#} added,
+053501 new .E. {#Kaqga#} a sword, and {#piDAna#} a sheathe; also with {#kan#} added,
+; 03/02/2015 KalasaMsargaM -> KalasaMsarga (typo)
+054053 old .{#KalasaMsargaM#}¦ m. ({#-rgaH#}) Associating with bad company.
+054053 new .{#KalasaMsarga#}¦ m. ({#-rgaH#}) Associating with bad company.
+; 03/02/2015 gopIcandUna -> gopIcandana (typo - poor print)
+059398 old .{#gopIcandUna#}¦ n. ({#-naM#}) A species of white clay, said to be brought from
+059398 new .{#gopIcandana#}¦ n. ({#-naM#}) A species of white clay, said to be brought from
+; 03/02/2015 gOrAsTa -> gOrAsya (T/y confusion)
+060015 old .{#gOrAsTa#}¦ m. ({#-sTaH#}) A black monkey with a white face.
+060015 new .{#gOrAsya#}¦ m. ({#-syaH#}) A black monkey with a white face.
+; 03/02/2015 vilara -> vistara (typo)
+060100 old .E. {#granTa,#} and {#vilara#} extent.
+060100 new .E. {#granTa,#} and {#vistara#} extent.
+; 03/02/2015 Ganavartmana -> Ganavartman (print error)
+061032 old .{#Ganavartmana#}¦ n. ({#-rtma#}) The sky.
+061032 new .{#Ganavartman#}¦ n. ({#-rtma#}) The sky.
+; 03/02/2015 GarmmaM -> Garmma (typo)
+061175 old .{#GarmmaM#}¦ m. ({#-rmmaH#})
+061175 new .{#Garmma#}¦ m. ({#-rmmaH#})
+; 03/02/2015 GeYcalikA -> GeYculikA (print error)
+061579 old .{#GeYcalikA#}¦ f. ({#-kA#}) An esculent root, (Arum orinense.)
+061579 new .{#GeYculikA#}¦ f. ({#-kA#}) An esculent root, (Arum orinense.)
+; 03/03/2015 cakrasajYa -> cakrasaMjYa (print error)
+061973 old .{#cakrasajYa#}¦ n. ({#-jYaM#}) Tin.
+061973 new .{#cakrasaMjYa#}¦ n. ({#-jYaM#}) Tin.
+; 03/03/2015 cakzam -> cakzas (m/s confusion)
+062060 old .{#cakzam#}¦ m. ({#-kzAH#})
+062060 new .{#cakzas#}¦ m. ({#-kzAH#})
+; 03/03/2015 cakzurvivaya -> cakzurvizaya (v/z confusion)
+062072 old .{#cakzurvivaya#}¦ m. ({#-yaH-yaM#})
+062072 new .{#cakzurvizaya#}¦ m. ({#-yaH-yaM#})
+; 03/03/2015 caraRagranyi -> caraRagranTi (y/T confusion)
+063079 old .{#caraRagranyi#}¦ f. ({#-nTiH#}) The ancle.
+063079 new .{#caraRagranTi#}¦ f. ({#-nTiH#}) The ancle.
+; 03/03/2015 carmmapramevaka -> carmmaprasevaka ()
+063373 old .{#carmmapramevaka#}¦ mf. ({#-vakaH-vikA#}) A bellows.
+063373 new .{#carmmaprasevaka#}¦ mf. ({#-vakaH-vikA#}) A bellows.
+; 03/03/2015 cAturyaka -> cAturTaka (T/y confusion)
+063717 old .{#cAturyaka#}¦ m. ({#-kaH#}) A quartan ague.
+063717 new .{#cAturTaka#}¦ m. ({#-kaH#}) A quartan ague.
+063718 old .E. {#caturya, aR#} affix, and {#kan#} added.
+063718 new .E. {#caturTa, aR#} affix, and {#kan#} added.
+; 03/03/2015 cArmmaM -> cArmma (typo)
+064009 old .{#cArmmaM#}¦ mfn. ({#-rmmaH-rmmI-rmmaM#})
+064009 new .{#cArmma#}¦ mfn. ({#-rmmaH-rmmI-rmmaM#})
+; 03/03/2015 uYJata -> uYJita (print error)
+064910 old .E. {#cira,#} and {#uYJata#} abandoned.
+064910 new .E. {#cira,#} and {#uYJita#} abandoned.
+; 03/03/2015 jagatkfsna -> jagatkftsna (typo)
+066577 old .{#jagatkfsna#}¦ n. ({#-laM#}) The universe.
+066577 new .{#jagatkftsna#}¦ n. ({#-laM#}) The universe.
+; 03/03/2015 jalaraNka -> jalaraNku (print obscure)
+068073 old .{#jalaraNka#}¦ m. ({#-NkuH#}) A gallinule.
+068073 new .{#jalaraNku#}¦ m. ({#-NkuH#}) A gallinule.
+; 03/03/2015 jIrRRaparRRa -> jIrRaparRRa (typo)
+069385 old .{#jIrRRaparRRa#}¦ m. ({#-rRaH#}) The {%Kadamba:%} see {#kadambaka.#} n.
+069385 new .{#jIrRaparRRa#}¦ m. ({#-rRaH#}) The {%Kadamba:%} see {#kadambaka.#} n.
+; 03/03/2015 tarupakti -> tarupaMkti (typo)
+072814 old .{#tarupakti#}¦ f. ({#-ktiH#}) A row of trees, an avenue.
+072814 new .{#tarupaMkti#}¦ f. ({#-ktiH#}) A row of trees, an avenue.
+; 03/03/2015 tApicCa (2nd one) -> tApiYCa (typo)
+073420 old .{#tApicCa#}¦ m. ({#-YCaH#}) The {%Tama4la%} tree, (Xanthocymus pictorius.)
+073420 new .{#tApiYCa#}¦ m. ({#-YCaH#}) The {%Tama4la%} tree, (Xanthocymus pictorius.)
+; 03/03/2015 turIyamAj -> turIyaBAj (typo)
+075131 old .{#turIyamAj#}¦ mfn. ({#-BAk#}) A sharer of a fourth.
+075131 new .{#turIyaBAj#}¦ mfn. ({#-BAk#}) A sharer of a fourth.
+; 03/03/2015 tulAparokzA -> tulAparIkzA (I/o confusion)
+075209 old .{#tulAparokzA#}¦ f. ({#-kzA#}) Ordeal by the balance, the weight of the accused
+075209 new .{#tulAparIkzA#}¦ f. ({#-kzA#}) Ordeal by the balance, the weight of the accused
+; 03/03/2015 tulyaBAvanaM -> tulyaBAvana (print error)
+075266 old .{#tulyaBAvanaM#}¦ n. ({#-naM#}) Combination of like series, (in calculation.)
+075266 new .{#tulyaBAvana#}¦ n. ({#-naM#}) Combination of like series, (in calculation.)
+; 03/03/2015 tuvarISimba -> tuvaroSimba (typo)
+075293 old .{#tuvarISimba#}¦ m. ({#-mbaH#}) A kind of cassia.
+075293 new .{#tuvaroSimba#}¦ m. ({#-mbaH#}) A kind of cassia.
+; 03/03/2015 tUzRImmUta -> tUzRImBUta (typo)
+075534 old .{#tUzRImmUta#}¦ mfn. ({#-taH-tA-taM#}) Silent.
+075534 new .{#tUzRImBUta#}¦ mfn. ({#-taH-tA-taM#}) Silent.
+; 03/03/2015 tfRaharmmrya -> tfRaharmmya (typo)
+075641 old .{#tfRaharmmrya#}¦ m. ({#-rmmryaH#}) A hovel, a house or upper-room of grass or
+075641 new .{#tfRaharmmya#}¦ m. ({#-rmmryaH#}) A hovel, a house or upper-room of grass or
+; 03/03/2015 trElokyavijAyA -> trElokyavijayA (typo)
+077319 old .{#trElokyavijAyA#}¦ f. ({#-yA#}) A sort of hemp from which an intoxicating
+077319 new .{#trElokyavijayA#}¦ f. ({#-yA#}) A sort of hemp from which an intoxicating
+; 03/03/2015 dakzasAvarRI -> dakzasAvarRi (typo)
+077824 old .{#dakzasAvarRI#}¦ m. ({#-rRiH#}) The ninth {%Menu.%}
+077824 new .{#dakzasAvarRi#}¦ m. ({#-rRiH#}) The ninth {%Menu.%}
+; 03/03/2015 dakzADvaraDvaMSakft -> dakzADvaraDvaMsakft (print error)
+077826 old .{#dakzADvaraDvaMSakft#}¦ m. ({#-kft#}) A name of S'IVA.
+077826 new .{#dakzADvaraDvaMsakft#}¦ m. ({#-kft#}) A name of S'IVA.
+077828 old {#DvaMSakft#} subduer or disturber: DAKSHA having on one occasion made a
+077828 new {#DvaMsakft#} subduer or disturber: DAKSHA having on one occasion made a
+; 03/03/2015 dakziRatam -> dakziRatas (m/s confusion)
+077859 old .{#dakziRatam#}¦ {%ind.%} Southward, southerly.
+077859 new .{#dakziRatas#}¦ {%ind.%} Southward, southerly.
+; 03/03/2015 daRqatAsrI -> daRqatAmrI (m/s confusion)
+078023 old .{#daRqatAsrI#}¦ f. ({#-srI#}) A perforated copper vessel, of given capacity,
+078023 new .{#daRqatAmrI#}¦ f. ({#-srI#}) A perforated copper vessel, of given capacity,
+078026 old .E. {#daRqa#} twenty-four minutes, and {#tAsrI#} (q. v.) a copper vessel, &c.
+078026 new .E. {#daRqa#} twenty-four minutes, and {#tAmrI#} (q. v.) a copper vessel, &c.
+; 03/03/2015 dadivam -> dadivas (m/s confusion)
+078309 old .{#dadivam#}¦ mfn. ({#-vAn-duzI-vaH#}) Giving, who or what gives.
+078309 new .{#dadivas#}¦ mfn. ({#-vAn-duzI-vaH#}) Giving, who or what gives.
+; 03/03/2015 dadfSivam -> dadfSivas (m/s confusion)
+078315 old .{#dadfSivam#}¦ mfn. ({#-vAn-SuzI-vaH#}) Seeing, looking.
+078315 new .{#dadfSivas#}¦ mfn. ({#-vAn-SuzI-vaH#}) Seeing, looking.
+; 03/03/2015 dadfSras -> dadfSvas (poor print)
+078318 old .{#dadfSras#}¦ mfn. ({#-SrAn-SuzI-SvaH#}) Seeing, looking.
+078318 new .{#dadfSvas#}¦ mfn. ({#-SrAn-SuzI-SvaH#}) Seeing, looking.
+; 03/03/2015 daSapAraminADara -> daSapAramitADara (typo)
+079282 old .{#daSapAraminADara#}¦ m. ({#-raH#}) A {%Budd'ha%} or {%Baudd'ha%} saint.
+079282 new .{#daSapAramitADara#}¦ m. ({#-raH#}) A {%Budd'ha%} or {%Baudd'ha%} saint.
+; 03/03/2015 dAridra -> dAridrya (print error)
+079959 old .{#dAridra#}¦ n. ({#-drAM#}) Poverty, indigence.
+079959 new .{#dAridrya#}¦ n. ({#-dryaM#}) Poverty, indigence.
+; 03/03/2015 dASarha -> dASArha (typo)
+080122 old .{#dASarha#}¦ mfn. ({#-rhaH-rhI-rhaM#}) Produced in {%Dasa4rha,%} (the country.)
+080122 new .{#dASArha#}¦ mfn. ({#-rhaH-rhI-rhaM#}) Produced in {%Dasa4rha,%} (the country.)
+; 03/03/2015 divyaratva -> divyaratna (poor print)
+080683 old .{#divyaratva#}¦ n. ({#-tvaM#}) The fabulous gem {%Chinta4man'i.%}
+080683 new .{#divyaratna#}¦ n. ({#-tvaM#}) The fabulous gem {%Chinta4man'i.%}
+080684 old .E. {#divya#} divine, and {#ratva#} jewel.
+080684 new .E. {#divya#} divine, and {#ratna#} jewel.
+; 03/03/2015 dIrGakeSikA -> dIrGakoSikA (typo)
+081057 old .{#dIrGakeSikA#}¦ f. ({#kA#}) A cockle; also {#dIrGa, koSI,#} &c. see the
+081057 new .{#dIrGakoSikA#}¦ f. ({#kA#}) A cockle; also {#dIrGa, koSI,#} &c. see the
+; 03/03/2015 durganivASin -> durganivAsin (print error)
+081784 old .{#durganivASin#}¦ mfn. ({#-sI-sinI-si#}) Staying in a stronghold.
+081784 new .{#durganivAsin#}¦ mfn. ({#-sI-sinI-si#}) Staying in a stronghold.
+; 03/03/2015 dfSaw -> dfSad (w/d confusion)
+082807 old .{#dfSaw#}¦ f. ({#-Sad#} or {#Sat#})
+082807 new .{#dfSad#}¦ f. ({#-Sad#} or {#Sat#})
+; 03/03/2015 dOHmADika -> dOHsADika (m/s confusion)
+084066 old .{#dOHmADika#}¦ m. ({#-kaH#})
+084066 new .{#dOHsADika#}¦ m. ({#-kaH#})
+; 03/03/2015 dvandvacaraM -> dvandvacara (print error)
+084897 old .{#dvandvacaraM#}¦ m. ({#-raH#}) The ruddy goose.
+084897 new .{#dvandvacara#}¦ m. ({#-raH#}) The ruddy goose.
+; 03/03/2015 dvAsTitadaSaka -> dvAsTitadarSaka (print error)
+085082 old .{#dvAsTitadaSaka#}¦ m. ({#-kaH#}) A doorkeeper: see {#dvAHsTitadarSaka,#} &c.
+085082 new .{#dvAsTitadarSaka#}¦ m. ({#-kaH#}) A doorkeeper: see {#dvAHsTitadarSaka,#} &c.
+; 03/03/2015 dvyokAntara -> dvyekAntara (typo)
+085809 old .{#dvyokAntara#}¦ mfn. ({#-raH-rA-raM#}) Having two between, two off.
+085809 new .{#dvyekAntara#}¦ mfn. ({#-raH-rA-raM#}) Having two between, two off.
+; 03/03/2015 DAtrIkA -> DAtrikA (typo)
+086937 old .{#DAtrIkA#}¦ f. ({#-kA#}) Emblick myrobalan.
+086937 new .{#DAtrikA#}¦ f. ({#-kA#}) Emblick myrobalan.
+; 03/03/2015 sIzaka -> SIrzaka (not hw)
+087033 old .E. {#DAnya,#} with {#SIzaka#} the top or head. [Page443]
+087033 new .E. {#DAnya,#} with {#SIrzaka#} the top or head. [Page443]
+; 03/03/2015 DUyaBAna -> DUyamAna (print error)
+087755 old .{#DUyaBAna#}¦ mfn. ({#-naH-nA-naM#}) Agitated, shaken.
+087755 new .{#DUyamAna#}¦ mfn. ({#-naH-nA-naM#}) Agitated, shaken.
+; 03/04/2015 naqvan -> naqvat (print error, since matup implies 't' ending)
+088912 old .{#naqvan#}¦ mfn. ({#-qvAn-qvatI-qvat#}) Reedy, abounding in reeds.
+088912 new .{#naqvat#}¦ mfn. ({#-qvAn-qvatI-qvat#}) Reedy, abounding in reeds.
+; 03/04/2015 napusaka -> napuMsaka (typo)
+089241 old .{#napusaka#}¦ mn. ({#-kaH-kaM#})
+089241 new .{#napuMsaka#}¦ mn. ({#-kaH-kaM#})
+; 03/04/2015 namucirUdana -> namucisUdana (print error)
+089431 old .{#namucirUdana#}¦ m. ({#-naH#}) A name of INDRA.
+089431 new .{#namucisUdana#}¦ m. ({#-naH#}) A name of INDRA.
+; 03/04/2015 nirDarmmaM -> nirDarmma (typo)
+093349 old .{#nirDarmmaM#}¦ mfn. ({#-rmmaH-rmmA-rmmaM#})
+093349 new .{#nirDarmma#}¦ mfn. ({#-rmmaH-rmmA-rmmaM#})
+; 03/04/2015 nivftta -> nivftti (print error)
+094158 old .{#nivftta#}¦ f. ({#-ttiH#})
+094158 new .{#nivftti#}¦ f. ({#-ttiH#})
+; 03/04/2015 niScIyamana -> niScIyamAna (typo)
+094435 old .{#niScIyamana#}¦ mfn. ({#-naH-nA-naM#}) Being in the course of ascertainment or
+094435 new .{#niScIyamAna#}¦ mfn. ({#-naH-nA-naM#}) Being in the course of ascertainment or
+; 03/04/2015 nizkozana -> nizkozaRa (print error)
+094682 old .{#nizkozana#}¦ n. ({#-naM#})
+094682 new .{#nizkozaRa#}¦ n. ({#-naM#})
+; 03/04/2015 GAH -> DAH (G/D confusion)
+096169 old .{#noDas#}¦ m. ({#-GAH#}) The name of a saint.
+096169 new .{#noDAs#}¦ m. ({#-DAH#}) The name of a saint.
+; 03/04/2015 nyakvArukA -> nyakkArukA (print error)
+096201 old .{#nyakvArukA#}¦ f. ({#-kA#}) An insect found in ordure.
+096201 new .{#nyakkArukA#}¦ f. ({#-kA#}) An insect found in ordure.
+; 03/04/2015 nyaYjita -> nyaYcita (c/j confusion)
+096248 old .{#nyaYjita#}¦ mfn. ({#-taH-tA-taM#}) Thrown or cast down.
+096248 new .{#nyaYcita#}¦ mfn. ({#-taH-tA-taM#}) Thrown or cast down.
+; 03/04/2015 nyuja -> nyubja (typo)
+096327 old .{#nyuja#}¦ mfn. ({#-bjaH-bjA-bjaM#})
+096327 new .{#nyubja#}¦ mfn. ({#-bjaH-bjA-bjaM#})
+; 03/04/2015 pacamAna (2nd) -> pacyamAna (typo)
+096837 old .{#pacamAna#}¦ mfn. ({#-naH-nA-naM#}) Being in the act of ripening. cooking &c.
+096837 new .{#pacyamAna#}¦ mfn. ({#-naH-nA-naM#}) Being in the act of ripening. cooking &c.
+; 03/04/2015 pawaYcara -> pawaccara (typo)
+097355 old .{#pawaYcara#}¦ n. ({#-raM#}) Old cloth. m. ({#-raH#}) A thief.
+097355 new .{#pawaccara#}¦ n. ({#-raM#}) Old cloth. m. ({#-raH#}) A thief.
+; 03/04/2015 cusal -> causal (typo)
+097484 old .E. {#pawa#} to go, in the cusal form, aff. {#olac;#} removing malady.
+097484 new .E. {#pawa#} to go, in the causal form, aff. {#olac;#} removing malady.
+; 03/04/2015 padmalAcCana -> padmalAYCana (typo)
+098551 old .{#padmalAcCana#}¦ m. ({#-naH#})
+098551 new .{#padmalAYCana#}¦ m. ({#-naH#})
+; 03/04/2015 paraHSapta -> paraHSata (typo)
+098843 old .{#paraHSapta#}¦ mfn. ({#-taH-tA-taM#}) More than a hundred, many.
+098843 new .{#paraHSata#}¦ mfn. ({#-taH-tA-taM#}) More than a hundred, many.
+; 03/04/2015 paraHsahastra -> paraHsahasra (typo)
+098846 old .{#paraHsahastra#}¦ mfn. ({#-straH-strA-straM#}) More than a thousand.
+098846 new .{#paraHsahasra#}¦ mfn. ({#-straH-strA-straM#}) More than a thousand.
+; 03/04/2015 parasajYaka -> parasaMjYaka (print error)
+099321 old .{#parasajYaka#}¦ m. ({#-kaH#}) The soul.
+099321 new .{#parasaMjYaka#}¦ m. ({#-kaH#}) The soul.
+099322 old .E. {#para#} best, {#sajYA#} name or title, aff. {#kan.#}
+099322 new .E. {#para#} best, {#saMjYA#} name or title, aff. {#kan.#}
+; 03/04/2015 AMyatta -> Ayatta (not headword)
+099584 old .E. {#para#} another, {#AMyatta#} tame, humble.
+099584 new .E. {#para#} another, {#Ayatta#} tame, humble.
+; 03/04/2015 pariRAmaniroGa -> pariRAmaniroDa (D/G confusion)
+100148 old .{#pariRAmaniroGa#}¦ m. ({#-DaH#}) Human vicissitude; as birth, growth, death,
+100148 new .{#pariRAmaniroDa#}¦ m. ({#-DaH#}) Human vicissitude; as birth, growth, death,
+; 03/04/2015 parizwIma -> parizwoma (I/o confusion)
+101086 old .{#parizwIma#}¦ m. ({#-maH#}) An elephant's coloured housings: see
+101086 new .{#parizwoma#}¦ m. ({#-maH#}) An elephant's coloured housings: see
+; 03/04/2015 pAMSumarddaMna -> pAMSumarddana (typo)
+102580 old .{#pAMSumarddaMna#}¦ m. ({#-naH#}) A channel or basin for water, near or about
+102580 new .{#pAMSumarddana#}¦ m. ({#-naH#}) A channel or basin for water, near or about
+; 03/04/2015 pANkya -> pANktya (typo - difficult ligature)
+102741 old .{#pANkya#}¦ m. ({#-NkyaH#}) A {%Brahman%} who is or may be worthy to eat in a
+102741 new .{#pANktya#}¦ m. ({#-NktyaH#}) A {%Brahman%} who is or may be worthy to eat in a
+; 03/04/2015 pAWamaYcarI -> pAWamaYjarI (print obscure)
+102939 old .{#pAWamaYcarI#}¦ f. ({#-rI#}) A small bird, commonly {%Sa4ri,%} (Gracula
+102939 new .{#pAWamaYjarI#}¦ f. ({#-rI#}) A small bird, commonly {%Sa4ri,%} (Gracula
+; 03/04/2015 pAWaSAliRI -> pAWaSAlinI (print error)
+102945 old .{#pAWaSAliRI#}¦ f. ({#-RI#}) A small bird: see {#pAWamaYjarI.#}
+102945 new .{#pAWaSAlinI#}¦ f. ({#-RI#}) A small bird: see {#pAWamaYjarI.#}
+; 03/04/2015 pAnya -> pAnTa (y/T confusion)
+103763 old .{#pAnya#}¦ mf. ({#-nyaH-nyA#}) A traveller.
+103763 new .{#pAnTa#}¦ mf. ({#-nyaH-nyA#}) A traveller.
+; 03/04/2015 piYjelA -> piYjolA (typo)
+105028 old .{#piYjelA#}¦ f. ({#-lA#}) The noise, or rustling of leaves.
+105028 new .{#piYjolA#}¦ f. ({#-lA#}) The noise, or rustling of leaves.
+; 03/04/2015 piRqodvaraRa -> piRqodDaraRa (print smudge)
+105260 old .{#piRqodvaraRa#}¦ n. ({#-RaM#}) Participating in obsequial offerings,
+105260 new .{#piRqodDaraRa#}¦ n. ({#-RaM#}) Participating in obsequial offerings,
+; 03/04/2015 pippasImUla -> pippalImUla (typo, m/s confusion)
+105614 old .{#pippasImUla#}¦ n. ({#-laM#}) The root of long-pepper.
+105614 new .{#pippalImUla#}¦ n. ({#-laM#}) The root of long-pepper.
+; 03/04/2015 pItAnDi -> pItAbDi (typo)
+106028 old .{#pItAnDi#}¦ m. ({#-nDiH#}) The {%Muni%} AGASTYA.
+106028 new .{#pItAbDi#}¦ m. ({#-nDiH#}) The {%Muni%} AGASTYA.
+; 03/04/2015 puPula -> pupPula (typo)
+106705 old .{#puPula#}¦ m. ({#-laH#}) Flatulence, wind in the bowels.
+106705 new .{#pupPula#}¦ m. ({#-laH#}) Flatulence, wind in the bowels.
+; 03/04/2015 puPusa -> pupPusa (typo)
+106708 old .{#puPusa#}¦ m. ({#-saH#}) The lungs.
+106708 new .{#pupPusa#}¦ m. ({#-saH#}) The lungs.
+; 03/04/2015 purArdvavistara -> purArdDavistara (print unclear)
+106944 old .{#purArdvavistara#}¦ m. ({#-raH#}) Part of a town, a suburb, a ward, a
+106944 new .{#purArdDavistara#}¦ m. ({#-raH#}) Part of a town, a suburb, a ward, a
+; 03/04/2015 purAviw -> purAvid (d/w confusion)
+106951 old .{#purAviw#}¦ mfn. ({#-viw#}) Knowing or acquainted with the past.
+106951 new .{#purAvid#}¦ mfn. ({#-viw#}) Knowing or acquainted with the past.
+106952 old .E. {#purA,#} and {#viw#} who knows.
+106952 new .E. {#purA,#} and {#vid#} who knows.
+; 03/04/2015 puruzavyADra -> puruzavyAGra (G/D confusion)
+107085 old .{#puruzavyADra#}¦ m. ({#-DraH#})
+107085 new .{#puruzavyAGra#}¦ m. ({#-DraH#})
+; 03/04/2015 pulomaBiw -> pulomaBid (d/w confusion)
+107310 old .{#pulomaBiw#}¦ m. ({#-Bit#}) INDRA.
+107310 new .{#pulomaBid#}¦ m. ({#-Bit#}) INDRA.
+107311 old .E. {#puloma,#} and {#mida#} to tear or destroy; the god having destroyed his
+107311 new .E. {#puloma,#} and {#Bida#} to tear or destroy; the god having destroyed his
+; 03/04/2015 praGawAviw -> praGawAvid (typo)
+109958 old .{#praGawAviw#}¦ m. ({#-viw#}) A general reader, but not a profound one.
+109958 new .{#praGawAvid#}¦ m. ({#-vid#}) A general reader, but not a profound one.
+109959 old .E. {#praGawA#} said to imply novelty, and {#viw#} who knows.
+109959 new .E. {#praGawA#} said to imply novelty, and {#vid#} who knows.
+; 03/04/2015 pratijYAsannAsa -> pratijYAsannyAsa (typo)
+110890 old .{#pratijYAsannAsa#}¦ m. ({#-saH#})
+110890 new .{#pratijYAsannyAsa#}¦ m. ({#-saH#})
+110893 old .E. {#pratijYA,#} and {#sannAsa#} quitting.
+110893 new .E. {#pratijYA,#} and {#sannyAsa#} quitting.
+; 03/04/2015 paw -> pad (not headword; final w/d confusion)
+111035 old .{#pratipad#}¦ f. ({#-paw#} or {#pat#})
+111035 new .{#pratipad#}¦ f. ({#-pad#} or {#pat#})
+; 03/04/2015 pramAdyatam -> pramAdyatas (m/s confusion)
+113296 old .{#pramAdyatam#}¦ {%ind.%} From carelessness.
+113296 new .{#pramAdyatas#}¦ {%ind.%} From carelessness.
+; 03/04/2015 pramuw -> pramud (final w/d confusion)
+113353 old .{#pramuw#}¦ mfn. ({#-mut#}) Pleased, happy.
+113353 new .{#pramud#}¦ mfn. ({#-mut#}) Pleased, happy.
+; 03/04/2015 pralambaBiw -> pralambaBid (final w/d confusion)
+113721 old .{#pralambaBiw#}¦ m. ({#-Bit#}) BALADE4VA, the brother of KRI12SHN'A.
+113721 new .{#pralambaBid#}¦ m. ({#-Bit#}) BALADE4VA, the brother of KRI12SHN'A.
+; 03/04/2015 pravahRi -> pravahli (typo)
+113929 old .{#pravahRi#}¦ f. ({#-hRiH-hRI#}) A riddle.
+113929 new .{#pravahli#}¦ f. ({#-hRiH-hRI#}) A riddle.
+; 03/04/2015 pravahRikA -> pravahlikA (typo - difficult ligature)
+113933 old .{#pravahRikA#}¦ f. ({#-kA#}) A riddle, an enigma, a conundrum or charade, &c.
+113933 new .{#pravahlikA#}¦ f. ({#-kA#}) A riddle, an enigma, a conundrum or charade, &c.
+113935 old consonants of the root are transposed; also {#pravahRI#} and {#pravahRI,#} and
+113935 new consonants of the root are transposed; also {#pravahli#} and {#pravahlI,#} and
+; 03/04/2015 praSnawUtI -> praSnadUtI (d/w confusion)
+114319 old .{#praSnawUtI#}¦ f. ({#-tI#}) A riddle, an enigma, an intricate or enigmatical
+114319 new .{#praSnadUtI#}¦ f. ({#-tI#}) A riddle, an enigma, an intricate or enigmatical
+; 03/24/2015 Sru -> Sri (not hw)
+114342 old .E. {#pra#} before {#Sru#} to drop, aff. {#kta.#}
+114342 new .E. {#pra#} before {#Sri#} to drop, aff. {#kta.#}
+; 03/04/2015 prasrAva 1st -> prastAva (typo)
+114750 old .{#prasrAva#}¦ m. ({#-vaH#})
+114750 new .{#prastAva#}¦ m. ({#-vaH#})
+; 03/04/2015 prastAva 2nd -> prasrAva (typo)
+114886 old .{#prastAva#}¦ m. ({#-vaH#})
+114886 new .{#prasrAva#}¦ m. ({#-vaH#})
+; 03/04/2015 AnIta -> AvIta (print error - not hw)
+115323 old .E. {#prAcIna#} east, and {#AnIta#} hung.
+115323 new .E. {#prAcIna#} east, and {#AvIta#} hung.
+; 03/04/2015 prAtaBojana -> prAtarBojana ()
+115623 old .{#prAtaBojana#}¦ n. ({#-naM#}) Breakfast, the morning meal.
+115623 new .{#prAtarBojana#}¦ n. ({#-naM#}) Breakfast, the morning meal.
+; 03/04/2015 prABavanya -> prABavatya (print error)
+115857 old .{#prABavanya#}¦ n. ({#-nyaM#}) Power, authority.
+115857 new .{#prABavatya#}¦ n. ({#-nyaM#}) Power, authority.
+; 03/04/2015 prAlambakA -> prAlambikA (typo)
+115963 old .{#prAlambakA#}¦ f. ({#-kA#}) A garland, a necklace.
+115963 new .{#prAlambikA#}¦ f. ({#-kA#}) A garland, a necklace.
+; 03/05/2015 prorRunatizu -> prorRunavizu (print error)
+116696 old .{#prorRunatizu#}¦ mfn. ({#-zuH-zuH-zu#}) Wishing to cover.
+116696 new .{#prorRunavizu#}¦ mfn. ({#-zuH-zuH-zu#}) Wishing to cover.
+; 03/05/2015 prova -> proza (print error)
+116716 old .{#prova#}¦ m. ({#-zaH#}) Burning.
+116716 new .{#proza#}¦ m. ({#-zaH#}) Burning.
+; 03/05/2015 prOqa -> prOQa (typo)
+116756 old .{#prOqa#}¦ mfn. ({#-QaH-QA-QaM#})
+116756 new .{#prOQa#}¦ mfn. ({#-QaH-QA-QaM#})
+; 03/05/2015 Palasampaw -> Palasampad (final w/d confusion)
+117268 old .{#Palasampaw#}¦ f. ({#-paw#} or {#pat#}) Prosperity, success.
+117268 new .{#Palasampad#}¦ f. ({#-pad#} or {#pat#}) Prosperity, success.
+; 03/05/2015 balaBiw -> balaBid (final w/d confusion)
+118136 old .{#balaBiw#}¦ mfn. ({#-Biw#}) Breaking or routing an army. m. ({#-Biw#})
+118136 new .{#balaBid#}¦ mfn. ({#-Bid#}) Breaking or routing an army. m. ({#-Bid#})
+; 03/05/2015 bahupAw -> bahupAd (final w/d confusion)
+118537 old .{#bahupAw#}¦ m. ({#-pAw#}) The {%Indian%} fig tree.
+118537 new .{#bahupAd#}¦ m. ({#-pAd#}) The {%Indian%} fig tree.
+; 03/05/2015 budDuda -> budbuda (typo)
+119277 old .{#budDuda#}¦ m. ({#-daH#}) A bubble.
+119277 new .{#budbuda#}¦ m. ({#-daH#}) A bubble.
+; 03/05/2015 brahmaviw -> brahmavid (final d/w confusion)
+119707 old .{#brahmaviw#}¦ m. ({#-vit#} or {#viw#}) A sage, one who knows the nature of the
+119707 new .{#brahmavid#}¦ m. ({#-vit#} or {#vid#}) A sage, one who knows the nature of the
+119709 old .E. {#brahma,#} and {#viw#} who knows.
+119709 new .E. {#brahma,#} and {#vid#} who knows.
+; 03/05/2015 brahmAvatta -> brahmAvartta (print error)
+119838 old .{#brahmAvatta#}¦ m. ({#-rttaM#}) The country to the north-west of {%Dehli,%}
+119838 new .{#brahmAvartta#}¦ m. ({#-rttaM#}) The country to the north-west of {%Dehli,%}
+; 03/05/2015 Odana -> odana (not hw)
+119868 old .E. {#brahman#} a {%Brahman,%} and {#Odana#} boiled rice.
+119868 new .E. {#brahman#} a {%Brahman,%} and {#odana#} boiled rice.
+; 03/05/2015 Bavaruw -> Bavarud (final w/d confusion)
+121000 old .{#Bavaruw#}¦ f. ({#-ruw#} or -{#rut#}) A drum played at funerals.
+121000 new .{#Bavarud#}¦ f. ({#-rud#} or -{#rut#}) A drum played at funerals.
+121001 old .E. {#Bava#} being, {#ruw#} to weep or wail, aff. {#kvip.#}
+121001 new .E. {#Bava#} being, {#rud#} to weep or wail, aff. {#kvip.#}
+; 03/05/2015 Basaw -> Basad (final w/d confusion)
+121113 old .{#Basaw#}¦ f. ({#-saw#})
+121113 new .{#Basad#}¦ f. ({#-sad#})
+; 03/05/2015 BArodvaraRa -> BArodDaraRa (dv/dD confusion)
+121587 old .{#BArodvaraRa#}¦ n. ({#-RaM#}) Taking up or bearing a burthen.
+121587 new .{#BArodDaraRa#}¦ n. ({#-RaM#}) Taking up or bearing a burthen.
+121588 old .E. {#BAra,#} and {#udvaraRa#} taking up. [Page618]
+121588 new .E. {#BAra,#} and {#udDaraRa#} taking up. [Page618]
+; 03/05/2015 BiznikA -> BizmikA (typo) (not hw)
+122175 old is variously read {#BissiwA, BizmiwA, BizmizwA, BiznikA.#}
+122175 new is variously read {#BissiwA, BizmiwA, BizmizwA, BizmikA.#}
+; 03/05/2015 BfSasviw -> BfSasvid ()
+123322 old .{#BfSasviw#}¦ mfn. ({#-sviw#}) Perspiring violently.
+123322 new .{#BfSasvid#}¦ mfn. ({#-svid#}) Perspiring violently.
+123323 old .E. {#BfSa,#} and {#sviw#} to sweat, {#kvin#} aff.
+123323 new .E. {#BfSa,#} and {#svid#} to sweat, {#kvin#} aff.
+; 03/05/2015 Bogivallama -> BogivallaBa (print error)
+123613 old .{#Bogivallama#}¦ n. ({#-BaM#}) Sandal.
+123613 new .{#BogivallaBa#}¦ n. ({#-BaM#}) Sandal.
+; 03/05/2015 maKAsuhfw -> maKAsuhfd (final w/d confusion)
+124188 old .{#maKAsuhfw#}¦ m. ({#-w#}) S'IVA.
+124188 new .{#maKAsuhfd#}¦ m. ({#-w#}) S'IVA.
+124190 old {#asuhfw#} unfriendly; having disturbed the ceremony, and slain the sacrificer.
+124190 new {#asuhfd#} unfriendly; having disturbed the ceremony, and slain the sacrificer.
+; 03/05/2015 matsyasaMDAta -> matsyasaMGAta (typo)
+125033 old .{#matsyasaMDAta#}¦ m. ({#-taH#}) A shoal of young or small fish.
+125033 new .{#matsyasaMGAta#}¦ m. ({#-taH#}) A shoal of young or small fish.
+; 03/05/2015 maDukarkkaMwikA -> maDukarkkawikA (typo)
+125446 old .{#maDukarkkaMwikA#}¦ f. ({#-kA#})
+125446 new .{#maDukarkkawikA#}¦ f. ({#-kA#})
+; 03/05/2015 maDusikyaka -> maDusikTaka (ky/kT confusion)
+125728 old .{#maDusikyaka#}¦ m. ({#-ka#}) A sort of poison.
+125728 new .{#maDusikTaka#}¦ m. ({#-ka#}) A sort of poison.
+125729 old .E. {#maDu#} honey, and {#sikyaka#} wax.
+125729 new .E. {#maDu#} honey, and {#sikTaka#} wax.
+; 03/05/2015 maDusuhfw -> maDusuhfd (final w/d confusion)
+125731 old .{#maDusuhfw#}¦ m. ({#-hfw#} or -{#hft#}) KA4MADE4VA.
+125731 new .{#maDusuhfd#}¦ m. ({#-hfd#} or -{#hft#}) KA4MADE4VA.
+; 03/05/2015 maDusravam -> maDusravas (m/s confusion)
+125737 old .{#maDusravam#}¦ m. ({#-vAH#}) A tree, (Bassia latifolia.)
+125737 new .{#maDusravas#}¦ m. ({#-vAH#}) A tree, (Bassia latifolia.)
+; 03/05/2015 manoraBa -> manorama ()
+126134 old .{#manoraBa#}¦ mfn. ({#-BaH-BA-BaM#}) Beautiful, lovely, pleasing. f.
+126134 new .{#manorama#}¦ mfn. ({#-BaH-BA-BaM#}) Beautiful, lovely, pleasing. f.
+126138 old .E. {#manas#} the mind, {#rasa#} to delight, aff. {#ac.#}
+126138 new .E. {#manas#} the mind, {#rama#} to delight, aff. {#ac.#}
+; 03/05/2015 mantropazwamma -> mantropazwamBa (typo)
+126269 old .{#mantropazwamma#}¦ m. ({#-mmaH#}) Advice, direction.
+126269 new .{#mantropazwamBa#}¦ m. ({#-mmaH#}) Advice, direction.
+126270 old .E. {#mantra,#} and {#upazwamma#} stopping.
+126270 new .E. {#mantra,#} and {#upazwamBa#} stopping.
+; 03/05/2015 makawa -> markawa (not hw)
+126894 old .E. {#makawa#} a monkey, and {#priya#} beloved.
+126894 new .E. {#markawa#} a monkey, and {#priya#} beloved.
+; 03/05/2015 marmmAviw -> marmmAviD (print error)
+126991 old .{#marmmAviw#}¦ mfn. ({#-viw#} or -{#vit#}) Piercing or affecting the joints,
+126991 new .{#marmmAviD#}¦ mfn. ({#-vid#} or -{#vit#}) Piercing or affecting the joints,
+; 03/05/2015 malawUzita -> maladUzita (typo)
+127057 old .{#malawUzita#}¦ mfn. ({#-taH-tA-taM#}) Foul, dirty, filthy.
+127057 new .{#maladUzita#}¦ mfn. ({#-taH-tA-taM#}) Foul, dirty, filthy.
+127058 old .E. {#mala#} dirt, {#wUzita#} faulty.
+127058 new .E. {#mala#} dirt, {#dUzita#} faulty.
+; 03/05/2015 malayaganDino -> malayaganDinI (typo)
+127086 old .{#malayaganDino#}¦ f. ({#-nI#}) One of DURGA4'S female attendants.
+127086 new .{#malayaganDinI#}¦ f. ({#-nI#}) One of DURGA4'S female attendants.
+; 03/05/2015 mahAtIzRa -> mahAtIkzRa (typo)
+127689 old .{#mahAtIzRa#}¦ mfn. ({#-zRaH-zRA-zRaM#}) Very sharp (as flavour), or literally
+127689 new .{#mahAtIkzRa#}¦ mfn. ({#-zRaH-zRA-zRaM#}) Very sharp (as flavour), or literally
+127692 old .E. {#mahA#} great or much, {#tIzRa#} sharp, acrid, acute.
+127692 new .E. {#mahA#} great or much, {#tIkzRa#} sharp, acrid, acute.
+; 03/05/2015 mahABAmatA -> mahABAgatA (print unclear)
+127890 old .{#mahABAmatA#}¦ f. ({#-tA#})
+127890 new .{#mahABAgatA#}¦ f. ({#-tA#})
+; 03/05/2015 muKaGaRWA -> muKaGaRwA (print error)
+130469 old .{#muKaGaRWA#}¦ f. ({#-RWA#}) Howling, uttering a particular cry of grief,
+130469 new .{#muKaGaRwA#}¦ f. ({#-RwA#}) Howling, uttering a particular cry of grief,
+130471 old .E. {#musva#} the mouth, and {#GaRWA#} a bell.
+130471 new .E. {#musva#} the mouth, and {#GaRwA#} a bell.
+; 03/05/2015 mfgalAcCana -> mfgalAYCana (typo)
+131629 old .{#mfgalAcCana#}¦ m. ({#-naH#}) The moon.
+131629 new .{#mfgalAYCana#}¦ m. ({#-naH#}) The moon.
+; 03/05/2015 meGasuhfw -> meGasuhfd (final w/d confusion)
+132236 old .{#meGasuhfw#}¦ m. ({#-hfw#}) A peacock.
+132236 new .{#meGasuhfd#}¦ m. ({#-hfd#}) A peacock.
+132237 old .E. {#meGa#} a cloud, and {#suhfw#} a friend.
+132237 new .E. {#meGa#} a cloud, and {#suhfd#} a friend.
+; 03/05/2015 mEtreyakA -> mEtreyikA (typo)
+132595 old .{#mEtreyakA#}¦ f. ({#-kAM#}) The contest of friends or allies.
+132595 new .{#mEtreyikA#}¦ f. ({#-kAM#}) The contest of friends or allies.
+; 03/05/2015 mrayamARa -> mriyamARa (typo)
+132946 old .{#mrayamARa#}¦ mfn. ({#-RaH-RA-RaM#}) Dying.
+132946 new .{#mriyamARa#}¦ mfn. ({#-RaH-RA-RaM#}) Dying.
+; 03/05/2015 yamunABiw -> yamunABid (final w/d confusion)
+133844 old .{#yamunABiw#}¦ m. ({#-Biw#} or {#Bit#}) BALADE4VA, the brother of
+133844 new .{#yamunABid#}¦ m. ({#-Bid#} or {#Bit#}) BALADE4VA, the brother of
+133846 old .E. {#yamunA#} the {%Yamuna4,%} and {#Biw#} divider; having divided the river
+133846 new .E. {#yamunA#} the {%Yamuna4,%} and {#Bid#} divider; having divided the river
+; 03/05/2015 yAjYavalakya -> yAjYavalkya (typo)
+134175 old .{#yAjYavalakya#}¦ m. ({#-lkyaHM#}) A celebrated saint and legislator; the
+134175 new .{#yAjYavalkya#}¦ m. ({#-lkyaH#}) A celebrated saint and legislator; the
+; 03/05/2015 yudGa -> yudDa (dG/dD confusion)
+134726 old .{#yudGa#}¦ n. ({#-dDaM#}) War, battle, contest, conflict.
+134726 new .{#yudDa#}¦ n. ({#-dDaM#}) War, battle, contest, conflict.
+134727 old .E. {#yuGa#} to fight, aff. {#kta.#}
+134727 new .E. {#yuDa#} to fight, aff. {#kta.#}
+; 03/05/2015 yuzmaw -> yuzmad (final w/d confusion)
+134840 old .{#yuzmaw#}¦ 2{%nd personal pronoun.%} mf. ({#-tvaM#}) Thou.
+134840 new .{#yuzmad#}¦ 2{%nd personal pronoun.%} mf. ({#-tvaM#}) Thou.
+; 03/05/2015 yogaviw -> yogavid (final w/d confusion)
+135039 old .{#yogaviw#}¦ m. ({#-vit#})
+135039 new .{#yogavid#}¦ m. ({#-vit#})
+135044 old .E. {#yoga,#} and {#viw#} who knows.
+135044 new .E. {#yoga,#} and {#vid#} who knows.
+; 03/05/2015 rAjahasnin -> rAjahastin (typo)
+137767 old .{#rAjahasnin#}¦ m. ({#-lI#}) A royal elephant.
+137767 new .{#rAjahastin#}¦ m. ({#-lI#}) A royal elephant.
+137768 old .E. {#rAja#} a king, and {#hasnin#} an elephant.
+137768 new .E. {#rAja#} a king, and {#hastin#} an elephant.
+; 03/05/2015 rAjyajyuta -> rAjyacyuta (typo)
+137858 old .{#rAjyajyuta#}¦ m. ({#-taH#}) A prince who has lost his kingdom.
+137858 new .{#rAjyacyuta#}¦ m. ({#-taH#}) A prince who has lost his kingdom.
+137859 old .E. {#rAjya,#} and {#jyuta#} fallen from.
+137859 new .E. {#rAjya,#} and {#cyuta#} fallen from.
+; 03/05/2015 rAjyajyuti -> rAjyacyuti (typo)
+137861 old .{#rAjyajyuti#}¦ f. ({#-tiH#}) Deposal, loss of sovereignty.
+137861 new .{#rAjyacyuti#}¦ f. ({#-tiH#}) Deposal, loss of sovereignty.
+137862 old .E. {#rAjya,#} and {#jyuti#} falling.
+137862 new .E. {#rAjya,#} and {#cyuti#} falling.
+; 03/05/2015 rAtriviSlezagAnin -> rAtriviSlezagAmin (typo)
+137968 old .{#rAtriviSlezagAnin#}¦ m. ({#-mI#}) The ruddy goose.
+137968 new .{#rAtriviSlezagAmin#}¦ m. ({#-mI#}) The ruddy goose.
+; 03/05/2015 rukmiBiw -> rukmiBid (final w/d confusion)
+138597 old .{#rukmiBiw#}¦ m. ({#-Bid#}) BALARA4MA.
+138597 new .{#rukmiBid#}¦ m. ({#-Bid#}) BALARA4MA.
+; 03/05/2015 laktakamman -> laktakarman (print error)
+139878 old .{#laktakamman#}¦ m. ({#-rmmA#}) A tree used in dyeing, a red variety of the
+139878 new .{#laktakarman#}¦ m. ({#-rmmA#}) A tree used in dyeing, a red variety of the
+; 03/05/2015 latAkasUrikA -> latAkastUrikA (print error)
+140391 old .{#latAkasUrikA#}¦ f. ({#-kA#}) A medicinal plant, commonly {%Lata4kasturi4.%}
+140391 new .{#latAkastUrikA#}¦ f. ({#-kA#}) A medicinal plant, commonly {%Lata4kasturi4.%}
+140392 old .E. {#latA#} a creeper, and {#kasUrikA#} musk.
+140392 new .E. {#latA#} a creeper, and {#kastUrikA#} musk.
+; 03/05/2015 lANgalapadGati -> lANgalapadDati (D/G confusion)
+141001 old .{#lANgalapadGati#}¦ f. ({#-tiH#}) A furrow.
+141001 new .{#lANgalapadDati#}¦ f. ({#-tiH#}) A furrow.
+; 03/05/2015 lAlapyamAna -> lAlazyamAna (typo)
+141093 old .{#lAlapyamAna#}¦ mfn. ({#-naH-nA-naM#}) Wishing to enjoy.
+141093 new .{#lAlazyamAna#}¦ mfn. ({#-naH-nA-naM#}) Wishing to enjoy.
+; 03/05/2015 lIlAvAtI -> lIlAvatI (typo)
+141513 old .{#lIlAvAtI#}¦ f. ({#-tI#}) A wanton or sportful woman.
+141513 new .{#lIlAvatI#}¦ f. ({#-tI#}) A wanton or sportful woman.
+; 03/05/2015 lohiRI -> lohinI (print error)
+142446 old .{#lohiRI#}¦ f. ({#-RI#}) A woman red with anger, or painted red.
+142446 new .{#lohinI#}¦ f. ({#-RI#}) A woman red with anger, or painted red.
+; 03/05/2015 vaqga -> vaqra (typo
+143363 old .{#vaqga#}¦ mfn. ({#-qgaH-qgA-qgaM#}) Large, great.
+143363 new .{#vaqra#}¦ mfn. ({#-qraH-qrA-qraM#}) Large, great.
+; 03/05/2015 vatsAya -> vatsIya (typo)
+143497 old .{#vatsAya#}¦ mfn. ({#-yaH-yA-yaM#}) Proper or fit for a calf. m. ({#-yaH#}) A
+143497 new .{#vatsIya#}¦ mfn. ({#-yaH-yA-yaM#}) Proper or fit for a calf. m. ({#-yaH#}) A
+; 03/05/2015 vanodBaSa -> vanodBava (typo)
+143898 old .{#vanodBaSa#}¦ mfn. ({#-vaH-vA-vaM#}) Produced in a forest. f. ({#-vA#}) Wild
+143898 new .{#vanodBava#}¦ mfn. ({#-vaH-vA-vaM#}) Produced in a forest. f. ({#-vA#}) Wild
+; 03/05/2015 varAWakarajas -> varAwakarajas (print error)
+144379 old .{#varAWakarajas#}¦ m. ({#-jAH#}) A plant, commonly {%Nage4sara,%} (Mesua
+144379 new .{#varAwakarajas#}¦ m. ({#-jAH#}) A plant, commonly {%Nage4sara,%} (Mesua
+; 03/06/2015 varhiSaSuzman -> varhiSSuzman (typo)
+145357 old .{#varhiSaSuzman#}¦ m. ({#-zmA#}) Fire.
+145357 new .{#varhiSSuzman#}¦ m. ({#-zmA#}) Fire.
+; 03/06/2015 public -> pubic (not hw)
+146030 old .²1 The lower belly, hypogastric or public region.
+146030 new .²1 The lower belly, hypogastric or pubic region.
+; 03/06/2015 vARamAkzaRa -> vARamokzaRa (print error)
+146912 old .{#vARamAkzaRa#}¦ n. ({#-RaM#}) Shooting an arrow.
+146912 new .{#vARamokzaRa#}¦ n. ({#-RaM#}) Shooting an arrow.
+; 03/06/2015 vAnTA -> vAnyA (typo)
+147432 old .{#vAnTA#}¦ f. ({#-nyA#}) A multitude of groves or thickets.
+147432 new .{#vAnyA#}¦ f. ({#-nyA#}) A multitude of groves or thickets.
+; 03/06/2015 vAvawUka -> vAvadUka (w/d confusion)
+148203 old .{#vAvawUka#}¦ mfn. ({#-kaH-kA-kaM#}) Talking much, gabbling, prattling.
+148203 new .{#vAvadUka#}¦ mfn. ({#-kaH-kA-kaM#}) Talking much, gabbling, prattling.
+; 03/06/2015 vAvawUkatA -> vAvadUkatA (w/d confusion)
+148206 old .{#vAvawUkatA#}¦ f. ({#-tA#}) Garrulity, loquaciousness.
+148206 new .{#vAvadUkatA#}¦ f. ({#-tA#}) Garrulity, loquaciousness.
+; 03/06/2015 vikatTi -> vikatTin (typo)
+148764 old .{#vikatTi#}¦ mfn. ({#-tTI-tTinI-tTi#}) Who or what boasts, praises,
+148764 new .{#vikatTin#}¦ mfn. ({#-tTI-tTinI-tTi#}) Who or what boasts, praises,
+; 03/06/2015 viGawwata -> viGawwita (typo)
+149461 old .{#viGawwata#}¦ mfn. ({#-taH-tA-taM#})
+149461 new .{#viGawwita#}¦ mfn. ({#-taH-tA-taM#})
+149466 old .E. {#vi#} before {#Gawf#} or rub, aff. {#kta.#} [Page762]
+149466 new .E. {#vi#} before {#Gawwa#} or rub, aff. {#kta.#} [Page762]
+; 03/06/2015 viDavAgABin -> viDavAgAmin (print error)
+150999 old .{#viDavAgABin#}¦ m. ({#-mI#}) One who has intercourse with a widow.
+150999 new .{#viDavAgAmin#}¦ m. ({#-mI#}) One who has intercourse with a widow.
+; 03/06/2015 viBAgaBAk -> viBAgaBAj (print error. Error since usu. stem given, not 1s)
+152350 old .{#viBAgaBAk#}¦ m. ({#-BAk#}) One who shares in a portion, of property
+152350 new .{#viBAgaBAj#}¦ m. ({#-BAk#}) One who shares in a portion, of property
+; 03/06/2015 vimUQasajYa -> vimUQasaMjYa (print error)
+152790 old .{#vimUQasajYa#}¦ mfn. ({#-jYaH-jYA-jYaM#}) Senseless, unconscious.
+152790 new .{#vimUQasaMjYa#}¦ mfn. ({#-jYaH-jYA-jYaM#}) Senseless, unconscious.
+; 03/06/2015 virahotkaRwitA -> virahotkaRWitA (print error)
+153058 old .{#virahotkaRwitA#}¦ f. ({#-tA#}) A woman whose lover or husband is absent.
+153058 new .{#virahotkaRWitA#}¦ f. ({#-tA#}) A woman whose lover or husband is absent.
+153059 old .E. {#viraha#} separation, {#utkaRwita#} afflicted.
+153059 new .E. {#viraha#} separation, {#utkaRWita#} afflicted.
+; 03/06/2015 vizanuw -> vizanud (final w/d confusion)
+154909 old .{#vizanuw#}¦ m. ({#-nut#}) A plant, (Bignonia Indica.)
+154909 new .{#vizanud#}¦ m. ({#-nut#}) A plant, (Bignonia Indica.)
+154910 old .E. {#viza#} poison, {#nuw#} to eject, aff. {#kvip.#}
+154910 new .E. {#viza#} poison, {#nud#} to eject, aff. {#kvip.#}
+; 03/06/2015 vizamAyuGa -> vizamAyuDa (typo, G/D confusion)
+155032 old .{#vizamAyuGa#}¦ m. ({#-DaH#}) KA4MADE4VA.
+155032 new .{#vizamAyuDa#}¦ m. ({#-DaH#}) KA4MADE4VA.
+; 03/06/2015 vItavirudGabudDi -> vItavirudDabudDi (typo, D/G confusion)
+156325 old .{#vItavirudGabudDi#}¦ mfn. ({#-dDiH-dDiH-dDi#}) Peaceable, without hostile
+156325 new .{#vItavirudDabudDi#}¦ mfn. ({#-dDiH-dDiH-dDi#}) Peaceable, without hostile
+; 03/06/2015 vfkzaBiw -> vfkzaBid (final w/d confusion)
+156743 old .{#vfkzaBiw#}¦ f. ({#-Biw#} or -{#Bit#}) An axe.
+156743 new .{#vfkzaBid#}¦ f. ({#-Bid#} or -{#Bit#}) An axe.
+156744 old .E. {#vfkza#} a tree, and {#Biw#} breaking, cutting.
+156744 new .E. {#vfkza#} a tree, and {#Bid#} breaking, cutting.
+; 03/06/2015 vfTAtyA -> vfTAwyA (typo)
+157080 old .{#vfTAtyA#}¦ f. ({#-tyA#}) Going about or travelling for pleasure.
+157080 new .{#vfTAwyA#}¦ f. ({#-twA#}) Going about or travelling for pleasure.
+; 03/06/2015 vfhadguha -> vfhadgfha (print error)
+157642 old .{#vfhadguha#}¦ m. ({#-haH#}) A country, described as lying behind the
+157642 new .{#vfhadgfha#}¦ m. ({#-haH#}) A country, described as lying behind the
+157645 old .E. {#vfhat#} large, and {#guha#} a house; also read {#vfhadguha#} from {#guha#}
+157645 new .E. {#vfhat#} large, and {#gfha#} a house; also read {#vfhadguha#} from {#guha#}
+; 03/06/2015 veRiveGanI -> veRiveDanI (typo, G/D confusion)
+157827 old .{#veRiveGanI#}¦ f. ({#-nI#}) A leech.
+157827 new .{#veRiveDanI#}¦ f. ({#-nI#}) A leech.
+; 03/06/2015 vedaviw -> vedavid (final d/w confusion)
+158023 old .{#vedaviw#}¦ m. ({#-viw#} or {#vit#}) A {%Brahman%} versed in the {%Ve4das.%}
+158023 new .{#vedavid#}¦ m. ({#-vid#} or {#vit#}) A {%Brahman%} versed in the {%Ve4das.%}
+; 03/06/2015 vedaSAsra -> vedaSAstra (typo)
+158045 old .{#vedaSAsra#}¦ n. ({#-sraM#}) The {%Ve4das%} or any part of them.
+158045 new .{#vedaSAstra#}¦ n. ({#-sraM#}) The {%Ve4das%} or any part of them.
+158046 old .E. {#veda,#} and {#SAsra#} an inspired writing, a scripture.
+158046 new .E. {#veda,#} and {#SAstra#} an inspired writing, a scripture.
+; 03/06/2015 vEqAlagratika -> vEqAlavratika (typo)
+158656 old .{#vEqAlagratika#}¦ m. ({#-kaH#}) A hypocrite, a religious impostor, one who
+158656 new .{#vEqAlavratika#}¦ m. ({#-kaH#}) A hypocrite, a religious impostor, one who
+; 03/06/2015 vEGAtra -> vEDAtra (G/D confusion)
+158851 old .{#vEGAtra#}¦ m. ({#-traH#}) SANATKUMA4RA, the son of BRAHMA4, and eldest of
+158851 new .{#vEDAtra#}¦ m. ({#-traH#}) SANATKUMA4RA, the son of BRAHMA4, and eldest of
+; 03/06/2015 vEvaGika -> vEvaDika (G/D confusion)
+159073 old .{#vEvaGika#}¦ m. ({#-kaH#}) A chandler, a vender of grain, oil, {%ghee,%}
+159073 new .{#vEvaDika#}¦ m. ({#-kaH#}) A chandler, a vender of grain, oil, {%ghee,%}
+159075 old .E. {#vivaGa#} storing grain, &c., aff. {#Wak.#}
+159075 new .E. {#vivaDa#} storing grain, &c., aff. {#Wak.#}
+; 03/06/2015 vyavatizwamAna -> vyavatizWamAna (typo)
+159861 old .{#vyavatizwamAna#}¦ mfn. ({#-naH-nA-naM#}) Arranged, placed.
+159861 new .{#vyavatizWamAna#}¦ mfn. ({#-naH-nA-naM#}) Arranged, placed.
+; 03/06/2015 vyApaw -> vyApad (final w/d confusion)
+160418 old .{#vyApaw#}¦ f. ({#-paw#})
+160418 new .{#vyApad#}¦ f. ({#-pad#})
+; 03/06/2015 vyomasaw -> vyomasad (final w/d confusion)
+160926 old .{#vyomasaw#}¦ m. ({#-saw#}) A spirit of heaven, a divinity.
+160926 new .{#vyomasad#}¦ m. ({#-sad#}) A spirit of heaven, a divinity.
+160927 old .E. {#vyoma,#} and {#saw#} who goes.
+160927 new .E. {#vyoma,#} and {#sad#} who goes.
+; 03/06/2015 SakraBiw -> SakraBid (final w/d confusion)
+161553 old .{#SakraBiw#}¦ m. ({#-Biw#}) The son of RA4VAN'A.
+161553 new .{#SakraBid#}¦ m. ({#-Bid#}) The son of RA4VAN'A.
+161554 old .E. {#Sakra#} INDRA, and {#Biw#} defeater.
+161554 new .E. {#Sakra#} INDRA, and {#Bid#} defeater.
+; 03/06/2015 SatapAw -> SatapAd (final w/d confusion)
+162046 old .{#SatapAw#}¦ f. ({#-pAw#} or -{#pAt#}) A centipede.
+162046 new .{#SatapAd#}¦ f. ({#-pAd#} or -{#pAt#}) A centipede.
+162047 old .E. {#Sata#} a hundred, and {#pAw#} a foot.
+162047 new .E. {#Sata#} a hundred, and {#pAd#} a foot.
+; 03/06/2015 SamIGAnya -> SamIDAnya (D/G confusion)
+162561 old .{#SamIGAnya#}¦ n. ({#-nyaM#}) Pulse, grain which grows in legumes or pods.
+162561 new .{#SamIDAnya#}¦ n. ({#-nyaM#}) Pulse, grain which grows in legumes or pods.
+162562 old .E. {#SamI#} a legume, and {#GAnya#} grain.
+162562 new .E. {#SamI#} a legume, and {#DAnya#} grain.
+; 03/06/2015 SalBali -> Salmali (typo)
+163248 old .{#SalBali#}¦ mf. ({#-liH-lI#}) The silk-cotton tree: see {#SAlBali.#}
+163248 new .{#Salmali#}¦ mf. ({#-liH-lI#}) The silk-cotton tree: see {#SAlmali.#}
+; 03/06/2015 SalyaSAsra -> SalyaSAstra (typo)
+163294 old .{#SalyaSAsra#}¦ n. ({#-sraM#}) That part of Surgery which treats of the
+163294 new .{#SalyaSAstra#}¦ n. ({#-straM#}) That part of Surgery which treats of the
+163296 old .E. {#Salya,#} and {#SAsra#} science.
+163296 new .E. {#Salya,#} and {#SAstra#} science.
+; 03/06/2015 SAtakumBa -> SAtakOmBa (typo)
+163932 old .{#SAtakumBa#}¦ n. ({#-mBaM#}) Gold.
+163932 new .{#SAtakOmBa#}¦ n. ({#-mBaM#}) Gold.
+; 03/06/2015 SAlBala -> SAlmala (typo)
+164511 old .{#SAlBala#}¦ m. ({#-laH#})
+164511 new .{#SAlmala#}¦ m. ({#-laH#})
+; 03/06/2015 SitasUka -> SitaSUka (print error)
+165083 old .{#SitasUka#}¦ m. ({#-kaH#})
+165083 new .{#SitaSUka#}¦ m. ({#-kaH#})
+165086 old .E. {#Sita#} sharpened, {#Suka#} the beard.
+165086 new .E. {#Sita#} sharpened, {#SUka#} the beard.
+; 03/06/2015 SiPAGara -> SiPADara (D/G confusion)
+165196 old .{#SiPAGara#}¦ m. ({#-raH#}) A branch.
+165196 new .{#SiPADara#}¦ m. ({#-raH#}) A branch.
+; 03/06/2015 SilAkutuma -> SilAkusuma (typo)
+165382 old .{#SilAkutuma#}¦ n. ({#-maM#}) Storax: see {#SilAja.#}
+165382 new .{#SilAkusuma#}¦ n. ({#-maM#}) Storax: see {#SilAja.#}
+; 03/06/2015 SokaCiw -> SokaCid (final w/d confusion)
+167909 old .{#SokaCiw#}¦ mfn. ({#-Ciw#}) Consoling, allaying, removing sorrow.
+167909 new .{#SokaCid#}¦ mfn. ({#-Cid#}) Consoling, allaying, removing sorrow.
+; 03/06/2015 SrutyatuprAsa -> SrutyanuprAsa (typo)
+169291 old .{#SrutyatuprAsa#}¦ m. ({#-saH#}) Alliteration.
+169291 new .{#SrutyanuprAsa#}¦ m. ({#-saH#}) Alliteration.
+; 03/06/2015 Slezmika -> SlEzmika (typo)
+169602 old .{#Slezmika#}¦ mfn. ({#-kaH-kI-kaM#}) Allaying or exciting phlegm, phlegmatic.
+169602 new .{#SlEzmika#}¦ mfn. ({#-kaH-kI-kaM#}) Allaying or exciting phlegm, phlegmatic.
+; 03/06/2015 SvAviG -> SvAviD (G/D confusion)
+169826 old .{#SvAviG#}¦ m. ({#-viw#} or {#vit#}) A porcupine.
+169826 new .{#SvAviD#}¦ m. ({#-vid#} or {#vit#}) A porcupine.
+; 03/06/2015 zaNguRa -> zaqguRa (typo)
+170225 old .{#zaNguRa#}¦ mfn. ({#-RaH-RA-RaM#}) Six-fold, six times. n. ({#-RaM#}) An
+170225 new .{#zaqguRa#}¦ mfn. ({#-RaH-RA-RaM#}) Six-fold, six times. n. ({#-RaM#}) An
+; 03/06/2015 saMSoGana -> saMSoDana (D/G confusion)
+171406 old .{#saMSoGana#}¦ n. ({#-naM#})
+171406 new .{#saMSoDana#}¦ n. ({#-naM#})
+171411 old .E. {#sam#} before {#SoGana#} purifying.
+171411 new .E. {#sam#} before {#SoDana#} purifying.
+; 03/06/2015 santozana -> santozaRa (print error)
+173952 old .{#santozana#}¦ n. ({#-naM#})
+173952 new .{#santozaRa#}¦ n. ({#-naM#})
+; 03/06/2015 sandaGAna -> sandaDAna (G/D confusion)
+173988 old .{#sandaGAna#}¦ mfn. ({#-naH-nA-naM#})
+173988 new .{#sandaDAna#}¦ mfn. ({#-naH-nA-naM#})
+173992 old .E. {#sam#} before {#GA#} to have, {#SAnac#} aff.
+173992 new .E. {#sam#} before {#DA#} to have, {#SAnac#} aff.
+; 03/06/2015 sanDiviw -> sanDivid (final w/d confusion)
+174242 old .{#sanDiviw#}¦ m. ({#-vit#}) A negociator, a minister.
+174242 new .{#sanDivid#}¦ m. ({#-vit#}) A negociator, a minister.
+174243 old .E. {#sanDi,#} and {#viw#} who knows.
+174243 new .E. {#sanDi,#} and {#vid#} who knows.
+; 03/06/2015 sapatvAri -> sapatnAri (poor print)
+174573 old .{#sapatvAri#}¦ m. ({#-riH#}) A sort of bambu, (Bambusa spinosa.)
+174573 new .{#sapatnAri#}¦ m. ({#-riH#}) A sort of bambu, (Bambusa spinosa.)
+; 03/06/2015 saBAsaw -> saBAsad (final w/d confusion)
+174788 old .{#saBAsaw#}¦ m. ({#-sat#} or {#saw#}) One of a company, an assistant at an
+174788 new .{#saBAsad#}¦ m. ({#-sat#} or {#sad#}) One of a company, an assistant at an
+174790 old .E. {#saBA#} an assembly, and {#saw#} who goes.
+174790 new .E. {#saBA#} an assembly, and {#sad#} who goes.
+; 03/06/2015 samaSruvAna -> samaSnuvAna (print error)
+175225 old .{#samaSruvAna#}¦ mfn. ({#-naH-nA-naM#}) Spreading over, pervading, extending
+175225 new .{#samaSnuvAna#}¦ mfn. ({#-naH-nA-naM#}) Spreading over, pervading, extending
+; 03/06/2015 samADnAta -> samADmAta (typo)
+175434 old .{#samADnAta#}¦ mfn. ({#-taH-tA-taM#}) Blown or puffed up, inflated.
+175434 new .{#samADmAta#}¦ mfn. ({#-taH-tA-taM#}) Blown or puffed up, inflated.
+175435 old .E. {#sam#} and {#AN#} before {#GnA#} to blow, {#kta#} aff.
+175435 new .E. {#sam#} and {#AN#} before {#DmA#} to blow, {#kta#} aff.
+; 03/06/2015 samAranDa -> samArabDa (typo)
+175583 old .{#samAranDa#}¦ mfn. ({#-bDaH-bDA-bDaM#}) Begun, commenced.
+175583 new .{#samArabDa#}¦ mfn. ({#-bDaH-bDA-bDaM#}) Begun, commenced.
+; 03/06/2015 samidGa -> samidDa (typo, poor print)
+175867 old .{#samidGa#}¦ mfn. ({#-dDaH-dDA-dDaM#}) Lighted, kindled, set alight or on
+175867 new .{#samidDa#}¦ mfn. ({#-dDaH-dDA-dDaM#}) Lighted, kindled, set alight or on
+; 03/06/2015 samBAnta -> samBrAnta (typo)
+177176 old .{#samBAnta#}¦ mfn. ({#-ntaH-ntA-ntaM#})
+177176 new .{#samBrAnta#}¦ mfn. ({#-ntaH-ntA-ntaM#})
+; 03/06/2015 sarpismamudra -> sarpissamudra (typo)
+177821 old .{#sarpismamudra#}¦ m. ({#-draH#}) The sea of clarified butter, one of the seven
+177821 new .{#sarpissamudra#}¦ m. ({#-draH#}) The sea of clarified butter, one of the seven
+; 03/06/2015 sarvvaviw -> sarvvavid (final w/d confusion)
+178172 old .{#sarvvaviw#}¦ mfn. ({#-vit#}) Omniscient, all-wise.
+178172 new .{#sarvvavid#}¦ mfn. ({#-vit#}) Omniscient, all-wise.
+178173 old .E. {#sarvva,#} and {#viw#} who knows.
+178173 new .E. {#sarvva,#} and {#vid#} who knows.
+; 03/06/2015 sarvvOzaGirasa -> sarvvOzaDirasa (typo, D/G confusion)
+178368 old .{#sarvvOzaGirasa#}¦ m. ({#-saH#}) The juice or infusion of a number of plants
+178368 new .{#sarvvOzaDirasa#}¦ m. ({#-saH#}) The juice or infusion of a number of plants
+; 03/06/2015 saSuka -> saSUka (typo)
+178587 old .{#saSuka#}¦ m. ({#-kaH#}) A believer, one who believes the existence of GOD,
+178587 new .{#saSUka#}¦ m. ({#-kaH#}) A believer, one who believes the existence of GOD,
+; 03/06/2015 sahagamin -> sahagAmin (typo)
+178703 old .{#sahagamin#}¦ mfn. ({#-mI-minI-mi#}) Going with, accompanying. f. ({#-nI#}) A
+178703 new .{#sahagAmin#}¦ mfn. ({#-mI-minI-mi#}) Going with, accompanying. f. ({#-nI#}) A
+; 03/06/2015 sahasrapAw -> sahasrapAd (final w/d confusion)
+178878 old .{#sahasrapAw#}¦ m. ({#-t#} or -{#w#}) BRAHMA4.
+178878 new .{#sahasrapAd#}¦ m. ({#-t#} or -{#d#}) BRAHMA4.
+178879 old .E. {#sahasra#} a thousand, and {#pAw#} for {#pAda#} a foot.
+178879 new .E. {#sahasra#} a thousand, and {#pAd#} for {#pAda#} a foot.
+; 03/06/2015 sahArogGa -> sahArogya (print error)
+178965 old .{#sahArogGa#}¦ mfn. ({#-gyaH-gyA-gyaM#}) Well, convalescent.
+178965 new .{#sahArogya#}¦ mfn. ({#-gyaH-gyA-gyaM#}) Well, convalescent.
+; 03/06/2015 sAmbavI -> sAmBavI (typo)
+179968 old .{#sAmbavI#}¦ f. ({#-vI#}) Red {%Lodh.%}
+179968 new .{#sAmBavI#}¦ f. ({#-vI#}) Red {%Lodh.%}
+; 03/06/2015 sAlaBiYjikA -> sAlaBaYjikA (typo)
+180345 old .{#sAlaBiYjikA#}¦ f. ({#-kA#}) A doll, a puppet.
+180345 new .{#sAlaBaYjikA#}¦ f. ({#-kA#}) A doll, a puppet.
+; 03/06/2015 sudusmaha -> sudussaha (typo, m/s confusion)
+182108 old .{#sudusmaha#}¦ mfn. ({#-haH-hA-haM#}) Very difficult to be endured.
+182108 new .{#sudussaha#}¦ mfn. ({#-haH-hA-haM#}) Very difficult to be endured.
+182109 old .E. {#su#} very, {#dusmaha#} unendurable.
+182109 new .E. {#su#} very, {#dussaha#} unendurable.
+; 03/06/2015 sodaryyaM -> sodaryya (typo)
+184876 old .{#sodaryyaM#}¦ m. ({#-ryyaH#}) A brother of whole blood.
+184876 new .{#sodaryya#}¦ m. ({#-ryyaH#}) A brother of whole blood.
+; 03/06/2015 sOKasuprika -> sOKasuptika (typo)
+185117 old .{#sOKasuprika#}¦ m. ({#-kaH#}) A bard, a minstrel, one whose duty it is to
+185117 new .{#sOKasuptika#}¦ m. ({#-kaH#}) A bard, a minstrel, one whose duty it is to
+; 03/06/2015 kuwnala -> kudmala (typo) (not hw)
+185672 old .E. {#stana,#} and {#kuwnala#} a bud.
+185672 new .E. {#stana,#} and {#kudmala#} a bud.
+; 03/06/2015 sparSamaRipramava -> sparSamaRipraBava (typo)
+187149 old .{#sparSamaRipramava#}¦ n. ({#-vaM#}) Gold.
+187149 new .{#sparSamaRipraBava#}¦ n. ({#-vaM#}) Gold.
+; 03/06/2015 svatvaboGana -> svatvaboDana (D/G confusion)
+188225 old .{#svatvaboGana#}¦ n. ({#-naM#}) Indication or proof of ownership.
+188225 new .{#svatvaboDana#}¦ n. ({#-naM#}) Indication or proof of ownership.
+; 03/06/2015 svedaCiw -> svedaCid (final w/d confusion)
+189282 old .{#svedaCiw#}¦ mfn. ({#-Cit#}) Cooling, allaying perspiration.
+189282 new .{#svedaCid#}¦ mfn. ({#-Cit#}) Cooling, allaying perspiration.
+189283 old .E. {#sveda,#} and {#Ciw#} what cuts.
+189283 new .E. {#sveda,#} and {#Cid#} what cuts.
+; 03/06/2015 uYBita -> uYJita (typo) (not hw)
+189306 old .E. {#sveda#} perspiration, {#mala#} excrement, {#uYBita#} abandoned, and
+189306 new .E. {#sveda#} perspiration, {#mala#} excrement, {#uYJita#} abandoned, and
+; 03/06/2015 haqquja -> haqqaja (typo)
+189533 old .{#haqquja#}¦ n. ({#-jaM#}) The marrow of the bones.
+189533 new .{#haqqaja#}¦ n. ({#-jaM#}) The marrow of the bones.
+; 03/06/2015 huhu -> huhU (typo)
+191511 old .{#huhu#}¦ m. ({#-huH#}) A {%Gandharba%} or chorister of heaven.
+191511 new .{#huhU#}¦ m. ({#-hUH#}) A {%Gandharba%} or chorister of heaven.
+; 03/06/2015 heqavukka -> heqAvukka (typo)
+191817 old .{#heqavukka#}¦ m. ({#-kkaH#}) A horse-dealer.
+191817 new .{#heqAvukka#}¦ m. ({#-kkaH#}) A horse-dealer.
+; 03/06/2015 helAvukva -> helAvukka (print erro)
+192014 old .{#helAvukva#}¦ m. ({#-kkaH#}) A horse-dealer.
+192014 new .{#helAvukka#}¦ m. ({#-kkaH#}) A horse-dealer.
+; 03/06/2015 homAgri -> homAgni (print error)
+192139 old .{#homAgri#}¦ m. ({#-griH#}) Sacrificial fire.
+192139 new .{#homAgni#}¦ m. ({#-gniH#}) Sacrificial fire.
+192140 old .E. {#homa#} an oblation, and {#agri#} fire.
+192140 new .E. {#homa#} an oblation, and {#agni#} fire.
+; 03/06/2015 hlIkf -> hlIku (typo) (duplicate)
+;192390 old .{#hlIkf#}¦ mfn. ({#-kuH-kuH-ku#}) Ashamed, modest. m. ({#-kuH#})
+;192390 new .{#hlIku#}¦ mfn. ({#-kuH-kuH-ku#}) Ashamed, modest. m. ({#-kuH#})

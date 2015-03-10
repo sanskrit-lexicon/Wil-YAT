@@ -1,0 +1,997 @@
+case 001: agnikrIqA:1044,1046 =aA2 agnikrIqa->agnikrIqA:413,413
+data/wil.txt
+001044 old .{#agnikrIqA#}¦ f. ({#-qA#}) Illuminations, fireworks, &c.
+001045 old .E. {#agni#} and {#krIqA#} play
+001046 old 
+
+data/yat.txt
+000413 old <HI>{#agni.krIqa (qA)#}¦ 1. {%f.%} Fireworks.
+
+------------------------------------------------------------------------
+
+case 002: agnidIpta:1100,1104 =aA1 agnidIptA:437,438 NO CHANGE
+data/wil.txt
+001100 old .{#agnidIpta#}¦ mfn. ({#-ptaH-ptA-ptaM#})
+001101 old .²1 Blazing, on fire.
+001102 old .²2 Digestive. f. ({#-ptA#}) The name of a plant.
+001103 old .E. {#agni#} and {#dIpta#} inflamed.
+001104 old 
+
+data/yat.txt
+000437 old <HI>{#agni.dIptA (ptA)#}¦ 1. {%f.%} The name of a
+000438 old <>plant; {%a.%} Blazing; digestive.
+
+------------------------------------------------------------------------
+
+case 003: agnideva:1105,1110 =aA1 agnidevA:440,440 NO CHANGE
+data/wil.txt
+001105 old .{#agnideva#}¦ m. ({#-vaH#})
+001106 old .²1 AGNI, the god of fire.
+001107 old .²2 A worshipper of fire. f. ({#-vA#}) A name of the third lunar mansion,
+001108 old identified with the Pleiades: AGNI being the ruling deity of the constellation,
+001109 old Also {#agnidevatA.#}
+001110 old 
+
+data/yat.txt
+000440 old <HI>{#agni.devA (vA)#}¦ 1. {%f.%} The Pleiades.
+
+------------------------------------------------------------------------
+
+case 004: aticara:2952,2955 =aA1 aticarA:1063,1064 NO CHANGE
+data/wil.txt
+002952 old .{#aticara#}¦ mfn. ({#-raH-rA-rI-raM#}) Going over or beyond, lit. or fig. f.
+002953 old ({#-rA#}) A plant, (Hibiscus mutabilis.) See {#padmacAriRI.#}
+002954 old .E. {#aticara#} to go beyond, {#ac#} and {#wAp#} affs.
+002955 old 
+
+data/yat.txt
+001063 old <HI>{#aticarA (rA)#}¦ {%f.%} A plant (Hibiscus
+001064 old <>mutabilis).
+
+------------------------------------------------------------------------
+
+case 005: ativiza:3218,3222 =aA1 ativizA:1123,1124 NO CHANGE
+data/wil.txt
+003218 old .{#ativiza#}¦ mfn. ({#-zaH-zA-zaM#}) Antidote, exceeding or subduing poison. f.
+003219 old ({#-zA#}) A tree used in medicine, the bark is also employed in dyeing; it is of
+003220 old three kinds; white, red, and black. (Atis or Betula.)
+003221 old .E. {#ati#} overcoming, and {#viza#} poison.
+003222 old 
+
+data/yat.txt
+001123 old <HI>{#ati.vizA (zA)#}¦ 1. {%f.%} A tree used in
+001124 old <>medicine and dyeing (Atis).
+
+------------------------------------------------------------------------
+
+case 006: aDivAsitA:4308,4311 =aA2 aDivAsita:1434,1434 NO CHANGE
+data/wil.txt
+004308 old .{#aDivAsitA#}¦ f. ({#-tA#}) Residence, staying or abiding in one place.
+004309 old .E. {#aDivAsa,#} with {#tA#} affix, and {#iwa#} augment; also with {#tva,
+004310 old aDivAsitvaM.#}
+004311 old 
+
+data/yat.txt
+001434 old <HI>{#aDi.vAsita (taH-tA-taM)#}¦ {%par.%} Scented.
+
+------------------------------------------------------------------------
+
+case 007: ananyapUrvva:4998,5003 =aA1 ananyapUrvvA:1670,1672 NO CHANGE
+data/wil.txt
+004998 old .{#ananyapUrvva#}¦ mfn. ({#-rvvaH-rvvA-rvvaM#}) Intact, virgin, never in the
+004999 old prior possession of another. f. ({#-rbvA#}) A virgin, a girl not previously
+005000 old wedded.
+005001 old .E. {#an#} neg. {#anya#} another, {#pUrvva#} prior; also with {#kan#} added
+005002 old {#ananyapUrzvaka.#}
+005003 old 
+
+data/yat.txt
+001670 old <HI>{#ananya.pUrvvA (vvA)#}¦ 1. {%f.%} A virgin; one
+001671 old <>never possessed or enjoyed be-
+001672 old <>fore by another.
+
+------------------------------------------------------------------------
+
+case 008: anapekza:5080,5083 =aA1 anapekzA:1688,1688 NO CHANGE
+data/wil.txt
+005080 old .{#anapekza#}¦ mfn. ({#-kzaH-kzA-kzaM#}) Disregarding, unheeding. f. ({#kzA#})
+005081 old Carelessness, indifference, disregard.
+005082 old .E. {#ana#} neg. {#apekzA#} regard.
+005083 old 
+
+data/yat.txt
+001688 old <HI>{#ana\pekzA (kzA)#}¦ 1. {%f.%} Carelessness.
+
+------------------------------------------------------------------------
+
+case 009: anAkrAnta:5299,5302 =aA1 anAkrAntA:1765,1766 NO CHANGE
+data/wil.txt
+005299 old .{#anAkrAnta#}¦ mfn. ({#-ntaH-ntA-ntaM#}) Unsurpassed, unsubdued. f. ({#-ntA#})
+005300 old A sort of prickly nightshade, (Solanum jacquini. WILD.) See {#kaRWakArI.#}
+005301 old .E. {#an#} neg. {#AkrAnta#} surpassed.
+005302 old 
+
+data/yat.txt
+001765 old <HI>{#anA\krAntA (ntA)#}¦ 1. {%f.%} Kind of prickly
+001766 old <>nightshade (Solanum jaquini).
+
+------------------------------------------------------------------------
+
+case 010: apatrapa:8265,8271 =aA1 apatrapA:2583,2583 NO CHANGE
+data/wil.txt
+008265 old .{#apatrapa#}¦ mfn. ({#-paH-pA-paM#})
+008266 old .²1 Bashful, modest.
+008267 old .²2 Immodest. f. ({#-pA#})
+008268 old .²1 Bashfulness.
+008269 old .²2 Want of shame, immodesty.
+008270 old .E. {#apa,#} and {#trapA#} shame.
+008271 old 
+
+data/yat.txt
+002583 old <HI>{#apa.trapA (pA)#}¦ 1. {%f.%} Bashfulness.
+
+------------------------------------------------------------------------
+
+case 011: apucCa:9244,9247 =aA1 apucCA:2869,2870 NO CHANGE
+data/wil.txt
+009244 old .{#apucCa#}¦ mfn. ({#-cCaH-cCA-cCaM#}) Tailless. f. ({#-cCA#}) A tree,
+009245 old (Dalbergia sisu.) See {#SiMSapA.#}
+009246 old .E. {#a#} neg. {#pucCa#} a tail.
+009247 old 
+
+data/yat.txt
+002869 old <HI>{#a.pucCA (cCA)#}¦ {%f.%} A tree (Dalbergia
+002870 old <>Sisu). {%a.%} ({#CaH-CA-CaM#}) Tailless. [Page038-a+ 38]
+
+------------------------------------------------------------------------
+
+case 012: amAvAsya:11931,11933 =aA1 amAvAsyA:3612,3612 NO CHANGE
+data/wil.txt
+011931 old .{#amAvAsya#}¦ mfn. ({#-syaH-syA-syaM#}) Produced in the day of new moon.
+011932 old .E. {#amAvAsyA#} and {#a#} aff.
+011933 old 
+
+data/yat.txt
+003612 old <HI>{#amAvAsyA (syA)#}¦ 1. {%f. Idem.%}
+
+------------------------------------------------------------------------
+
+case 013: arcA:13522,13526 =aA2 arca:4073,4073 NO CHANGE
+data/wil.txt
+013522 old .{#arcA#}¦ f. ({#-rcA#})
+013523 old .²1 Worship, see {#arcanA.#}
+013524 old .²2 An image.
+013525 old .E. {#arca#} to worship, {#ac#} affix, and {#wAp#} fem. do.
+013526 old 
+
+data/yat.txt
+004073 old <HI>{#arca (Ya) arcayati te#}¦ 10. {%c. Idem.%}
+
+------------------------------------------------------------------------
+
+case 014: arTanA:13698,13700 =aA2 arTana:4126,4126 NO CHANGE
+data/wil.txt
+013698 old .{#arTanA#}¦ f. ({#-nA#}) Begging, asking.
+013699 old .E. {#arTa#} to ask, and {#yuc#} aff.
+013700 old 
+
+data/yat.txt
+004126 old <HI>{#arTana (naM)#}¦ 1. {%n.%} Asking.
+
+------------------------------------------------------------------------
+
+case 015: alpavidya:14781,14783 =aA1 alpavidyA->alpavidya:4453,4453
+data/wil.txt
+014781 old .{#alpavidya#}¦ mfn. ({#-dyaH-dyA-dyaM#}) Ill taught, uneducated, ignorant.
+014782 old .E. {#alpa#} and {#vidyA#} knowledge.
+014783 old 
+
+data/yat.txt
+004453 old <HI>{#alpa.vidyA (dyaH-dyA-dyaM)#}¦ {%a.%} Ill taught.
+
+------------------------------------------------------------------------
+
+case 016: ahahA:20022,20023 =aA2 ahaha:6047,6047 NO CHANGE
+data/wil.txt
+020022 old .{#ahahA#}¦ {%ind.%} See the preceding.
+020023 old 
+
+data/yat.txt
+006047 old <HI>{#ahaha#}¦ --{%ind.%} Oh, aha.
+
+------------------------------------------------------------------------
+
+case 017: Avarttaka->AvarttakA:24363,24371 =aA1 AvarttakA:7513,7514
+data/wil.txt
+024363 old .{#Avarttaka#}¦ f. ({#-kA#})
+024364 old .²1 A revolution, a whirl.
+024365 old .²2 A whirlpool.
+024366 old .²3 A curl of hair, especially on a horse.
+024367 old .²4 Revolution of the mind from the influence of the senses.
+024368 old .²5 The depression above the frontal ridge or over the eyebrows. f. ({#-kI#})
+024369 old The name of a creeping plant.
+024370 old .E. {#kana#} added to the last.
+024371 old 
+
+data/yat.txt
+007513 old <HI>{#A.varttakA (kA)#}¦ {%Idem.%} ({#kI#}) 3. {%f.%} The
+007514 old <>name of a creeping plant.
+
+------------------------------------------------------------------------
+
+case 018: upajYA:30961,30964 =aA2 upajYa:9601,9602 NO CHANGE
+data/wil.txt
+030961 old .{#upajYA#}¦ f. ({#-jYA#}) Untaught knowledge.
+030962 old .E. {#upa#} near, with {#jYA#} knowledge, from {#jYA#} to know, {#aN,#} and
+030963 old {#wAp#} affs.
+030964 old 
+
+data/yat.txt
+009601 old <HI>{#upajYa (jYaH-jYA-jYaM)#}¦ {%a.%} Knowing, skil-
+009602 old <>led in; designed.
+
+------------------------------------------------------------------------
+
+case 019: ekadA:34352,34354 =aA2 ekada:10669,10669
+data/wil.txt
+034352 old .{#ekadA#}¦ {%ind.%} At the same time, at once.
+034353 old .E. {#eka#} and {#dAc#} aff.
+034354 old 
+
+data/yat.txt
+010669 old <HI>{#ekada#}¦ {%ind.%} In one place, together.
+
+------------------------------------------------------------------------
+
+case 020: kaSeruka:40939,40942 =aA1 kaSerukA:13055,13055 NO CHANGE
+data/wil.txt
+040939 old .{#kaSeruka#}¦ f. ({#-kA#}) The back bone. n. ({#-kaM#}) A sort of grass,
+040940 old (Scirpus kysoor.)
+040941 old .E. {#kan#} added to the preceding.
+040942 old 
+
+data/yat.txt
+013055 old <HI>{#kaSerukA (kA)#}¦ 1. {%f.%} The back bone.
+
+------------------------------------------------------------------------
+
+case 021: kArpAsika:42851,42854 =aA1 kArpAsikA:13727,13727
+data/wil.txt
+042851 old .{#kArpAsika#}¦ mfn. ({#-kaH-kI-kaM#}) Made of or from cotton. f. ({#-kA#}) The
+042852 old cotton plant: see {#kArpAsa.#}
+042853 old .E. {#kAryAsa,#} and {#WaY#} affix; or {#kArppAsa#} with {#kan.#}
+042854 old 
+
+data/yat.txt
+013727 old <HI>{#kArpAsikA (kAH)#}¦ 1. {%f.%} The cotton plant.
+
+------------------------------------------------------------------------
+
+case 022: kuqyacCedyA->kuqyacCedya:45292,45294 =aA2 kuqyacCedya:14623,14624
+data/wil.txt
+045292 old .{#kuqyacCedyA#}¦ n. ({#-dyaM#}) An opening, a hole in a wall, a breach.
+045293 old .E. {#kuqya#} a wall, and {#Cewwya#} to be broken.
+045294 old 
+
+data/yat.txt
+014623 old <HI>{#kuqya.cCedya (dyaM)#}¦ 1. {%n.%} An opening;
+014624 old <>a hole in a wall.
+
+------------------------------------------------------------------------
+
+case 023: kuliSANkuSa->kuliSANkuSA:46589,46591 =aA1 kuliSANkuSA:15120,15121
+data/wil.txt
+046589 old .{#kuliSANkuSa#}¦ f. ({#-SA#}) A kind of female deity.
+046590 old .E. {#kuliSa#} the thunderbolt, and {#aNkuSa#} a goad.
+046591 old 
+
+data/yat.txt
+015120 old <HI>{#kuliSA.NkuSA (SA)#}¦ 1. {%f.%} A kind of ter-
+015121 old <>rific female deity.
+
+------------------------------------------------------------------------
+
+case 024: kfttikA:48260,48266 =aA2 kfttika:15772,15774 NO CHANGE
+data/wil.txt
+048260 old .{#kfttikA#}¦ f. ({#-kA#})
+048261 old .²1 The third of the lunar mansions, or constellations in the moon's path,
+048262 old consisting of six stars, and corresponding to the Pleiades.
+048263 old .²2 (In mythology,) a nymph; one of six, the nurses of KA4RTIKE4YA.
+048264 old .E. {#kfta#} to cut, {#ktin#} and {#kan#} affixes; the figure of the asterism is
+048265 old a razor or knife.
+048266 old 
+
+data/yat.txt
+015772 old <HI>{#kfttika (kaH-kI-kaM)#}¦ {%a.%} Cutting, injured.
+015773 old <>({#kA#}) 1. {%f.%} The third of the lunar
+015774 old <>mansions; a nymph.
+
+------------------------------------------------------------------------
+
+case 025: klItakika->klItakikA:51467,51470 =aA1 klItakikA:16977,16978
+data/wil.txt
+051467 old .{#klItakika#}¦ f. ({#-kA#}) The indigo plant, (Indigofera Indica.)
+051468 old .E. {#krItaka#} traffic, {#kan#} pleonastic, the fem. form; {#ra#} is changed to
+051469 old {#la.#}
+051470 old 
+
+data/yat.txt
+016977 old <HI>{#klItakikA (kA)#}¦ 1. {%f.%} The Indigo
+016978 old <>plant (Indigofera indica).
+
+------------------------------------------------------------------------
+
+case 026: kzudrapatrA:52689,52691 =aA2 kzudrapatra->kzudrapatrA:17431,17431
+data/wil.txt
+052689 old .{#kzudrapatrA#}¦ f. ({#-trA#}) Wood-sorrel, (Oxalis monadelpha.)
+052690 old .E. {#kzudra,#} and {#patra#} a leaf, small-leaved.
+052691 old 
+
+data/yat.txt
+017431 old <HI>{#kzudra.patra (trA)#}¦ 1. {%f.%} Wood-sorrel.
+
+------------------------------------------------------------------------
+
+case 027: KaRqakaTA:53568,53570 =aA2 KaRqakaTa->KaRqakaTA:17758,17759
+data/wil.txt
+053568 old .{#KaRqakaTA#}¦ f. ({#-TA#}) A tale or story divided into sections.
+053569 old .E. {#KaRqa#} a section, and {#kaTA#} a story.
+053570 old 
+
+data/yat.txt
+017758 old <HI>{#KaRqa.kaTa (TA)#}¦ 1. {%f.%} A tale or story
+017759 old <>divided into sections.
+
+------------------------------------------------------------------------
+
+case 028: gavAhnika:56753,56755 =aA1 gavAhnikA:18960,18961 NO CHANGE
+data/wil.txt
+056753 old .{#gavAhnika#}¦ n. ({#-kaM#}) A day's feed for a cow.
+056754 old .E. {#go,#} and {#ahnika#} daily.
+056755 old 
+
+data/yat.txt
+018960 old <HI>{#gavA\hnikA (kA)#}¦ 1. {%f.%} Cow's food for
+018961 old <>a day, its daily allowance.
+
+------------------------------------------------------------------------
+
+case 029: grIzmaja:60607,60612 =aA1 grIzmajA:20299,20300 NO CHANGE
+data/wil.txt
+060607 old .{#grIzmaja#}¦ mfn. ({#-jaH-jA-jaM#})
+060608 old .²1 Produced by heat.
+060609 old .²2 Produced in the hot season. f. ({#-jA#}) A kind of fruit, (Annona
+060610 old reticulata.)
+060611 old .E. {#grIzma#} the hot season, and {#ja#} produced.
+060612 old 
+
+data/yat.txt
+020299 old <HI>{#grIzma.jA (jA)#}¦ 1. {%f.%} A fruit (Anona
+020300 old <>reticulata). {%a.%} Produced by heat.
+
+------------------------------------------------------------------------
+
+case 030: Gawana:60772,60778 =aA1 GawanA:20364,20365 NO CHANGE
+data/wil.txt
+060772 old .{#Gawana#}¦ nf. ({#-naM-nA#})
+060773 old .²1 Effort, exertion.
+060774 old .²2 Assembling, bringing together.
+060775 old .²3 Joining, mixing.
+060776 old .²4 Occurring.
+060777 old .E. {#Gawa#} to strive, &c. affix {#yuc.#}
+060778 old 
+
+data/yat.txt
+020364 old <HI>{#GawanA (nA-naM)#}¦ 1. {%f.%} Effort; assem-
+020365 old <>bling, joining, occurrence.
+
+------------------------------------------------------------------------
+
+case 031: GanajvAlA:60968,60970 =aA2 GanajvAla->GanajvAlA:20432,20432
+data/wil.txt
+060968 old .{#GanajvAlA#}¦ f. ({#-lA#}) Lightning, a flash of lightning.
+060969 old .E. {#Gana#} a cloud, and {#jvAlA#} flame.
+060970 old 
+
+data/yat.txt
+020432 old <HI>{#Gana.jvAla (lA)#}¦ 1. {%f.%} Lightning.
+
+------------------------------------------------------------------------
+
+case 032: GozaRa:61671,61675 =aA1 GozaRA:20686,20686 NO CHANGE?
+data/wil.txt
+061671 old .{#GozaRa#}¦ nf. ({#-RaM-RA#})
+061672 old .²1 Speaking loud, making a great noise.
+061673 old .²2 Crying, proclaiming.
+061674 old .E. {#Guza#} to sound, affixes {#yuc#} and {#wAp.#}
+061675 old 
+
+data/yat.txt
+020686 old <HI>{#GozaRA (RA-RaM)#}¦ 1. {%f. n.%} Speaking loud.
+
+------------------------------------------------------------------------
+
+case 033: cUlikA:65408,65413 =aA2 cUlika:22057,22059 NO CHANGE
+data/wil.txt
+065408 old .{#cUlikA#}¦ f. ({#-kA#})
+065409 old .²1 The root of an elephant's ear.
+065410 old .²2 The {%body%} of a {%drama,%} the inferior personages of the {%drama%}
+065411 old collectively. n. ({#-kaM#}) Flour cakes fried with {%ghee.%}
+065412 old .E. {#cUla#} to be or make high, affix {#Rvul.#}
+065413 old 
+
+data/yat.txt
+022057 old <HI>{#cUlika (kaM)#}¦ 1. {%n.%} Flour cakes fried
+022058 old <>with ghee. ({#kA#}) {%f.%} Root of an ele-
+022059 old <>phant's ear; body of a drama.
+
+------------------------------------------------------------------------
+
+case 034: dAkzikanTA:79588,79590 =aA2 dAkzikanTa->dAkzikanTA:27256,27257
+data/wil.txt
+079588 old .{#dAkzikanTA#}¦ f. ({#-nTA#}) A place in the north of {%India,%} in the
+079589 old country of {%Vahlika%} or {%Balkh:%} see {#kanTa.#}
+079590 old 
+
+data/yat.txt
+027256 old <HI>{#dAkzi.kanTa (nTA)#}¦ 1. {%f.%} A place in the
+027257 old <>north of {%India, Balkh.%}
+
+------------------------------------------------------------------------
+
+case 035: dArvvipatrikA:80054,80056 =aA2 dArvvipatrika->dArvvipatrikA:27429,27429
+data/wil.txt
+080054 old .{#dArvvipatrikA#}¦ f. ({#-kA#}) {%Gojihwa,%} a sort of wild potherb.
+080055 old .E. {#dArvvI#} Curcuma, {#patra#} a leaf, and {#ikan#} aff.
+080056 old 
+
+data/yat.txt
+027429 old <HI>{#dArvvi-patrika (kA)#}¦ 1. {%f.%} Sort of potherb.
+
+------------------------------------------------------------------------
+
+case 036: dIrGamUla:81177,81183 =aA1 dIrGamUlA->dIrGamUla:27840,27843
+data/wil.txt
+081177 old .{#dIrGamUla#}¦ mfn. ({#-laH-lA-lI-laM#}) Having a long root. m. ({#-laH#}) A
+081178 old kind of {%Bilwa%} tree. n. ({#-laM#}) A sort of sensitive plant. f. ({#-lA#})
+081179 old .²1 A creeper, (Echites frutescens:) see {#SyAmalatA.#}
+081180 old .²2 A plant, (Hedysarum gangeticum;) also {%Sa4lape4rni.%} f. ({#-lI#}) A plant,
+081181 old (Hedysarum alhagi.)
+081182 old .E. {#dIrGa#} long, {#mUla#} a root.
+081183 old 
+
+data/yat.txt
+027840 old <HI>{#dIrGa.mUlA (laH-lA-laM)#}¦ {%a.%} Having a
+027841 old <>long root. {%m.%} A {%Dilwa%} tree. {%f.%} A
+027842 old <>creeper (Echites frutescens). {%n.%}
+027843 old <>A sensitive plant. [Page367-a+ 38]
+
+------------------------------------------------------------------------
+
+case 037: durBagA:81986,81990 =aA2 durBaga:28140,28141 NO CHANGE
+data/wil.txt
+081986 old .{#durBagA#}¦ f. ({#-gA#})
+081987 old .²1 A wife not loved or liked by her husband.
+081988 old .²2 A bad or ill tempered woman.
+081989 old .E. {#dur#} little or ill, {#Baga#} affection.
+081990 old 
+
+data/yat.txt
+028140 old <HI>{#du.rBaga (gaH-gA-gaM)#}¦ {%a.%} Miserable. {%f.%} A
+028141 old <>wife not loved by her husband.
+
+------------------------------------------------------------------------
+
+case 038: dfQagAtrikA:82638,82640 =aA2 dfQagAtrika:28378,28379 NO CHANGE
+data/wil.txt
+082638 old .{#dfQagAtrikA#}¦ f. ({#-kA#}) Granulated sugar.
+082639 old .E. {#dfQa#} firm. {#gAtra#} substance, affix {#kan.#}
+082640 old 
+
+data/yat.txt
+028378 old <HI>{#dfQa.gAtrika (kaH-kA-kaM)#}¦ {%a.%} Firm-bo-
+028379 old <>died. {%f.%} ({#kA#}) Granulated sugar.
+
+------------------------------------------------------------------------
+
+case 039: dvijapriya:85177,85182 =aA1 dvijapriyA:29296,29297 NO CHANGE
+data/wil.txt
+085177 old .{#dvijapriya#}¦ mfn. ({#-yaH-yA-yaM#}) Acceptable or friendly to a man of the
+085178 old three first classes, or a {%Brahman%} especially. f. ({#-yA#}) The moonplant,
+085179 old (Asclepias acida.)
+085180 old .E. {#dvija#} a {%Brahman,%} and {#priya#} beloved, the acid juice being drank
+085181 old at certain sacrifices.
+085182 old 
+
+data/yat.txt
+029296 old <HI>{#dvija.priyA (yA)#}¦ 1. {%f.%} The moon plant
+029297 old <>(Asclepias acida).
+
+------------------------------------------------------------------------
+
+case 040: dvivarza:85492,85495 =aA1 dvivarzA:29411,29412 NO CHANGE
+data/wil.txt
+085492 old .{#dvivarza#}¦ mfn. ({#-rzaH-rzI-rzaM#}) Two years old, &c. ({#-rzA#}) A cow two
+085493 old years old.
+085494 old .E. {#dvi#} two, {#varza#} a year.
+085495 old 
+
+data/yat.txt
+029411 old <HI>{#dvi.varzA (rzA)#}¦ 1. {%f.%} A cow two years
+029412 old <>old. ({#zaH-zA-zaM#}) {%a.%} Two years old.
+
+------------------------------------------------------------------------
+
+case 041: DanatfzRa->DanatfzRA:85880,85882 =aA1 DanatfzRA:29549,29549
+data/wil.txt
+085880 old .{#DanatfzRa#}¦ f. ({#-zRA#}) Covetousness.
+085881 old .E. {#Dana,#} and {#tfzRA#} thirst.
+085882 old 
+
+data/yat.txt
+029549 old <HI>{#Dana.tfzRA (zRA)#}¦ 1. {%f.%} Covetousness.
+
+------------------------------------------------------------------------
+
+case 042: DanurguRa:86065,86068 =aA1 DanurguRA:29612,29613 NO CHANGE
+data/wil.txt
+086065 old .{#DanurguRa#}¦ mf. ({#-RaH-RA#}) A bow string. f. ({#-RA#}) A plant, from
+086066 old which bow strings are made: see the two last.
+086067 old .E. {#Danus#} a bow, and {#guRa#} a string.
+086068 old 
+
+data/yat.txt
+029612 old <HI>{#Danu.rguRA (RA)#}¦ 1. {%f. Idem.%} ({#RaH-RA#})
+029613 old <>A bow-string.
+
+------------------------------------------------------------------------
+
+case 043: DayA->Daya:86233,86236 =aA2 Daya:29674,29675
+data/wil.txt
+086233 old .{#DayA#}¦ mfn. ({#-yaH-yA-yI-yaM#}) Who or what drinks. f. ({#-yA#}) A little
+086234 old girl, female infant.
+086235 old .E. {#Ge#} to drink, affix {#Sa.#}
+086236 old 
+
+data/yat.txt
+029674 old <HI>{#Daya (yaH-yA-yA-yaM)#}¦ {%a.%} Drinking. {%f.%} A
+029675 old <>little girl, or infant.
+
+------------------------------------------------------------------------
+
+case 044: DUlikA:87819,87821 =aA2 DUlika->DUlikA:30248,30248
+data/wil.txt
+087819 old .{#DUlikA#}¦ f. ({#-kA#}) Fog or mist.
+087820 old .E. {#Dali#} dust, {#kan#} affix of resemblance; the dust of the atmosphere.
+087821 old 
+
+data/yat.txt
+030248 old <HI>{#DUlika (kA)#}¦ 1. {%f.%} Fog or mist.
+
+------------------------------------------------------------------------
+
+case 045: navagrahA->navagraha:89836,89839 =aA2 navagraha:30939,30940
+data/wil.txt
+089836 old .{#navagrahA#}¦ m. {%plu.%} ({#-hAH#}) The nine planets, or sun, moon, five
+089837 old planets, and the ascending and descending nodes.
+089838 old .E. {#nava#} for {#navan,#} and {#graha#} a planet.
+089839 old 
+
+data/yat.txt
+030939 old <HI>{#nava.graha (hAH)#}¦ 1. {%m. plu.%} Sun, moon,
+030940 old <>five planets and the nodes.
+
+------------------------------------------------------------------------
+
+case 046: navaDA:89879,89881 =aA2 navaDa->navaDA:30957,30957
+data/wil.txt
+089879 old .{#navaDA#}¦ {%ind.%} Nine-fold, in nine ways.
+089880 old .E. {#nava#} nine, and {#DA#} aff.
+089881 old 
+
+data/yat.txt
+030957 old <HI>{#navaDa#}¦ {%adv.%} Nine-fold. [Page408-a+ 38]
+
+------------------------------------------------------------------------
+
+case 047: nipatya:92080,92084 =aA1 nipatyA:31737,31737  NO CHANGE
+data/wil.txt
+092080 old .{#nipatya#}¦ {%ind.%}
+092081 old .²1 Having fallen down, prostrate.
+092082 old .²2 Having alighted.
+092083 old .E. {#ni#} before {#pata#} to fall, {#lyap#} aff.
+092084 old 
+
+data/yat.txt
+031737 old <HI>{#ni.patyA (tyA)#}¦ 1. {%f.%} Field of battle; mud.
+
+------------------------------------------------------------------------
+
+case 048: pAkamatsyA0>pAkamatsya:102667,102669 =aA2 pAkamatsya:35389,35389
+data/wil.txt  
+102667 old .{#pAkamatsyA#}¦ m. ({#-tsyAH#}) Fish sauce.
+102668 old .E. {#pAka#} cooking, {#matsyA#} fish.
+102669 old 
+
+data/yat.txt
+035389 old <HI>{#pAka.matsya (tsyaH)#}¦ 1. {%m.%} Fish sauce.
+
+------------------------------------------------------------------------
+
+case 049: pUrvvottara:108356,108358 =aA1 pUrvvottarA:37499,37499  NO CHANGE
+data/wil.txt
+108356 old .{#pUrvvottara#}¦ nf. ({#-raM-rA#}) The north-east.
+108357 old .E. {#pUrvva#} east, and {#uttara#} north.
+108358 old 
+
+data/yat.txt
+037499 old <HI>{#pUrvvo.ttarA (rA)#}¦ 1. {%f.%} The north-east.
+
+------------------------------------------------------------------------
+
+case 050: prARaprada:115467,115469 =aA1 prARapradA:39902,39902 NO CHANGE
+data/wil.txt
+115467 old .{#prARaprada#}¦ mfn. ({#-daH-dA-daM#}) Saving life, when in imminent danger.
+115468 old .E. {#prARa,#} and {#prada#} who or what gives.
+115469 old 
+
+data/yat.txt
+039902 old <HI>{#prARa.pradA (dA)#}¦ 1. {%f.%} A medicinal plant.
+
+------------------------------------------------------------------------
+
+case 051: prArTana:115937,115939 =aA1 prArTanA:40064,40064 NO CHANGE
+data/wil.txt
+115937 old .{#prArTana#}¦ nf. ({#-naM-nA#}) Asking, begging.
+115938 old .E. {#pra#} before {#arTa#} to ask, aff. {#yuc.#}
+115939 old 
+
+data/yat.txt
+040064 old <HI>{#prArTanA (nA)#}¦ 1. {%f.%} Asking, prayer.
+
+------------------------------------------------------------------------
+
+case 052: Barva:120894,120895 =aA1 BarvA->Barv:41835,41835 
+data/wil.txt
+120894 old .{#Barva#}¦ r. 1st cl. ({#Barvati#}) To hurt, to injure.
+120895 old 
+
+data/yat.txt  
+041835 old <HI>{#BarvA Barvati#}¦ 1. {%a.%} To hurt.
+
+------------------------------------------------------------------------
+
+case 053: BUmisamBava:122972,122975 =aA1 BUmisamBavA:42553,42553 NO CHANGE
+data/wil.txt
+122972 old .{#BUmisamBava#}¦ mfn. ({#-vaH-vA-vaM#}) Produced in or of the earth. f.
+122973 old ({#-vA#}) SI4TA4.
+122974 old .E. {#BUmi#} the earth, and {#samBava#} born: see {#BUputtrI.#}
+122975 old 
+
+data/yat.txt
+042553 old <HI>{#BUmi.samBavA (vA)#}¦ 1. {%f.%} Wife of {%Ra4ma.%}
+
+------------------------------------------------------------------------
+
+case 054: matsyaganDa->matsyaganDA:124983,124988 =aA1 matsyaganDA:43257,43258
+data/wil.txt
+124983 old .{#matsyaganDa#}¦ f. ({#-nDA#})
+124984 old .²1 A plant, commonly {%La4ngali4ya;%} (the common name is applied to the Nama
+124985 old zeylanica, and the Commelina salicifolia.)
+124986 old .²2 The mother of the sacred poet VYA4SA: see {#matsyodarI.#}
+124987 old .E. {#matsya#} a fish, and {#ganDa#} smell.
+124988 old 
+
+data/yat.txt
+043257 old <HI>{#matsya.ganDA (nDA)#}¦ 1. {%f.%} A plant (Nama
+043258 old <>zeylanica) {%Vya4sa's%} mother.
+
+------------------------------------------------------------------------
+
+case 055: madodagrA->madodagra:125322,125325 =aA2 madodagra:43385,43385
+data/wil.txt
+125322 old .{#madodagrA#}¦ mfn. ({#-graH-grA-graM#}) Haughty, arrogant. f. ({#-grA#}) A
+125323 old woman in general.
+125324 old .E. {#mada,#} and {#udagra#} elevated.
+125325 old 
+
+data/yat.txt
+043385 old <HI>{#mado\dagra (graH-grA-graM)#}¦ {%a.%} Saucy. {%f.%} A woman.
+
+------------------------------------------------------------------------
+
+case 056: malizWa:127171,127175 =aA1 malizWA->malizWa:44022,44023
+data/wil.txt
+127171 old .{#malizWa#}¦ mfn. ({#-zWaH-zWA-zWaM#})
+127172 old .²1 Very foul or unclean.
+127173 old .²2 Very wicked. f. ({#-zWA#}) A woman during menstruation.
+127174 old .E. {#mala#} unclean, {#izWan#} aff. of the superlative.
+127175 old 
+
+data/yat.txt
+044022 old <HI>{#malizWA (zWaH-zWA-zWaM)#}¦ {%a.%} Very foul or vile.
+044023 old <>{%f.%} A woman during menstruation.
+
+------------------------------------------------------------------------
+
+case 057: mahASveta:128274,128280 =aA1 mahASvetA:44430,44431 NO CHANGE
+data/wil.txt
+128274 old .{#mahASveta#}¦ mfn. ({#-taH-tA-taM#}) Very white. f. ({#-tA#})
+128275 old .²1 A name of SARASWATI4.
+128276 old .²2 A white variety of the Convolvulus paniculatus.
+128277 old .²3 Clayed or candied sugar.
+128278 old .²4 A sort of Clitoria, (C. ternata, with white flowers.)
+128279 old .E. {#mahA#} much, and {#Sveta#} white.
+128280 old 
+
+data/yat.txt
+044430 old <HI>{#mahA.SvetA (tA)#}¦ 1. {%f. Saraswati4;%} white
+044431 old <>convolvulus; candied sugar.
+
+------------------------------------------------------------------------
+
+case 058: mahAsUkzma:128320,128323 =aA1 mahAsUkzmA:44446,44446 NO CHANGE
+data/wil.txt
+128320 old .{#mahAsUkzma#}¦ mfn. ({#-kzmaH-kzmA-kzmaM#}) Subtile, fine, minute. f.
+128321 old ({#-kzmA#}) Sand,
+128322 old .E. {#mahA#} very, {#sUkzma#} thin.
+128323 old 
+
+data/yat.txt
+044446 old <HI>{#mahA.sUkzmA (kzmA)#}¦ 1. {%f.%} Sand. {%a.%} Subtile.
+
+------------------------------------------------------------------------
+
+case 059: miTyApratijYa:130028,130031 =aA1 miTyApratijYA->miTyApratijYa:45029,45029
+data/wil.txt
+130028 old .{#miTyApratijYa#}¦ mfn. ({#-jYaH-jYA-jYaM#}) Treacherous, guilty of a
+130029 old breach of promise.
+130030 old .E. {#miTyA,#} and {#pratijYA#} promise.
+130031 old 
+
+data/yat.txt
+045029 old <HI>{#miTyA.prati.jYA (jYaH-jYA-jYaM)#}¦ {%a.%} Promising falsely.
+
+------------------------------------------------------------------------
+
+case 060: menakAtmaja->menakAtmajA:132414,132417 =aA1 menakAtmajA:45881,45881
+data/wil.txt
+132414 old .{#menakAtmaja#}¦ f. ({#-jA#}) DURGA4 or PA4RVATI4.
+132415 old .E. {#menakA#} the wife of the personified {%Hima4laya%} mountain, and
+132416 old {#AtmajA#} daughter.
+132417 old 
+
+data/yat.txt
+045881 old <HI>{#menakA\tmajA (jA)#}¦ 1. {%f. Durga4.%}
+
+------------------------------------------------------------------------
+
+case 061: raktajihva:135425,135427 =aA1 raktajihvA->raktajihva:46911,46911
+data/wil.txt
+135425 old .{#raktajihva#}¦ m. ({#-hvaH#}) A lion.
+135426 old .E. {#rakta#} red, and {#jihvA#} the tongue.
+135427 old 
+
+data/yat.txt
+046911 old <HI>{#rakta.jihvA (hvA)#}¦ 1. {%m.%} A lion. [Page618-a+ 38]
+
+------------------------------------------------------------------------
+
+case 062: vaSaga:145654,145657 =aA1 vaSagA:50486,50486 NO CHANGE
+data/wil.txt
+145654 old .{#vaSaga#}¦ mfn. ({#-gaH-gA-gaM#}) Obedient, subject. f. ({#-gA#}) An obedient
+145655 old wife.
+145656 old .E. {#vaSa#} subject, and {#ga#} who goes or is.
+145657 old 
+
+data/yat.txt
+050486 old <HI>{#vaSa.gA (gA)#}¦ 1. {%f.%} An obedient wife.
+
+------------------------------------------------------------------------
+
+case 063: vAntida:147427,147431 =aA1 vAntidA:51136,51136 NO CHANGE
+data/wil.txt
+147427 old .{#vAntida#}¦ mfn. ({#-daH-dA-daM#}) Emetic. f. ({#-dA#}) A medicinal plant,
+147428 old commonly {%Katiuki,%} (Wrightea antidysenterica; and Colotropis gigantea,
+147429 old BROWN.)
+147430 old .E. {#vAnti#} vomiting, and {#da#} what produces; an emetic.
+147431 old 
+
+data/yat.txt
+051136 old <HI>{#vAnti.dA (dA)#}¦ 1. {%f.%} A medical plant.
+
+------------------------------------------------------------------------
+
+case 064: vizRuvallaBa:155420,155425 =aA1 vizRuvallaBA:54056,54057 NO CHANGE
+data/wil.txt
+155420 old .{#vizRuvallaBa#}¦ mfn. ({#-BaH-BA-BaM#}) Beloved by VISHNU. f. ({#-BA#})
+155421 old .²1 A plant, (Echites caryophyallata.)
+155422 old .²2 A small fragrant shrub, (Ocymum sanctum.)
+155423 old .²3 LAKSHMI.
+155424 old .E. {#vizRu#} VISHN'U, and {#vallaBa#} the beloved.
+155425 old 
+
+data/yat.txt
+054056 old <HI>{#vizRu.vallaBA (BaH-BA-BaM)#}¦ 1. {%f.%} A plant
+054057 old <>{%(Echites.) a.%} Beloved by {%Vishnu.%}
+
+------------------------------------------------------------------------
+
+case 065: SivajYa:165639,165643 =aA1 SivajYA:58085,58085 NO CHANGE
+data/wil.txt
+165639 old .{#SivajYa#}¦ mfn. ({#-jYaH-jYA-jYaM#})
+165640 old .²1 Knowing what is good or propitious.
+165641 old .²2 Worshipping S'IVA. f. ({#-jYA#}) A female devotee of the {%Saiva%} sect.
+165642 old .E. {#Siva#} S'IVA, and {#jYA#} to know, {#aN#} and {#wAp#} affs.
+165643 old 
+
+data/yat.txt
+058085 old <HI>{#Siva.jYA (jYA)#}¦ 1. {%f.%} A female devotee to {%Shiva.%}
+
+------------------------------------------------------------------------
+
+case 066: Sukrala:166459,166463 =aA1 SukralA:58415,58415 NO CHANGE
+data/wil.txt
+166459 old .{#Sukrala#}¦ mfn. ({#-laH-lA-laM#}) Spermatic, augmenting the seminal
+166460 old secretion. f. ({#-lA#}) A fragrant grass, considered by some as a sort of
+166461 old Cyperus, and by others, Zedoary.
+166462 old .E. {#Sukra#} semen, and {#lac#} aff., or {#lA#} to get or give, aff. {#ka.#}
+166463 old 
+
+data/yat.txt
+058415 old <HI>{#SukralA (lA)#}¦ 1. {%f.%} A fragrant grass. {%a.%} Spermatic.
+
+------------------------------------------------------------------------
+
+case 067: SuBAcAra:166890,166893 =aA1 SuBAcArA:58590,58591 NO CHANGE
+data/wil.txt
+166890 old .{#SuBAcAra#}¦ mfn. ({#-raH-rA-raM#}) Virtuous. f. ({#-rA#}) A female attendant
+166891 old on UMA4.
+166892 old .E. {#SuBa,#} and {#AcAra#} observance.
+166893 old 
+
+data/yat.txt
+058590 old <HI>{#SuBA\cArA (rA)#}¦ 1. {%f.%} A female at-
+058591 old <>tendant on {%Durga4. a.%} Virtuous.
+
+------------------------------------------------------------------------
+
+case 068: SravizWa:168734,168740 =aA1 SravizWA:59346,59348 NO CHANGE
+data/wil.txt
+168734 old .{#SravizWa#}¦ mfn. ({#-zWaH-zWA-zWaM#}) Produced in or under the sign
+168735 old S'RAVISHT'A4. f. ({#-zWA#}) The twenty-fourth lunar asterism, also called
+168736 old D'HANI4SHT'HA4, corresponding to the DOLPHIN.
+168737 old .E. {#Srava#} an ear, {#matup#} poss. aff., {#izWan#} aff. of the superlative,
+168738 old and the possessive rejected; the attributive is formed by the aff. {#aRa,#} and
+168739 old that again or its effect optionally rejected.
+168740 old 
+
+data/yat.txt
+059346 old <HI>{#SravizWA (zWA)#}¦ 1. {%f.%} The 24th lunar as-
+059347 old <>terism, {%Shravishtha4. a.%} Produc-
+059348 old <>ed under the above sign.
+
+------------------------------------------------------------------------
+
+case 069: SlezmaGna:169575,169579 =aA1 SlezmaGnA:59677,59679 NO CHANGE
+data/wil.txt
+169575 old .{#SlezmaGna#}¦ mfn. ({#-GnaH-GnI-GnaM#}) Removing phlegm. f. ({#-GnA#})
+169576 old .²1 {%Arabian%} jasmine.
+169577 old .²2 A flower, (Pandanus odoratissimus.) f. ({#-GnI#}) Hogweed.
+169578 old .E. {#Slezma#} phlegm, and {#Gna#} removing, fem. aff. {#wAp#} or {#NIp.#}
+169579 old 
+
+data/yat.txt
+059677 old <HI>{#Slezma.GnA (GnA)#}¦ 1. {%f.%} Arabian jasmine.
+059678 old <>{%f.%} ({#I#}) Hog-weed. {%a.%} Removing
+059679 old <>phlegm.
+
+------------------------------------------------------------------------
+
+case 070: zaqBuja:170251,170254 =aA1 zaqBujA:59957,59958 NO CHANGE
+data/wil.txt
+170251 old .{#zaqBuja#}¦ mfn. ({#-jaH-jA-jaM#}) Six-armed, six-sided. m. ({#-jaH#}) A
+170252 old hexagon. f. ({#-jA#}) The water-melon.
+170253 old .E. {#zaz#} six, {#Buja#} an arm or branch, &c., aff. {#wAp.#}
+170254 old 
+
+data/yat.txt
+059957 old <HI>{#zaq.BujA (jA)#}¦ 1. {%f.%} A water-melon.
+059958 old <>{%a.%} Having six sides.
+
+------------------------------------------------------------------------
+
+case 071: samasya:175272,175278 =aA1 samasyA:61991,61994 NO CHANGE
+data/wil.txt
+175272 old .{#samasya#}¦ mfn. ({#-syaH-syA-syaM#})
+175273 old .²1 To be collected together.
+175274 old .²2 To be made entire or complete. f. ({#-syA#}) Part of a stanza, proposed as a
+175275 old trial of skill to be completed.
+175276 old .E. {#sama#} even or complete, {#kyac#} affix, and {#suk#} augment; or {#sam#}
+175277 old together, {#asa#} to direct, {#Ryat#} aff. [Page896]
+175278 old 
+
+data/yat.txt
+061991 old <HI>{#samasyA (syA)#}¦ 1. {%f.%} Part of a stanza to
+061992 old <>be finished as a trial of skill. {%a.%}
+061993 old <>That should be collected or com-
+061994 old <>pleted.
+
+------------------------------------------------------------------------
+
+case 072: samAsArTa:175762,175765 =aA1 samAsArTA:62171,62173 NO CHANGE
+data/wil.txt
+175762 old .{#samAsArTa#}¦ m. ({#-rTaH#}) The sense of a compound. f. ({#-rTA#}) Part of
+175763 old a stanza to be completed.
+175764 old .E. {#samAsa#} connexion, composition, and {#arTa#} meaning.
+175765 old 
+
+data/yat.txt
+062171 old <HI>{#samAsArTA (rTA)#}¦ 1. {%f.%} Part of a stanza
+062172 old <>to be completed as a trial of
+062173 old <>skill. {%m.%} Sense of a compound.
+
+------------------------------------------------------------------------
+
+case 073: sarvvaBakza:178073,178076 =aA1 sarvvaBakzA:63040,63040 NO CHANGE
+data/wil.txt
+178073 old .{#sarvvaBakza#}¦ mfn. ({#-kzaH-kzA-kzaM#}) Omnivorous, eating all or any
+178074 old thing. f. ({#-kzA#}) A female goat.
+178075 old .E. {#sarvva#} all, and {#Bakza#} who eats.
+178076 old 
+
+data/yat.txt
+063040 old <HI>{#sarvva.BakzA (kzA)#}¦ 1. {%f.%} A female goat.
+
+------------------------------------------------------------------------
+
+case 074: sADikA:179455,179457 =aA2 sADika:63624,63624 NO CHANGE
+data/wil.txt
+179455 old .{#sADikA#}¦ f. ({#-kA#}) Deep or sound sleep.
+179456 old .E. {#sADa#} to finish, aff. {#vun,#} fem. form.
+179457 old 
+
+data/yat.txt
+063624 old <HI>{#sADika (kaH-kA-kaM)#}¦ {%a.%} Addition. [Page838-a+ 38]
+
+------------------------------------------------------------------------
+
+case 075: sucaritra:181841,181844 =aA1 sucaritrA:64596,64597 NO CHANGE
+data/wil.txt
+181841 old .{#sucaritra#}¦ n. ({#-traM#}) Good or virtuous course of life. f. ({#-trA#}) A
+181842 old virtuous wife.
+181843 old .E. {#su#} good, and {#caritra#} custom.
+181844 old 
+
+data/yat.txt
+064596 old <HI>{#sucaritrA (trA)#}¦ 1. {%f.%} A virtuous wife.
+064597 old <>{%n.%} Virtuous conduct.
+
+------------------------------------------------------------------------
+
+case 076: sUkta:183751,183754 =aA1 sUktA:65445,65447 NO CHANGE
+data/wil.txt
+183751 old .{#sUkta#}¦ mfn. ({#-ktaH-ktA-ktaM#}) Well or properly said. n. ({#-ktaM#}) A
+183752 old hymn in the {%Rik Ve4da.%} f. ({#-ktA#}) The {%Sha4rik%} or {%Maina.%}
+183753 old .E. {#su#} well, {#ukta#} spoken, (by which.)
+183754 old 
+
+data/yat.txt
+065445 old <HI>{#sUktA (ktA)#}¦ 1. {%f.%} The {%Sha4ri%} or {%Mai-
+065446 old <>na. n.%} Hymn in the {%Rig Veda.
+065447 old <>n.%} Well said.
+
+------------------------------------------------------------------------
+
+case 077: hfzwapuzwa:191775,191777 =aA1 hfzwapuzwA->hfzwapuzwa:68670,68671
+data/wil.txt
+191775 old .{#hfzwapuzwa#}¦ mfn. ({#-zwaH-zwA-zwaM#}) Well-conditioned, well fed and happy.
+191776 old .E. {#hfzwa,#} and {#puzwa#} nourished.
+191777 old 
+
+data/yat.txt
+068670 old <HI>{#hfzwa.puzwA (zwaH-zwA-zwaM)#}¦ {%a.%} Well fed and
+068671 old <>happy; fattened.
+
+------------------------------------------------------------------------
+

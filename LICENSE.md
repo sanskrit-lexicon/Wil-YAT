@@ -4,7 +4,7 @@
     [here](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode).
 
 2. The other files, including the computer software source code (e.g. hwcmp.py), are licensed under the
-MIT licenses, which is stated [here](http://opensource.org/licenses/MIT).
+MIT license, which is stated [here](http://opensource.org/licenses/MIT).
 
 
     

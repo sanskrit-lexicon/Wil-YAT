@@ -88,7 +88,7 @@ The comparison of the Wilson and Yates headwords is done in stages.
   python analyze_near.py hwcmp_near.txt hwcmp_near_analyze.txt data/wil_mw.txt
   ```
   This step refines the analysis of the approximate matches.  The approximate match reason is sub-categorized
-  based on several systematic differences between the spelling conventions of Wilson and Yates. Hear are the
+  based on several systematic differences between the spelling conventions of Wilson and Yates. Here are the
   categories currently:
   * `=V` This means that the headwords in question are roots, which Wilson and Yates spell slightly differently.
     Typically, the Wilson spelling ends in 'a' and the Yates spelling drops that final 'a'.  This is where the
@@ -111,7 +111,7 @@ The comparison of the Wilson and Yates headwords is done in stages.
   * *~=* None of the systematic correspondences apply. The two headwords are spelled similarly. Maybe one is
     misspelled, or maybe there is some reasonable infrequent systematic spelling difference. *These need to be
     examined further.*
-    
+
 * hwcmp_adj.txt installs the correspondences of hwcmp_near_analyze.txt into hwcmp.txt, and does some further
   multi-record adjustments.  It may be viewed as the final output of the comparison process.
   

@@ -257,3 +257,22 @@ If no one helps, I'll probably reexamine these and other similar cases at some t
 As mentioned above, a similar comparison with the Sabda-sagara dictionary, which is also closely based on Wilson,
 would likely turn up numerous corrections to the SHS headwords.
 
+## Front matter (prefaces)
+
+OCR transcriptions of the title pages and prefaces of both dictionaries, with Russian translations, live in [prefaces/](prefaces/). Both sources are in English, so the source page *is* the English text (no `.en.md`); Russian is supplied alongside.
+
+- **WIL** (H. H. Wilson, 2nd ed., Calcutta 1832) — 6 pages: title, dedication, 4-page preface. Consolidated: [wilpref_all.en.md](prefaces/wilpref_all.en.md) · [wilpref_all.ru.md](prefaces/wilpref_all.ru.md).
+- **YAT** (W. Yates, Calcutta 1846) — 3 pages: title, 2-page Author's Preface (completed posthumously by J. Wenger). Consolidated: [yatpref_all.en.md](prefaces/yatpref_all.en.md) · [yatpref_all.ru.md](prefaces/yatpref_all.ru.md).
+
+See [prefaces/README.md](prefaces/README.md) for the per-page index and conventions.
+
+<details>
+<summary>Front-matter OCR run notes</summary>
+
+- **Method:** scans pulled from Cologne csldoc; each page cropped at native resolution into overlapping horizontal bands (≤1900 px) with PIL and transcribed page-by-page — never reading downsampled full pages. Russian translations authored per page.
+- **Sources:** WIL scans are JPG (1067×1500); YAT scans are full-resolution PNG (2920×4549). YAT pages 2–3 correspond to scanned image pages 003–004 (page 002 is blank).
+- **Consolidation:** `build_combined.py` (`DICT=wil`, then `DICT=yat`). Its page-glob was corrected from `<code>pref[0-9][0-9].md` to `<code>[0-9][0-9].md` to match the `wil01.md` / `yat01.md` naming actually used here; without that fix the consolidated files came out empty.
+- **Faithfulness:** original 19th-c. spelling kept verbatim (*Sanscrit, knowlege, shew, superintendance*). One faint glyph on YAT p. iv (the "2." before the second-conjugation abbreviations) was read in context; everything else was legible. No `[?]` placeholders were needed.
+- **Model:** Claude Opus 4.8 (1M context). All steps synchronous, no subagents; temp crop tiles deleted after build.
+</details>
+

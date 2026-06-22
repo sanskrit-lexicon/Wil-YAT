@@ -1,0 +1,15 @@
+{
+  "wil": [
+    {"nn": "01", "img": "wilson_Page_001.jpg", "label": "Title", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/wilpref/wilpref01.html"},
+    {"nn": "02", "img": "wilson_Page_002.jpg", "label": "Dedication", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/wilpref/wilpref02.html"},
+    {"nn": "03", "img": "wilson_Page_003.jpg", "label": "Preface, 1", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/wilpref/wilpref03.html"},
+    {"nn": "04", "img": "wilson_Page_004.jpg", "label": "Preface, 2", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/wilpref/wilpref04.html"},
+    {"nn": "05", "img": "wilson_Page_005.jpg", "label": "Preface, 3", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/wilpref/wilpref05.html"},
+    {"nn": "06", "img": "wilson_Page_006.jpg", "label": "Preface, 4", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/wilpref/wilpref06.html"}
+  ],
+  "yat": [
+    {"nn": "01", "img": "yat_Page_001_Image_0001.png", "label": "Title Page", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/yatpref/yatpref01.html"},
+    {"nn": "02", "img": "yat_Page_003_Image_0001.png", "label": "Preface, 1", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/yatpref/yatpref02.html"},
+    {"nn": "03", "img": "yat_Page_004_Image_0001.png", "label": "Preface, 2", "volume": 1, "url": "https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/yatpref/yatpref03.html"}
+  ]
+}

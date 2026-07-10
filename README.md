@@ -1,6 +1,6 @@
 # Wil-YAT — Comparison of Wilson and Yates Headwords
 
-_Created: 15-05-2026 · Last updated: 05-07-2026_
+_Created: 15-05-2026 · Last updated: 11-07-2026_
 
 A headword-comparison study between two Cologne digitizations — Wilson's
 (WIL) and Yates's (YAT) Sanskrit dictionaries — that has already produced
@@ -31,7 +31,7 @@ classified, most trivially (`==`, exact match), but several hundred
 ## Usage: reproducing the comparison
 
 **Status: the documented pipeline is not directly runnable today.**
-[`hwcmp.py`](hwcmp.py) — the first-stage comparison script — is written in
+[`hwcmp.py`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp.py) — the first-stage comparison script — is written in
 Python 2 syntax (`print "..."` statements, 17 occurrences) and raises a
 `SyntaxError` under Python 3, which is the only interpreter available in
 this environment. This was verified directly:
@@ -44,8 +44,8 @@ $ python hwcmp.py data/wilhw2.txt data/yathw2.txt force.txt hwcmp_test.txt
 SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
 ```
 
-The required input files ([`data/wilhw2.txt`](data/wilhw2.txt),
-[`data/yathw2.txt`](data/yathw2.txt), [`force.txt`](force.txt)) **are** all
+The required input files ([`data/wilhw2.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/wilhw2.txt),
+[`data/yathw2.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/yathw2.txt), [`force.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/force.txt)) **are** all
 present and correctly sized (44,577 / 45,205 / 286 lines respectively) — the
 blocker is purely the Python 2→3 syntax, not missing data. Porting
 `hwcmp.py`'s 17 `print` statements to Python 3 function-call syntax would
@@ -86,7 +86,7 @@ total lines: 46799
 ```
 
 This matches the [Summary table](#summary-of-hwcmp_adjtxt-categories) below
-exactly — confirming [`hwcmp_adj.txt`](hwcmp_adj.txt) is the real, current
+exactly — confirming [`hwcmp_adj.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp_adj.txt) is the real, current
 final-stage output described in this README, not stale or aspirational
 documentation.
 
@@ -96,20 +96,20 @@ documentation.
 
 This study is heavily assisted by custom computer programs. These programs
 use certain specific forms of the Cologne digitizations of Wilson and Yates
-dictionaries. Current versions are in the [`data/`](data/) subdirectory of
+dictionaries. Current versions are in the [`data/`](https://github.com/sanskrit-lexicon/Wil-YAT/tree/main/data) subdirectory of
 this repository.
 
-* [`data/wil.txt`](data/wil.txt) is the Cologne digitization of the Wilson
+* [`data/wil.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/wil.txt) is the Cologne digitization of the Wilson
   dictionary. It was drawn from the `wiltxt.zip` download
   [here](http://www.sanskrit-lexicon.uni-koeln.de/scans/WILScan/2014/web/webtc/download.html).
-* [`data/wilhw2.txt`](data/wilhw2.txt) is the list of headwords derived from
+* [`data/wilhw2.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/wilhw2.txt) is the list of headwords derived from
   `wil.txt`. It is in the `wilxml.zip` download.
-* [`data/yat.txt`](data/yat.txt) is the Cologne digitization of the Yates
+* [`data/yat.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/yat.txt) is the Cologne digitization of the Yates
   dictionary. It was drawn from the `yattxt.zip` download
   [here](http://www.sanskrit-lexicon.uni-koeln.de/scans/YATScan/2014/web/webtc/download.html).
-* [`data/yathw2.txt`](data/yathw2.txt) is the list of headwords derived from
+* [`data/yathw2.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/yathw2.txt) is the list of headwords derived from
   `yat.txt`. It is in the `yatxml.zip` download.
-* [`data/wil_mw.txt`](data/wil_mw.txt) has most of the Wilson headwords which
+* [`data/wil_mw.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/data/wil_mw.txt) has most of the Wilson headwords which
   are roots; it also has a correspondence to headwords of roots in
   Monier-Williams, but this correspondence is not used in the present work.
   It was drawn from
@@ -121,13 +121,13 @@ this repository.
 
 The comparison of the Wilson and Yates headwords is done in stages.
 
-* [`hwcmp.txt`](hwcmp.txt) is the first approximation of the correspondence
+* [`hwcmp.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp.txt) is the first approximation of the correspondence
   between the two headword lists (47,098 lines committed). Documented
   invocation:
   ```sh
   python hwcmp.py data/wilhw2.txt data/yathw2.txt force.txt hwcmp.txt
   ```
-  [`force.txt`](force.txt) is an input, as well as the two lists of
+  [`force.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/force.txt) is an input, as well as the two lists of
   headwords — created by hand to `force` the correspondence between
   certain headwords, needed for cases too subtle for the general
   algorithm.
@@ -154,14 +154,14 @@ The comparison of the Wilson and Yates headwords is done in stages.
   Later steps introduce several other programmatically assigned reason
   codes.
 
-* [`hwcmp_near.txt`](hwcmp_near.txt) extracts the approximate-match cases
+* [`hwcmp_near.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp_near.txt) extracts the approximate-match cases
   from `hwcmp.txt`:
   ```sh
   python hwnear_init.py hwcmp.txt hwcmp_near.txt
   ```
   A simple convenience step; no analysis performed here.
 
-* [`hwcmp_near_analyze.txt`](hwcmp_near_analyze.txt) classifies the
+* [`hwcmp_near_analyze.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp_near_analyze.txt) classifies the
   approximate matches into categories:
   ```sh
   python analyze_near.py hwcmp_near.txt hwcmp_near_analyze.txt data/wil_mw.txt
@@ -183,7 +183,7 @@ The comparison of the Wilson and Yates headwords is done in stages.
   | `=a` | Small list (4) where one spelling adds a final `a` — flagged for re-examination. |
   | `~=` (unclassified) | None of the systematic correspondences apply — may be a real misspelling, needs manual review. |
 
-* [`hwcmp_adj.txt`](hwcmp_adj.txt) installs the correspondences of
+* [`hwcmp_adj.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp_adj.txt) installs the correspondences of
   `hwcmp_near_analyze.txt` into `hwcmp.txt` and does further multi-record
   adjustments — the final output of the comparison process:
   ```sh
@@ -209,9 +209,10 @@ The comparison of the Wilson and Yates headwords is done in stages.
 
 The current inputs (`wilhw2.txt`, `yathw2.txt`, etc.) already reflect
 corrections discovered by examining the `~=` cases. The corrections found
-so far are in [`wil_corr.txt`](wil_corr.txt) and
-[`yat_corr.txt`](yat_corr.txt), in the standard org-wide
-`updateByLine.py` change-file format. Sample, from `wil_corr.txt`:
+so far are in [`wil_corr.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/wil_corr.txt) and
+[`yat_corr.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/yat_corr.txt), in the standard org-wide
+`updateByLine.py` change-file format (see the canonical
+[correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)). Sample, from `wil_corr.txt`:
 
 ```
 ; 03/06/2015 sudusmaha -> sudussaha (typo, m/s confusion)
@@ -224,9 +225,9 @@ so far are in [`wil_corr.txt`](wil_corr.txt) and
 Wilson corrections were generally typos (digitization errors); Yates
 corrections were generally print errors (errors in the scanned image).
 
-[`dump_cases.py`](dump_cases.py) makes the manual review workflow more
+[`dump_cases.py`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/dump_cases.py) makes the manual review workflow more
 efficient: a batch of `~=` cases is offloaded to a scratch file (see
-[`scratch/`](scratch/)), then dumped with page context from both
+[`scratch/`](https://github.com/sanskrit-lexicon/Wil-YAT/tree/main/scratch)), then dumped with page context from both
 dictionaries for side-by-side comparison:
 
 ```sh
@@ -242,7 +243,7 @@ is sometimes useful for confirming a suspected error.
 
 ## Summary of hwcmp_adj.txt categories
 
-Frequency of the `<reason>` categories in the current [`hwcmp_adj.txt`](hwcmp_adj.txt)
+Frequency of the `<reason>` categories in the current [`hwcmp_adj.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp_adj.txt)
 (46,799 lines total — independently re-counted 05-07-2026, see
 [Usage](#usage-reproducing-the-comparison) above):
 
@@ -277,7 +278,7 @@ Frequency of the `<reason>` categories in the current [`hwcmp_adj.txt`](hwcmp_ad
   ambuvAhinI` may just need relabelling (Yates shows only the feminine
   form); `agnideva`/`agnidevA` and a run of verb entries around `ag`/`aga`
   likely need `force.txt` additions for manual correspondence.
-* Porting [`hwcmp.py`](hwcmp.py) from Python 2 to Python 3 syntax (see
+* Porting [`hwcmp.py`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp.py) from Python 2 to Python 3 syntax (see
   [Usage](#usage-reproducing-the-comparison)) would make the whole pipeline
   runnable end-to-end again.
 * A similar comparison between Shabda-Sagara (SHS) and Wilson-Yates would
@@ -292,20 +293,20 @@ If anyone wants to help, open an issue — displays or extensions to
 ## Front matter (prefaces)
 
 OCR transcriptions of the title pages and prefaces of both dictionaries,
-with Russian translations, live in [`prefaces/`](prefaces/). Both sources
+with Russian translations, live in [`prefaces/`](https://github.com/sanskrit-lexicon/Wil-YAT/tree/main/prefaces). Both sources
 are in English, so the source page *is* the English text (no `.en.md`);
 Russian is supplied alongside.
 
 - **WIL** (H. H. Wilson, 2nd ed., Calcutta 1832) — 6 pages: title,
   dedication, 4-page preface. Consolidated:
-  [wilpref_all.en.md](prefaces/wilpref_all.en.md) ·
-  [wilpref_all.ru.md](prefaces/wilpref_all.ru.md).
+  [wilpref_all.en.md](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/wilpref_all.en.md) ·
+  [wilpref_all.ru.md](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/wilpref_all.ru.md).
 - **YAT** (W. Yates, Calcutta 1846) — 3 pages: title, 2-page Author's
   Preface (completed posthumously by J. Wenger). Consolidated:
-  [yatpref_all.en.md](prefaces/yatpref_all.en.md) ·
-  [yatpref_all.ru.md](prefaces/yatpref_all.ru.md).
+  [yatpref_all.en.md](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/yatpref_all.en.md) ·
+  [yatpref_all.ru.md](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/yatpref_all.ru.md).
 
-See [`prefaces/README.md`](prefaces/README.md) for the per-page index and
+See [`prefaces/README.md`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/README.md) for the per-page index and
 conventions.
 
 > **Front-matter OCR run notes.**

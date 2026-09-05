@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: yat_Page_004_Image_0001.png
 source_page: Preface, 2
@@ -18,3 +20,5 @@ The abbreviations used in the work are so plain that it is quite unnecessary to 
 When the lamented author left India, never to return, the printing of this work had advanced to page 648. The remaining portion was, at his request, carried through the press by the undersigned.
 
 <div align="right">J. WENGER.</div>
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_002.jpg
 source_page: Dedication
@@ -44,3 +46,5 @@ AS A TRIBUTE OF ACKNOWLEDGEMENT, ADMIRATION, AND ESTEEM,
 BY
 
 H. H. WILSON.
+
+_Dr. Mārcis Gasūns_

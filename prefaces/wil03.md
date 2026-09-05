@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_003.jpg
 source_page: Preface, 1
@@ -14,3 +16,5 @@ It was my intention to have delayed the publication of a second edition, until I
 Notwithstanding these considerations, however, I might still have hesitated to engage in a reprint of the Dictionary upon the original plan, had it not been thought desirable, by the Committee of Public Instruction in Bengal, to provide with as little delay as possible, the assistance it was calculated to afford to the conjoint acquirement of Sanscrit and English in the Native colleges under their superintendance:—such a combination being in their opinion of the first importance in those seminaries where Hindu youths are reared, not only for the diffusion of the English language, but for the communication of an elementary knowlege of Sanscrit to numbers now precluded from an attainment, which is essentially necessary to the Natives themselves, for a critical knowledge of the languages which they speak, and for the correct application of them to written composition. This latter circumstance determined me to publish at once a second edition of the Sanscrit and English Dictionary, with no other alterations than such as were requisite to render it more comprehensive and less bulky, and better suited to general use.
 
 The chief object of the original compilation was to embody, in one digest, the whole mass of indigenous Lexicography. Reference to Native Dictionaries was the most obvious course of proceeding, in collecting for the first time, the vocables of the language, and the disadvantages of the plan were not fully developed until it was too late to apply a remedy.
+
+_Dr. Mārcis Gasūns_

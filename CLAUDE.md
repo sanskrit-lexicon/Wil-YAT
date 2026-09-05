@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -33,3 +35,5 @@ python analyze_near.py hwcmp.txt   # analyze near-matches
 ## Dependencies
 
 - **Python 3**
+
+_Dr. Mārcis Gasūns_

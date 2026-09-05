@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: yat_Page_004_Image_0001.png
 source_page: Preface, 2
@@ -18,3 +20,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Когда оплакиваемый автор покинул Индию, чтобы никогда не вернуться, печатание этого труда продвинулось до страницы 648. Оставшаяся часть была, по его просьбе, проведена через печать нижеподписавшимся.
 
 <div align="right">Й. ВЕНГЕР.</div>
+
+_Dr. Mārcis Gasūns_

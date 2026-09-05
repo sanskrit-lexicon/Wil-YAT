@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_001.jpg
 source_page: Title
@@ -47,3 +49,5 @@ SANSCRIT AND ENGLISH;
 1832.
 
 В ПРОДАЖЕ У PARBURY, ALLEN & CO. ЛОНДОН.
+
+_Dr. Mārcis Gasūns_

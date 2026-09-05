@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_001.jpg
 source_page: Title
@@ -45,3 +47,5 @@ PRINTED AT THE EDUCATION PRESS, CIRCULAR ROAD:
 1832.
 
 SOLD BY PARBURY, ALLEN & CO. LONDON.
+
+_Dr. Mārcis Gasūns_

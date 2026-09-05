@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source)
 
-Per-page files: `yatNN.md`. Index: [README.md](README.md).
+Per-page files: `yatNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -71,3 +73,5 @@ The abbreviations used in the work are so plain that it is quite unnecessary to 
 When the lamented author left India, never to return, the printing of this work had advanced to page 648. The remaining portion was, at his request, carried through the press by the undersigned.
 
 <div align="right">J. WENGER.</div>
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_006.jpg
 source_page: Preface, 4
@@ -16,3 +18,5 @@ The root सञ्ज् to embrace, or cling to, has प्र prefixed to it i
 To these might be added other passages, where different words must be used to express the precise purport of प्रसङ्ग, although in all of them, the notion of connexion of some kind or other, may be more or less distinctly traced. Whoever looks for all such modifications of meaning in a Dictionary will probably be disappointed; and even if it were possible, it would not be advisable to insert them, unless they were exemplified by the passages in which they occur. It does not follow, therefore, that because they are not found, they have been in all cases unadvisedly or ignorantly omitted; and the omission can never cause serious embarrassment to the student, as the context in comparison with the etymological sense sufficiently illustrates the manner in which the latter has been applied.
 
 Being on the eve of quitting India, I cannot now enter at any length into the vindication of the merits or extenuation of the defects of the present work. I am not unaware of the existence of the latter; but I confidently trust, that such as it is, the Dictionary will contribute to the furtherance of the study of Sanscrit, both in this country and in Europe; and in the situation to which it has pleased the University of Oxford to elect me, it will be my wish, as it will be my duty, to offer to the cultivators of the language, other and better assistance.
+
+_Dr. Mārcis Gasūns_

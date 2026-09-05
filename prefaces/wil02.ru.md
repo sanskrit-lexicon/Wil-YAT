@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_002.jpg
 source_page: Dedication
@@ -42,3 +44,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 КАК ДАНЬ ПРИЗНАТЕЛЬНОСТИ, ВОСХИЩЕНИЯ И УВАЖЕНИЯ,
 
 УИЛСОНОМ.
+
+_Dr. Mārcis Gasūns_

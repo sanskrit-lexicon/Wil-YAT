@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: yat_Page_001_Image_0001.png
 source_page: Title Page
@@ -32,3 +34,5 @@ CALCUTTA:
 PRINTED AT THE BAPTIST MISSION PRESS, CIRCULAR ROAD.
 
 1846.
+
+_Dr. Mārcis Gasūns_

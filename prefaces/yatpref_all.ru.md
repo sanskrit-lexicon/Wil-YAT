@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `yatNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `yatNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -67,3 +69,5 @@ Per-page files: `yatNN.ru.md`. Index: [README.md](README.md).
 Когда оплакиваемый автор покинул Индию, чтобы никогда не вернуться, печатание этого труда продвинулось до страницы 648. Оставшаяся часть была, по его просьбе, проведена через печать нижеподписавшимся.
 
 <div align="right">Й. ВЕНГЕР.</div>
+
+_Dr. Mārcis Gasūns_

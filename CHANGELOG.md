@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to Wil-YAT are documented here.
@@ -14,3 +16,5 @@ ready for a dated entry.
 
 ### Recent Git History
 - 2026-05-15 Add CLAUDE.md with codebase guidance for Claude Code
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: wilson_Page_004.jpg
 source_page: Preface, 2
@@ -18,3 +20,5 @@ As a counterpoise to these recommendations, it is not to be denied, that exclusi
 In the first edition of the Dictionary, an attempt was made to correct the former class of these deficiencies, but not on a sufficiently extensive scale. In the present it has received greater attention; and it is hoped, that the student who consults its pages, will seldom be disappointed with respect to the most ordinary and useful words.
 
 In connexion with the arrangements in progress, for the compilation of an Etymological Dictionary, I had verbal indices prepared of the following printed books: the *Mágha*, *Kirátárjuníya*, *Hitopadesa*, *Menu*, *Bhagavat Gíta*, *Gíta Govinda*, *Durgá Pátha*, *Amru Sataka*, *Siddhánta Kaumudí*, part of *Bhatti*, and part of the *Mitákshará*. The pundits employed have not perhaps been quite as careful as could have been wished, in making their extracts; but the lists, it is believed, comprise most of the words which the works specified contain, and which when not inserted in the Dictionary were transferred by me to its pages. Besides the additions made from these sources, I had the aid of my friend Babu Rádhákánt Deb's Sanscrit Dictionary, as far as the word प्रायश्चित्त, and I thence obtained several valuable accessions. I derived some aid also from Dr. Carey's Bengalee Dictionary, which is full of Sanscrit vocables. The Pundits of the Sanscrit College of Calcutta furnished me with occasional lists of technical terms relating to the branches of literature which they teach;
+
+_Dr. Mārcis Gasūns_

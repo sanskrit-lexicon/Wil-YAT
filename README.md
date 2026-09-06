@@ -85,7 +85,7 @@ NONE 4616
 total lines: 46799
 ```
 
-This matches the [Summary table](#summary-of-hwcmp_adjtxt-categories) below
+This matches the [Summary table](#summary-of-hwcmpadjtxt-categories) below
 exactly — confirming [`hwcmp_adj.txt`](https://github.com/sanskrit-lexicon/Wil-YAT/blob/main/hwcmp_adj.txt) is the real, current
 final-stage output described in this README, not stale or aspirational
 documentation.
